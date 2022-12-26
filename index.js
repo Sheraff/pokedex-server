@@ -23,8 +23,8 @@ app.get('/api', (req, res) => {
 				<td><code>/api/pokemon/:id</code></td>
 			</tr>
 			<tr>
-				<td><a href="/api/images/1.png">Pokemon image by id</a></td>
-				<td><code>/api/images/:id.png</code></td>
+				<td><a href="/pokedex-server/images/1.png">Pokemon image by id</a></td>
+				<td><code>/pokedex-server/images/:id.png</code></td>
 			</tr>
 		</table>
 	`)
