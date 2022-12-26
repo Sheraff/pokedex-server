@@ -19,6 +19,8 @@ void async function() {
 	// }
 	// const list = Array.from(new Set(data.map(item => item.id)))
 	// await writeFile(join(__dirname, 'list.json'), JSON.stringify(list, null, 2), 'utf8')
+	// const types = Array.from(new Set(data.flatMap(item => item.type)))
+	// await writeFile(join(__dirname, 'types.json'), JSON.stringify(types, null, 2), 'utf8')
 }()
 
 
