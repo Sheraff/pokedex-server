@@ -17,7 +17,7 @@
   "slug": "lombre",
   "name": "Lombre",
   "ThumbnailAltText": "Lombre",
-  "ThumbnailImage": "/pokedex-server/images/271.png",
+  "ThumbnailImage": "/images/271.png",
   "id": 271,
   "type": [
     "water",

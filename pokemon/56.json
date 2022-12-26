@@ -17,7 +17,7 @@
   "slug": "mankey",
   "name": "Mankey",
   "ThumbnailAltText": "Mankey",
-  "ThumbnailImage": "/pokedex-server/images/56.png",
+  "ThumbnailImage": "/images/56.png",
   "id": 56,
   "type": [
     "fighting"

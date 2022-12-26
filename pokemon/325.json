@@ -17,7 +17,7 @@
   "slug": "spoink",
   "name": "Spoink",
   "ThumbnailAltText": "Spoink",
-  "ThumbnailImage": "/pokedex-server/images/325.png",
+  "ThumbnailImage": "/images/325.png",
   "id": 325,
   "type": [
     "psychic"

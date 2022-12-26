@@ -14,7 +14,7 @@
   "slug": "zangoose",
   "name": "Zangoose",
   "ThumbnailAltText": "Zangoose",
-  "ThumbnailImage": "/pokedex-server/images/335.png",
+  "ThumbnailImage": "/images/335.png",
   "id": 335,
   "type": [
     "normal"

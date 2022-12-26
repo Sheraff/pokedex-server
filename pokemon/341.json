@@ -16,7 +16,7 @@
   "slug": "corphish",
   "name": "Corphish",
   "ThumbnailAltText": "Corphish",
-  "ThumbnailImage": "/pokedex-server/images/341.png",
+  "ThumbnailImage": "/images/341.png",
   "id": 341,
   "type": [
     "water"

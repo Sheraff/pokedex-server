@@ -15,7 +15,7 @@
   "slug": "rattata",
   "name": "Rattata",
   "ThumbnailAltText": "Rattata",
-  "ThumbnailImage": "/pokedex-server/images/19.png",
+  "ThumbnailImage": "/images/19.png",
   "id": 19,
   "type": [
     "normal"

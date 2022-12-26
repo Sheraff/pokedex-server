@@ -16,7 +16,7 @@
   "slug": "surskit",
   "name": "Surskit",
   "ThumbnailAltText": "Surskit",
-  "ThumbnailImage": "/pokedex-server/images/283.png",
+  "ThumbnailImage": "/images/283.png",
   "id": 283,
   "type": [
     "bug",

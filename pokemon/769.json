@@ -18,7 +18,7 @@
   "slug": "sandygast",
   "name": "Sandygast",
   "ThumbnailAltText": "Sandygast",
-  "ThumbnailImage": "/pokedex-server/images/769.png",
+  "ThumbnailImage": "/images/769.png",
   "id": 769,
   "type": [
     "ghost",

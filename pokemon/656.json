@@ -15,7 +15,7 @@
   "slug": "froakie",
   "name": "Froakie",
   "ThumbnailAltText": "Froakie",
-  "ThumbnailImage": "/pokedex-server/images/656.png",
+  "ThumbnailImage": "/images/656.png",
   "id": 656,
   "type": [
     "water"

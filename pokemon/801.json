@@ -15,7 +15,7 @@
   "slug": "magearna",
   "name": "Magearna",
   "ThumbnailAltText": "Magearna",
-  "ThumbnailImage": "/pokedex-server/images/801.png",
+  "ThumbnailImage": "/images/801.png",
   "id": 801,
   "type": [
     "steel",

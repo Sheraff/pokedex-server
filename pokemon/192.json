@@ -19,7 +19,7 @@
   "slug": "sunflora",
   "name": "Sunflora",
   "ThumbnailAltText": "Sunflora",
-  "ThumbnailImage": "/pokedex-server/images/192.png",
+  "ThumbnailImage": "/images/192.png",
   "id": 192,
   "type": [
     "grass"

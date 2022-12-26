@@ -19,7 +19,7 @@
   "slug": "chandelure",
   "name": "Chandelure",
   "ThumbnailAltText": "Chandelure",
-  "ThumbnailImage": "/pokedex-server/images/609.png",
+  "ThumbnailImage": "/images/609.png",
   "id": 609,
   "type": [
     "ghost",

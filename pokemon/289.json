@@ -14,7 +14,7 @@
   "slug": "slaking",
   "name": "Slaking",
   "ThumbnailAltText": "Slaking",
-  "ThumbnailImage": "/pokedex-server/images/289.png",
+  "ThumbnailImage": "/images/289.png",
   "id": 289,
   "type": [
     "normal"

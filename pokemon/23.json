@@ -16,7 +16,7 @@
   "slug": "ekans",
   "name": "Ekans",
   "ThumbnailAltText": "Ekans",
-  "ThumbnailImage": "/pokedex-server/images/23.png",
+  "ThumbnailImage": "/images/23.png",
   "id": 23,
   "type": [
     "poison"

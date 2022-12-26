@@ -18,7 +18,7 @@
   "slug": "houndour",
   "name": "Houndour",
   "ThumbnailAltText": "Houndour",
-  "ThumbnailImage": "/pokedex-server/images/228.png",
+  "ThumbnailImage": "/images/228.png",
   "id": 228,
   "type": [
     "dark",

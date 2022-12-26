@@ -17,7 +17,7 @@
   "slug": "glaceon",
   "name": "Glaceon",
   "ThumbnailAltText": "Glaceon",
-  "ThumbnailImage": "/pokedex-server/images/471.png",
+  "ThumbnailImage": "/images/471.png",
   "id": 471,
   "type": [
     "ice"

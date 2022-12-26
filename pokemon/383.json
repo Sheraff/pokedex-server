@@ -16,7 +16,7 @@
   "slug": "groudon",
   "name": "Groudon",
   "ThumbnailAltText": "Groudon",
-  "ThumbnailImage": "/pokedex-server/images/383.png",
+  "ThumbnailImage": "/images/383.png",
   "id": 383,
   "type": [
     "ground"

@@ -19,7 +19,7 @@
   "slug": "steenee",
   "name": "Steenee",
   "ThumbnailAltText": "Steenee",
-  "ThumbnailImage": "/pokedex-server/images/762.png",
+  "ThumbnailImage": "/images/762.png",
   "id": 762,
   "type": [
     "grass"

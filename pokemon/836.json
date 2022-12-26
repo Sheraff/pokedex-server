@@ -14,7 +14,7 @@
   "slug": "boltund",
   "name": "Boltund",
   "ThumbnailAltText": "Boltund",
-  "ThumbnailImage": "/pokedex-server/images/836.png",
+  "ThumbnailImage": "/images/836.png",
   "id": 836,
   "type": [
     "electric"

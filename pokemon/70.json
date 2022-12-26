@@ -17,7 +17,7 @@
   "slug": "weepinbell",
   "name": "Weepinbell",
   "ThumbnailAltText": "Weepinbell",
-  "ThumbnailImage": "/pokedex-server/images/70.png",
+  "ThumbnailImage": "/images/70.png",
   "id": 70,
   "type": [
     "grass",

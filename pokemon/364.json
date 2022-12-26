@@ -18,7 +18,7 @@
   "slug": "sealeo",
   "name": "Sealeo",
   "ThumbnailAltText": "Sealeo",
-  "ThumbnailImage": "/pokedex-server/images/364.png",
+  "ThumbnailImage": "/images/364.png",
   "id": 364,
   "type": [
     "ice",

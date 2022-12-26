@@ -14,7 +14,7 @@
   "slug": "kecleon",
   "name": "Kecleon",
   "ThumbnailAltText": "Kecleon",
-  "ThumbnailImage": "/pokedex-server/images/352.png",
+  "ThumbnailImage": "/images/352.png",
   "id": 352,
   "type": [
     "normal"

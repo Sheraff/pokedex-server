@@ -18,7 +18,7 @@
   "slug": "bergmite",
   "name": "Bergmite",
   "ThumbnailAltText": "Bergmite",
-  "ThumbnailImage": "/pokedex-server/images/712.png",
+  "ThumbnailImage": "/images/712.png",
   "id": 712,
   "type": [
     "ice"

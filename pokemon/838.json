@@ -18,7 +18,7 @@
   "slug": "carkol",
   "name": "Carkol",
   "ThumbnailAltText": "Carkol",
-  "ThumbnailImage": "/pokedex-server/images/838.png",
+  "ThumbnailImage": "/images/838.png",
   "id": 838,
   "type": [
     "rock",

@@ -16,7 +16,7 @@
   "slug": "horsea",
   "name": "Horsea",
   "ThumbnailAltText": "Horsea",
-  "ThumbnailImage": "/pokedex-server/images/116.png",
+  "ThumbnailImage": "/images/116.png",
   "id": 116,
   "type": [
     "water"

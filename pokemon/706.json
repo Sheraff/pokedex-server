@@ -17,7 +17,7 @@
   "slug": "goodra",
   "name": "Goodra",
   "ThumbnailAltText": "Goodra",
-  "ThumbnailImage": "/pokedex-server/images/706.png",
+  "ThumbnailImage": "/images/706.png",
   "id": 706,
   "type": [
     "dragon"

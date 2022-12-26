@@ -19,7 +19,7 @@
   "slug": "tsareena",
   "name": "Tsareena",
   "ThumbnailAltText": "Tsareena",
-  "ThumbnailImage": "/pokedex-server/images/763.png",
+  "ThumbnailImage": "/images/763.png",
   "id": 763,
   "type": [
     "grass"

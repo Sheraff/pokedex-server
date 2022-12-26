@@ -14,7 +14,7 @@
   "slug": "electabuzz",
   "name": "Electabuzz",
   "ThumbnailAltText": "Electabuzz",
-  "ThumbnailImage": "/pokedex-server/images/125.png",
+  "ThumbnailImage": "/images/125.png",
   "id": 125,
   "type": [
     "electric"

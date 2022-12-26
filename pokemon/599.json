@@ -17,7 +17,7 @@
   "slug": "klink",
   "name": "Klink",
   "ThumbnailAltText": "Klink",
-  "ThumbnailImage": "/pokedex-server/images/599.png",
+  "ThumbnailImage": "/images/599.png",
   "id": 599,
   "type": [
     "steel"

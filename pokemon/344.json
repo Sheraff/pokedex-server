@@ -19,7 +19,7 @@
   "slug": "claydol",
   "name": "Claydol",
   "ThumbnailAltText": "Claydol",
-  "ThumbnailImage": "/pokedex-server/images/344.png",
+  "ThumbnailImage": "/images/344.png",
   "id": 344,
   "type": [
     "ground",

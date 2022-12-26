@@ -17,7 +17,7 @@
   "slug": "magneton",
   "name": "Magneton",
   "ThumbnailAltText": "Magneton",
-  "ThumbnailImage": "/pokedex-server/images/82.png",
+  "ThumbnailImage": "/images/82.png",
   "id": 82,
   "type": [
     "electric",

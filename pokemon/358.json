@@ -16,7 +16,7 @@
   "slug": "chimecho",
   "name": "Chimecho",
   "ThumbnailAltText": "Chimecho",
-  "ThumbnailImage": "/pokedex-server/images/358.png",
+  "ThumbnailImage": "/images/358.png",
   "id": 358,
   "type": [
     "psychic"

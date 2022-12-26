@@ -17,7 +17,7 @@
   "slug": "carbink",
   "name": "Carbink",
   "ThumbnailAltText": "Carbink",
-  "ThumbnailImage": "/pokedex-server/images/703.png",
+  "ThumbnailImage": "/images/703.png",
   "id": 703,
   "type": [
     "rock",

@@ -17,7 +17,7 @@
   "slug": "musharna",
   "name": "Musharna",
   "ThumbnailAltText": "Musharna",
-  "ThumbnailImage": "/pokedex-server/images/518.png",
+  "ThumbnailImage": "/images/518.png",
   "id": 518,
   "type": [
     "psychic"

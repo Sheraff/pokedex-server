@@ -17,7 +17,7 @@
   "slug": "regice",
   "name": "Regice",
   "ThumbnailAltText": "Regice",
-  "ThumbnailImage": "/pokedex-server/images/378.png",
+  "ThumbnailImage": "/images/378.png",
   "id": 378,
   "type": [
     "ice"

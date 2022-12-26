@@ -18,7 +18,7 @@
   "slug": "cloyster",
   "name": "Cloyster",
   "ThumbnailAltText": "Cloyster",
-  "ThumbnailImage": "/pokedex-server/images/91.png",
+  "ThumbnailImage": "/images/91.png",
   "id": 91,
   "type": [
     "water",

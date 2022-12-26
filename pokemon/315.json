@@ -18,7 +18,7 @@
   "slug": "roselia",
   "name": "Roselia",
   "ThumbnailAltText": "Roselia",
-  "ThumbnailImage": "/pokedex-server/images/315.png",
+  "ThumbnailImage": "/images/315.png",
   "id": 315,
   "type": [
     "grass",

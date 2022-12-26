@@ -18,7 +18,7 @@
   "slug": "servine",
   "name": "Servine",
   "ThumbnailAltText": "Servine",
-  "ThumbnailImage": "/pokedex-server/images/496.png",
+  "ThumbnailImage": "/images/496.png",
   "id": 496,
   "type": [
     "grass"

@@ -20,7 +20,7 @@
   "slug": "geodude",
   "name": "Geodude",
   "ThumbnailAltText": "Geodude",
-  "ThumbnailImage": "/pokedex-server/images/74.png",
+  "ThumbnailImage": "/images/74.png",
   "id": 74,
   "type": [
     "rock",

@@ -15,7 +15,7 @@
   "slug": "dewott",
   "name": "Dewott",
   "ThumbnailAltText": "Dewott",
-  "ThumbnailImage": "/pokedex-server/images/502.png",
+  "ThumbnailImage": "/images/502.png",
   "id": 502,
   "type": [
     "water"

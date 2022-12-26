@@ -15,7 +15,7 @@
   "slug": "blitzle",
   "name": "Blitzle",
   "ThumbnailAltText": "Blitzle",
-  "ThumbnailImage": "/pokedex-server/images/522.png",
+  "ThumbnailImage": "/images/522.png",
   "id": 522,
   "type": [
     "electric"

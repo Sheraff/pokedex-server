@@ -19,7 +19,7 @@
   "slug": "tangrowth",
   "name": "Tangrowth",
   "ThumbnailAltText": "Tangrowth",
-  "ThumbnailImage": "/pokedex-server/images/465.png",
+  "ThumbnailImage": "/images/465.png",
   "id": 465,
   "type": [
     "grass"

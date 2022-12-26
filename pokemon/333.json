@@ -16,7 +16,7 @@
   "slug": "swablu",
   "name": "Swablu",
   "ThumbnailAltText": "Swablu",
-  "ThumbnailImage": "/pokedex-server/images/333.png",
+  "ThumbnailImage": "/images/333.png",
   "id": 333,
   "type": [
     "normal",

@@ -21,7 +21,7 @@
   "slug": "shiftry",
   "name": "Shiftry",
   "ThumbnailAltText": "Shiftry",
-  "ThumbnailImage": "/pokedex-server/images/275.png",
+  "ThumbnailImage": "/images/275.png",
   "id": 275,
   "type": [
     "grass",

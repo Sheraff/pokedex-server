@@ -17,7 +17,7 @@
   "slug": "machamp",
   "name": "Machamp",
   "ThumbnailAltText": "Machamp",
-  "ThumbnailImage": "/pokedex-server/images/68.png",
+  "ThumbnailImage": "/images/68.png",
   "id": 68,
   "type": [
     "fighting"

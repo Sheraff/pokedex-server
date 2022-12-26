@@ -18,7 +18,7 @@
   "slug": "deino",
   "name": "Deino",
   "ThumbnailAltText": "Deino",
-  "ThumbnailImage": "/pokedex-server/images/633.png",
+  "ThumbnailImage": "/images/633.png",
   "id": 633,
   "type": [
     "dark",

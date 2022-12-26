@@ -19,7 +19,7 @@
   "slug": "golurk",
   "name": "Golurk",
   "ThumbnailAltText": "Golurk",
-  "ThumbnailImage": "/pokedex-server/images/623.png",
+  "ThumbnailImage": "/images/623.png",
   "id": 623,
   "type": [
     "ground",

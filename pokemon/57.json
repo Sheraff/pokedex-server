@@ -17,7 +17,7 @@
   "slug": "primeape",
   "name": "Primeape",
   "ThumbnailAltText": "Primeape",
-  "ThumbnailImage": "/pokedex-server/images/57.png",
+  "ThumbnailImage": "/images/57.png",
   "id": 57,
   "type": [
     "fighting"

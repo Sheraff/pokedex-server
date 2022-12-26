@@ -19,7 +19,7 @@
   "slug": "trevenant",
   "name": "Trevenant",
   "ThumbnailAltText": "Trevenant",
-  "ThumbnailImage": "/pokedex-server/images/709.png",
+  "ThumbnailImage": "/images/709.png",
   "id": 709,
   "type": [
     "ghost",

@@ -18,7 +18,7 @@
   "slug": "vanillish",
   "name": "Vanillish",
   "ThumbnailAltText": "Vanillish",
-  "ThumbnailImage": "/pokedex-server/images/583.png",
+  "ThumbnailImage": "/images/583.png",
   "id": 583,
   "type": [
     "ice"

@@ -16,7 +16,7 @@
   "slug": "enamorus",
   "name": "Enamorus",
   "ThumbnailAltText": "Enamorus",
-  "ThumbnailImage": "/pokedex-server/images/905.png",
+  "ThumbnailImage": "/images/905.png",
   "id": 905,
   "type": [
     "fairy",

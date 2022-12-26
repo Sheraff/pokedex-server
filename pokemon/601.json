@@ -17,7 +17,7 @@
   "slug": "klinklang",
   "name": "Klinklang",
   "ThumbnailAltText": "Klinklang",
-  "ThumbnailImage": "/pokedex-server/images/601.png",
+  "ThumbnailImage": "/images/601.png",
   "id": 601,
   "type": [
     "steel"

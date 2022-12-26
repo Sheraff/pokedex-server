@@ -16,7 +16,7 @@
   "slug": "kingdra",
   "name": "Kingdra",
   "ThumbnailAltText": "Kingdra",
-  "ThumbnailImage": "/pokedex-server/images/230.png",
+  "ThumbnailImage": "/images/230.png",
   "id": 230,
   "type": [
     "water",

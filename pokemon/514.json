@@ -16,7 +16,7 @@
   "slug": "simisear",
   "name": "Simisear",
   "ThumbnailAltText": "Simisear",
-  "ThumbnailImage": "/pokedex-server/images/514.png",
+  "ThumbnailImage": "/images/514.png",
   "id": 514,
   "type": [
     "fire"

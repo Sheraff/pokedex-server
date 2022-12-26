@@ -19,7 +19,7 @@
   "slug": "ledyba",
   "name": "Ledyba",
   "ThumbnailAltText": "Ledyba",
-  "ThumbnailImage": "/pokedex-server/images/165.png",
+  "ThumbnailImage": "/images/165.png",
   "id": 165,
   "type": [
     "bug",

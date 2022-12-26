@@ -18,7 +18,7 @@
   "slug": "spheal",
   "name": "Spheal",
   "ThumbnailAltText": "Spheal",
-  "ThumbnailImage": "/pokedex-server/images/363.png",
+  "ThumbnailImage": "/images/363.png",
   "id": 363,
   "type": [
     "ice",

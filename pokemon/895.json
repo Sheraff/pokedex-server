@@ -16,7 +16,7 @@
   "slug": "regidrago",
   "name": "Regidrago",
   "ThumbnailAltText": "Regidrago",
-  "ThumbnailImage": "/pokedex-server/images/895.png",
+  "ThumbnailImage": "/images/895.png",
   "id": 895,
   "type": [
     "dragon"

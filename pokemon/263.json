@@ -15,7 +15,7 @@
   "slug": "zigzagoon",
   "name": "Zigzagoon",
   "ThumbnailAltText": "Zigzagoon",
-  "ThumbnailImage": "/pokedex-server/images/263.png",
+  "ThumbnailImage": "/images/263.png",
   "id": 263,
   "type": [
     "normal"

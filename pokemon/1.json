@@ -17,7 +17,7 @@
   "slug": "bulbasaur",
   "name": "Bulbasaur",
   "ThumbnailAltText": "Bulbasaur",
-  "ThumbnailImage": "/pokedex-server/images/1.png",
+  "ThumbnailImage": "/images/1.png",
   "id": 1,
   "type": [
     "grass",

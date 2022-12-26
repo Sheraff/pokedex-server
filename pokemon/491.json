@@ -16,7 +16,7 @@
   "slug": "darkrai",
   "name": "Darkrai",
   "ThumbnailAltText": "Darkrai",
-  "ThumbnailImage": "/pokedex-server/images/491.png",
+  "ThumbnailImage": "/images/491.png",
   "id": 491,
   "type": [
     "dark"

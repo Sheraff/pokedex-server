@@ -18,7 +18,7 @@
   "slug": "noivern",
   "name": "Noivern",
   "ThumbnailAltText": "Noivern",
-  "ThumbnailImage": "/pokedex-server/images/715.png",
+  "ThumbnailImage": "/images/715.png",
   "id": 715,
   "type": [
     "flying",

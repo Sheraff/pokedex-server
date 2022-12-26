@@ -18,7 +18,7 @@
   "slug": "walrein",
   "name": "Walrein",
   "ThumbnailAltText": "Walrein",
-  "ThumbnailImage": "/pokedex-server/images/365.png",
+  "ThumbnailImage": "/images/365.png",
   "id": 365,
   "type": [
     "ice",

@@ -19,7 +19,7 @@
   "slug": "bonsly",
   "name": "Bonsly",
   "ThumbnailAltText": "Bonsly",
-  "ThumbnailImage": "/pokedex-server/images/438.png",
+  "ThumbnailImage": "/images/438.png",
   "id": 438,
   "type": [
     "rock"

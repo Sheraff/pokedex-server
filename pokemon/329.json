@@ -16,7 +16,7 @@
   "slug": "vibrava",
   "name": "Vibrava",
   "ThumbnailAltText": "Vibrava",
-  "ThumbnailImage": "/pokedex-server/images/329.png",
+  "ThumbnailImage": "/images/329.png",
   "id": 329,
   "type": [
     "ground",

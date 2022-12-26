@@ -16,7 +16,7 @@
   "slug": "fletchinder",
   "name": "Fletchinder",
   "ThumbnailAltText": "Fletchinder",
-  "ThumbnailImage": "/pokedex-server/images/662.png",
+  "ThumbnailImage": "/images/662.png",
   "id": 662,
   "type": [
     "fire",

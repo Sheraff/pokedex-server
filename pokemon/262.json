@@ -17,7 +17,7 @@
   "slug": "mightyena",
   "name": "Mightyena",
   "ThumbnailAltText": "Mightyena",
-  "ThumbnailImage": "/pokedex-server/images/262.png",
+  "ThumbnailImage": "/images/262.png",
   "id": 262,
   "type": [
     "dark"

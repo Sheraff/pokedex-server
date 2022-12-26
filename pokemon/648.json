@@ -15,7 +15,7 @@
   "slug": "meloetta",
   "name": "Meloetta",
   "ThumbnailAltText": "Meloetta",
-  "ThumbnailImage": "/pokedex-server/images/648.png",
+  "ThumbnailImage": "/images/648.png",
   "id": 648,
   "type": [
     "normal",

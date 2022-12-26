@@ -17,7 +17,7 @@
   "slug": "hatenna",
   "name": "Hatenna",
   "ThumbnailAltText": "Hatenna",
-  "ThumbnailImage": "/pokedex-server/images/856.png",
+  "ThumbnailImage": "/images/856.png",
   "id": 856,
   "type": [
     "psychic"

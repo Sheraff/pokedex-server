@@ -17,7 +17,7 @@
   "slug": "mienshao",
   "name": "Mienshao",
   "ThumbnailAltText": "Mienshao",
-  "ThumbnailImage": "/pokedex-server/images/620.png",
+  "ThumbnailImage": "/images/620.png",
   "id": 620,
   "type": [
     "fighting"

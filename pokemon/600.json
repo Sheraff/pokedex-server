@@ -17,7 +17,7 @@
   "slug": "klang",
   "name": "Klang",
   "ThumbnailAltText": "Klang",
-  "ThumbnailImage": "/pokedex-server/images/600.png",
+  "ThumbnailImage": "/images/600.png",
   "id": 600,
   "type": [
     "steel"

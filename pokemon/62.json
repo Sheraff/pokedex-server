@@ -19,7 +19,7 @@
   "slug": "poliwrath",
   "name": "Poliwrath",
   "ThumbnailAltText": "Poliwrath",
-  "ThumbnailImage": "/pokedex-server/images/62.png",
+  "ThumbnailImage": "/images/62.png",
   "id": 62,
   "type": [
     "water",

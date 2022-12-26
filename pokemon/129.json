@@ -15,7 +15,7 @@
   "slug": "magikarp",
   "name": "Magikarp",
   "ThumbnailAltText": "Magikarp",
-  "ThumbnailImage": "/pokedex-server/images/129.png",
+  "ThumbnailImage": "/images/129.png",
   "id": 129,
   "type": [
     "water"

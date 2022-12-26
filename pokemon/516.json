@@ -15,7 +15,7 @@
   "slug": "simipour",
   "name": "Simipour",
   "ThumbnailAltText": "Simipour",
-  "ThumbnailImage": "/pokedex-server/images/516.png",
+  "ThumbnailImage": "/images/516.png",
   "id": 516,
   "type": [
     "water"

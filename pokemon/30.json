@@ -16,7 +16,7 @@
   "slug": "nidorina",
   "name": "Nidorina",
   "ThumbnailAltText": "Nidorina",
-  "ThumbnailImage": "/pokedex-server/images/30.png",
+  "ThumbnailImage": "/images/30.png",
   "id": 30,
   "type": [
     "poison"

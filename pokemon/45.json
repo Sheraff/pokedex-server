@@ -17,7 +17,7 @@
   "slug": "vileplume",
   "name": "Vileplume",
   "ThumbnailAltText": "Vileplume",
-  "ThumbnailImage": "/pokedex-server/images/45.png",
+  "ThumbnailImage": "/images/45.png",
   "id": 45,
   "type": [
     "grass",

@@ -14,7 +14,7 @@
   "slug": "zeraora",
   "name": "Zeraora",
   "ThumbnailAltText": "Zeraora",
-  "ThumbnailImage": "/pokedex-server/images/807.png",
+  "ThumbnailImage": "/images/807.png",
   "id": 807,
   "type": [
     "electric"

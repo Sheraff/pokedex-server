@@ -17,7 +17,7 @@
   "slug": "hariyama",
   "name": "Hariyama",
   "ThumbnailAltText": "Hariyama",
-  "ThumbnailImage": "/pokedex-server/images/297.png",
+  "ThumbnailImage": "/images/297.png",
   "id": 297,
   "type": [
     "fighting"

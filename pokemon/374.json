@@ -17,7 +17,7 @@
   "slug": "beldum",
   "name": "Beldum",
   "ThumbnailAltText": "Beldum",
-  "ThumbnailImage": "/pokedex-server/images/374.png",
+  "ThumbnailImage": "/images/374.png",
   "id": 374,
   "type": [
     "steel",

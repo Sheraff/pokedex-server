@@ -15,7 +15,7 @@
   "slug": "skitty",
   "name": "Skitty",
   "ThumbnailAltText": "Skitty",
-  "ThumbnailImage": "/pokedex-server/images/300.png",
+  "ThumbnailImage": "/images/300.png",
   "id": 300,
   "type": [
     "normal"

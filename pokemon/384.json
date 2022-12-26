@@ -17,7 +17,7 @@
   "slug": "rayquaza",
   "name": "Rayquaza",
   "ThumbnailAltText": "Rayquaza",
-  "ThumbnailImage": "/pokedex-server/images/384.png",
+  "ThumbnailImage": "/images/384.png",
   "id": 384,
   "type": [
     "dragon",

@@ -20,7 +20,7 @@
   "slug": "appletun",
   "name": "Appletun",
   "ThumbnailAltText": "Appletun",
-  "ThumbnailImage": "/pokedex-server/images/842.png",
+  "ThumbnailImage": "/images/842.png",
   "id": 842,
   "type": [
     "grass",

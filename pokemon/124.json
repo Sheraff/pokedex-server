@@ -20,7 +20,7 @@
   "slug": "jynx",
   "name": "Jynx",
   "ThumbnailAltText": "Jynx",
-  "ThumbnailImage": "/pokedex-server/images/124.png",
+  "ThumbnailImage": "/images/124.png",
   "id": 124,
   "type": [
     "ice",

@@ -18,7 +18,7 @@
   "slug": "combee",
   "name": "Combee",
   "ThumbnailAltText": "Combee",
-  "ThumbnailImage": "/pokedex-server/images/415.png",
+  "ThumbnailImage": "/images/415.png",
   "id": 415,
   "type": [
     "bug",

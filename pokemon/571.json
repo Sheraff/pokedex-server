@@ -16,7 +16,7 @@
   "slug": "zoroark",
   "name": "Zoroark",
   "ThumbnailAltText": "Zoroark",
-  "ThumbnailImage": "/pokedex-server/images/571.png",
+  "ThumbnailImage": "/images/571.png",
   "id": 571,
   "type": [
     "dark"

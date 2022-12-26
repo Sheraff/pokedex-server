@@ -17,7 +17,7 @@
   "slug": "aegislash",
   "name": "Aegislash",
   "ThumbnailAltText": "Aegislash",
-  "ThumbnailImage": "/pokedex-server/images/681.png",
+  "ThumbnailImage": "/images/681.png",
   "id": 681,
   "type": [
     "steel",

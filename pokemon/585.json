@@ -20,7 +20,7 @@
   "slug": "deerling",
   "name": "Deerling",
   "ThumbnailAltText": "Deerling",
-  "ThumbnailImage": "/pokedex-server/images/585.png",
+  "ThumbnailImage": "/images/585.png",
   "id": 585,
   "type": [
     "normal",

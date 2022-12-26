@@ -16,7 +16,7 @@
   "slug": "talonflame",
   "name": "Talonflame",
   "ThumbnailAltText": "Talonflame",
-  "ThumbnailImage": "/pokedex-server/images/663.png",
+  "ThumbnailImage": "/images/663.png",
   "id": 663,
   "type": [
     "fire",

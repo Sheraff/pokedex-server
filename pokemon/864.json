@@ -15,7 +15,7 @@
   "slug": "cursola",
   "name": "Cursola",
   "ThumbnailAltText": "Cursola",
-  "ThumbnailImage": "/pokedex-server/images/864.png",
+  "ThumbnailImage": "/images/864.png",
   "id": 864,
   "type": [
     "ghost"

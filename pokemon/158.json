@@ -15,7 +15,7 @@
   "slug": "totodile",
   "name": "Totodile",
   "ThumbnailAltText": "Totodile",
-  "ThumbnailImage": "/pokedex-server/images/158.png",
+  "ThumbnailImage": "/images/158.png",
   "id": 158,
   "type": [
     "water"

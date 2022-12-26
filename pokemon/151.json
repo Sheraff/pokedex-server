@@ -16,7 +16,7 @@
   "slug": "mew",
   "name": "Mew",
   "ThumbnailAltText": "Mew",
-  "ThumbnailImage": "/pokedex-server/images/151.png",
+  "ThumbnailImage": "/images/151.png",
   "id": 151,
   "type": [
     "psychic"

@@ -16,7 +16,7 @@
   "slug": "poliwag",
   "name": "Poliwag",
   "ThumbnailAltText": "Poliwag",
-  "ThumbnailImage": "/pokedex-server/images/60.png",
+  "ThumbnailImage": "/images/60.png",
   "id": 60,
   "type": [
     "water"

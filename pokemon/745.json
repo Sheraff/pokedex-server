@@ -19,7 +19,7 @@
   "slug": "lycanroc",
   "name": "Lycanroc",
   "ThumbnailAltText": "Lycanroc",
-  "ThumbnailImage": "/pokedex-server/images/745.png",
+  "ThumbnailImage": "/images/745.png",
   "id": 745,
   "type": [
     "rock"

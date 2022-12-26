@@ -16,7 +16,7 @@
   "slug": "nidoran-male",
   "name": "Nidoran♂",
   "ThumbnailAltText": "Nidoran♂",
-  "ThumbnailImage": "/pokedex-server/images/32.png",
+  "ThumbnailImage": "/images/32.png",
   "id": 32,
   "type": [
     "poison"

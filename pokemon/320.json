@@ -16,7 +16,7 @@
   "slug": "wailmer",
   "name": "Wailmer",
   "ThumbnailAltText": "Wailmer",
-  "ThumbnailImage": "/pokedex-server/images/320.png",
+  "ThumbnailImage": "/images/320.png",
   "id": 320,
   "type": [
     "water"

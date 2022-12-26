@@ -14,7 +14,7 @@
   "slug": "raichu",
   "name": "Raichu",
   "ThumbnailAltText": "Raichu",
-  "ThumbnailImage": "/pokedex-server/images/26.png",
+  "ThumbnailImage": "/images/26.png",
   "id": 26,
   "type": [
     "electric"

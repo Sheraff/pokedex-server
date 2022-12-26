@@ -15,7 +15,7 @@
   "slug": "palpitoad",
   "name": "Palpitoad",
   "ThumbnailAltText": "Palpitoad",
-  "ThumbnailImage": "/pokedex-server/images/536.png",
+  "ThumbnailImage": "/images/536.png",
   "id": 536,
   "type": [
     "water",

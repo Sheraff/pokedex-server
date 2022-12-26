@@ -14,7 +14,7 @@
   "slug": "marshtomp",
   "name": "Marshtomp",
   "ThumbnailAltText": "Marshtomp",
-  "ThumbnailImage": "/pokedex-server/images/259.png",
+  "ThumbnailImage": "/images/259.png",
   "id": 259,
   "type": [
     "water",

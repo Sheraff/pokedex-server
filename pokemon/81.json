@@ -17,7 +17,7 @@
   "slug": "magnemite",
   "name": "Magnemite",
   "ThumbnailAltText": "Magnemite",
-  "ThumbnailImage": "/pokedex-server/images/81.png",
+  "ThumbnailImage": "/images/81.png",
   "id": 81,
   "type": [
     "electric",

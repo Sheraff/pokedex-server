@@ -16,7 +16,7 @@
   "slug": "tornadus",
   "name": "Tornadus",
   "ThumbnailAltText": "Tornadus",
-  "ThumbnailImage": "/pokedex-server/images/641.png",
+  "ThumbnailImage": "/images/641.png",
   "id": 641,
   "type": [
     "flying"

@@ -16,7 +16,7 @@
   "slug": "unown",
   "name": "Unown",
   "ThumbnailAltText": "Unown",
-  "ThumbnailImage": "/pokedex-server/images/201.png",
+  "ThumbnailImage": "/images/201.png",
   "id": 201,
   "type": [
     "psychic"

@@ -16,7 +16,7 @@
   "slug": "skarmory",
   "name": "Skarmory",
   "ThumbnailAltText": "Skarmory",
-  "ThumbnailImage": "/pokedex-server/images/227.png",
+  "ThumbnailImage": "/images/227.png",
   "id": 227,
   "type": [
     "steel",

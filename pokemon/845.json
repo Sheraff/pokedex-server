@@ -15,7 +15,7 @@
   "slug": "cramorant",
   "name": "Cramorant",
   "ThumbnailAltText": "Cramorant",
-  "ThumbnailImage": "/pokedex-server/images/845.png",
+  "ThumbnailImage": "/images/845.png",
   "id": 845,
   "type": [
     "flying",

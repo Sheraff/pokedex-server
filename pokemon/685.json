@@ -15,7 +15,7 @@
   "slug": "slurpuff",
   "name": "Slurpuff",
   "ThumbnailAltText": "Slurpuff",
-  "ThumbnailImage": "/pokedex-server/images/685.png",
+  "ThumbnailImage": "/images/685.png",
   "id": 685,
   "type": [
     "fairy"

@@ -20,7 +20,7 @@
   "slug": "krokorok",
   "name": "Krokorok",
   "ThumbnailAltText": "Krokorok",
-  "ThumbnailImage": "/pokedex-server/images/552.png",
+  "ThumbnailImage": "/images/552.png",
   "id": 552,
   "type": [
     "ground",

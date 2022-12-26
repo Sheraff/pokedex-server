@@ -16,7 +16,7 @@
   "slug": "zamazenta",
   "name": "Zamazenta",
   "ThumbnailAltText": "Zamazenta",
-  "ThumbnailImage": "/pokedex-server/images/889.png",
+  "ThumbnailImage": "/images/889.png",
   "id": 889,
   "type": [
     "fighting"

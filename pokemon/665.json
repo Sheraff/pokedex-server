@@ -16,7 +16,7 @@
   "slug": "spewpa",
   "name": "Spewpa",
   "ThumbnailAltText": "Spewpa",
-  "ThumbnailImage": "/pokedex-server/images/665.png",
+  "ThumbnailImage": "/images/665.png",
   "id": 665,
   "type": [
     "bug"

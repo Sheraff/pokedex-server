@@ -15,7 +15,7 @@
   "slug": "whiscash",
   "name": "Whiscash",
   "ThumbnailAltText": "Whiscash",
-  "ThumbnailImage": "/pokedex-server/images/340.png",
+  "ThumbnailImage": "/images/340.png",
   "id": 340,
   "type": [
     "water",

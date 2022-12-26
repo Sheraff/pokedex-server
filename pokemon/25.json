@@ -14,7 +14,7 @@
   "slug": "pikachu",
   "name": "Pikachu",
   "ThumbnailAltText": "Pikachu",
-  "ThumbnailImage": "/pokedex-server/images/25.png",
+  "ThumbnailImage": "/images/25.png",
   "id": 25,
   "type": [
     "electric"

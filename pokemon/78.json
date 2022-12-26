@@ -17,7 +17,7 @@
   "slug": "rapidash",
   "name": "Rapidash",
   "ThumbnailAltText": "Rapidash",
-  "ThumbnailImage": "/pokedex-server/images/78.png",
+  "ThumbnailImage": "/images/78.png",
   "id": 78,
   "type": [
     "fire"

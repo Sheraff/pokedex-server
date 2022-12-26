@@ -18,7 +18,7 @@
   "slug": "coalossal",
   "name": "Coalossal",
   "ThumbnailAltText": "Coalossal",
-  "ThumbnailImage": "/pokedex-server/images/839.png",
+  "ThumbnailImage": "/images/839.png",
   "id": 839,
   "type": [
     "rock",

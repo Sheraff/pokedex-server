@@ -18,7 +18,7 @@
   "slug": "venonat",
   "name": "Venonat",
   "ThumbnailAltText": "Venonat",
-  "ThumbnailImage": "/pokedex-server/images/48.png",
+  "ThumbnailImage": "/images/48.png",
   "id": 48,
   "type": [
     "bug",

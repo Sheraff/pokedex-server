@@ -16,7 +16,7 @@
   "slug": "kubfu",
   "name": "Kubfu",
   "ThumbnailAltText": "Kubfu",
-  "ThumbnailImage": "/pokedex-server/images/891.png",
+  "ThumbnailImage": "/images/891.png",
   "id": 891,
   "type": [
     "fighting"

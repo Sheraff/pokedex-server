@@ -16,7 +16,7 @@
   "slug": "stakataka",
   "name": "Stakataka",
   "ThumbnailAltText": "Stakataka",
-  "ThumbnailImage": "/pokedex-server/images/805.png",
+  "ThumbnailImage": "/images/805.png",
   "id": 805,
   "type": [
     "rock",

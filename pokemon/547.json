@@ -19,7 +19,7 @@
   "slug": "whimsicott",
   "name": "Whimsicott",
   "ThumbnailAltText": "Whimsicott",
-  "ThumbnailImage": "/pokedex-server/images/547.png",
+  "ThumbnailImage": "/images/547.png",
   "id": 547,
   "type": [
     "grass",

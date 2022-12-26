@@ -19,7 +19,7 @@
   "slug": "swinub",
   "name": "Swinub",
   "ThumbnailAltText": "Swinub",
-  "ThumbnailImage": "/pokedex-server/images/220.png",
+  "ThumbnailImage": "/images/220.png",
   "id": 220,
   "type": [
     "ice",

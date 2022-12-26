@@ -20,7 +20,7 @@
   "slug": "sneasel",
   "name": "Sneasel",
   "ThumbnailAltText": "Sneasel",
-  "ThumbnailImage": "/pokedex-server/images/215.png",
+  "ThumbnailImage": "/images/215.png",
   "id": 215,
   "type": [
     "dark",

@@ -15,7 +15,7 @@
   "slug": "lopunny",
   "name": "Lopunny",
   "ThumbnailAltText": "Lopunny",
-  "ThumbnailImage": "/pokedex-server/images/428.png",
+  "ThumbnailImage": "/images/428.png",
   "id": 428,
   "type": [
     "normal"

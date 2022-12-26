@@ -15,7 +15,7 @@
   "slug": "misdreavus",
   "name": "Misdreavus",
   "ThumbnailAltText": "Misdreavus",
-  "ThumbnailImage": "/pokedex-server/images/200.png",
+  "ThumbnailImage": "/images/200.png",
   "id": 200,
   "type": [
     "ghost"

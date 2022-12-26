@@ -15,7 +15,7 @@
   "slug": "skuntank",
   "name": "Skuntank",
   "ThumbnailAltText": "Skuntank",
-  "ThumbnailImage": "/pokedex-server/images/435.png",
+  "ThumbnailImage": "/images/435.png",
   "id": 435,
   "type": [
     "poison",

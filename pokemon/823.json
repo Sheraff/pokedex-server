@@ -16,7 +16,7 @@
   "slug": "corviknight",
   "name": "Corviknight",
   "ThumbnailAltText": "Corviknight",
-  "ThumbnailImage": "/pokedex-server/images/823.png",
+  "ThumbnailImage": "/images/823.png",
   "id": 823,
   "type": [
     "flying",

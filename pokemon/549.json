@@ -19,7 +19,7 @@
   "slug": "lilligant",
   "name": "Lilligant",
   "ThumbnailAltText": "Lilligant",
-  "ThumbnailImage": "/pokedex-server/images/549.png",
+  "ThumbnailImage": "/images/549.png",
   "id": 549,
   "type": [
     "grass"

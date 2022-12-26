@@ -18,7 +18,7 @@
   "slug": "butterfree",
   "name": "Butterfree",
   "ThumbnailAltText": "Butterfree",
-  "ThumbnailImage": "/pokedex-server/images/12.png",
+  "ThumbnailImage": "/images/12.png",
   "id": 12,
   "type": [
     "bug",

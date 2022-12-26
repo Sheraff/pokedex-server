@@ -15,7 +15,7 @@
   "slug": "tauros",
   "name": "Tauros",
   "ThumbnailAltText": "Tauros",
-  "ThumbnailImage": "/pokedex-server/images/128.png",
+  "ThumbnailImage": "/images/128.png",
   "id": 128,
   "type": [
     "normal"

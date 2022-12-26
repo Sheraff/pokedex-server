@@ -15,7 +15,7 @@
   "slug": "happiny",
   "name": "Happiny",
   "ThumbnailAltText": "Happiny",
-  "ThumbnailImage": "/pokedex-server/images/440.png",
+  "ThumbnailImage": "/images/440.png",
   "id": 440,
   "type": [
     "normal"

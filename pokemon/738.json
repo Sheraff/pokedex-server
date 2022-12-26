@@ -15,7 +15,7 @@
   "slug": "vikavolt",
   "name": "Vikavolt",
   "ThumbnailAltText": "Vikavolt",
-  "ThumbnailImage": "/pokedex-server/images/738.png",
+  "ThumbnailImage": "/images/738.png",
   "id": 738,
   "type": [
     "bug",

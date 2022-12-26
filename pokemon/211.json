@@ -17,7 +17,7 @@
   "slug": "qwilfish",
   "name": "Qwilfish",
   "ThumbnailAltText": "Qwilfish",
-  "ThumbnailImage": "/pokedex-server/images/211.png",
+  "ThumbnailImage": "/images/211.png",
   "id": 211,
   "type": [
     "water",

@@ -16,7 +16,7 @@
   "slug": "burmy",
   "name": "Burmy",
   "ThumbnailAltText": "Burmy",
-  "ThumbnailImage": "/pokedex-server/images/412.png",
+  "ThumbnailImage": "/images/412.png",
   "id": 412,
   "type": [
     "bug"

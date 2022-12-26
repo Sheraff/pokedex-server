@@ -16,7 +16,7 @@
   "slug": "basculin",
   "name": "Basculin",
   "ThumbnailAltText": "Basculin",
-  "ThumbnailImage": "/pokedex-server/images/550.png",
+  "ThumbnailImage": "/images/550.png",
   "id": 550,
   "type": [
     "water"

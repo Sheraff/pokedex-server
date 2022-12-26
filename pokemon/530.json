@@ -18,7 +18,7 @@
   "slug": "excadrill",
   "name": "Excadrill",
   "ThumbnailAltText": "Excadrill",
-  "ThumbnailImage": "/pokedex-server/images/530.png",
+  "ThumbnailImage": "/images/530.png",
   "id": 530,
   "type": [
     "ground",

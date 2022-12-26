@@ -20,7 +20,7 @@
   "slug": "sewaddle",
   "name": "Sewaddle",
   "ThumbnailAltText": "Sewaddle",
-  "ThumbnailImage": "/pokedex-server/images/540.png",
+  "ThumbnailImage": "/images/540.png",
   "id": 540,
   "type": [
     "bug",

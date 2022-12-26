@@ -15,7 +15,7 @@
   "slug": "suicune",
   "name": "Suicune",
   "ThumbnailAltText": "Suicune",
-  "ThumbnailImage": "/pokedex-server/images/245.png",
+  "ThumbnailImage": "/images/245.png",
   "id": 245,
   "type": [
     "water"

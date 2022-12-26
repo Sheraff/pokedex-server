@@ -19,7 +19,7 @@
   "slug": "slowking",
   "name": "Slowking",
   "ThumbnailAltText": "Slowking",
-  "ThumbnailImage": "/pokedex-server/images/199.png",
+  "ThumbnailImage": "/images/199.png",
   "id": 199,
   "type": [
     "water",

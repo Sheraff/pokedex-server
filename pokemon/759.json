@@ -18,7 +18,7 @@
   "slug": "stufful",
   "name": "Stufful",
   "ThumbnailAltText": "Stufful",
-  "ThumbnailImage": "/pokedex-server/images/759.png",
+  "ThumbnailImage": "/images/759.png",
   "id": 759,
   "type": [
     "normal",

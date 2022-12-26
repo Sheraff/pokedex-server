@@ -19,7 +19,7 @@
   "slug": "drakloak",
   "name": "Drakloak",
   "ThumbnailAltText": "Drakloak",
-  "ThumbnailImage": "/pokedex-server/images/886.png",
+  "ThumbnailImage": "/images/886.png",
   "id": 886,
   "type": [
     "dragon",

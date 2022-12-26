@@ -16,7 +16,7 @@
   "slug": "heatran",
   "name": "Heatran",
   "ThumbnailAltText": "Heatran",
-  "ThumbnailImage": "/pokedex-server/images/485.png",
+  "ThumbnailImage": "/images/485.png",
   "id": 485,
   "type": [
     "fire",

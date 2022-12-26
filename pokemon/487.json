@@ -18,7 +18,7 @@
   "slug": "giratina",
   "name": "Giratina",
   "ThumbnailAltText": "Giratina",
-  "ThumbnailImage": "/pokedex-server/images/487.png",
+  "ThumbnailImage": "/images/487.png",
   "id": 487,
   "type": [
     "ghost",

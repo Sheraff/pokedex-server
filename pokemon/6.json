@@ -16,7 +16,7 @@
   "slug": "charizard",
   "name": "Charizard",
   "ThumbnailAltText": "Charizard",
-  "ThumbnailImage": "/pokedex-server/images/6.png",
+  "ThumbnailImage": "/images/6.png",
   "id": 6,
   "type": [
     "fire",

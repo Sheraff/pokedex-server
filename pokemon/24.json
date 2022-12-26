@@ -16,7 +16,7 @@
   "slug": "arbok",
   "name": "Arbok",
   "ThumbnailAltText": "Arbok",
-  "ThumbnailImage": "/pokedex-server/images/24.png",
+  "ThumbnailImage": "/images/24.png",
   "id": 24,
   "type": [
     "poison"

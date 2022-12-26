@@ -15,7 +15,7 @@
   "slug": "lickilicky",
   "name": "Lickilicky",
   "ThumbnailAltText": "Lickilicky",
-  "ThumbnailImage": "/pokedex-server/images/463.png",
+  "ThumbnailImage": "/images/463.png",
   "id": 463,
   "type": [
     "normal"

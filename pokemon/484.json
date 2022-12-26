@@ -15,7 +15,7 @@
   "slug": "palkia",
   "name": "Palkia",
   "ThumbnailAltText": "Palkia",
-  "ThumbnailImage": "/pokedex-server/images/484.png",
+  "ThumbnailImage": "/images/484.png",
   "id": 484,
   "type": [
     "water",

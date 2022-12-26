@@ -19,7 +19,7 @@
   "slug": "eldegoss",
   "name": "Eldegoss",
   "ThumbnailAltText": "Eldegoss",
-  "ThumbnailImage": "/pokedex-server/images/830.png",
+  "ThumbnailImage": "/images/830.png",
   "id": 830,
   "type": [
     "grass"

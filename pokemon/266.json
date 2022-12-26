@@ -16,7 +16,7 @@
   "slug": "silcoon",
   "name": "Silcoon",
   "ThumbnailAltText": "Silcoon",
-  "ThumbnailImage": "/pokedex-server/images/266.png",
+  "ThumbnailImage": "/images/266.png",
   "id": 266,
   "type": [
     "bug"

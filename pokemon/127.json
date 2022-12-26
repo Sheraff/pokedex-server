@@ -17,7 +17,7 @@
   "slug": "pinsir",
   "name": "Pinsir",
   "ThumbnailAltText": "Pinsir",
-  "ThumbnailImage": "/pokedex-server/images/127.png",
+  "ThumbnailImage": "/images/127.png",
   "id": 127,
   "type": [
     "bug"

@@ -17,7 +17,7 @@
   "slug": "doduo",
   "name": "Doduo",
   "ThumbnailAltText": "Doduo",
-  "ThumbnailImage": "/pokedex-server/images/84.png",
+  "ThumbnailImage": "/images/84.png",
   "id": 84,
   "type": [
     "normal",

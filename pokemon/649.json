@@ -14,7 +14,7 @@
   "slug": "genesect",
   "name": "Genesect",
   "ThumbnailAltText": "Genesect",
-  "ThumbnailImage": "/pokedex-server/images/649.png",
+  "ThumbnailImage": "/images/649.png",
   "id": 649,
   "type": [
     "bug",

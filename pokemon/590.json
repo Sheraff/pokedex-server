@@ -17,7 +17,7 @@
   "slug": "foongus",
   "name": "Foongus",
   "ThumbnailAltText": "Foongus",
-  "ThumbnailImage": "/pokedex-server/images/590.png",
+  "ThumbnailImage": "/images/590.png",
   "id": 590,
   "type": [
     "grass",

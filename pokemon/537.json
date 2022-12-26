@@ -15,7 +15,7 @@
   "slug": "seismitoad",
   "name": "Seismitoad",
   "ThumbnailAltText": "Seismitoad",
-  "ThumbnailImage": "/pokedex-server/images/537.png",
+  "ThumbnailImage": "/images/537.png",
   "id": 537,
   "type": [
     "water",

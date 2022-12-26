@@ -20,7 +20,7 @@
   "slug": "crabominable",
   "name": "Crabominable",
   "ThumbnailAltText": "Crabominable",
-  "ThumbnailImage": "/pokedex-server/images/740.png",
+  "ThumbnailImage": "/images/740.png",
   "id": 740,
   "type": [
     "fighting",

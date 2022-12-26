@@ -17,7 +17,7 @@
   "slug": "kakuna",
   "name": "Kakuna",
   "ThumbnailAltText": "Kakuna",
-  "ThumbnailImage": "/pokedex-server/images/14.png",
+  "ThumbnailImage": "/images/14.png",
   "id": 14,
   "type": [
     "bug",

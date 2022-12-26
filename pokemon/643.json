@@ -16,7 +16,7 @@
   "slug": "reshiram",
   "name": "Reshiram",
   "ThumbnailAltText": "Reshiram",
-  "ThumbnailImage": "/pokedex-server/images/643.png",
+  "ThumbnailImage": "/images/643.png",
   "id": 643,
   "type": [
     "dragon",

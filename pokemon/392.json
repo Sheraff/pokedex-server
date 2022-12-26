@@ -17,7 +17,7 @@
   "slug": "infernape",
   "name": "Infernape",
   "ThumbnailAltText": "Infernape",
-  "ThumbnailImage": "/pokedex-server/images/392.png",
+  "ThumbnailImage": "/images/392.png",
   "id": 392,
   "type": [
     "fire",

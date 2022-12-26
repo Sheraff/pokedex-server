@@ -19,7 +19,7 @@
   "slug": "litwick",
   "name": "Litwick",
   "ThumbnailAltText": "Litwick",
-  "ThumbnailImage": "/pokedex-server/images/607.png",
+  "ThumbnailImage": "/images/607.png",
   "id": 607,
   "type": [
     "ghost",

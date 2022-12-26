@@ -16,7 +16,7 @@
   "slug": "camerupt",
   "name": "Camerupt",
   "ThumbnailAltText": "Camerupt",
-  "ThumbnailImage": "/pokedex-server/images/323.png",
+  "ThumbnailImage": "/images/323.png",
   "id": 323,
   "type": [
     "fire",

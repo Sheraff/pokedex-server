@@ -15,7 +15,7 @@
   "slug": "gyarados",
   "name": "Gyarados",
   "ThumbnailAltText": "Gyarados",
-  "ThumbnailImage": "/pokedex-server/images/130.png",
+  "ThumbnailImage": "/images/130.png",
   "id": 130,
   "type": [
     "water",

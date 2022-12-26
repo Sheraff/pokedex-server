@@ -16,7 +16,7 @@
   "slug": "metapod",
   "name": "Metapod",
   "ThumbnailAltText": "Metapod",
-  "ThumbnailImage": "/pokedex-server/images/11.png",
+  "ThumbnailImage": "/images/11.png",
   "id": 11,
   "type": [
     "bug"

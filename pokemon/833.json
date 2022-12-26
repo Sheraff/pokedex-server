@@ -16,7 +16,7 @@
   "slug": "chewtle",
   "name": "Chewtle",
   "ThumbnailAltText": "Chewtle",
-  "ThumbnailImage": "/pokedex-server/images/833.png",
+  "ThumbnailImage": "/images/833.png",
   "id": 833,
   "type": [
     "water"

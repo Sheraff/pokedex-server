@@ -15,7 +15,7 @@
   "slug": "clawitzer",
   "name": "Clawitzer",
   "ThumbnailAltText": "Clawitzer",
-  "ThumbnailImage": "/pokedex-server/images/693.png",
+  "ThumbnailImage": "/images/693.png",
   "id": 693,
   "type": [
     "water"

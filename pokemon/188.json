@@ -19,7 +19,7 @@
   "slug": "skiploom",
   "name": "Skiploom",
   "ThumbnailAltText": "Skiploom",
-  "ThumbnailImage": "/pokedex-server/images/188.png",
+  "ThumbnailImage": "/images/188.png",
   "id": 188,
   "type": [
     "grass",

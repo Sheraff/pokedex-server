@@ -15,7 +15,7 @@
   "slug": "hoopa",
   "name": "Hoopa",
   "ThumbnailAltText": "Hoopa",
-  "ThumbnailImage": "/pokedex-server/images/720.png",
+  "ThumbnailImage": "/images/720.png",
   "id": 720,
   "type": [
     "psychic",

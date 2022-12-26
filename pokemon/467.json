@@ -16,7 +16,7 @@
   "slug": "magmortar",
   "name": "Magmortar",
   "ThumbnailAltText": "Magmortar",
-  "ThumbnailImage": "/pokedex-server/images/467.png",
+  "ThumbnailImage": "/images/467.png",
   "id": 467,
   "type": [
     "fire"

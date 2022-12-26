@@ -15,7 +15,7 @@
   "slug": "pachirisu",
   "name": "Pachirisu",
   "ThumbnailAltText": "Pachirisu",
-  "ThumbnailImage": "/pokedex-server/images/417.png",
+  "ThumbnailImage": "/images/417.png",
   "id": 417,
   "type": [
     "electric"

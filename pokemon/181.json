@@ -14,7 +14,7 @@
   "slug": "ampharos",
   "name": "Ampharos",
   "ThumbnailAltText": "Ampharos",
-  "ThumbnailImage": "/pokedex-server/images/181.png",
+  "ThumbnailImage": "/images/181.png",
   "id": 181,
   "type": [
     "electric"

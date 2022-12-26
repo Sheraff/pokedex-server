@@ -18,7 +18,7 @@
   "slug": "diggersby",
   "name": "Diggersby",
   "ThumbnailAltText": "Diggersby",
-  "ThumbnailImage": "/pokedex-server/images/660.png",
+  "ThumbnailImage": "/images/660.png",
   "id": 660,
   "type": [
     "normal",

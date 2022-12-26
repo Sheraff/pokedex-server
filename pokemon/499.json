@@ -17,7 +17,7 @@
   "slug": "pignite",
   "name": "Pignite",
   "ThumbnailAltText": "Pignite",
-  "ThumbnailImage": "/pokedex-server/images/499.png",
+  "ThumbnailImage": "/images/499.png",
   "id": 499,
   "type": [
     "fire",

@@ -18,7 +18,7 @@
   "slug": "grovyle",
   "name": "Grovyle",
   "ThumbnailAltText": "Grovyle",
-  "ThumbnailImage": "/pokedex-server/images/253.png",
+  "ThumbnailImage": "/images/253.png",
   "id": 253,
   "type": [
     "grass"

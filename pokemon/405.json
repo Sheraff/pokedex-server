@@ -15,7 +15,7 @@
   "slug": "luxray",
   "name": "Luxray",
   "ThumbnailAltText": "Luxray",
-  "ThumbnailImage": "/pokedex-server/images/405.png",
+  "ThumbnailImage": "/images/405.png",
   "id": 405,
   "type": [
     "electric"

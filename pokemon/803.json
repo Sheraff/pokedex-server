@@ -15,7 +15,7 @@
   "slug": "poipole",
   "name": "Poipole",
   "ThumbnailAltText": "Poipole",
-  "ThumbnailImage": "/pokedex-server/images/803.png",
+  "ThumbnailImage": "/images/803.png",
   "id": 803,
   "type": [
     "poison"

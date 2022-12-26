@@ -18,7 +18,7 @@
   "slug": "vanillite",
   "name": "Vanillite",
   "ThumbnailAltText": "Vanillite",
-  "ThumbnailImage": "/pokedex-server/images/582.png",
+  "ThumbnailImage": "/images/582.png",
   "id": 582,
   "type": [
     "ice"

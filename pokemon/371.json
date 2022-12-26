@@ -16,7 +16,7 @@
   "slug": "bagon",
   "name": "Bagon",
   "ThumbnailAltText": "Bagon",
-  "ThumbnailImage": "/pokedex-server/images/371.png",
+  "ThumbnailImage": "/images/371.png",
   "id": 371,
   "type": [
     "dragon"

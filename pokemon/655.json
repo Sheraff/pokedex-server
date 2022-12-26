@@ -18,7 +18,7 @@
   "slug": "delphox",
   "name": "Delphox",
   "ThumbnailAltText": "Delphox",
-  "ThumbnailImage": "/pokedex-server/images/655.png",
+  "ThumbnailImage": "/images/655.png",
   "id": 655,
   "type": [
     "fire",

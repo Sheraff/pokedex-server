@@ -18,7 +18,7 @@
   "slug": "victini",
   "name": "Victini",
   "ThumbnailAltText": "Victini",
-  "ThumbnailImage": "/pokedex-server/images/494.png",
+  "ThumbnailImage": "/images/494.png",
   "id": 494,
   "type": [
     "psychic",

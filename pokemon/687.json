@@ -16,7 +16,7 @@
   "slug": "malamar",
   "name": "Malamar",
   "ThumbnailAltText": "Malamar",
-  "ThumbnailImage": "/pokedex-server/images/687.png",
+  "ThumbnailImage": "/images/687.png",
   "id": 687,
   "type": [
     "dark",

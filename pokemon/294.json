@@ -14,7 +14,7 @@
   "slug": "loudred",
   "name": "Loudred",
   "ThumbnailAltText": "Loudred",
-  "ThumbnailImage": "/pokedex-server/images/294.png",
+  "ThumbnailImage": "/images/294.png",
   "id": 294,
   "type": [
     "normal"

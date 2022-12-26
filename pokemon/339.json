@@ -15,7 +15,7 @@
   "slug": "barboach",
   "name": "Barboach",
   "ThumbnailAltText": "Barboach",
-  "ThumbnailImage": "/pokedex-server/images/339.png",
+  "ThumbnailImage": "/images/339.png",
   "id": 339,
   "type": [
     "water",

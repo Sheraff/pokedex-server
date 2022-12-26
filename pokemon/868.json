@@ -15,7 +15,7 @@
   "slug": "milcery",
   "name": "Milcery",
   "ThumbnailAltText": "Milcery",
-  "ThumbnailImage": "/pokedex-server/images/868.png",
+  "ThumbnailImage": "/images/868.png",
   "id": 868,
   "type": [
     "fairy"

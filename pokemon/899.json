@@ -13,7 +13,7 @@
   "slug": "wyrdeer",
   "name": "Wyrdeer",
   "ThumbnailAltText": "Wyrdeer",
-  "ThumbnailImage": "/pokedex-server/images/899.png",
+  "ThumbnailImage": "/images/899.png",
   "id": 899,
   "type": [
     "normal",

@@ -17,7 +17,7 @@
   "slug": "toucannon",
   "name": "Toucannon",
   "ThumbnailAltText": "Toucannon",
-  "ThumbnailImage": "/pokedex-server/images/733.png",
+  "ThumbnailImage": "/images/733.png",
   "id": 733,
   "type": [
     "normal",

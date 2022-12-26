@@ -17,7 +17,7 @@
   "slug": "reuniclus",
   "name": "Reuniclus",
   "ThumbnailAltText": "Reuniclus",
-  "ThumbnailImage": "/pokedex-server/images/579.png",
+  "ThumbnailImage": "/images/579.png",
   "id": 579,
   "type": [
     "psychic"

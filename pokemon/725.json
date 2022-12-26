@@ -16,7 +16,7 @@
   "slug": "litten",
   "name": "Litten",
   "ThumbnailAltText": "Litten",
-  "ThumbnailImage": "/pokedex-server/images/725.png",
+  "ThumbnailImage": "/images/725.png",
   "id": 725,
   "type": [
     "fire"

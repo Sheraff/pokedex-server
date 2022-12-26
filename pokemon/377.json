@@ -18,7 +18,7 @@
   "slug": "regirock",
   "name": "Regirock",
   "ThumbnailAltText": "Regirock",
-  "ThumbnailImage": "/pokedex-server/images/377.png",
+  "ThumbnailImage": "/images/377.png",
   "id": 377,
   "type": [
     "rock"

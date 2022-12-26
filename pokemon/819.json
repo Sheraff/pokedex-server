@@ -14,7 +14,7 @@
   "slug": "skwovet",
   "name": "Skwovet",
   "ThumbnailAltText": "Skwovet",
-  "ThumbnailImage": "/pokedex-server/images/819.png",
+  "ThumbnailImage": "/images/819.png",
   "id": 819,
   "type": [
     "normal"

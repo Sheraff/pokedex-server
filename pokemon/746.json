@@ -15,7 +15,7 @@
   "slug": "wishiwashi",
   "name": "Wishiwashi",
   "ThumbnailAltText": "Wishiwashi",
-  "ThumbnailImage": "/pokedex-server/images/746.png",
+  "ThumbnailImage": "/images/746.png",
   "id": 746,
   "type": [
     "water"

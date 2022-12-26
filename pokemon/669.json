@@ -15,7 +15,7 @@
   "slug": "flabebe",
   "name": "Flabébé",
   "ThumbnailAltText": "Flabébé",
-  "ThumbnailImage": "/pokedex-server/images/669.png",
+  "ThumbnailImage": "/images/669.png",
   "id": 669,
   "type": [
     "fairy"

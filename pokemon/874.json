@@ -18,7 +18,7 @@
   "slug": "stonjourner",
   "name": "Stonjourner",
   "ThumbnailAltText": "Stonjourner",
-  "ThumbnailImage": "/pokedex-server/images/874.png",
+  "ThumbnailImage": "/images/874.png",
   "id": 874,
   "type": [
     "rock"

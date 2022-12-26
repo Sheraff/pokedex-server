@@ -18,7 +18,7 @@
   "slug": "dartrix",
   "name": "Dartrix",
   "ThumbnailAltText": "Dartrix",
-  "ThumbnailImage": "/pokedex-server/images/723.png",
+  "ThumbnailImage": "/images/723.png",
   "id": 723,
   "type": [
     "grass",

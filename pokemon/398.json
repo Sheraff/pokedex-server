@@ -16,7 +16,7 @@
   "slug": "staraptor",
   "name": "Staraptor",
   "ThumbnailAltText": "Staraptor",
-  "ThumbnailImage": "/pokedex-server/images/398.png",
+  "ThumbnailImage": "/images/398.png",
   "id": 398,
   "type": [
     "normal",

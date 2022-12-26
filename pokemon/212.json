@@ -15,7 +15,7 @@
   "slug": "scizor",
   "name": "Scizor",
   "ThumbnailAltText": "Scizor",
-  "ThumbnailImage": "/pokedex-server/images/212.png",
+  "ThumbnailImage": "/images/212.png",
   "id": 212,
   "type": [
     "bug",

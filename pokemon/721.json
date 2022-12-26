@@ -16,7 +16,7 @@
   "slug": "volcanion",
   "name": "Volcanion",
   "ThumbnailAltText": "Volcanion",
-  "ThumbnailImage": "/pokedex-server/images/721.png",
+  "ThumbnailImage": "/images/721.png",
   "id": 721,
   "type": [
     "fire",

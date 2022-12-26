@@ -17,7 +17,7 @@
   "slug": "thievul",
   "name": "Thievul",
   "ThumbnailAltText": "Thievul",
-  "ThumbnailImage": "/pokedex-server/images/828.png",
+  "ThumbnailImage": "/images/828.png",
   "id": 828,
   "type": [
     "dark"

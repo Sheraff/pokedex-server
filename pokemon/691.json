@@ -18,7 +18,7 @@
   "slug": "dragalge",
   "name": "Dragalge",
   "ThumbnailAltText": "Dragalge",
-  "ThumbnailImage": "/pokedex-server/images/691.png",
+  "ThumbnailImage": "/images/691.png",
   "id": 691,
   "type": [
     "poison",

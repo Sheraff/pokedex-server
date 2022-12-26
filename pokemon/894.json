@@ -14,7 +14,7 @@
   "slug": "regieleki",
   "name": "Regieleki",
   "ThumbnailAltText": "Regieleki",
-  "ThumbnailImage": "/pokedex-server/images/894.png",
+  "ThumbnailImage": "/images/894.png",
   "id": 894,
   "type": [
     "electric"

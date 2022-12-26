@@ -18,7 +18,7 @@
   "slug": "dewgong",
   "name": "Dewgong",
   "ThumbnailAltText": "Dewgong",
-  "ThumbnailImage": "/pokedex-server/images/87.png",
+  "ThumbnailImage": "/images/87.png",
   "id": 87,
   "type": [
     "water",

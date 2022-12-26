@@ -15,7 +15,7 @@
   "slug": "blastoise",
   "name": "Blastoise",
   "ThumbnailAltText": "Blastoise",
-  "ThumbnailImage": "/pokedex-server/images/9.png",
+  "ThumbnailImage": "/images/9.png",
   "id": 9,
   "type": [
     "water"

@@ -16,7 +16,7 @@
   "slug": "milotic",
   "name": "Milotic",
   "ThumbnailAltText": "Milotic",
-  "ThumbnailImage": "/pokedex-server/images/350.png",
+  "ThumbnailImage": "/images/350.png",
   "id": 350,
   "type": [
     "water"

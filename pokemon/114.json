@@ -19,7 +19,7 @@
   "slug": "tangela",
   "name": "Tangela",
   "ThumbnailAltText": "Tangela",
-  "ThumbnailImage": "/pokedex-server/images/114.png",
+  "ThumbnailImage": "/images/114.png",
   "id": 114,
   "type": [
     "grass"

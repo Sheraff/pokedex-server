@@ -17,7 +17,7 @@
   "slug": "timburr",
   "name": "Timburr",
   "ThumbnailAltText": "Timburr",
-  "ThumbnailImage": "/pokedex-server/images/532.png",
+  "ThumbnailImage": "/images/532.png",
   "id": 532,
   "type": [
     "fighting"

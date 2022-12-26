@@ -17,7 +17,7 @@
   "slug": "pidgeotto",
   "name": "Pidgeotto",
   "ThumbnailAltText": "Pidgeotto",
-  "ThumbnailImage": "/pokedex-server/images/17.png",
+  "ThumbnailImage": "/images/17.png",
   "id": 17,
   "type": [
     "normal",

@@ -17,7 +17,7 @@
   "slug": "beedrill",
   "name": "Beedrill",
   "ThumbnailAltText": "Beedrill",
-  "ThumbnailImage": "/pokedex-server/images/15.png",
+  "ThumbnailImage": "/images/15.png",
   "id": 15,
   "type": [
     "bug",

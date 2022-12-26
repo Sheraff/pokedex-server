@@ -17,7 +17,7 @@
   "slug": "dustox",
   "name": "Dustox",
   "ThumbnailAltText": "Dustox",
-  "ThumbnailImage": "/pokedex-server/images/269.png",
+  "ThumbnailImage": "/images/269.png",
   "id": 269,
   "type": [
     "bug",

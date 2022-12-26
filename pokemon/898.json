@@ -20,7 +20,7 @@
   "slug": "calyrex",
   "name": "Calyrex",
   "ThumbnailAltText": "Calyrex",
-  "ThumbnailImage": "/pokedex-server/images/898.png",
+  "ThumbnailImage": "/images/898.png",
   "id": 898,
   "type": [
     "psychic",

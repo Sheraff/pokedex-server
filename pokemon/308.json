@@ -16,7 +16,7 @@
   "slug": "medicham",
   "name": "Medicham",
   "ThumbnailAltText": "Medicham",
-  "ThumbnailImage": "/pokedex-server/images/308.png",
+  "ThumbnailImage": "/images/308.png",
   "id": 308,
   "type": [
     "fighting",

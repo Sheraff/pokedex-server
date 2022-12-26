@@ -17,7 +17,7 @@
   "slug": "ralts",
   "name": "Ralts",
   "ThumbnailAltText": "Ralts",
-  "ThumbnailImage": "/pokedex-server/images/280.png",
+  "ThumbnailImage": "/images/280.png",
   "id": 280,
   "type": [
     "psychic",

@@ -14,7 +14,7 @@
   "slug": "greedent",
   "name": "Greedent",
   "ThumbnailAltText": "Greedent",
-  "ThumbnailImage": "/pokedex-server/images/820.png",
+  "ThumbnailImage": "/images/820.png",
   "id": 820,
   "type": [
     "normal"

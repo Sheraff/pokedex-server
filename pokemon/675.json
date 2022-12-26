@@ -17,7 +17,7 @@
   "slug": "pangoro",
   "name": "Pangoro",
   "ThumbnailAltText": "Pangoro",
-  "ThumbnailImage": "/pokedex-server/images/675.png",
+  "ThumbnailImage": "/images/675.png",
   "id": 675,
   "type": [
     "fighting",

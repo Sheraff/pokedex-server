@@ -16,7 +16,7 @@
   "slug": "mewtwo",
   "name": "Mewtwo",
   "ThumbnailAltText": "Mewtwo",
-  "ThumbnailImage": "/pokedex-server/images/150.png",
+  "ThumbnailImage": "/images/150.png",
   "id": 150,
   "type": [
     "psychic"

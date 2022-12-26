@@ -16,7 +16,7 @@
   "slug": "garbodor",
   "name": "Garbodor",
   "ThumbnailAltText": "Garbodor",
-  "ThumbnailImage": "/pokedex-server/images/569.png",
+  "ThumbnailImage": "/images/569.png",
   "id": 569,
   "type": [
     "poison"

@@ -14,7 +14,7 @@
   "slug": "castform",
   "name": "Castform",
   "ThumbnailAltText": "Castform",
-  "ThumbnailImage": "/pokedex-server/images/351.png",
+  "ThumbnailImage": "/images/351.png",
   "id": 351,
   "type": [
     "normal"

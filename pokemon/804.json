@@ -17,7 +17,7 @@
   "slug": "naganadel",
   "name": "Naganadel",
   "ThumbnailAltText": "Naganadel",
-  "ThumbnailImage": "/pokedex-server/images/804.png",
+  "ThumbnailImage": "/images/804.png",
   "id": 804,
   "type": [
     "poison",

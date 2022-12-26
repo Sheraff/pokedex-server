@@ -15,7 +15,7 @@
   "slug": "arrokuda",
   "name": "Arrokuda",
   "ThumbnailAltText": "Arrokuda",
-  "ThumbnailImage": "/pokedex-server/images/846.png",
+  "ThumbnailImage": "/images/846.png",
   "id": 846,
   "type": [
     "water"

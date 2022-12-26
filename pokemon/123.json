@@ -19,7 +19,7 @@
   "slug": "scyther",
   "name": "Scyther",
   "ThumbnailAltText": "Scyther",
-  "ThumbnailImage": "/pokedex-server/images/123.png",
+  "ThumbnailImage": "/images/123.png",
   "id": 123,
   "type": [
     "bug",

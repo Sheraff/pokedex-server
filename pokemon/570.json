@@ -16,7 +16,7 @@
   "slug": "zorua",
   "name": "Zorua",
   "ThumbnailAltText": "Zorua",
-  "ThumbnailImage": "/pokedex-server/images/570.png",
+  "ThumbnailImage": "/images/570.png",
   "id": 570,
   "type": [
     "dark"

@@ -21,7 +21,7 @@
   "slug": "nuzleaf",
   "name": "Nuzleaf",
   "ThumbnailAltText": "Nuzleaf",
-  "ThumbnailImage": "/pokedex-server/images/274.png",
+  "ThumbnailImage": "/images/274.png",
   "id": 274,
   "type": [
     "grass",

@@ -17,7 +17,7 @@
   "slug": "nincada",
   "name": "Nincada",
   "ThumbnailAltText": "Nincada",
-  "ThumbnailImage": "/pokedex-server/images/290.png",
+  "ThumbnailImage": "/images/290.png",
   "id": 290,
   "type": [
     "bug",

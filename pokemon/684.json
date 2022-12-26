@@ -15,7 +15,7 @@
   "slug": "swirlix",
   "name": "Swirlix",
   "ThumbnailAltText": "Swirlix",
-  "ThumbnailImage": "/pokedex-server/images/684.png",
+  "ThumbnailImage": "/images/684.png",
   "id": 684,
   "type": [
     "fairy"

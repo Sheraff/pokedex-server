@@ -18,7 +18,7 @@
   "slug": "carvanha",
   "name": "Carvanha",
   "ThumbnailAltText": "Carvanha",
-  "ThumbnailImage": "/pokedex-server/images/318.png",
+  "ThumbnailImage": "/images/318.png",
   "id": 318,
   "type": [
     "water",

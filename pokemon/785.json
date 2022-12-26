@@ -15,7 +15,7 @@
   "slug": "tapu-koko",
   "name": "Tapu Koko",
   "ThumbnailAltText": "Tapu Koko",
-  "ThumbnailImage": "/pokedex-server/images/785.png",
+  "ThumbnailImage": "/images/785.png",
   "id": 785,
   "type": [
     "electric",

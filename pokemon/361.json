@@ -18,7 +18,7 @@
   "slug": "snorunt",
   "name": "Snorunt",
   "ThumbnailAltText": "Snorunt",
-  "ThumbnailImage": "/pokedex-server/images/361.png",
+  "ThumbnailImage": "/images/361.png",
   "id": 361,
   "type": [
     "ice"

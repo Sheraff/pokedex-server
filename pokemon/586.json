@@ -20,7 +20,7 @@
   "slug": "sawsbuck",
   "name": "Sawsbuck",
   "ThumbnailAltText": "Sawsbuck",
-  "ThumbnailImage": "/pokedex-server/images/586.png",
+  "ThumbnailImage": "/images/586.png",
   "id": 586,
   "type": [
     "normal",

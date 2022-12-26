@@ -18,7 +18,7 @@
   "slug": "hydreigon",
   "name": "Hydreigon",
   "ThumbnailAltText": "Hydreigon",
-  "ThumbnailImage": "/pokedex-server/images/635.png",
+  "ThumbnailImage": "/images/635.png",
   "id": 635,
   "type": [
     "dark",

@@ -16,7 +16,7 @@
   "slug": "passimian",
   "name": "Passimian",
   "ThumbnailAltText": "Passimian",
-  "ThumbnailImage": "/pokedex-server/images/766.png",
+  "ThumbnailImage": "/images/766.png",
   "id": 766,
   "type": [
     "fighting"

@@ -18,7 +18,7 @@
   "slug": "fomantis",
   "name": "Fomantis",
   "ThumbnailAltText": "Fomantis",
-  "ThumbnailImage": "/pokedex-server/images/753.png",
+  "ThumbnailImage": "/images/753.png",
   "id": 753,
   "type": [
     "grass"

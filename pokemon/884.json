@@ -16,7 +16,7 @@
   "slug": "duraludon",
   "name": "Duraludon",
   "ThumbnailAltText": "Duraludon",
-  "ThumbnailImage": "/pokedex-server/images/884.png",
+  "ThumbnailImage": "/images/884.png",
   "id": 884,
   "type": [
     "steel",

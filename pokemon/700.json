@@ -15,7 +15,7 @@
   "slug": "sylveon",
   "name": "Sylveon",
   "ThumbnailAltText": "Sylveon",
-  "ThumbnailImage": "/pokedex-server/images/700.png",
+  "ThumbnailImage": "/images/700.png",
   "id": 700,
   "type": [
     "fairy"

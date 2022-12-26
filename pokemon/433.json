@@ -16,7 +16,7 @@
   "slug": "chingling",
   "name": "Chingling",
   "ThumbnailAltText": "Chingling",
-  "ThumbnailImage": "/pokedex-server/images/433.png",
+  "ThumbnailImage": "/images/433.png",
   "id": 433,
   "type": [
     "psychic"

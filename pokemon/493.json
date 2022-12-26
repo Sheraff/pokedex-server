@@ -14,7 +14,7 @@
   "slug": "arceus",
   "name": "Arceus",
   "ThumbnailAltText": "Arceus",
-  "ThumbnailImage": "/pokedex-server/images/493.png",
+  "ThumbnailImage": "/images/493.png",
   "id": 493,
   "type": [
     "normal"

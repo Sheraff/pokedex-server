@@ -15,7 +15,7 @@
   "slug": "bouffalant",
   "name": "Bouffalant",
   "ThumbnailAltText": "Bouffalant",
-  "ThumbnailImage": "/pokedex-server/images/626.png",
+  "ThumbnailImage": "/images/626.png",
   "id": 626,
   "type": [
     "normal"

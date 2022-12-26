@@ -16,7 +16,7 @@
   "slug": "tapu-lele",
   "name": "Tapu Lele",
   "ThumbnailAltText": "Tapu Lele",
-  "ThumbnailImage": "/pokedex-server/images/786.png",
+  "ThumbnailImage": "/images/786.png",
   "id": 786,
   "type": [
     "psychic",

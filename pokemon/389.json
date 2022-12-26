@@ -17,7 +17,7 @@
   "slug": "torterra",
   "name": "Torterra",
   "ThumbnailAltText": "Torterra",
-  "ThumbnailImage": "/pokedex-server/images/389.png",
+  "ThumbnailImage": "/images/389.png",
   "id": 389,
   "type": [
     "grass",

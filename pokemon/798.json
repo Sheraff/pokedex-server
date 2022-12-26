@@ -15,7 +15,7 @@
   "slug": "kartana",
   "name": "Kartana",
   "ThumbnailAltText": "Kartana",
-  "ThumbnailImage": "/pokedex-server/images/798.png",
+  "ThumbnailImage": "/images/798.png",
   "id": 798,
   "type": [
     "grass",

@@ -18,7 +18,7 @@
   "slug": "honchkrow",
   "name": "Honchkrow",
   "ThumbnailAltText": "Honchkrow",
-  "ThumbnailImage": "/pokedex-server/images/430.png",
+  "ThumbnailImage": "/images/430.png",
   "id": 430,
   "type": [
     "dark",

@@ -15,7 +15,7 @@
   "slug": "shinx",
   "name": "Shinx",
   "ThumbnailAltText": "Shinx",
-  "ThumbnailImage": "/pokedex-server/images/403.png",
+  "ThumbnailImage": "/images/403.png",
   "id": 403,
   "type": [
     "electric"

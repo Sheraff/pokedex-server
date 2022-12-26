@@ -15,7 +15,7 @@
   "slug": "escavalier",
   "name": "Escavalier",
   "ThumbnailAltText": "Escavalier",
-  "ThumbnailImage": "/pokedex-server/images/589.png",
+  "ThumbnailImage": "/images/589.png",
   "id": 589,
   "type": [
     "bug",

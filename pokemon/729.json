@@ -15,7 +15,7 @@
   "slug": "brionne",
   "name": "Brionne",
   "ThumbnailAltText": "Brionne",
-  "ThumbnailImage": "/pokedex-server/images/729.png",
+  "ThumbnailImage": "/images/729.png",
   "id": 729,
   "type": [
     "water"

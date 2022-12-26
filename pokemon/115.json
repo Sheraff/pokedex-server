@@ -15,7 +15,7 @@
   "slug": "kangaskhan",
   "name": "Kangaskhan",
   "ThumbnailAltText": "Kangaskhan",
-  "ThumbnailImage": "/pokedex-server/images/115.png",
+  "ThumbnailImage": "/images/115.png",
   "id": 115,
   "type": [
     "normal"

@@ -17,7 +17,7 @@
   "slug": "haxorus",
   "name": "Haxorus",
   "ThumbnailAltText": "Haxorus",
-  "ThumbnailImage": "/pokedex-server/images/612.png",
+  "ThumbnailImage": "/images/612.png",
   "id": 612,
   "type": [
     "dragon"

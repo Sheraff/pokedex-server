@@ -15,7 +15,7 @@
   "slug": "kyogre",
   "name": "Kyogre",
   "ThumbnailAltText": "Kyogre",
-  "ThumbnailImage": "/pokedex-server/images/382.png",
+  "ThumbnailImage": "/images/382.png",
   "id": 382,
   "type": [
     "water"

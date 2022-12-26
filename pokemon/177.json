@@ -19,7 +19,7 @@
   "slug": "natu",
   "name": "Natu",
   "ThumbnailAltText": "Natu",
-  "ThumbnailImage": "/pokedex-server/images/177.png",
+  "ThumbnailImage": "/images/177.png",
   "id": 177,
   "type": [
     "psychic",

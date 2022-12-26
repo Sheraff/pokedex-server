@@ -17,7 +17,7 @@
   "slug": "gardevoir",
   "name": "Gardevoir",
   "ThumbnailAltText": "Gardevoir",
-  "ThumbnailImage": "/pokedex-server/images/282.png",
+  "ThumbnailImage": "/images/282.png",
   "id": 282,
   "type": [
     "psychic",

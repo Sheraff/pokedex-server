@@ -20,7 +20,7 @@
   "slug": "parasect",
   "name": "Parasect",
   "ThumbnailAltText": "Parasect",
-  "ThumbnailImage": "/pokedex-server/images/47.png",
+  "ThumbnailImage": "/images/47.png",
   "id": 47,
   "type": [
     "bug",

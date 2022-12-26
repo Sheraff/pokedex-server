@@ -15,7 +15,7 @@
   "slug": "delcatty",
   "name": "Delcatty",
   "ThumbnailAltText": "Delcatty",
-  "ThumbnailImage": "/pokedex-server/images/301.png",
+  "ThumbnailImage": "/images/301.png",
   "id": 301,
   "type": [
     "normal"

@@ -20,7 +20,7 @@
   "slug": "rhydon",
   "name": "Rhydon",
   "ThumbnailAltText": "Rhydon",
-  "ThumbnailImage": "/pokedex-server/images/112.png",
+  "ThumbnailImage": "/images/112.png",
   "id": 112,
   "type": [
     "ground",

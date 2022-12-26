@@ -16,7 +16,7 @@
   "slug": "snubbull",
   "name": "Snubbull",
   "ThumbnailAltText": "Snubbull",
-  "ThumbnailImage": "/pokedex-server/images/209.png",
+  "ThumbnailImage": "/images/209.png",
   "id": 209,
   "type": [
     "fairy"

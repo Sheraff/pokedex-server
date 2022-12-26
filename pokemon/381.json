@@ -19,7 +19,7 @@
   "slug": "latios",
   "name": "Latios",
   "ThumbnailAltText": "Latios",
-  "ThumbnailImage": "/pokedex-server/images/381.png",
+  "ThumbnailImage": "/images/381.png",
   "id": 381,
   "type": [
     "dragon",

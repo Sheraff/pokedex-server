@@ -15,7 +15,7 @@
   "slug": "feraligatr",
   "name": "Feraligatr",
   "ThumbnailAltText": "Feraligatr",
-  "ThumbnailImage": "/pokedex-server/images/160.png",
+  "ThumbnailImage": "/images/160.png",
   "id": 160,
   "type": [
     "water"

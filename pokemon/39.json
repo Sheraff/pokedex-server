@@ -16,7 +16,7 @@
   "slug": "jigglypuff",
   "name": "Jigglypuff",
   "ThumbnailAltText": "Jigglypuff",
-  "ThumbnailImage": "/pokedex-server/images/39.png",
+  "ThumbnailImage": "/images/39.png",
   "id": 39,
   "type": [
     "normal",

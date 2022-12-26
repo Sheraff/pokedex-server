@@ -16,7 +16,7 @@
   "slug": "golisopod",
   "name": "Golisopod",
   "ThumbnailAltText": "Golisopod",
-  "ThumbnailImage": "/pokedex-server/images/768.png",
+  "ThumbnailImage": "/images/768.png",
   "id": 768,
   "type": [
     "bug",

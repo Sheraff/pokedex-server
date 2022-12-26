@@ -16,7 +16,7 @@
   "slug": "girafarig",
   "name": "Girafarig",
   "ThumbnailAltText": "Girafarig",
-  "ThumbnailImage": "/pokedex-server/images/203.png",
+  "ThumbnailImage": "/images/203.png",
   "id": 203,
   "type": [
     "normal",

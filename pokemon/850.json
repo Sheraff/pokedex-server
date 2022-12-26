@@ -17,7 +17,7 @@
   "slug": "sizzlipede",
   "name": "Sizzlipede",
   "ThumbnailAltText": "Sizzlipede",
-  "ThumbnailImage": "/pokedex-server/images/850.png",
+  "ThumbnailImage": "/images/850.png",
   "id": 850,
   "type": [
     "fire",

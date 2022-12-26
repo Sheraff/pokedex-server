@@ -16,7 +16,7 @@
   "slug": "vulpix",
   "name": "Vulpix",
   "ThumbnailAltText": "Vulpix",
-  "ThumbnailImage": "/pokedex-server/images/37.png",
+  "ThumbnailImage": "/images/37.png",
   "id": 37,
   "type": [
     "fire"

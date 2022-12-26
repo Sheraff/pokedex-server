@@ -19,7 +19,7 @@
   "slug": "cottonee",
   "name": "Cottonee",
   "ThumbnailAltText": "Cottonee",
-  "ThumbnailImage": "/pokedex-server/images/546.png",
+  "ThumbnailImage": "/images/546.png",
   "id": 546,
   "type": [
     "grass",

@@ -15,7 +15,7 @@
   "slug": "persian",
   "name": "Persian",
   "ThumbnailAltText": "Persian",
-  "ThumbnailImage": "/pokedex-server/images/53.png",
+  "ThumbnailImage": "/images/53.png",
   "id": 53,
   "type": [
     "normal"

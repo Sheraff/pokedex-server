@@ -19,7 +19,7 @@
   "slug": "boldore",
   "name": "Boldore",
   "ThumbnailAltText": "Boldore",
-  "ThumbnailImage": "/pokedex-server/images/525.png",
+  "ThumbnailImage": "/images/525.png",
   "id": 525,
   "type": [
     "rock"

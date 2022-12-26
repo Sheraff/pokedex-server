@@ -19,7 +19,7 @@
   "slug": "roggenrola",
   "name": "Roggenrola",
   "ThumbnailAltText": "Roggenrola",
-  "ThumbnailImage": "/pokedex-server/images/524.png",
+  "ThumbnailImage": "/images/524.png",
   "id": 524,
   "type": [
     "rock"

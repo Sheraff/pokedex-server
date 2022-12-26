@@ -16,7 +16,7 @@
   "slug": "seaking",
   "name": "Seaking",
   "ThumbnailAltText": "Seaking",
-  "ThumbnailImage": "/pokedex-server/images/119.png",
+  "ThumbnailImage": "/images/119.png",
   "id": 119,
   "type": [
     "water"

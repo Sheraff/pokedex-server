@@ -15,7 +15,7 @@
   "slug": "sableye",
   "name": "Sableye",
   "ThumbnailAltText": "Sableye",
-  "ThumbnailImage": "/pokedex-server/images/302.png",
+  "ThumbnailImage": "/images/302.png",
   "id": 302,
   "type": [
     "dark",

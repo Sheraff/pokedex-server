@@ -16,7 +16,7 @@
   "slug": "wimpod",
   "name": "Wimpod",
   "ThumbnailAltText": "Wimpod",
-  "ThumbnailImage": "/pokedex-server/images/767.png",
+  "ThumbnailImage": "/images/767.png",
   "id": 767,
   "type": [
     "bug",

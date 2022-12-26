@@ -15,7 +15,7 @@
   "slug": "purugly",
   "name": "Purugly",
   "ThumbnailAltText": "Purugly",
-  "ThumbnailImage": "/pokedex-server/images/432.png",
+  "ThumbnailImage": "/images/432.png",
   "id": 432,
   "type": [
     "normal"

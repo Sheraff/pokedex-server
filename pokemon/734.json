@@ -15,7 +15,7 @@
   "slug": "yungoos",
   "name": "Yungoos",
   "ThumbnailAltText": "Yungoos",
-  "ThumbnailImage": "/pokedex-server/images/734.png",
+  "ThumbnailImage": "/images/734.png",
   "id": 734,
   "type": [
     "normal"

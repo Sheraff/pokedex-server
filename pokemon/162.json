@@ -15,7 +15,7 @@
   "slug": "furret",
   "name": "Furret",
   "ThumbnailAltText": "Furret",
-  "ThumbnailImage": "/pokedex-server/images/162.png",
+  "ThumbnailImage": "/images/162.png",
   "id": 162,
   "type": [
     "normal"

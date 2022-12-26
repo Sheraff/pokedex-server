@@ -18,7 +18,7 @@
   "slug": "steelix",
   "name": "Steelix",
   "ThumbnailAltText": "Steelix",
-  "ThumbnailImage": "/pokedex-server/images/208.png",
+  "ThumbnailImage": "/images/208.png",
   "id": 208,
   "type": [
     "steel",

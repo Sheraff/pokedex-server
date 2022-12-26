@@ -16,7 +16,7 @@
   "slug": "charmander",
   "name": "Charmander",
   "ThumbnailAltText": "Charmander",
-  "ThumbnailImage": "/pokedex-server/images/4.png",
+  "ThumbnailImage": "/images/4.png",
   "id": 4,
   "type": [
     "fire"

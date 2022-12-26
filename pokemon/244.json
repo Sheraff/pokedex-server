@@ -16,7 +16,7 @@
   "slug": "entei",
   "name": "Entei",
   "ThumbnailAltText": "Entei",
-  "ThumbnailImage": "/pokedex-server/images/244.png",
+  "ThumbnailImage": "/images/244.png",
   "id": 244,
   "type": [
     "fire"

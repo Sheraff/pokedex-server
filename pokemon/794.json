@@ -17,7 +17,7 @@
   "slug": "buzzwole",
   "name": "Buzzwole",
   "ThumbnailAltText": "Buzzwole",
-  "ThumbnailImage": "/pokedex-server/images/794.png",
+  "ThumbnailImage": "/images/794.png",
   "id": 794,
   "type": [
     "bug",

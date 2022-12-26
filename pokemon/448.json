@@ -17,7 +17,7 @@
   "slug": "lucario",
   "name": "Lucario",
   "ThumbnailAltText": "Lucario",
-  "ThumbnailImage": "/pokedex-server/images/448.png",
+  "ThumbnailImage": "/images/448.png",
   "id": 448,
   "type": [
     "fighting",

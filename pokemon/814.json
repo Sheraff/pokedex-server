@@ -16,7 +16,7 @@
   "slug": "raboot",
   "name": "Raboot",
   "ThumbnailAltText": "Raboot",
-  "ThumbnailImage": "/pokedex-server/images/814.png",
+  "ThumbnailImage": "/images/814.png",
   "id": 814,
   "type": [
     "fire"

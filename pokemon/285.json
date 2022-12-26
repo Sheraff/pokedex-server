@@ -19,7 +19,7 @@
   "slug": "shroomish",
   "name": "Shroomish",
   "ThumbnailAltText": "Shroomish",
-  "ThumbnailImage": "/pokedex-server/images/285.png",
+  "ThumbnailImage": "/images/285.png",
   "id": 285,
   "type": [
     "grass"

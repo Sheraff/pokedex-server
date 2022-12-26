@@ -18,7 +18,7 @@
   "slug": "simisage",
   "name": "Simisage",
   "ThumbnailAltText": "Simisage",
-  "ThumbnailImage": "/pokedex-server/images/512.png",
+  "ThumbnailImage": "/images/512.png",
   "id": 512,
   "type": [
     "grass"

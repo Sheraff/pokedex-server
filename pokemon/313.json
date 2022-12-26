@@ -17,7 +17,7 @@
   "slug": "volbeat",
   "name": "Volbeat",
   "ThumbnailAltText": "Volbeat",
-  "ThumbnailImage": "/pokedex-server/images/313.png",
+  "ThumbnailImage": "/images/313.png",
   "id": 313,
   "type": [
     "bug"

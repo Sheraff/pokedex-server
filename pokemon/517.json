@@ -17,7 +17,7 @@
   "slug": "munna",
   "name": "Munna",
   "ThumbnailAltText": "Munna",
-  "ThumbnailImage": "/pokedex-server/images/517.png",
+  "ThumbnailImage": "/images/517.png",
   "id": 517,
   "type": [
     "psychic"

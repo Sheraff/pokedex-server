@@ -14,7 +14,7 @@
   "slug": "ditto",
   "name": "Ditto",
   "ThumbnailAltText": "Ditto",
-  "ThumbnailImage": "/pokedex-server/images/132.png",
+  "ThumbnailImage": "/images/132.png",
   "id": 132,
   "type": [
     "normal"

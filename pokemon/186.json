@@ -16,7 +16,7 @@
   "slug": "politoed",
   "name": "Politoed",
   "ThumbnailAltText": "Politoed",
-  "ThumbnailImage": "/pokedex-server/images/186.png",
+  "ThumbnailImage": "/images/186.png",
   "id": 186,
   "type": [
     "water"

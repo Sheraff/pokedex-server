@@ -19,7 +19,7 @@
   "slug": "dreepy",
   "name": "Dreepy",
   "ThumbnailAltText": "Dreepy",
-  "ThumbnailImage": "/pokedex-server/images/885.png",
+  "ThumbnailImage": "/images/885.png",
   "id": 885,
   "type": [
     "dragon",

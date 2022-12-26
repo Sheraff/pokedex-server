@@ -18,7 +18,7 @@
   "slug": "scolipede",
   "name": "Scolipede",
   "ThumbnailAltText": "Scolipede",
-  "ThumbnailImage": "/pokedex-server/images/545.png",
+  "ThumbnailImage": "/images/545.png",
   "id": 545,
   "type": [
     "bug",

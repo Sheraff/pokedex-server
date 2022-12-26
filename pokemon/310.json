@@ -15,7 +15,7 @@
   "slug": "manectric",
   "name": "Manectric",
   "ThumbnailAltText": "Manectric",
-  "ThumbnailImage": "/pokedex-server/images/310.png",
+  "ThumbnailImage": "/images/310.png",
   "id": 310,
   "type": [
     "electric"

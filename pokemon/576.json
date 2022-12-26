@@ -17,7 +17,7 @@
   "slug": "gothitelle",
   "name": "Gothitelle",
   "ThumbnailAltText": "Gothitelle",
-  "ThumbnailImage": "/pokedex-server/images/576.png",
+  "ThumbnailImage": "/images/576.png",
   "id": 576,
   "type": [
     "psychic"

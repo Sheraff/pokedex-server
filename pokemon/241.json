@@ -15,7 +15,7 @@
   "slug": "miltank",
   "name": "Miltank",
   "ThumbnailAltText": "Miltank",
-  "ThumbnailImage": "/pokedex-server/images/241.png",
+  "ThumbnailImage": "/images/241.png",
   "id": 241,
   "type": [
     "normal"

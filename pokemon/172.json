@@ -14,7 +14,7 @@
   "slug": "pichu",
   "name": "Pichu",
   "ThumbnailAltText": "Pichu",
-  "ThumbnailImage": "/pokedex-server/images/172.png",
+  "ThumbnailImage": "/images/172.png",
   "id": 172,
   "type": [
     "electric"

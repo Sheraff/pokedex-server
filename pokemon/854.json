@@ -15,7 +15,7 @@
   "slug": "sinistea",
   "name": "Sinistea",
   "ThumbnailAltText": "Sinistea",
-  "ThumbnailImage": "/pokedex-server/images/854.png",
+  "ThumbnailImage": "/images/854.png",
   "id": 854,
   "type": [
     "ghost"

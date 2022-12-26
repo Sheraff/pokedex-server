@@ -17,7 +17,7 @@
   "slug": "pancham",
   "name": "Pancham",
   "ThumbnailAltText": "Pancham",
-  "ThumbnailImage": "/pokedex-server/images/674.png",
+  "ThumbnailImage": "/images/674.png",
   "id": 674,
   "type": [
     "fighting"

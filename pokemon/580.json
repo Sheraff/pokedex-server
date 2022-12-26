@@ -16,7 +16,7 @@
   "slug": "ducklett",
   "name": "Ducklett",
   "ThumbnailAltText": "Ducklett",
-  "ThumbnailImage": "/pokedex-server/images/580.png",
+  "ThumbnailImage": "/images/580.png",
   "id": 580,
   "type": [
     "water",

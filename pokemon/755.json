@@ -19,7 +19,7 @@
   "slug": "morelull",
   "name": "Morelull",
   "ThumbnailAltText": "Morelull",
-  "ThumbnailImage": "/pokedex-server/images/755.png",
+  "ThumbnailImage": "/images/755.png",
   "id": 755,
   "type": [
     "grass",

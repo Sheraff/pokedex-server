@@ -20,7 +20,7 @@
   "slug": "abomasnow",
   "name": "Abomasnow",
   "ThumbnailAltText": "Abomasnow",
-  "ThumbnailImage": "/pokedex-server/images/460.png",
+  "ThumbnailImage": "/images/460.png",
   "id": 460,
   "type": [
     "grass",

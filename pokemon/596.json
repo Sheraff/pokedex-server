@@ -16,7 +16,7 @@
   "slug": "galvantula",
   "name": "Galvantula",
   "ThumbnailAltText": "Galvantula",
-  "ThumbnailImage": "/pokedex-server/images/596.png",
+  "ThumbnailImage": "/images/596.png",
   "id": 596,
   "type": [
     "bug",

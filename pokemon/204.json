@@ -16,7 +16,7 @@
   "slug": "pineco",
   "name": "Pineco",
   "ThumbnailAltText": "Pineco",
-  "ThumbnailImage": "/pokedex-server/images/204.png",
+  "ThumbnailImage": "/images/204.png",
   "id": 204,
   "type": [
     "bug"

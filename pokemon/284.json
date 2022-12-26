@@ -18,7 +18,7 @@
   "slug": "masquerain",
   "name": "Masquerain",
   "ThumbnailAltText": "Masquerain",
-  "ThumbnailImage": "/pokedex-server/images/284.png",
+  "ThumbnailImage": "/images/284.png",
   "id": 284,
   "type": [
     "bug",

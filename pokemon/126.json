@@ -16,7 +16,7 @@
   "slug": "magmar",
   "name": "Magmar",
   "ThumbnailAltText": "Magmar",
-  "ThumbnailImage": "/pokedex-server/images/126.png",
+  "ThumbnailImage": "/images/126.png",
   "id": 126,
   "type": [
     "fire"

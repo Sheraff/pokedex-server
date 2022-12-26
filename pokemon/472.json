@@ -16,7 +16,7 @@
   "slug": "gliscor",
   "name": "Gliscor",
   "ThumbnailAltText": "Gliscor",
-  "ThumbnailImage": "/pokedex-server/images/472.png",
+  "ThumbnailImage": "/images/472.png",
   "id": 472,
   "type": [
     "ground",

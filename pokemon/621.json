@@ -17,7 +17,7 @@
   "slug": "druddigon",
   "name": "Druddigon",
   "ThumbnailAltText": "Druddigon",
-  "ThumbnailImage": "/pokedex-server/images/621.png",
+  "ThumbnailImage": "/images/621.png",
   "id": 621,
   "type": [
     "dragon"

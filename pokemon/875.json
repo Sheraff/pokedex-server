@@ -17,7 +17,7 @@
   "slug": "eiscue",
   "name": "Eiscue",
   "ThumbnailAltText": "Eiscue",
-  "ThumbnailImage": "/pokedex-server/images/875.png",
+  "ThumbnailImage": "/images/875.png",
   "id": 875,
   "type": [
     "ice"

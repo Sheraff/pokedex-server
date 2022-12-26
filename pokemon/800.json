@@ -16,7 +16,7 @@
   "slug": "necrozma",
   "name": "Necrozma",
   "ThumbnailAltText": "Necrozma",
-  "ThumbnailImage": "/pokedex-server/images/800.png",
+  "ThumbnailImage": "/images/800.png",
   "id": 800,
   "type": [
     "psychic"

@@ -19,7 +19,7 @@
   "slug": "pupitar",
   "name": "Pupitar",
   "ThumbnailAltText": "Pupitar",
-  "ThumbnailImage": "/pokedex-server/images/247.png",
+  "ThumbnailImage": "/images/247.png",
   "id": 247,
   "type": [
     "rock",

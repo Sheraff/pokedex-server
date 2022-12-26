@@ -16,7 +16,7 @@
   "slug": "hippowdon",
   "name": "Hippowdon",
   "ThumbnailAltText": "Hippowdon",
-  "ThumbnailImage": "/pokedex-server/images/450.png",
+  "ThumbnailImage": "/images/450.png",
   "id": 450,
   "type": [
     "ground"

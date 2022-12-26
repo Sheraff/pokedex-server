@@ -17,7 +17,7 @@
   "slug": "pawniard",
   "name": "Pawniard",
   "ThumbnailAltText": "Pawniard",
-  "ThumbnailImage": "/pokedex-server/images/624.png",
+  "ThumbnailImage": "/images/624.png",
   "id": 624,
   "type": [
     "dark",

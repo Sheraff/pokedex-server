@@ -15,7 +15,7 @@
   "slug": "yamask",
   "name": "Yamask",
   "ThumbnailAltText": "Yamask",
-  "ThumbnailImage": "/pokedex-server/images/562.png",
+  "ThumbnailImage": "/images/562.png",
   "id": 562,
   "type": [
     "ghost"

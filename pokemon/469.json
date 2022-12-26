@@ -19,7 +19,7 @@
   "slug": "yanmega",
   "name": "Yanmega",
   "ThumbnailAltText": "Yanmega",
-  "ThumbnailImage": "/pokedex-server/images/469.png",
+  "ThumbnailImage": "/images/469.png",
   "id": 469,
   "type": [
     "bug",

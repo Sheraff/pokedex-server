@@ -14,7 +14,7 @@
   "slug": "slakoth",
   "name": "Slakoth",
   "ThumbnailAltText": "Slakoth",
-  "ThumbnailImage": "/pokedex-server/images/287.png",
+  "ThumbnailImage": "/images/287.png",
   "id": 287,
   "type": [
     "normal"

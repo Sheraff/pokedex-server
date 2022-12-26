@@ -18,7 +18,7 @@
   "slug": "stunfisk",
   "name": "Stunfisk",
   "ThumbnailAltText": "Stunfisk",
-  "ThumbnailImage": "/pokedex-server/images/618.png",
+  "ThumbnailImage": "/images/618.png",
   "id": 618,
   "type": [
     "ground",

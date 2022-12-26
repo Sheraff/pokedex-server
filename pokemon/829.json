@@ -19,7 +19,7 @@
   "slug": "gossifleur",
   "name": "Gossifleur",
   "ThumbnailAltText": "Gossifleur",
-  "ThumbnailImage": "/pokedex-server/images/829.png",
+  "ThumbnailImage": "/images/829.png",
   "id": 829,
   "type": [
     "grass"

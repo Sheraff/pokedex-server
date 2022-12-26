@@ -17,7 +17,7 @@
   "slug": "haunter",
   "name": "Haunter",
   "ThumbnailAltText": "Haunter",
-  "ThumbnailImage": "/pokedex-server/images/93.png",
+  "ThumbnailImage": "/images/93.png",
   "id": 93,
   "type": [
     "ghost",

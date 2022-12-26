@@ -16,7 +16,7 @@
   "slug": "azelf",
   "name": "Azelf",
   "ThumbnailAltText": "Azelf",
-  "ThumbnailImage": "/pokedex-server/images/482.png",
+  "ThumbnailImage": "/images/482.png",
   "id": 482,
   "type": [
     "psychic"

@@ -18,7 +18,7 @@
   "slug": "cubchoo",
   "name": "Cubchoo",
   "ThumbnailAltText": "Cubchoo",
-  "ThumbnailImage": "/pokedex-server/images/613.png",
+  "ThumbnailImage": "/images/613.png",
   "id": 613,
   "type": [
     "ice"

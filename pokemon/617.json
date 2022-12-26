@@ -17,7 +17,7 @@
   "slug": "accelgor",
   "name": "Accelgor",
   "ThumbnailAltText": "Accelgor",
-  "ThumbnailImage": "/pokedex-server/images/617.png",
+  "ThumbnailImage": "/images/617.png",
   "id": 617,
   "type": [
     "bug"

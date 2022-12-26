@@ -16,7 +16,7 @@
   "slug": "ho-oh",
   "name": "Ho-Oh",
   "ThumbnailAltText": "Ho-Oh",
-  "ThumbnailImage": "/pokedex-server/images/250.png",
+  "ThumbnailImage": "/images/250.png",
   "id": 250,
   "type": [
     "fire",

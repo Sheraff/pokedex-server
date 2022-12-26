@@ -20,7 +20,7 @@
   "slug": "graveler",
   "name": "Graveler",
   "ThumbnailAltText": "Graveler",
-  "ThumbnailImage": "/pokedex-server/images/75.png",
+  "ThumbnailImage": "/images/75.png",
   "id": 75,
   "type": [
     "rock",

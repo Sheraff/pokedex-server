@@ -16,7 +16,7 @@
   "slug": "psyduck",
   "name": "Psyduck",
   "ThumbnailAltText": "Psyduck",
-  "ThumbnailImage": "/pokedex-server/images/54.png",
+  "ThumbnailImage": "/images/54.png",
   "id": 54,
   "type": [
     "water"

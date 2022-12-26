@@ -15,7 +15,7 @@
   "slug": "spritzee",
   "name": "Spritzee",
   "ThumbnailAltText": "Spritzee",
-  "ThumbnailImage": "/pokedex-server/images/682.png",
+  "ThumbnailImage": "/images/682.png",
   "id": 682,
   "type": [
     "fairy"

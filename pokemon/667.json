@@ -18,7 +18,7 @@
   "slug": "litleo",
   "name": "Litleo",
   "ThumbnailAltText": "Litleo",
-  "ThumbnailImage": "/pokedex-server/images/667.png",
+  "ThumbnailImage": "/images/667.png",
   "id": 667,
   "type": [
     "fire",

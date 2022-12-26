@@ -20,7 +20,7 @@
   "slug": "rhyperior",
   "name": "Rhyperior",
   "ThumbnailAltText": "Rhyperior",
-  "ThumbnailImage": "/pokedex-server/images/464.png",
+  "ThumbnailImage": "/images/464.png",
   "id": 464,
   "type": [
     "ground",

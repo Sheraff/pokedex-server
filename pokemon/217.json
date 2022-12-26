@@ -15,7 +15,7 @@
   "slug": "ursaring",
   "name": "Ursaring",
   "ThumbnailAltText": "Ursaring",
-  "ThumbnailImage": "/pokedex-server/images/217.png",
+  "ThumbnailImage": "/images/217.png",
   "id": 217,
   "type": [
     "normal"

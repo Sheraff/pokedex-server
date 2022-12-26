@@ -16,7 +16,7 @@
   "slug": "cinderace",
   "name": "Cinderace",
   "ThumbnailAltText": "Cinderace",
-  "ThumbnailImage": "/pokedex-server/images/815.png",
+  "ThumbnailImage": "/images/815.png",
   "id": 815,
   "type": [
     "fire"

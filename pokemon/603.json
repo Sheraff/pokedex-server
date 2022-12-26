@@ -14,7 +14,7 @@
   "slug": "eelektrik",
   "name": "Eelektrik",
   "ThumbnailAltText": "Eelektrik",
-  "ThumbnailImage": "/pokedex-server/images/603.png",
+  "ThumbnailImage": "/images/603.png",
   "id": 603,
   "type": [
     "electric"

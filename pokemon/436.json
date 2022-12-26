@@ -18,7 +18,7 @@
   "slug": "bronzor",
   "name": "Bronzor",
   "ThumbnailAltText": "Bronzor",
-  "ThumbnailImage": "/pokedex-server/images/436.png",
+  "ThumbnailImage": "/images/436.png",
   "id": 436,
   "type": [
     "steel",

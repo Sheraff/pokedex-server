@@ -17,7 +17,7 @@
   "slug": "fraxure",
   "name": "Fraxure",
   "ThumbnailAltText": "Fraxure",
-  "ThumbnailImage": "/pokedex-server/images/611.png",
+  "ThumbnailImage": "/images/611.png",
   "id": 611,
   "type": [
     "dragon"

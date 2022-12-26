@@ -18,7 +18,7 @@
   "slug": "whirlipede",
   "name": "Whirlipede",
   "ThumbnailAltText": "Whirlipede",
-  "ThumbnailImage": "/pokedex-server/images/544.png",
+  "ThumbnailImage": "/images/544.png",
   "id": 544,
   "type": [
     "bug",

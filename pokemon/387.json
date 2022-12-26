@@ -18,7 +18,7 @@
   "slug": "turtwig",
   "name": "Turtwig",
   "ThumbnailAltText": "Turtwig",
-  "ThumbnailImage": "/pokedex-server/images/387.png",
+  "ThumbnailImage": "/images/387.png",
   "id": 387,
   "type": [
     "grass"

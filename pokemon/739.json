@@ -17,7 +17,7 @@
   "slug": "crabrawler",
   "name": "Crabrawler",
   "ThumbnailAltText": "Crabrawler",
-  "ThumbnailImage": "/pokedex-server/images/739.png",
+  "ThumbnailImage": "/images/739.png",
   "id": 739,
   "type": [
     "fighting"

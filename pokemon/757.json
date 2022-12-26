@@ -17,7 +17,7 @@
   "slug": "salandit",
   "name": "Salandit",
   "ThumbnailAltText": "Salandit",
-  "ThumbnailImage": "/pokedex-server/images/757.png",
+  "ThumbnailImage": "/images/757.png",
   "id": 757,
   "type": [
     "poison",

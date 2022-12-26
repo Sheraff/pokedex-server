@@ -14,7 +14,7 @@
   "slug": "electivire",
   "name": "Electivire",
   "ThumbnailAltText": "Electivire",
-  "ThumbnailImage": "/pokedex-server/images/466.png",
+  "ThumbnailImage": "/images/466.png",
   "id": 466,
   "type": [
     "electric"

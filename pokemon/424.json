@@ -15,7 +15,7 @@
   "slug": "ambipom",
   "name": "Ambipom",
   "ThumbnailAltText": "Ambipom",
-  "ThumbnailImage": "/pokedex-server/images/424.png",
+  "ThumbnailImage": "/images/424.png",
   "id": 424,
   "type": [
     "normal"

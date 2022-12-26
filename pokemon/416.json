@@ -18,7 +18,7 @@
   "slug": "vespiquen",
   "name": "Vespiquen",
   "ThumbnailAltText": "Vespiquen",
-  "ThumbnailImage": "/pokedex-server/images/416.png",
+  "ThumbnailImage": "/images/416.png",
   "id": 416,
   "type": [
     "bug",

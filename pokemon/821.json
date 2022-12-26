@@ -17,7 +17,7 @@
   "slug": "rookidee",
   "name": "Rookidee",
   "ThumbnailAltText": "Rookidee",
-  "ThumbnailImage": "/pokedex-server/images/821.png",
+  "ThumbnailImage": "/images/821.png",
   "id": 821,
   "type": [
     "flying"

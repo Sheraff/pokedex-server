@@ -17,7 +17,7 @@
   "slug": "frosmoth",
   "name": "Frosmoth",
   "ThumbnailAltText": "Frosmoth",
-  "ThumbnailImage": "/pokedex-server/images/873.png",
+  "ThumbnailImage": "/images/873.png",
   "id": 873,
   "type": [
     "ice",

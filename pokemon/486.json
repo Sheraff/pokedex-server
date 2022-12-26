@@ -14,7 +14,7 @@
   "slug": "regigigas",
   "name": "Regigigas",
   "ThumbnailAltText": "Regigigas",
-  "ThumbnailImage": "/pokedex-server/images/486.png",
+  "ThumbnailImage": "/images/486.png",
   "id": 486,
   "type": [
     "normal"

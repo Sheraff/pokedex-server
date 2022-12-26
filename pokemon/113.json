@@ -15,7 +15,7 @@
   "slug": "chansey",
   "name": "Chansey",
   "ThumbnailAltText": "Chansey",
-  "ThumbnailImage": "/pokedex-server/images/113.png",
+  "ThumbnailImage": "/images/113.png",
   "id": 113,
   "type": [
     "normal"

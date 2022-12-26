@@ -15,7 +15,7 @@
   "slug": "xerneas",
   "name": "Xerneas",
   "ThumbnailAltText": "Xerneas",
-  "ThumbnailImage": "/pokedex-server/images/716.png",
+  "ThumbnailImage": "/images/716.png",
   "id": 716,
   "type": [
     "fairy"

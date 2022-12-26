@@ -17,7 +17,7 @@
   "slug": "trapinch",
   "name": "Trapinch",
   "ThumbnailAltText": "Trapinch",
-  "ThumbnailImage": "/pokedex-server/images/328.png",
+  "ThumbnailImage": "/images/328.png",
   "id": 328,
   "type": [
     "ground"

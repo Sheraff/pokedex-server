@@ -18,7 +18,7 @@
   "slug": "cherubi",
   "name": "Cherubi",
   "ThumbnailAltText": "Cherubi",
-  "ThumbnailImage": "/pokedex-server/images/420.png",
+  "ThumbnailImage": "/images/420.png",
   "id": 420,
   "type": [
     "grass"

@@ -15,7 +15,7 @@
   "slug": "luvdisc",
   "name": "Luvdisc",
   "ThumbnailAltText": "Luvdisc",
-  "ThumbnailImage": "/pokedex-server/images/370.png",
+  "ThumbnailImage": "/images/370.png",
   "id": 370,
   "type": [
     "water"

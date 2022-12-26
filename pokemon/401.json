@@ -16,7 +16,7 @@
   "slug": "kricketot",
   "name": "Kricketot",
   "ThumbnailAltText": "Kricketot",
-  "ThumbnailImage": "/pokedex-server/images/401.png",
+  "ThumbnailImage": "/images/401.png",
   "id": 401,
   "type": [
     "bug"

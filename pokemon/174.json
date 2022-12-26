@@ -16,7 +16,7 @@
   "slug": "igglybuff",
   "name": "Igglybuff",
   "ThumbnailAltText": "Igglybuff",
-  "ThumbnailImage": "/pokedex-server/images/174.png",
+  "ThumbnailImage": "/images/174.png",
   "id": 174,
   "type": [
     "normal",

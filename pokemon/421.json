@@ -18,7 +18,7 @@
   "slug": "cherrim",
   "name": "Cherrim",
   "ThumbnailAltText": "Cherrim",
-  "ThumbnailImage": "/pokedex-server/images/421.png",
+  "ThumbnailImage": "/images/421.png",
   "id": 421,
   "type": [
     "grass"

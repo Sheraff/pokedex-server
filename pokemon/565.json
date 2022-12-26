@@ -18,7 +18,7 @@
   "slug": "carracosta",
   "name": "Carracosta",
   "ThumbnailAltText": "Carracosta",
-  "ThumbnailImage": "/pokedex-server/images/565.png",
+  "ThumbnailImage": "/images/565.png",
   "id": 565,
   "type": [
     "water",

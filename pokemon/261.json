@@ -17,7 +17,7 @@
   "slug": "poochyena",
   "name": "Poochyena",
   "ThumbnailAltText": "Poochyena",
-  "ThumbnailImage": "/pokedex-server/images/261.png",
+  "ThumbnailImage": "/images/261.png",
   "id": 261,
   "type": [
     "dark"

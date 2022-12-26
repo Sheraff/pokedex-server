@@ -17,7 +17,7 @@
   "slug": "silicobra",
   "name": "Silicobra",
   "ThumbnailAltText": "Silicobra",
-  "ThumbnailImage": "/pokedex-server/images/843.png",
+  "ThumbnailImage": "/images/843.png",
   "id": 843,
   "type": [
     "ground"

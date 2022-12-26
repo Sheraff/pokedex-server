@@ -19,7 +19,7 @@
   "slug": "phantump",
   "name": "Phantump",
   "ThumbnailAltText": "Phantump",
-  "ThumbnailImage": "/pokedex-server/images/708.png",
+  "ThumbnailImage": "/images/708.png",
   "id": 708,
   "type": [
     "ghost",

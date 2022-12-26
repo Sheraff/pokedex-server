@@ -16,7 +16,7 @@
   "slug": "nidoran-female",
   "name": "Nidoran♀",
   "ThumbnailAltText": "Nidoran♀",
-  "ThumbnailImage": "/pokedex-server/images/29.png",
+  "ThumbnailImage": "/images/29.png",
   "id": 29,
   "type": [
     "poison"

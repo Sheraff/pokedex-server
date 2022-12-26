@@ -19,7 +19,7 @@
   "slug": "aurorus",
   "name": "Aurorus",
   "ThumbnailAltText": "Aurorus",
-  "ThumbnailImage": "/pokedex-server/images/699.png",
+  "ThumbnailImage": "/images/699.png",
   "id": 699,
   "type": [
     "rock",

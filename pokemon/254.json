@@ -18,7 +18,7 @@
   "slug": "sceptile",
   "name": "Sceptile",
   "ThumbnailAltText": "Sceptile",
-  "ThumbnailImage": "/pokedex-server/images/254.png",
+  "ThumbnailImage": "/images/254.png",
   "id": 254,
   "type": [
     "grass"

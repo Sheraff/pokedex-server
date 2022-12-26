@@ -14,7 +14,7 @@
   "slug": "jolteon",
   "name": "Jolteon",
   "ThumbnailAltText": "Jolteon",
-  "ThumbnailImage": "/pokedex-server/images/135.png",
+  "ThumbnailImage": "/images/135.png",
   "id": 135,
   "type": [
     "electric"

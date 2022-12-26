@@ -16,7 +16,7 @@
   "slug": "krabby",
   "name": "Krabby",
   "ThumbnailAltText": "Krabby",
-  "ThumbnailImage": "/pokedex-server/images/98.png",
+  "ThumbnailImage": "/images/98.png",
   "id": 98,
   "type": [
     "water"

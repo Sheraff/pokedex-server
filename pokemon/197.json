@@ -16,7 +16,7 @@
   "slug": "umbreon",
   "name": "Umbreon",
   "ThumbnailAltText": "Umbreon",
-  "ThumbnailImage": "/pokedex-server/images/197.png",
+  "ThumbnailImage": "/images/197.png",
   "id": 197,
   "type": [
     "dark"

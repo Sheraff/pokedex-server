@@ -16,7 +16,7 @@
   "slug": "feebas",
   "name": "Feebas",
   "ThumbnailAltText": "Feebas",
-  "ThumbnailImage": "/pokedex-server/images/349.png",
+  "ThumbnailImage": "/images/349.png",
   "id": 349,
   "type": [
     "water"

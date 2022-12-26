@@ -16,7 +16,7 @@
   "slug": "grapploct",
   "name": "Grapploct",
   "ThumbnailAltText": "Grapploct",
-  "ThumbnailImage": "/pokedex-server/images/853.png",
+  "ThumbnailImage": "/images/853.png",
   "id": 853,
   "type": [
     "fighting"

@@ -17,7 +17,7 @@
   "slug": "solgaleo",
   "name": "Solgaleo",
   "ThumbnailAltText": "Solgaleo",
-  "ThumbnailImage": "/pokedex-server/images/791.png",
+  "ThumbnailImage": "/images/791.png",
   "id": 791,
   "type": [
     "psychic",

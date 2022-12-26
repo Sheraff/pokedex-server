@@ -16,7 +16,7 @@
   "slug": "flareon",
   "name": "Flareon",
   "ThumbnailAltText": "Flareon",
-  "ThumbnailImage": "/pokedex-server/images/136.png",
+  "ThumbnailImage": "/images/136.png",
   "id": 136,
   "type": [
     "fire"

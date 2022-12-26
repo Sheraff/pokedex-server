@@ -17,7 +17,7 @@
   "slug": "sliggoo",
   "name": "Sliggoo",
   "ThumbnailAltText": "Sliggoo",
-  "ThumbnailImage": "/pokedex-server/images/705.png",
+  "ThumbnailImage": "/images/705.png",
   "id": 705,
   "type": [
     "dragon"

@@ -15,7 +15,7 @@
   "slug": "zacian",
   "name": "Zacian",
   "ThumbnailAltText": "Zacian",
-  "ThumbnailImage": "/pokedex-server/images/888.png",
+  "ThumbnailImage": "/images/888.png",
   "id": 888,
   "type": [
     "fairy"

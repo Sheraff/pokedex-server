@@ -15,7 +15,7 @@
   "slug": "landorus",
   "name": "Landorus",
   "ThumbnailAltText": "Landorus",
-  "ThumbnailImage": "/pokedex-server/images/645.png",
+  "ThumbnailImage": "/images/645.png",
   "id": 645,
   "type": [
     "ground",

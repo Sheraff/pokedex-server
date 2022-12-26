@@ -19,7 +19,7 @@
   "slug": "bounsweet",
   "name": "Bounsweet",
   "ThumbnailAltText": "Bounsweet",
-  "ThumbnailImage": "/pokedex-server/images/761.png",
+  "ThumbnailImage": "/images/761.png",
   "id": 761,
   "type": [
     "grass"

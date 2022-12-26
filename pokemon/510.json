@@ -17,7 +17,7 @@
   "slug": "liepard",
   "name": "Liepard",
   "ThumbnailAltText": "Liepard",
-  "ThumbnailImage": "/pokedex-server/images/510.png",
+  "ThumbnailImage": "/images/510.png",
   "id": 510,
   "type": [
     "dark"

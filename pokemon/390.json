@@ -16,7 +16,7 @@
   "slug": "chimchar",
   "name": "Chimchar",
   "ThumbnailAltText": "Chimchar",
-  "ThumbnailImage": "/pokedex-server/images/390.png",
+  "ThumbnailImage": "/images/390.png",
   "id": 390,
   "type": [
     "fire"

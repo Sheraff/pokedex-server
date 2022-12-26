@@ -15,7 +15,7 @@
   "slug": "gumshoos",
   "name": "Gumshoos",
   "ThumbnailAltText": "Gumshoos",
-  "ThumbnailImage": "/pokedex-server/images/735.png",
+  "ThumbnailImage": "/images/735.png",
   "id": 735,
   "type": [
     "normal"

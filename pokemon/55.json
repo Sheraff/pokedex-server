@@ -16,7 +16,7 @@
   "slug": "golduck",
   "name": "Golduck",
   "ThumbnailAltText": "Golduck",
-  "ThumbnailImage": "/pokedex-server/images/55.png",
+  "ThumbnailImage": "/images/55.png",
   "id": 55,
   "type": [
     "water"

@@ -15,7 +15,7 @@
   "slug": "ferroseed",
   "name": "Ferroseed",
   "ThumbnailAltText": "Ferroseed",
-  "ThumbnailImage": "/pokedex-server/images/597.png",
+  "ThumbnailImage": "/images/597.png",
   "id": 597,
   "type": [
     "grass",

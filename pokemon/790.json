@@ -16,7 +16,7 @@
   "slug": "cosmoem",
   "name": "Cosmoem",
   "ThumbnailAltText": "Cosmoem",
-  "ThumbnailImage": "/pokedex-server/images/790.png",
+  "ThumbnailImage": "/images/790.png",
   "id": 790,
   "type": [
     "psychic"

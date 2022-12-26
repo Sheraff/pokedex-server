@@ -19,7 +19,7 @@
   "slug": "shiinotic",
   "name": "Shiinotic",
   "ThumbnailAltText": "Shiinotic",
-  "ThumbnailImage": "/pokedex-server/images/756.png",
+  "ThumbnailImage": "/images/756.png",
   "id": 756,
   "type": [
     "grass",

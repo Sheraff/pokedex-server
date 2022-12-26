@@ -16,7 +16,7 @@
   "slug": "staravia",
   "name": "Staravia",
   "ThumbnailAltText": "Staravia",
-  "ThumbnailImage": "/pokedex-server/images/397.png",
+  "ThumbnailImage": "/images/397.png",
   "id": 397,
   "type": [
     "normal",

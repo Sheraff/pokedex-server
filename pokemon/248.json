@@ -20,7 +20,7 @@
   "slug": "tyranitar",
   "name": "Tyranitar",
   "ThumbnailAltText": "Tyranitar",
-  "ThumbnailImage": "/pokedex-server/images/248.png",
+  "ThumbnailImage": "/images/248.png",
   "id": 248,
   "type": [
     "rock",

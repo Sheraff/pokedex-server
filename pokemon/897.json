@@ -15,7 +15,7 @@
   "slug": "spectrier",
   "name": "Spectrier",
   "ThumbnailAltText": "Spectrier",
-  "ThumbnailImage": "/pokedex-server/images/897.png",
+  "ThumbnailImage": "/images/897.png",
   "id": 897,
   "type": [
     "ghost"

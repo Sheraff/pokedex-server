@@ -19,7 +19,7 @@
   "slug": "drifblim",
   "name": "Drifblim",
   "ThumbnailAltText": "Drifblim",
-  "ThumbnailImage": "/pokedex-server/images/426.png",
+  "ThumbnailImage": "/images/426.png",
   "id": 426,
   "type": [
     "ghost",

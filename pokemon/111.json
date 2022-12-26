@@ -20,7 +20,7 @@
   "slug": "rhyhorn",
   "name": "Rhyhorn",
   "ThumbnailAltText": "Rhyhorn",
-  "ThumbnailImage": "/pokedex-server/images/111.png",
+  "ThumbnailImage": "/images/111.png",
   "id": 111,
   "type": [
     "ground",

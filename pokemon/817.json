@@ -15,7 +15,7 @@
   "slug": "drizzile",
   "name": "Drizzile",
   "ThumbnailAltText": "Drizzile",
-  "ThumbnailImage": "/pokedex-server/images/817.png",
+  "ThumbnailImage": "/images/817.png",
   "id": 817,
   "type": [
     "water"

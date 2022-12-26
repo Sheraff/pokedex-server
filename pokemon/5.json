@@ -16,7 +16,7 @@
   "slug": "charmeleon",
   "name": "Charmeleon",
   "ThumbnailAltText": "Charmeleon",
-  "ThumbnailImage": "/pokedex-server/images/5.png",
+  "ThumbnailImage": "/images/5.png",
   "id": 5,
   "type": [
     "fire"

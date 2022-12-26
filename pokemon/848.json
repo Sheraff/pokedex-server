@@ -16,7 +16,7 @@
   "slug": "toxel",
   "name": "Toxel",
   "ThumbnailAltText": "Toxel",
-  "ThumbnailImage": "/pokedex-server/images/848.png",
+  "ThumbnailImage": "/images/848.png",
   "id": 848,
   "type": [
     "electric",

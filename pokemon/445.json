@@ -16,7 +16,7 @@
   "slug": "garchomp",
   "name": "Garchomp",
   "ThumbnailAltText": "Garchomp",
-  "ThumbnailImage": "/pokedex-server/images/445.png",
+  "ThumbnailImage": "/images/445.png",
   "id": 445,
   "type": [
     "dragon",

@@ -16,7 +16,7 @@
   "slug": "toxtricity",
   "name": "Toxtricity",
   "ThumbnailAltText": "Toxtricity",
-  "ThumbnailImage": "/pokedex-server/images/849.png",
+  "ThumbnailImage": "/images/849.png",
   "id": 849,
   "type": [
     "electric",

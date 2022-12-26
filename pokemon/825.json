@@ -20,7 +20,7 @@
   "slug": "dottler",
   "name": "Dottler",
   "ThumbnailAltText": "Dottler",
-  "ThumbnailImage": "/pokedex-server/images/825.png",
+  "ThumbnailImage": "/images/825.png",
   "id": 825,
   "type": [
     "bug",

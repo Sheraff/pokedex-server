@@ -17,7 +17,7 @@
   "slug": "drowzee",
   "name": "Drowzee",
   "ThumbnailAltText": "Drowzee",
-  "ThumbnailImage": "/pokedex-server/images/96.png",
+  "ThumbnailImage": "/images/96.png",
   "id": 96,
   "type": [
     "psychic"

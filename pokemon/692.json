@@ -15,7 +15,7 @@
   "slug": "clauncher",
   "name": "Clauncher",
   "ThumbnailAltText": "Clauncher",
-  "ThumbnailImage": "/pokedex-server/images/692.png",
+  "ThumbnailImage": "/images/692.png",
   "id": 692,
   "type": [
     "water"

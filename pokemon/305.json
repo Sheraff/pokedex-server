@@ -17,7 +17,7 @@
   "slug": "lairon",
   "name": "Lairon",
   "ThumbnailAltText": "Lairon",
-  "ThumbnailImage": "/pokedex-server/images/305.png",
+  "ThumbnailImage": "/images/305.png",
   "id": 305,
   "type": [
     "steel",

@@ -18,7 +18,7 @@
   "slug": "ninjask",
   "name": "Ninjask",
   "ThumbnailAltText": "Ninjask",
-  "ThumbnailImage": "/pokedex-server/images/291.png",
+  "ThumbnailImage": "/images/291.png",
   "id": 291,
   "type": [
     "bug",

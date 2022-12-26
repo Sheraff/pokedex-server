@@ -17,7 +17,7 @@
   "slug": "hitmonchan",
   "name": "Hitmonchan",
   "ThumbnailAltText": "Hitmonchan",
-  "ThumbnailImage": "/pokedex-server/images/107.png",
+  "ThumbnailImage": "/images/107.png",
   "id": 107,
   "type": [
     "fighting"

@@ -17,7 +17,7 @@
   "slug": "blipbug",
   "name": "Blipbug",
   "ThumbnailAltText": "Blipbug",
-  "ThumbnailImage": "/pokedex-server/images/824.png",
+  "ThumbnailImage": "/images/824.png",
   "id": 824,
   "type": [
     "bug"

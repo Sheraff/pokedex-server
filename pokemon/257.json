@@ -17,7 +17,7 @@
   "slug": "blaziken",
   "name": "Blaziken",
   "ThumbnailAltText": "Blaziken",
-  "ThumbnailImage": "/pokedex-server/images/257.png",
+  "ThumbnailImage": "/images/257.png",
   "id": 257,
   "type": [
     "fire",

@@ -16,7 +16,7 @@
   "slug": "seadra",
   "name": "Seadra",
   "ThumbnailAltText": "Seadra",
-  "ThumbnailImage": "/pokedex-server/images/117.png",
+  "ThumbnailImage": "/images/117.png",
   "id": 117,
   "type": [
     "water"

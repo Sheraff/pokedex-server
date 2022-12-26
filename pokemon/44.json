@@ -17,7 +17,7 @@
   "slug": "gloom",
   "name": "Gloom",
   "ThumbnailAltText": "Gloom",
-  "ThumbnailImage": "/pokedex-server/images/44.png",
+  "ThumbnailImage": "/images/44.png",
   "id": 44,
   "type": [
     "grass",

@@ -17,7 +17,7 @@
   "slug": "absol",
   "name": "Absol",
   "ThumbnailAltText": "Absol",
-  "ThumbnailImage": "/pokedex-server/images/359.png",
+  "ThumbnailImage": "/images/359.png",
   "id": 359,
   "type": [
     "dark"

@@ -16,7 +16,7 @@
   "slug": "grimer",
   "name": "Grimer",
   "ThumbnailAltText": "Grimer",
-  "ThumbnailImage": "/pokedex-server/images/88.png",
+  "ThumbnailImage": "/images/88.png",
   "id": 88,
   "type": [
     "poison"

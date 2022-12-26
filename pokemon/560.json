@@ -17,7 +17,7 @@
   "slug": "scrafty",
   "name": "Scrafty",
   "ThumbnailAltText": "Scrafty",
-  "ThumbnailImage": "/pokedex-server/images/560.png",
+  "ThumbnailImage": "/images/560.png",
   "id": 560,
   "type": [
     "dark",

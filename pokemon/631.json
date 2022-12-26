@@ -17,7 +17,7 @@
   "slug": "heatmor",
   "name": "Heatmor",
   "ThumbnailAltText": "Heatmor",
-  "ThumbnailImage": "/pokedex-server/images/631.png",
+  "ThumbnailImage": "/images/631.png",
   "id": 631,
   "type": [
     "fire"

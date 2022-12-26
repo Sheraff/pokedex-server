@@ -16,7 +16,7 @@
   "slug": "darumaka",
   "name": "Darumaka",
   "ThumbnailAltText": "Darumaka",
-  "ThumbnailImage": "/pokedex-server/images/554.png",
+  "ThumbnailImage": "/images/554.png",
   "id": 554,
   "type": [
     "fire"

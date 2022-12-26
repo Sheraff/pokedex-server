@@ -17,7 +17,7 @@
   "slug": "gurdurr",
   "name": "Gurdurr",
   "ThumbnailAltText": "Gurdurr",
-  "ThumbnailImage": "/pokedex-server/images/533.png",
+  "ThumbnailImage": "/images/533.png",
   "id": 533,
   "type": [
     "fighting"

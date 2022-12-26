@@ -16,7 +16,7 @@
   "slug": "granbull",
   "name": "Granbull",
   "ThumbnailAltText": "Granbull",
-  "ThumbnailImage": "/pokedex-server/images/210.png",
+  "ThumbnailImage": "/images/210.png",
   "id": 210,
   "type": [
     "fairy"

@@ -20,7 +20,7 @@
   "slug": "leavanny",
   "name": "Leavanny",
   "ThumbnailAltText": "Leavanny",
-  "ThumbnailImage": "/pokedex-server/images/542.png",
+  "ThumbnailImage": "/images/542.png",
   "id": 542,
   "type": [
     "bug",

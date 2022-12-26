@@ -16,7 +16,7 @@
   "slug": "gulpin",
   "name": "Gulpin",
   "ThumbnailAltText": "Gulpin",
-  "ThumbnailImage": "/pokedex-server/images/316.png",
+  "ThumbnailImage": "/images/316.png",
   "id": 316,
   "type": [
     "poison"

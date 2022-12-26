@@ -15,7 +15,7 @@
   "slug": "minccino",
   "name": "Minccino",
   "ThumbnailAltText": "Minccino",
-  "ThumbnailImage": "/pokedex-server/images/572.png",
+  "ThumbnailImage": "/images/572.png",
   "id": 572,
   "type": [
     "normal"

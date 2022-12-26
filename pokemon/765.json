@@ -16,7 +16,7 @@
   "slug": "oranguru",
   "name": "Oranguru",
   "ThumbnailAltText": "Oranguru",
-  "ThumbnailImage": "/pokedex-server/images/765.png",
+  "ThumbnailImage": "/images/765.png",
   "id": 765,
   "type": [
     "normal",

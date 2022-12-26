@@ -16,7 +16,7 @@
   "slug": "wurmple",
   "name": "Wurmple",
   "ThumbnailAltText": "Wurmple",
-  "ThumbnailImage": "/pokedex-server/images/265.png",
+  "ThumbnailImage": "/images/265.png",
   "id": 265,
   "type": [
     "bug"

@@ -17,7 +17,7 @@
   "slug": "gothita",
   "name": "Gothita",
   "ThumbnailAltText": "Gothita",
-  "ThumbnailImage": "/pokedex-server/images/574.png",
+  "ThumbnailImage": "/images/574.png",
   "id": 574,
   "type": [
     "psychic"

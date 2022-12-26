@@ -15,7 +15,7 @@
   "slug": "teddiursa",
   "name": "Teddiursa",
   "ThumbnailAltText": "Teddiursa",
-  "ThumbnailImage": "/pokedex-server/images/216.png",
+  "ThumbnailImage": "/images/216.png",
   "id": 216,
   "type": [
     "normal"

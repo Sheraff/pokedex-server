@@ -15,7 +15,7 @@
   "slug": "oshawott",
   "name": "Oshawott",
   "ThumbnailAltText": "Oshawott",
-  "ThumbnailImage": "/pokedex-server/images/501.png",
+  "ThumbnailImage": "/images/501.png",
   "id": 501,
   "type": [
     "water"

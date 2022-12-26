@@ -19,7 +19,7 @@
   "slug": "pumpkaboo",
   "name": "Pumpkaboo",
   "ThumbnailAltText": "Pumpkaboo",
-  "ThumbnailImage": "/pokedex-server/images/710.png",
+  "ThumbnailImage": "/images/710.png",
   "id": 710,
   "type": [
     "ghost",

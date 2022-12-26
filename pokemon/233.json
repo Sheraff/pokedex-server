@@ -15,7 +15,7 @@
   "slug": "porygon2",
   "name": "Porygon2",
   "ThumbnailAltText": "Porygon2",
-  "ThumbnailImage": "/pokedex-server/images/233.png",
+  "ThumbnailImage": "/images/233.png",
   "id": 233,
   "type": [
     "normal"

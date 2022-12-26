@@ -20,7 +20,7 @@
   "slug": "krookodile",
   "name": "Krookodile",
   "ThumbnailAltText": "Krookodile",
-  "ThumbnailImage": "/pokedex-server/images/553.png",
+  "ThumbnailImage": "/images/553.png",
   "id": 553,
   "type": [
     "ground",

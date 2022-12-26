@@ -17,7 +17,7 @@
   "slug": "axew",
   "name": "Axew",
   "ThumbnailAltText": "Axew",
-  "ThumbnailImage": "/pokedex-server/images/610.png",
+  "ThumbnailImage": "/images/610.png",
   "id": 610,
   "type": [
     "dragon"

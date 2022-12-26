@@ -17,7 +17,7 @@
   "slug": "probopass",
   "name": "Probopass",
   "ThumbnailAltText": "Probopass",
-  "ThumbnailImage": "/pokedex-server/images/476.png",
+  "ThumbnailImage": "/images/476.png",
   "id": 476,
   "type": [
     "rock",

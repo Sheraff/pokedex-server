@@ -16,7 +16,7 @@
   "slug": "larvesta",
   "name": "Larvesta",
   "ThumbnailAltText": "Larvesta",
-  "ThumbnailImage": "/pokedex-server/images/636.png",
+  "ThumbnailImage": "/images/636.png",
   "id": 636,
   "type": [
     "bug",

@@ -16,7 +16,7 @@
   "slug": "shuppet",
   "name": "Shuppet",
   "ThumbnailAltText": "Shuppet",
-  "ThumbnailImage": "/pokedex-server/images/353.png",
+  "ThumbnailImage": "/images/353.png",
   "id": 353,
   "type": [
     "ghost"

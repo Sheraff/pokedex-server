@@ -16,7 +16,7 @@
   "slug": "fletchling",
   "name": "Fletchling",
   "ThumbnailAltText": "Fletchling",
-  "ThumbnailImage": "/pokedex-server/images/661.png",
+  "ThumbnailImage": "/images/661.png",
   "id": 661,
   "type": [
     "normal",

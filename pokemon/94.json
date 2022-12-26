@@ -17,7 +17,7 @@
   "slug": "gengar",
   "name": "Gengar",
   "ThumbnailAltText": "Gengar",
-  "ThumbnailImage": "/pokedex-server/images/94.png",
+  "ThumbnailImage": "/images/94.png",
   "id": 94,
   "type": [
     "ghost",

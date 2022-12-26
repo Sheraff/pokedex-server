@@ -16,7 +16,7 @@
   "slug": "kingler",
   "name": "Kingler",
   "ThumbnailAltText": "Kingler",
-  "ThumbnailImage": "/pokedex-server/images/99.png",
+  "ThumbnailImage": "/images/99.png",
   "id": 99,
   "type": [
     "water"

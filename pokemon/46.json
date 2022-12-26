@@ -20,7 +20,7 @@
   "slug": "paras",
   "name": "Paras",
   "ThumbnailAltText": "Paras",
-  "ThumbnailImage": "/pokedex-server/images/46.png",
+  "ThumbnailImage": "/images/46.png",
   "id": 46,
   "type": [
     "bug",

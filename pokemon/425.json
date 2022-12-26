@@ -19,7 +19,7 @@
   "slug": "drifloon",
   "name": "Drifloon",
   "ThumbnailAltText": "Drifloon",
-  "ThumbnailImage": "/pokedex-server/images/425.png",
+  "ThumbnailImage": "/images/425.png",
   "id": 425,
   "type": [
     "ghost",

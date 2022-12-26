@@ -17,7 +17,7 @@
   "slug": "beheeyem",
   "name": "Beheeyem",
   "ThumbnailAltText": "Beheeyem",
-  "ThumbnailImage": "/pokedex-server/images/606.png",
+  "ThumbnailImage": "/images/606.png",
   "id": 606,
   "type": [
     "psychic"

@@ -14,7 +14,7 @@
   "slug": "flaaffy",
   "name": "Flaaffy",
   "ThumbnailAltText": "Flaaffy",
-  "ThumbnailImage": "/pokedex-server/images/180.png",
+  "ThumbnailImage": "/images/180.png",
   "id": 180,
   "type": [
     "electric"

@@ -17,7 +17,7 @@
   "slug": "zekrom",
   "name": "Zekrom",
   "ThumbnailAltText": "Zekrom",
-  "ThumbnailImage": "/pokedex-server/images/644.png",
+  "ThumbnailImage": "/images/644.png",
   "id": 644,
   "type": [
     "dragon",

@@ -15,7 +15,7 @@
   "slug": "ferrothorn",
   "name": "Ferrothorn",
   "ThumbnailAltText": "Ferrothorn",
-  "ThumbnailImage": "/pokedex-server/images/598.png",
+  "ThumbnailImage": "/images/598.png",
   "id": 598,
   "type": [
     "grass",

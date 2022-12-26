@@ -17,7 +17,7 @@
   "slug": "cubone",
   "name": "Cubone",
   "ThumbnailAltText": "Cubone",
-  "ThumbnailImage": "/pokedex-server/images/104.png",
+  "ThumbnailImage": "/images/104.png",
   "id": 104,
   "type": [
     "ground"

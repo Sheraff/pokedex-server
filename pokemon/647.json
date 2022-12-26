@@ -18,7 +18,7 @@
   "slug": "keldeo",
   "name": "Keldeo",
   "ThumbnailAltText": "Keldeo",
-  "ThumbnailImage": "/pokedex-server/images/647.png",
+  "ThumbnailImage": "/images/647.png",
   "id": 647,
   "type": [
     "water",

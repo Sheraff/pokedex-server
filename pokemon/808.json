@@ -16,7 +16,7 @@
   "slug": "meltan",
   "name": "Meltan",
   "ThumbnailAltText": "Meltan",
-  "ThumbnailImage": "/pokedex-server/images/808.png",
+  "ThumbnailImage": "/images/808.png",
   "id": 808,
   "type": [
     "steel"

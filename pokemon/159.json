@@ -15,7 +15,7 @@
   "slug": "croconaw",
   "name": "Croconaw",
   "ThumbnailAltText": "Croconaw",
-  "ThumbnailImage": "/pokedex-server/images/159.png",
+  "ThumbnailImage": "/images/159.png",
   "id": 159,
   "type": [
     "water"

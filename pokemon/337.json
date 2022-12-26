@@ -20,7 +20,7 @@
   "slug": "lunatone",
   "name": "Lunatone",
   "ThumbnailAltText": "Lunatone",
-  "ThumbnailImage": "/pokedex-server/images/337.png",
+  "ThumbnailImage": "/images/337.png",
   "id": 337,
   "type": [
     "rock",

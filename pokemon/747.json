@@ -17,7 +17,7 @@
   "slug": "mareanie",
   "name": "Mareanie",
   "ThumbnailAltText": "Mareanie",
-  "ThumbnailImage": "/pokedex-server/images/747.png",
+  "ThumbnailImage": "/images/747.png",
   "id": 747,
   "type": [
     "poison",

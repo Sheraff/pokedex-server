@@ -16,7 +16,7 @@
   "slug": "darmanitan",
   "name": "Darmanitan",
   "ThumbnailAltText": "Darmanitan",
-  "ThumbnailImage": "/pokedex-server/images/555.png",
+  "ThumbnailImage": "/images/555.png",
   "id": 555,
   "type": [
     "fire"

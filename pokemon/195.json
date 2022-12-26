@@ -15,7 +15,7 @@
   "slug": "quagsire",
   "name": "Quagsire",
   "ThumbnailAltText": "Quagsire",
-  "ThumbnailImage": "/pokedex-server/images/195.png",
+  "ThumbnailImage": "/images/195.png",
   "id": 195,
   "type": [
     "water",

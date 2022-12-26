@@ -16,7 +16,7 @@
   "slug": "oricorio",
   "name": "Oricorio",
   "ThumbnailAltText": "Oricorio",
-  "ThumbnailImage": "/pokedex-server/images/741.png",
+  "ThumbnailImage": "/images/741.png",
   "id": 741,
   "type": [
     "fire",

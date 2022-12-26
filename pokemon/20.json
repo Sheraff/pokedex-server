@@ -15,7 +15,7 @@
   "slug": "raticate",
   "name": "Raticate",
   "ThumbnailAltText": "Raticate",
-  "ThumbnailImage": "/pokedex-server/images/20.png",
+  "ThumbnailImage": "/images/20.png",
   "id": 20,
   "type": [
     "normal"

@@ -17,7 +17,7 @@
   "slug": "braviary",
   "name": "Braviary",
   "ThumbnailAltText": "Braviary",
-  "ThumbnailImage": "/pokedex-server/images/628.png",
+  "ThumbnailImage": "/images/628.png",
   "id": 628,
   "type": [
     "normal",

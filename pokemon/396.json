@@ -16,7 +16,7 @@
   "slug": "starly",
   "name": "Starly",
   "ThumbnailAltText": "Starly",
-  "ThumbnailImage": "/pokedex-server/images/396.png",
+  "ThumbnailImage": "/images/396.png",
   "id": 396,
   "type": [
     "normal",

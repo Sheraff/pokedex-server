@@ -18,7 +18,7 @@
   "slug": "relicanth",
   "name": "Relicanth",
   "ThumbnailAltText": "Relicanth",
-  "ThumbnailImage": "/pokedex-server/images/369.png",
+  "ThumbnailImage": "/images/369.png",
   "id": 369,
   "type": [
     "water",

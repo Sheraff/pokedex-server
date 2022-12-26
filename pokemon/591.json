@@ -17,7 +17,7 @@
   "slug": "amoonguss",
   "name": "Amoonguss",
   "ThumbnailAltText": "Amoonguss",
-  "ThumbnailImage": "/pokedex-server/images/591.png",
+  "ThumbnailImage": "/images/591.png",
   "id": 591,
   "type": [
     "grass",

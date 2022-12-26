@@ -18,7 +18,7 @@
   "slug": "kyurem",
   "name": "Kyurem",
   "ThumbnailAltText": "Kyurem",
-  "ThumbnailImage": "/pokedex-server/images/646.png",
+  "ThumbnailImage": "/images/646.png",
   "id": 646,
   "type": [
     "dragon",

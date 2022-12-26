@@ -17,7 +17,7 @@
   "slug": "marowak",
   "name": "Marowak",
   "ThumbnailAltText": "Marowak",
-  "ThumbnailImage": "/pokedex-server/images/105.png",
+  "ThumbnailImage": "/images/105.png",
   "id": 105,
   "type": [
     "ground"

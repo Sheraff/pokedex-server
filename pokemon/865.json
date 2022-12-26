@@ -16,7 +16,7 @@
   "slug": "sirfetchd",
   "name": "Sirfetch’d",
   "ThumbnailAltText": "Sirfetch’d",
-  "ThumbnailImage": "/pokedex-server/images/865.png",
+  "ThumbnailImage": "/images/865.png",
   "id": 865,
   "type": [
     "fighting"

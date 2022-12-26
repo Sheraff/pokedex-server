@@ -15,7 +15,7 @@
   "slug": "herdier",
   "name": "Herdier",
   "ThumbnailAltText": "Herdier",
-  "ThumbnailImage": "/pokedex-server/images/507.png",
+  "ThumbnailImage": "/images/507.png",
   "id": 507,
   "type": [
     "normal"

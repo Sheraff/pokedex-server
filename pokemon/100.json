@@ -15,7 +15,7 @@
   "slug": "voltorb",
   "name": "Voltorb",
   "ThumbnailAltText": "Voltorb",
-  "ThumbnailImage": "/pokedex-server/images/100.png",
+  "ThumbnailImage": "/images/100.png",
   "id": 100,
   "type": [
     "electric"

@@ -18,7 +18,7 @@
   "slug": "lugia",
   "name": "Lugia",
   "ThumbnailAltText": "Lugia",
-  "ThumbnailImage": "/pokedex-server/images/249.png",
+  "ThumbnailImage": "/images/249.png",
   "id": 249,
   "type": [
     "psychic",

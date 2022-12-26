@@ -18,7 +18,7 @@
   "slug": "chikorita",
   "name": "Chikorita",
   "ThumbnailAltText": "Chikorita",
-  "ThumbnailImage": "/pokedex-server/images/152.png",
+  "ThumbnailImage": "/images/152.png",
   "id": 152,
   "type": [
     "grass"

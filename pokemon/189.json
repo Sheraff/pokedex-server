@@ -19,7 +19,7 @@
   "slug": "jumpluff",
   "name": "Jumpluff",
   "ThumbnailAltText": "Jumpluff",
-  "ThumbnailImage": "/pokedex-server/images/189.png",
+  "ThumbnailImage": "/images/189.png",
   "id": 189,
   "type": [
     "grass",

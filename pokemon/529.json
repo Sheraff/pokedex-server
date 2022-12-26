@@ -17,7 +17,7 @@
   "slug": "drilbur",
   "name": "Drilbur",
   "ThumbnailAltText": "Drilbur",
-  "ThumbnailImage": "/pokedex-server/images/529.png",
+  "ThumbnailImage": "/images/529.png",
   "id": 529,
   "type": [
     "ground"

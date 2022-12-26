@@ -16,7 +16,7 @@
   "slug": "dedenne",
   "name": "Dedenne",
   "ThumbnailAltText": "Dedenne",
-  "ThumbnailImage": "/pokedex-server/images/702.png",
+  "ThumbnailImage": "/images/702.png",
   "id": 702,
   "type": [
     "electric",

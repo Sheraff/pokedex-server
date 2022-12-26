@@ -16,7 +16,7 @@
   "slug": "staryu",
   "name": "Staryu",
   "ThumbnailAltText": "Staryu",
-  "ThumbnailImage": "/pokedex-server/images/120.png",
+  "ThumbnailImage": "/images/120.png",
   "id": 120,
   "type": [
     "water"

@@ -19,7 +19,7 @@
   "slug": "maractus",
   "name": "Maractus",
   "ThumbnailAltText": "Maractus",
-  "ThumbnailImage": "/pokedex-server/images/556.png",
+  "ThumbnailImage": "/images/556.png",
   "id": 556,
   "type": [
     "grass"

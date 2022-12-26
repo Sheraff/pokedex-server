@@ -17,7 +17,7 @@
   "slug": "emboar",
   "name": "Emboar",
   "ThumbnailAltText": "Emboar",
-  "ThumbnailImage": "/pokedex-server/images/500.png",
+  "ThumbnailImage": "/images/500.png",
   "id": 500,
   "type": [
     "fire",

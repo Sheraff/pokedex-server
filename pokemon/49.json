@@ -18,7 +18,7 @@
   "slug": "venomoth",
   "name": "Venomoth",
   "ThumbnailAltText": "Venomoth",
-  "ThumbnailImage": "/pokedex-server/images/49.png",
+  "ThumbnailImage": "/images/49.png",
   "id": 49,
   "type": [
     "bug",

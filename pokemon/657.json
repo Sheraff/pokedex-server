@@ -15,7 +15,7 @@
   "slug": "frogadier",
   "name": "Frogadier",
   "ThumbnailAltText": "Frogadier",
-  "ThumbnailImage": "/pokedex-server/images/657.png",
+  "ThumbnailImage": "/images/657.png",
   "id": 657,
   "type": [
     "water"

@@ -20,7 +20,7 @@
   "slug": "mr-rime",
   "name": "Mr. Rime",
   "ThumbnailAltText": "Mr. Rime",
-  "ThumbnailImage": "/pokedex-server/images/866.png",
+  "ThumbnailImage": "/images/866.png",
   "id": 866,
   "type": [
     "ice",

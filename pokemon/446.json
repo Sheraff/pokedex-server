@@ -15,7 +15,7 @@
   "slug": "munchlax",
   "name": "Munchlax",
   "ThumbnailAltText": "Munchlax",
-  "ThumbnailImage": "/pokedex-server/images/446.png",
+  "ThumbnailImage": "/images/446.png",
   "id": 446,
   "type": [
     "normal"

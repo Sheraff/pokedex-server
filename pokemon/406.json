@@ -18,7 +18,7 @@
   "slug": "budew",
   "name": "Budew",
   "ThumbnailAltText": "Budew",
-  "ThumbnailImage": "/pokedex-server/images/406.png",
+  "ThumbnailImage": "/images/406.png",
   "id": 406,
   "type": [
     "grass",

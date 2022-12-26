@@ -15,7 +15,7 @@
   "slug": "buneary",
   "name": "Buneary",
   "ThumbnailAltText": "Buneary",
-  "ThumbnailImage": "/pokedex-server/images/427.png",
+  "ThumbnailImage": "/images/427.png",
   "id": 427,
   "type": [
     "normal"

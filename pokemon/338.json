@@ -20,7 +20,7 @@
   "slug": "solrock",
   "name": "Solrock",
   "ThumbnailAltText": "Solrock",
-  "ThumbnailImage": "/pokedex-server/images/338.png",
+  "ThumbnailImage": "/images/338.png",
   "id": 338,
   "type": [
     "rock",

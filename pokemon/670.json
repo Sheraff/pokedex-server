@@ -15,7 +15,7 @@
   "slug": "floette",
   "name": "Floette",
   "ThumbnailAltText": "Floette",
-  "ThumbnailImage": "/pokedex-server/images/670.png",
+  "ThumbnailImage": "/images/670.png",
   "id": 670,
   "type": [
     "fairy"

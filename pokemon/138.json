@@ -18,7 +18,7 @@
   "slug": "omanyte",
   "name": "Omanyte",
   "ThumbnailAltText": "Omanyte",
-  "ThumbnailImage": "/pokedex-server/images/138.png",
+  "ThumbnailImage": "/images/138.png",
   "id": 138,
   "type": [
     "rock",

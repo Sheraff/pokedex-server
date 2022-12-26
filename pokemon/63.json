@@ -17,7 +17,7 @@
   "slug": "abra",
   "name": "Abra",
   "ThumbnailAltText": "Abra",
-  "ThumbnailImage": "/pokedex-server/images/63.png",
+  "ThumbnailImage": "/images/63.png",
   "id": 63,
   "type": [
     "psychic"

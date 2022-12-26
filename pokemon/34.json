@@ -18,7 +18,7 @@
   "slug": "nidoking",
   "name": "Nidoking",
   "ThumbnailAltText": "Nidoking",
-  "ThumbnailImage": "/pokedex-server/images/34.png",
+  "ThumbnailImage": "/images/34.png",
   "id": 34,
   "type": [
     "poison",

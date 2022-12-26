@@ -14,7 +14,7 @@
   "slug": "yamper",
   "name": "Yamper",
   "ThumbnailAltText": "Yamper",
-  "ThumbnailImage": "/pokedex-server/images/835.png",
+  "ThumbnailImage": "/images/835.png",
   "id": 835,
   "type": [
     "electric"

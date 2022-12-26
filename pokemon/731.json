@@ -17,7 +17,7 @@
   "slug": "pikipek",
   "name": "Pikipek",
   "ThumbnailAltText": "Pikipek",
-  "ThumbnailImage": "/pokedex-server/images/731.png",
+  "ThumbnailImage": "/images/731.png",
   "id": 731,
   "type": [
     "normal",

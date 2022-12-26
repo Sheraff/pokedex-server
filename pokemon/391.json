@@ -17,7 +17,7 @@
   "slug": "monferno",
   "name": "Monferno",
   "ThumbnailAltText": "Monferno",
-  "ThumbnailImage": "/pokedex-server/images/391.png",
+  "ThumbnailImage": "/images/391.png",
   "id": 391,
   "type": [
     "fire",

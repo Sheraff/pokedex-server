@@ -14,7 +14,7 @@
   "slug": "plusle",
   "name": "Plusle",
   "ThumbnailAltText": "Plusle",
-  "ThumbnailImage": "/pokedex-server/images/311.png",
+  "ThumbnailImage": "/images/311.png",
   "id": 311,
   "type": [
     "electric"

@@ -17,7 +17,7 @@
   "slug": "marill",
   "name": "Marill",
   "ThumbnailAltText": "Marill",
-  "ThumbnailImage": "/pokedex-server/images/183.png",
+  "ThumbnailImage": "/images/183.png",
   "id": 183,
   "type": [
     "water",

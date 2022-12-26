@@ -19,7 +19,7 @@
   "slug": "rockruff",
   "name": "Rockruff",
   "ThumbnailAltText": "Rockruff",
-  "ThumbnailImage": "/pokedex-server/images/744.png",
+  "ThumbnailImage": "/images/744.png",
   "id": 744,
   "type": [
     "rock"

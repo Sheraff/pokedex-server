@@ -16,7 +16,7 @@
   "slug": "tepig",
   "name": "Tepig",
   "ThumbnailAltText": "Tepig",
-  "ThumbnailImage": "/pokedex-server/images/498.png",
+  "ThumbnailImage": "/images/498.png",
   "id": 498,
   "type": [
     "fire"

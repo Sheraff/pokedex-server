@@ -16,7 +16,7 @@
   "slug": "clefable",
   "name": "Clefable",
   "ThumbnailAltText": "Clefable",
-  "ThumbnailImage": "/pokedex-server/images/36.png",
+  "ThumbnailImage": "/images/36.png",
   "id": 36,
   "type": [
     "fairy"

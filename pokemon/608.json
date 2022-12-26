@@ -19,7 +19,7 @@
   "slug": "lampent",
   "name": "Lampent",
   "ThumbnailAltText": "Lampent",
-  "ThumbnailImage": "/pokedex-server/images/608.png",
+  "ThumbnailImage": "/images/608.png",
   "id": 608,
   "type": [
     "ghost",

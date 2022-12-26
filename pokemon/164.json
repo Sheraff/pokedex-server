@@ -17,7 +17,7 @@
   "slug": "noctowl",
   "name": "Noctowl",
   "ThumbnailAltText": "Noctowl",
-  "ThumbnailImage": "/pokedex-server/images/164.png",
+  "ThumbnailImage": "/images/164.png",
   "id": 164,
   "type": [
     "normal",

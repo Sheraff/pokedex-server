@@ -15,7 +15,7 @@
   "slug": "aipom",
   "name": "Aipom",
   "ThumbnailAltText": "Aipom",
-  "ThumbnailImage": "/pokedex-server/images/190.png",
+  "ThumbnailImage": "/images/190.png",
   "id": 190,
   "type": [
     "normal"

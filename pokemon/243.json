@@ -14,7 +14,7 @@
   "slug": "raikou",
   "name": "Raikou",
   "ThumbnailAltText": "Raikou",
-  "ThumbnailImage": "/pokedex-server/images/243.png",
+  "ThumbnailImage": "/images/243.png",
   "id": 243,
   "type": [
     "electric"

@@ -16,7 +16,7 @@
   "slug": "inkay",
   "name": "Inkay",
   "ThumbnailAltText": "Inkay",
-  "ThumbnailImage": "/pokedex-server/images/686.png",
+  "ThumbnailImage": "/images/686.png",
   "id": 686,
   "type": [
     "dark",

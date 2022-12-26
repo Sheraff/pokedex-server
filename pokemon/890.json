@@ -17,7 +17,7 @@
   "slug": "eternatus",
   "name": "Eternatus",
   "ThumbnailAltText": "Eternatus",
-  "ThumbnailImage": "/pokedex-server/images/890.png",
+  "ThumbnailImage": "/images/890.png",
   "id": 890,
   "type": [
     "poison",

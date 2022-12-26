@@ -15,7 +15,7 @@
   "slug": "dunsparce",
   "name": "Dunsparce",
   "ThumbnailAltText": "Dunsparce",
-  "ThumbnailImage": "/pokedex-server/images/206.png",
+  "ThumbnailImage": "/images/206.png",
   "id": 206,
   "type": [
     "normal"

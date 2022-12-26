@@ -17,7 +17,7 @@
   "slug": "cryogonal",
   "name": "Cryogonal",
   "ThumbnailAltText": "Cryogonal",
-  "ThumbnailImage": "/pokedex-server/images/615.png",
+  "ThumbnailImage": "/images/615.png",
   "id": 615,
   "type": [
     "ice"

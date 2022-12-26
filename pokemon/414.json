@@ -18,7 +18,7 @@
   "slug": "mothim",
   "name": "Mothim",
   "ThumbnailAltText": "Mothim",
-  "ThumbnailImage": "/pokedex-server/images/414.png",
+  "ThumbnailImage": "/images/414.png",
   "id": 414,
   "type": [
     "bug",

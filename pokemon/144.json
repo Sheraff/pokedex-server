@@ -17,7 +17,7 @@
   "slug": "articuno",
   "name": "Articuno",
   "ThumbnailAltText": "Articuno",
-  "ThumbnailImage": "/pokedex-server/images/144.png",
+  "ThumbnailImage": "/images/144.png",
   "id": 144,
   "type": [
     "ice",

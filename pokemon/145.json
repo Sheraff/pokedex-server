@@ -15,7 +15,7 @@
   "slug": "zapdos",
   "name": "Zapdos",
   "ThumbnailAltText": "Zapdos",
-  "ThumbnailImage": "/pokedex-server/images/145.png",
+  "ThumbnailImage": "/images/145.png",
   "id": 145,
   "type": [
     "electric",

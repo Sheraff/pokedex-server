@@ -19,7 +19,7 @@
   "slug": "tropius",
   "name": "Tropius",
   "ThumbnailAltText": "Tropius",
-  "ThumbnailImage": "/pokedex-server/images/357.png",
+  "ThumbnailImage": "/images/357.png",
   "id": 357,
   "type": [
     "grass",

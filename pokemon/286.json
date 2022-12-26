@@ -20,7 +20,7 @@
   "slug": "breloom",
   "name": "Breloom",
   "ThumbnailAltText": "Breloom",
-  "ThumbnailImage": "/pokedex-server/images/286.png",
+  "ThumbnailImage": "/images/286.png",
   "id": 286,
   "type": [
     "grass",

@@ -17,7 +17,7 @@
   "slug": "aron",
   "name": "Aron",
   "ThumbnailAltText": "Aron",
-  "ThumbnailImage": "/pokedex-server/images/304.png",
+  "ThumbnailImage": "/images/304.png",
   "id": 304,
   "type": [
     "steel",

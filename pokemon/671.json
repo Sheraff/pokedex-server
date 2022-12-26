@@ -15,7 +15,7 @@
   "slug": "florges",
   "name": "Florges",
   "ThumbnailAltText": "Florges",
-  "ThumbnailImage": "/pokedex-server/images/671.png",
+  "ThumbnailImage": "/images/671.png",
   "id": 671,
   "type": [
     "fairy"

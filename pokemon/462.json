@@ -17,7 +17,7 @@
   "slug": "magnezone",
   "name": "Magnezone",
   "ThumbnailAltText": "Magnezone",
-  "ThumbnailImage": "/pokedex-server/images/462.png",
+  "ThumbnailImage": "/images/462.png",
   "id": 462,
   "type": [
     "electric",

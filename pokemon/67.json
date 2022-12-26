@@ -17,7 +17,7 @@
   "slug": "machoke",
   "name": "Machoke",
   "ThumbnailAltText": "Machoke",
-  "ThumbnailImage": "/pokedex-server/images/67.png",
+  "ThumbnailImage": "/images/67.png",
   "id": 67,
   "type": [
     "fighting"

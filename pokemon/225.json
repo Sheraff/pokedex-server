@@ -18,7 +18,7 @@
   "slug": "delibird",
   "name": "Delibird",
   "ThumbnailAltText": "Delibird",
-  "ThumbnailImage": "/pokedex-server/images/225.png",
+  "ThumbnailImage": "/images/225.png",
   "id": 225,
   "type": [
     "ice",

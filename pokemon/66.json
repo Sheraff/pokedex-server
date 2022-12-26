@@ -17,7 +17,7 @@
   "slug": "machop",
   "name": "Machop",
   "ThumbnailAltText": "Machop",
-  "ThumbnailImage": "/pokedex-server/images/66.png",
+  "ThumbnailImage": "/images/66.png",
   "id": 66,
   "type": [
     "fighting"

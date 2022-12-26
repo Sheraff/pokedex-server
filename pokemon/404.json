@@ -15,7 +15,7 @@
   "slug": "luxio",
   "name": "Luxio",
   "ThumbnailAltText": "Luxio",
-  "ThumbnailImage": "/pokedex-server/images/404.png",
+  "ThumbnailImage": "/images/404.png",
   "id": 404,
   "type": [
     "electric"

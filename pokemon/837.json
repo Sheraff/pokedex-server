@@ -19,7 +19,7 @@
   "slug": "rolycoly",
   "name": "Rolycoly",
   "ThumbnailAltText": "Rolycoly",
-  "ThumbnailImage": "/pokedex-server/images/837.png",
+  "ThumbnailImage": "/images/837.png",
   "id": 837,
   "type": [
     "rock"

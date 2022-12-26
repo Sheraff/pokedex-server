@@ -18,7 +18,7 @@
   "slug": "skiddo",
   "name": "Skiddo",
   "ThumbnailAltText": "Skiddo",
-  "ThumbnailImage": "/pokedex-server/images/672.png",
+  "ThumbnailImage": "/images/672.png",
   "id": 672,
   "type": [
     "grass"

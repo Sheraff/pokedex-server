@@ -17,7 +17,7 @@
   "slug": "lotad",
   "name": "Lotad",
   "ThumbnailAltText": "Lotad",
-  "ThumbnailImage": "/pokedex-server/images/270.png",
+  "ThumbnailImage": "/images/270.png",
   "id": 270,
   "type": [
     "water",

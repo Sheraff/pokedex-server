@@ -18,7 +18,7 @@
   "slug": "venipede",
   "name": "Venipede",
   "ThumbnailAltText": "Venipede",
-  "ThumbnailImage": "/pokedex-server/images/543.png",
+  "ThumbnailImage": "/images/543.png",
   "id": 543,
   "type": [
     "bug",

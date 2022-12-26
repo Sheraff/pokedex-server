@@ -16,7 +16,7 @@
   "slug": "torchic",
   "name": "Torchic",
   "ThumbnailAltText": "Torchic",
-  "ThumbnailImage": "/pokedex-server/images/255.png",
+  "ThumbnailImage": "/images/255.png",
   "id": 255,
   "type": [
     "fire"

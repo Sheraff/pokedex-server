@@ -14,7 +14,7 @@
   "slug": "kleavor",
   "name": "Kleavor",
   "ThumbnailAltText": "Kleavor",
-  "ThumbnailImage": "/pokedex-server/images/900.png",
+  "ThumbnailImage": "/images/900.png",
   "id": 900,
   "type": [
     "bug",

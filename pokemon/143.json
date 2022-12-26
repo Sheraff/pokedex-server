@@ -15,7 +15,7 @@
   "slug": "snorlax",
   "name": "Snorlax",
   "ThumbnailAltText": "Snorlax",
-  "ThumbnailImage": "/pokedex-server/images/143.png",
+  "ThumbnailImage": "/images/143.png",
   "id": 143,
   "type": [
     "normal"

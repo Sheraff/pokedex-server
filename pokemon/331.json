@@ -18,7 +18,7 @@
   "slug": "cacnea",
   "name": "Cacnea",
   "ThumbnailAltText": "Cacnea",
-  "ThumbnailImage": "/pokedex-server/images/331.png",
+  "ThumbnailImage": "/images/331.png",
   "id": 331,
   "type": [
     "grass"

@@ -16,7 +16,7 @@
   "slug": "clobbopus",
   "name": "Clobbopus",
   "ThumbnailAltText": "Clobbopus",
-  "ThumbnailImage": "/pokedex-server/images/852.png",
+  "ThumbnailImage": "/images/852.png",
   "id": 852,
   "type": [
     "fighting"

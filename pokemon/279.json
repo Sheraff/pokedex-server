@@ -16,7 +16,7 @@
   "slug": "pelipper",
   "name": "Pelipper",
   "ThumbnailAltText": "Pelipper",
-  "ThumbnailImage": "/pokedex-server/images/279.png",
+  "ThumbnailImage": "/images/279.png",
   "id": 279,
   "type": [
     "water",

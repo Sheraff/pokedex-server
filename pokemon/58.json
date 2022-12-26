@@ -17,7 +17,7 @@
   "slug": "growlithe",
   "name": "Growlithe",
   "ThumbnailAltText": "Growlithe",
-  "ThumbnailImage": "/pokedex-server/images/58.png",
+  "ThumbnailImage": "/images/58.png",
   "id": 58,
   "type": [
     "fire"

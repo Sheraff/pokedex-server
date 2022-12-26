@@ -17,7 +17,7 @@
   "slug": "dwebble",
   "name": "Dwebble",
   "ThumbnailAltText": "Dwebble",
-  "ThumbnailImage": "/pokedex-server/images/557.png",
+  "ThumbnailImage": "/images/557.png",
   "id": 557,
   "type": [
     "bug",

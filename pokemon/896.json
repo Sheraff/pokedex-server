@@ -17,7 +17,7 @@
   "slug": "glastrier",
   "name": "Glastrier",
   "ThumbnailAltText": "Glastrier",
-  "ThumbnailImage": "/pokedex-server/images/896.png",
+  "ThumbnailImage": "/images/896.png",
   "id": 896,
   "type": [
     "ice"

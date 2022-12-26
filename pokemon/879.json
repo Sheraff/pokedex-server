@@ -16,7 +16,7 @@
   "slug": "copperajah",
   "name": "Copperajah",
   "ThumbnailAltText": "Copperajah",
-  "ThumbnailImage": "/pokedex-server/images/879.png",
+  "ThumbnailImage": "/images/879.png",
   "id": 879,
   "type": [
     "steel"

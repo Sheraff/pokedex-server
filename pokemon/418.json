@@ -15,7 +15,7 @@
   "slug": "buizel",
   "name": "Buizel",
   "ThumbnailAltText": "Buizel",
-  "ThumbnailImage": "/pokedex-server/images/418.png",
+  "ThumbnailImage": "/images/418.png",
   "id": 418,
   "type": [
     "water"

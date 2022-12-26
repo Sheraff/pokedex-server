@@ -12,7 +12,7 @@ const str = readFileSync(join(__dirname, 'all.json'), 'utf8')
 const data = JSON.parse(str)
 
 void async function() {
-	// data.forEach(item => item.ThumbnailImage = `/pokedex-server/images/${item.id}.png`)
+	// data.forEach(item => item.ThumbnailImage = `/images/${item.id}.png`)
 	// writeFile(join(__dirname, 'all.json'), JSON.stringify(data, null, 2), 'utf8')
 	// for (const item of data) {
 	// 	await writeFile(join(__dirname, 'pokemon', `${item.id}.json`), JSON.stringify(item, null, 2), 'utf8')
@@ -37,8 +37,8 @@ void async function() {
 // 				<td><code>/api/pokemon/:id</code></td>
 // 			</tr>
 // 			<tr>
-// 				<td><a href="/pokedex-server/images/1.png">Pokemon image by id</a></td>
-// 				<td><code>/pokedex-server/images/:id.png</code></td>
+// 				<td><a href="/images/1.png">Pokemon image by id</a></td>
+// 				<td><code>/images/:id.png</code></td>
 // 			</tr>
 // 		</table>
 // 	`)

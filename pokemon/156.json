@@ -16,7 +16,7 @@
   "slug": "quilava",
   "name": "Quilava",
   "ThumbnailAltText": "Quilava",
-  "ThumbnailImage": "/pokedex-server/images/156.png",
+  "ThumbnailImage": "/images/156.png",
   "id": 156,
   "type": [
     "fire"

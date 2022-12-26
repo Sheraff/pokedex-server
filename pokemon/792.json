@@ -15,7 +15,7 @@
   "slug": "lunala",
   "name": "Lunala",
   "ThumbnailAltText": "Lunala",
-  "ThumbnailImage": "/pokedex-server/images/792.png",
+  "ThumbnailImage": "/images/792.png",
   "id": 792,
   "type": [
     "psychic",

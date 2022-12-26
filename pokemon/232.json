@@ -16,7 +16,7 @@
   "slug": "donphan",
   "name": "Donphan",
   "ThumbnailAltText": "Donphan",
-  "ThumbnailImage": "/pokedex-server/images/232.png",
+  "ThumbnailImage": "/images/232.png",
   "id": 232,
   "type": [
     "ground"

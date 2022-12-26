@@ -18,7 +18,7 @@
   "slug": "houndoom",
   "name": "Houndoom",
   "ThumbnailAltText": "Houndoom",
-  "ThumbnailImage": "/pokedex-server/images/229.png",
+  "ThumbnailImage": "/images/229.png",
   "id": 229,
   "type": [
     "dark",

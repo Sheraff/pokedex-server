@@ -17,7 +17,7 @@
   "slug": "bisharp",
   "name": "Bisharp",
   "ThumbnailAltText": "Bisharp",
-  "ThumbnailImage": "/pokedex-server/images/625.png",
+  "ThumbnailImage": "/images/625.png",
   "id": 625,
   "type": [
     "dark",

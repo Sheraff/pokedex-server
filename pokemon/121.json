@@ -19,7 +19,7 @@
   "slug": "starmie",
   "name": "Starmie",
   "ThumbnailAltText": "Starmie",
-  "ThumbnailImage": "/pokedex-server/images/121.png",
+  "ThumbnailImage": "/images/121.png",
   "id": 121,
   "type": [
     "water",

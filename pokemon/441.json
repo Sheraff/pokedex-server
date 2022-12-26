@@ -17,7 +17,7 @@
   "slug": "chatot",
   "name": "Chatot",
   "ThumbnailAltText": "Chatot",
-  "ThumbnailImage": "/pokedex-server/images/441.png",
+  "ThumbnailImage": "/images/441.png",
   "id": 441,
   "type": [
     "normal",

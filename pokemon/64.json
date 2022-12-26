@@ -17,7 +17,7 @@
   "slug": "kadabra",
   "name": "Kadabra",
   "ThumbnailAltText": "Kadabra",
-  "ThumbnailImage": "/pokedex-server/images/64.png",
+  "ThumbnailImage": "/images/64.png",
   "id": 64,
   "type": [
     "psychic"

@@ -16,7 +16,7 @@
   "slug": "clefairy",
   "name": "Clefairy",
   "ThumbnailAltText": "Clefairy",
-  "ThumbnailImage": "/pokedex-server/images/35.png",
+  "ThumbnailImage": "/images/35.png",
   "id": 35,
   "type": [
     "fairy"

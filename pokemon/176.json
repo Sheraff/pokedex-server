@@ -19,7 +19,7 @@
   "slug": "togetic",
   "name": "Togetic",
   "ThumbnailAltText": "Togetic",
-  "ThumbnailImage": "/pokedex-server/images/176.png",
+  "ThumbnailImage": "/images/176.png",
   "id": 176,
   "type": [
     "fairy",

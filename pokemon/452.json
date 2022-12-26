@@ -15,7 +15,7 @@
   "slug": "drapion",
   "name": "Drapion",
   "ThumbnailAltText": "Drapion",
-  "ThumbnailImage": "/pokedex-server/images/452.png",
+  "ThumbnailImage": "/images/452.png",
   "id": 452,
   "type": [
     "poison",

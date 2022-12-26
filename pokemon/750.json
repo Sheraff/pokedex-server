@@ -17,7 +17,7 @@
   "slug": "mudsdale",
   "name": "Mudsdale",
   "ThumbnailAltText": "Mudsdale",
-  "ThumbnailImage": "/pokedex-server/images/750.png",
+  "ThumbnailImage": "/images/750.png",
   "id": 750,
   "type": [
     "ground"

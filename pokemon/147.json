@@ -16,7 +16,7 @@
   "slug": "dratini",
   "name": "Dratini",
   "ThumbnailAltText": "Dratini",
-  "ThumbnailImage": "/pokedex-server/images/147.png",
+  "ThumbnailImage": "/images/147.png",
   "id": 147,
   "type": [
     "dragon"

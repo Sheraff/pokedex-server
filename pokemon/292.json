@@ -18,7 +18,7 @@
   "slug": "shedinja",
   "name": "Shedinja",
   "ThumbnailAltText": "Shedinja",
-  "ThumbnailImage": "/pokedex-server/images/292.png",
+  "ThumbnailImage": "/images/292.png",
   "id": 292,
   "type": [
     "bug",

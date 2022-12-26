@@ -16,7 +16,7 @@
   "slug": "flygon",
   "name": "Flygon",
   "ThumbnailAltText": "Flygon",
-  "ThumbnailImage": "/pokedex-server/images/330.png",
+  "ThumbnailImage": "/images/330.png",
   "id": 330,
   "type": [
     "ground",

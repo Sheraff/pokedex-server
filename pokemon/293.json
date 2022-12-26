@@ -14,7 +14,7 @@
   "slug": "whismur",
   "name": "Whismur",
   "ThumbnailAltText": "Whismur",
-  "ThumbnailImage": "/pokedex-server/images/293.png",
+  "ThumbnailImage": "/images/293.png",
   "id": 293,
   "type": [
     "normal"

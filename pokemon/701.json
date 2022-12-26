@@ -19,7 +19,7 @@
   "slug": "hawlucha",
   "name": "Hawlucha",
   "ThumbnailAltText": "Hawlucha",
-  "ThumbnailImage": "/pokedex-server/images/701.png",
+  "ThumbnailImage": "/images/701.png",
   "id": 701,
   "type": [
     "fighting",

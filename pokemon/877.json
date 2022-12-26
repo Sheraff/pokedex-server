@@ -17,7 +17,7 @@
   "slug": "morpeko",
   "name": "Morpeko",
   "ThumbnailAltText": "Morpeko",
-  "ThumbnailImage": "/pokedex-server/images/877.png",
+  "ThumbnailImage": "/images/877.png",
   "id": 877,
   "type": [
     "electric",

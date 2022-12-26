@@ -19,7 +19,7 @@
   "slug": "slowbro",
   "name": "Slowbro",
   "ThumbnailAltText": "Slowbro",
-  "ThumbnailImage": "/pokedex-server/images/80.png",
+  "ThumbnailImage": "/images/80.png",
   "id": 80,
   "type": [
     "water",

@@ -17,7 +17,7 @@
   "slug": "illumise",
   "name": "Illumise",
   "ThumbnailAltText": "Illumise",
-  "ThumbnailImage": "/pokedex-server/images/314.png",
+  "ThumbnailImage": "/images/314.png",
   "id": 314,
   "type": [
     "bug"

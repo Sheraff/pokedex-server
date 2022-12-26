@@ -15,7 +15,7 @@
   "slug": "piplup",
   "name": "Piplup",
   "ThumbnailAltText": "Piplup",
-  "ThumbnailImage": "/pokedex-server/images/393.png",
+  "ThumbnailImage": "/images/393.png",
   "id": 393,
   "type": [
     "water"

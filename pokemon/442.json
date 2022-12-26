@@ -14,7 +14,7 @@
   "slug": "spiritomb",
   "name": "Spiritomb",
   "ThumbnailAltText": "Spiritomb",
-  "ThumbnailImage": "/pokedex-server/images/442.png",
+  "ThumbnailImage": "/images/442.png",
   "id": 442,
   "type": [
     "ghost",

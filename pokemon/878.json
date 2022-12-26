@@ -16,7 +16,7 @@
   "slug": "cufant",
   "name": "Cufant",
   "ThumbnailAltText": "Cufant",
-  "ThumbnailImage": "/pokedex-server/images/878.png",
+  "ThumbnailImage": "/images/878.png",
   "id": 878,
   "type": [
     "steel"

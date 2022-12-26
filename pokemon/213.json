@@ -17,7 +17,7 @@
   "slug": "shuckle",
   "name": "Shuckle",
   "ThumbnailAltText": "Shuckle",
-  "ThumbnailImage": "/pokedex-server/images/213.png",
+  "ThumbnailImage": "/images/213.png",
   "id": 213,
   "type": [
     "bug",

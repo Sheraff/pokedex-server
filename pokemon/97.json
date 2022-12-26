@@ -17,7 +17,7 @@
   "slug": "hypno",
   "name": "Hypno",
   "ThumbnailAltText": "Hypno",
-  "ThumbnailImage": "/pokedex-server/images/97.png",
+  "ThumbnailImage": "/images/97.png",
   "id": 97,
   "type": [
     "psychic"

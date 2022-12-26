@@ -15,7 +15,7 @@
   "slug": "dialga",
   "name": "Dialga",
   "ThumbnailAltText": "Dialga",
-  "ThumbnailImage": "/pokedex-server/images/483.png",
+  "ThumbnailImage": "/images/483.png",
   "id": 483,
   "type": [
     "steel",

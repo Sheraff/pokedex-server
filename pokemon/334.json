@@ -17,7 +17,7 @@
   "slug": "altaria",
   "name": "Altaria",
   "ThumbnailAltText": "Altaria",
-  "ThumbnailImage": "/pokedex-server/images/334.png",
+  "ThumbnailImage": "/images/334.png",
   "id": 334,
   "type": [
     "dragon",

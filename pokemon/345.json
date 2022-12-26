@@ -17,7 +17,7 @@
   "slug": "lileep",
   "name": "Lileep",
   "ThumbnailAltText": "Lileep",
-  "ThumbnailImage": "/pokedex-server/images/345.png",
+  "ThumbnailImage": "/images/345.png",
   "id": 345,
   "type": [
     "rock",

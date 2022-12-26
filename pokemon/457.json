@@ -16,7 +16,7 @@
   "slug": "lumineon",
   "name": "Lumineon",
   "ThumbnailAltText": "Lumineon",
-  "ThumbnailImage": "/pokedex-server/images/457.png",
+  "ThumbnailImage": "/images/457.png",
   "id": 457,
   "type": [
     "water"

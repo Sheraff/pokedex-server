@@ -16,7 +16,7 @@
   "slug": "magby",
   "name": "Magby",
   "ThumbnailAltText": "Magby",
-  "ThumbnailImage": "/pokedex-server/images/240.png",
+  "ThumbnailImage": "/images/240.png",
   "id": 240,
   "type": [
     "fire"

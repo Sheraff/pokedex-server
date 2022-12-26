@@ -17,7 +17,7 @@
   "slug": "scatterbug",
   "name": "Scatterbug",
   "ThumbnailAltText": "Scatterbug",
-  "ThumbnailImage": "/pokedex-server/images/664.png",
+  "ThumbnailImage": "/images/664.png",
   "id": 664,
   "type": [
     "bug"

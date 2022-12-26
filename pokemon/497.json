@@ -18,7 +18,7 @@
   "slug": "serperior",
   "name": "Serperior",
   "ThumbnailAltText": "Serperior",
-  "ThumbnailImage": "/pokedex-server/images/497.png",
+  "ThumbnailImage": "/images/497.png",
   "id": 497,
   "type": [
     "grass"

@@ -16,7 +16,7 @@
   "slug": "wailord",
   "name": "Wailord",
   "ThumbnailAltText": "Wailord",
-  "ThumbnailImage": "/pokedex-server/images/321.png",
+  "ThumbnailImage": "/images/321.png",
   "id": 321,
   "type": [
     "water"

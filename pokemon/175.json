@@ -16,7 +16,7 @@
   "slug": "togepi",
   "name": "Togepi",
   "ThumbnailAltText": "Togepi",
-  "ThumbnailImage": "/pokedex-server/images/175.png",
+  "ThumbnailImage": "/images/175.png",
   "id": 175,
   "type": [
     "fairy"

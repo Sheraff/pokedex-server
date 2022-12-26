@@ -17,7 +17,7 @@
   "slug": "rufflet",
   "name": "Rufflet",
   "ThumbnailAltText": "Rufflet",
-  "ThumbnailImage": "/pokedex-server/images/627.png",
+  "ThumbnailImage": "/images/627.png",
   "id": 627,
   "type": [
     "normal",

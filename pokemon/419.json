@@ -15,7 +15,7 @@
   "slug": "floatzel",
   "name": "Floatzel",
   "ThumbnailAltText": "Floatzel",
-  "ThumbnailImage": "/pokedex-server/images/419.png",
+  "ThumbnailImage": "/images/419.png",
   "id": 419,
   "type": [
     "water"

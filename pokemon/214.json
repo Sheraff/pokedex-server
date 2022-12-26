@@ -18,7 +18,7 @@
   "slug": "heracross",
   "name": "Heracross",
   "ThumbnailAltText": "Heracross",
-  "ThumbnailImage": "/pokedex-server/images/214.png",
+  "ThumbnailImage": "/images/214.png",
   "id": 214,
   "type": [
     "bug",

@@ -17,7 +17,7 @@
   "slug": "azumarill",
   "name": "Azumarill",
   "ThumbnailAltText": "Azumarill",
-  "ThumbnailImage": "/pokedex-server/images/184.png",
+  "ThumbnailImage": "/images/184.png",
   "id": 184,
   "type": [
     "water",

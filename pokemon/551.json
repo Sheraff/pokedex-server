@@ -20,7 +20,7 @@
   "slug": "sandile",
   "name": "Sandile",
   "ThumbnailAltText": "Sandile",
-  "ThumbnailImage": "/pokedex-server/images/551.png",
+  "ThumbnailImage": "/images/551.png",
   "id": 551,
   "type": [
     "ground",

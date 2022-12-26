@@ -19,7 +19,7 @@
   "slug": "hoppip",
   "name": "Hoppip",
   "ThumbnailAltText": "Hoppip",
-  "ThumbnailImage": "/pokedex-server/images/187.png",
+  "ThumbnailImage": "/images/187.png",
   "id": 187,
   "type": [
     "grass",

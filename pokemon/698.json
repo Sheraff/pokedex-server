@@ -19,7 +19,7 @@
   "slug": "amaura",
   "name": "Amaura",
   "ThumbnailAltText": "Amaura",
-  "ThumbnailImage": "/pokedex-server/images/698.png",
+  "ThumbnailImage": "/images/698.png",
   "id": 698,
   "type": [
     "rock",

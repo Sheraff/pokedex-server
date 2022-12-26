@@ -15,7 +15,7 @@
   "slug": "durant",
   "name": "Durant",
   "ThumbnailAltText": "Durant",
-  "ThumbnailImage": "/pokedex-server/images/632.png",
+  "ThumbnailImage": "/images/632.png",
   "id": 632,
   "type": [
     "bug",

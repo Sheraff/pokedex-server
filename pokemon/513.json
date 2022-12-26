@@ -16,7 +16,7 @@
   "slug": "pansear",
   "name": "Pansear",
   "ThumbnailAltText": "Pansear",
-  "ThumbnailImage": "/pokedex-server/images/513.png",
+  "ThumbnailImage": "/images/513.png",
   "id": 513,
   "type": [
     "fire"

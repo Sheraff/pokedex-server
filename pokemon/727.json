@@ -17,7 +17,7 @@
   "slug": "incineroar",
   "name": "Incineroar",
   "ThumbnailAltText": "Incineroar",
-  "ThumbnailImage": "/pokedex-server/images/727.png",
+  "ThumbnailImage": "/images/727.png",
   "id": 727,
   "type": [
     "fire",

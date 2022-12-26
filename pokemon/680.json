@@ -17,7 +17,7 @@
   "slug": "doublade",
   "name": "Doublade",
   "ThumbnailAltText": "Doublade",
-  "ThumbnailImage": "/pokedex-server/images/680.png",
+  "ThumbnailImage": "/images/680.png",
   "id": 680,
   "type": [
     "steel",

@@ -17,7 +17,7 @@
   "slug": "snom",
   "name": "Snom",
   "ThumbnailAltText": "Snom",
-  "ThumbnailImage": "/pokedex-server/images/872.png",
+  "ThumbnailImage": "/images/872.png",
   "id": 872,
   "type": [
     "ice",

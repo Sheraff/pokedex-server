@@ -17,7 +17,7 @@
   "slug": "hatterene",
   "name": "Hatterene",
   "ThumbnailAltText": "Hatterene",
-  "ThumbnailImage": "/pokedex-server/images/858.png",
+  "ThumbnailImage": "/images/858.png",
   "id": 858,
   "type": [
     "psychic",

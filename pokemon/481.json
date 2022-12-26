@@ -16,7 +16,7 @@
   "slug": "mesprit",
   "name": "Mesprit",
   "ThumbnailAltText": "Mesprit",
-  "ThumbnailImage": "/pokedex-server/images/481.png",
+  "ThumbnailImage": "/images/481.png",
   "id": 481,
   "type": [
     "psychic"

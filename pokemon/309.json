@@ -15,7 +15,7 @@
   "slug": "electrike",
   "name": "Electrike",
   "ThumbnailAltText": "Electrike",
-  "ThumbnailImage": "/pokedex-server/images/309.png",
+  "ThumbnailImage": "/images/309.png",
   "id": 309,
   "type": [
     "electric"

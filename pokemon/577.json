@@ -17,7 +17,7 @@
   "slug": "solosis",
   "name": "Solosis",
   "ThumbnailAltText": "Solosis",
-  "ThumbnailImage": "/pokedex-server/images/577.png",
+  "ThumbnailImage": "/images/577.png",
   "id": 577,
   "type": [
     "psychic"

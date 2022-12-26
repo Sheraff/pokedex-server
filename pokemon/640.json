@@ -19,7 +19,7 @@
   "slug": "virizion",
   "name": "Virizion",
   "ThumbnailAltText": "Virizion",
-  "ThumbnailImage": "/pokedex-server/images/640.png",
+  "ThumbnailImage": "/images/640.png",
   "id": 640,
   "type": [
     "grass",

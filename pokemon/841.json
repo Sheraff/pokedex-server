@@ -20,7 +20,7 @@
   "slug": "flapple",
   "name": "Flapple",
   "ThumbnailAltText": "Flapple",
-  "ThumbnailImage": "/pokedex-server/images/841.png",
+  "ThumbnailImage": "/images/841.png",
   "id": 841,
   "type": [
     "grass",

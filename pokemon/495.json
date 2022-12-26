@@ -18,7 +18,7 @@
   "slug": "snivy",
   "name": "Snivy",
   "ThumbnailAltText": "Snivy",
-  "ThumbnailImage": "/pokedex-server/images/495.png",
+  "ThumbnailImage": "/images/495.png",
   "id": 495,
   "type": [
     "grass"

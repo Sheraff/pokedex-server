@@ -18,7 +18,7 @@
   "slug": "bewear",
   "name": "Bewear",
   "ThumbnailAltText": "Bewear",
-  "ThumbnailImage": "/pokedex-server/images/760.png",
+  "ThumbnailImage": "/images/760.png",
   "id": 760,
   "type": [
     "normal",

@@ -17,7 +17,7 @@
   "slug": "espurr",
   "name": "Espurr",
   "ThumbnailAltText": "Espurr",
-  "ThumbnailImage": "/pokedex-server/images/677.png",
+  "ThumbnailImage": "/images/677.png",
   "id": 677,
   "type": [
     "psychic"

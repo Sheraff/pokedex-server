@@ -18,7 +18,7 @@
   "slug": "dracozolt",
   "name": "Dracozolt",
   "ThumbnailAltText": "Dracozolt",
-  "ThumbnailImage": "/pokedex-server/images/880.png",
+  "ThumbnailImage": "/images/880.png",
   "id": 880,
   "type": [
     "electric",

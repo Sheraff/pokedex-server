@@ -15,7 +15,7 @@
   "slug": "sentret",
   "name": "Sentret",
   "ThumbnailAltText": "Sentret",
-  "ThumbnailImage": "/pokedex-server/images/161.png",
+  "ThumbnailImage": "/images/161.png",
   "id": 161,
   "type": [
     "normal"

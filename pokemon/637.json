@@ -16,7 +16,7 @@
   "slug": "volcarona",
   "name": "Volcarona",
   "ThumbnailAltText": "Volcarona",
-  "ThumbnailImage": "/pokedex-server/images/637.png",
+  "ThumbnailImage": "/images/637.png",
   "id": 637,
   "type": [
     "bug",

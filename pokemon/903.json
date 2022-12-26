@@ -14,7 +14,7 @@
   "slug": "sneasler",
   "name": "Sneasler",
   "ThumbnailAltText": "Sneasler",
-  "ThumbnailImage": "/pokedex-server/images/903.png",
+  "ThumbnailImage": "/images/903.png",
   "id": 903,
   "type": [
     "fighting",

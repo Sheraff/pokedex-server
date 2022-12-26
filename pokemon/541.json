@@ -20,7 +20,7 @@
   "slug": "swadloon",
   "name": "Swadloon",
   "ThumbnailAltText": "Swadloon",
-  "ThumbnailImage": "/pokedex-server/images/541.png",
+  "ThumbnailImage": "/images/541.png",
   "id": 541,
   "type": [
     "bug",

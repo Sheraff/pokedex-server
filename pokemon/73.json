@@ -17,7 +17,7 @@
   "slug": "tentacruel",
   "name": "Tentacruel",
   "ThumbnailAltText": "Tentacruel",
-  "ThumbnailImage": "/pokedex-server/images/73.png",
+  "ThumbnailImage": "/images/73.png",
   "id": 73,
   "type": [
     "water",

@@ -16,7 +16,7 @@
   "slug": "shelgon",
   "name": "Shelgon",
   "ThumbnailAltText": "Shelgon",
-  "ThumbnailImage": "/pokedex-server/images/372.png",
+  "ThumbnailImage": "/images/372.png",
   "id": 372,
   "type": [
     "dragon"

@@ -20,7 +20,7 @@
   "slug": "cacturne",
   "name": "Cacturne",
   "ThumbnailAltText": "Cacturne",
-  "ThumbnailImage": "/pokedex-server/images/332.png",
+  "ThumbnailImage": "/images/332.png",
   "id": 332,
   "type": [
     "grass",

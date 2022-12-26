@@ -19,7 +19,7 @@
   "slug": "chesnaught",
   "name": "Chesnaught",
   "ThumbnailAltText": "Chesnaught",
-  "ThumbnailImage": "/pokedex-server/images/652.png",
+  "ThumbnailImage": "/images/652.png",
   "id": 652,
   "type": [
     "grass",

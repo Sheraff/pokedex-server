@@ -17,7 +17,7 @@
   "slug": "arcanine",
   "name": "Arcanine",
   "ThumbnailAltText": "Arcanine",
-  "ThumbnailImage": "/pokedex-server/images/59.png",
+  "ThumbnailImage": "/images/59.png",
   "id": 59,
   "type": [
     "fire"

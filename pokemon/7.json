@@ -15,7 +15,7 @@
   "slug": "squirtle",
   "name": "Squirtle",
   "ThumbnailAltText": "Squirtle",
-  "ThumbnailImage": "/pokedex-server/images/7.png",
+  "ThumbnailImage": "/images/7.png",
   "id": 7,
   "type": [
     "water"

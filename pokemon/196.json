@@ -16,7 +16,7 @@
   "slug": "espeon",
   "name": "Espeon",
   "ThumbnailAltText": "Espeon",
-  "ThumbnailImage": "/pokedex-server/images/196.png",
+  "ThumbnailImage": "/images/196.png",
   "id": 196,
   "type": [
     "psychic"

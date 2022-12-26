@@ -15,7 +15,7 @@
   "slug": "clamperl",
   "name": "Clamperl",
   "ThumbnailAltText": "Clamperl",
-  "ThumbnailImage": "/pokedex-server/images/366.png",
+  "ThumbnailImage": "/images/366.png",
   "id": 366,
   "type": [
     "water"

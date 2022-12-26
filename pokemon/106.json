@@ -17,7 +17,7 @@
   "slug": "hitmonlee",
   "name": "Hitmonlee",
   "ThumbnailAltText": "Hitmonlee",
-  "ThumbnailImage": "/pokedex-server/images/106.png",
+  "ThumbnailImage": "/images/106.png",
   "id": 106,
   "type": [
     "fighting"

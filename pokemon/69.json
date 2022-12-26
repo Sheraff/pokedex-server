@@ -17,7 +17,7 @@
   "slug": "bellsprout",
   "name": "Bellsprout",
   "ThumbnailAltText": "Bellsprout",
-  "ThumbnailImage": "/pokedex-server/images/69.png",
+  "ThumbnailImage": "/images/69.png",
   "id": 69,
   "type": [
     "grass",

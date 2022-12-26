@@ -17,7 +17,7 @@
   "slug": "crustle",
   "name": "Crustle",
   "ThumbnailAltText": "Crustle",
-  "ThumbnailImage": "/pokedex-server/images/558.png",
+  "ThumbnailImage": "/images/558.png",
   "id": 558,
   "type": [
     "bug",

@@ -14,7 +14,7 @@
   "slug": "exploud",
   "name": "Exploud",
   "ThumbnailAltText": "Exploud",
-  "ThumbnailImage": "/pokedex-server/images/295.png",
+  "ThumbnailImage": "/images/295.png",
   "id": 295,
   "type": [
     "normal"

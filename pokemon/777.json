@@ -17,7 +17,7 @@
   "slug": "togedemaru",
   "name": "Togedemaru",
   "ThumbnailAltText": "Togedemaru",
-  "ThumbnailImage": "/pokedex-server/images/777.png",
+  "ThumbnailImage": "/images/777.png",
   "id": 777,
   "type": [
     "electric",

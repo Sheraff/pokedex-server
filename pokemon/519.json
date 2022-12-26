@@ -17,7 +17,7 @@
   "slug": "pidove",
   "name": "Pidove",
   "ThumbnailAltText": "Pidove",
-  "ThumbnailImage": "/pokedex-server/images/519.png",
+  "ThumbnailImage": "/images/519.png",
   "id": 519,
   "type": [
     "normal",

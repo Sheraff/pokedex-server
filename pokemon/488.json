@@ -16,7 +16,7 @@
   "slug": "cresselia",
   "name": "Cresselia",
   "ThumbnailAltText": "Cresselia",
-  "ThumbnailImage": "/pokedex-server/images/488.png",
+  "ThumbnailImage": "/images/488.png",
   "id": 488,
   "type": [
     "psychic"

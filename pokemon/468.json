@@ -19,7 +19,7 @@
   "slug": "togekiss",
   "name": "Togekiss",
   "ThumbnailAltText": "Togekiss",
-  "ThumbnailImage": "/pokedex-server/images/468.png",
+  "ThumbnailImage": "/images/468.png",
   "id": 468,
   "type": [
     "fairy",

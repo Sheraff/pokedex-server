@@ -16,7 +16,7 @@
   "slug": "heliolisk",
   "name": "Heliolisk",
   "ThumbnailAltText": "Heliolisk",
-  "ThumbnailImage": "/pokedex-server/images/695.png",
+  "ThumbnailImage": "/images/695.png",
   "id": 695,
   "type": [
     "electric",

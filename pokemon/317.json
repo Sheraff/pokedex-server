@@ -16,7 +16,7 @@
   "slug": "swalot",
   "name": "Swalot",
   "ThumbnailAltText": "Swalot",
-  "ThumbnailImage": "/pokedex-server/images/317.png",
+  "ThumbnailImage": "/images/317.png",
   "id": 317,
   "type": [
     "poison"

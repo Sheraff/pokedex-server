@@ -19,7 +19,7 @@
   "slug": "larvitar",
   "name": "Larvitar",
   "ThumbnailAltText": "Larvitar",
-  "ThumbnailImage": "/pokedex-server/images/246.png",
+  "ThumbnailImage": "/images/246.png",
   "id": 246,
   "type": [
     "rock",

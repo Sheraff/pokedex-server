@@ -16,7 +16,7 @@
   "slug": "sandshrew",
   "name": "Sandshrew",
   "ThumbnailAltText": "Sandshrew",
-  "ThumbnailImage": "/pokedex-server/images/27.png",
+  "ThumbnailImage": "/images/27.png",
   "id": 27,
   "type": [
     "ground"

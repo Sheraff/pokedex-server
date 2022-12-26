@@ -18,7 +18,7 @@
   "slug": "decidueye",
   "name": "Decidueye",
   "ThumbnailAltText": "Decidueye",
-  "ThumbnailImage": "/pokedex-server/images/724.png",
+  "ThumbnailImage": "/images/724.png",
   "id": 724,
   "type": [
     "grass",

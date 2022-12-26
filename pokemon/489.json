@@ -15,7 +15,7 @@
   "slug": "phione",
   "name": "Phione",
   "ThumbnailAltText": "Phione",
-  "ThumbnailImage": "/pokedex-server/images/489.png",
+  "ThumbnailImage": "/images/489.png",
   "id": 489,
   "type": [
     "water"

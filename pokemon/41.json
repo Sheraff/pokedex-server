@@ -17,7 +17,7 @@
   "slug": "zubat",
   "name": "Zubat",
   "ThumbnailAltText": "Zubat",
-  "ThumbnailImage": "/pokedex-server/images/41.png",
+  "ThumbnailImage": "/images/41.png",
   "id": 41,
   "type": [
     "poison",

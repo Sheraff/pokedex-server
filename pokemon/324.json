@@ -17,7 +17,7 @@
   "slug": "torkoal",
   "name": "Torkoal",
   "ThumbnailAltText": "Torkoal",
-  "ThumbnailImage": "/pokedex-server/images/324.png",
+  "ThumbnailImage": "/images/324.png",
   "id": 324,
   "type": [
     "fire"

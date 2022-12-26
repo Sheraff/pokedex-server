@@ -15,7 +15,7 @@
   "slug": "dusknoir",
   "name": "Dusknoir",
   "ThumbnailAltText": "Dusknoir",
-  "ThumbnailImage": "/pokedex-server/images/477.png",
+  "ThumbnailImage": "/images/477.png",
   "id": 477,
   "type": [
     "ghost"

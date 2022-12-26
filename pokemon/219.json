@@ -18,7 +18,7 @@
   "slug": "magcargo",
   "name": "Magcargo",
   "ThumbnailAltText": "Magcargo",
-  "ThumbnailImage": "/pokedex-server/images/219.png",
+  "ThumbnailImage": "/images/219.png",
   "id": 219,
   "type": [
     "fire",

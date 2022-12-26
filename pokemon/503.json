@@ -15,7 +15,7 @@
   "slug": "samurott",
   "name": "Samurott",
   "ThumbnailAltText": "Samurott",
-  "ThumbnailImage": "/pokedex-server/images/503.png",
+  "ThumbnailImage": "/images/503.png",
   "id": 503,
   "type": [
     "water"

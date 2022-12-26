@@ -15,7 +15,7 @@
   "slug": "inteleon",
   "name": "Inteleon",
   "ThumbnailAltText": "Inteleon",
-  "ThumbnailImage": "/pokedex-server/images/818.png",
+  "ThumbnailImage": "/images/818.png",
   "id": 818,
   "type": [
     "water"

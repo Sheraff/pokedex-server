@@ -17,7 +17,7 @@
   "slug": "conkeldurr",
   "name": "Conkeldurr",
   "ThumbnailAltText": "Conkeldurr",
-  "ThumbnailImage": "/pokedex-server/images/534.png",
+  "ThumbnailImage": "/images/534.png",
   "id": 534,
   "type": [
     "fighting"

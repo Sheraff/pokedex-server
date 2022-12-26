@@ -17,7 +17,7 @@
   "slug": "sawk",
   "name": "Sawk",
   "ThumbnailAltText": "Sawk",
-  "ThumbnailImage": "/pokedex-server/images/539.png",
+  "ThumbnailImage": "/images/539.png",
   "id": 539,
   "type": [
     "fighting"

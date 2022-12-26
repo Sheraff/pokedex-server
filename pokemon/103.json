@@ -20,7 +20,7 @@
   "slug": "exeggutor",
   "name": "Exeggutor",
   "ThumbnailAltText": "Exeggutor",
-  "ThumbnailImage": "/pokedex-server/images/103.png",
+  "ThumbnailImage": "/images/103.png",
   "id": 103,
   "type": [
     "grass",

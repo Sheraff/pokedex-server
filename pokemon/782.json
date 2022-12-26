@@ -17,7 +17,7 @@
   "slug": "jangmo-o",
   "name": "Jangmo-o",
   "ThumbnailAltText": "Jangmo-o",
-  "ThumbnailImage": "/pokedex-server/images/782.png",
+  "ThumbnailImage": "/images/782.png",
   "id": 782,
   "type": [
     "dragon"

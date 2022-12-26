@@ -17,7 +17,7 @@
   "slug": "elgyem",
   "name": "Elgyem",
   "ThumbnailAltText": "Elgyem",
-  "ThumbnailImage": "/pokedex-server/images/605.png",
+  "ThumbnailImage": "/images/605.png",
   "id": 605,
   "type": [
     "psychic"

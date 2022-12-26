@@ -18,7 +18,7 @@
   "slug": "beautifly",
   "name": "Beautifly",
   "ThumbnailAltText": "Beautifly",
-  "ThumbnailImage": "/pokedex-server/images/267.png",
+  "ThumbnailImage": "/images/267.png",
   "id": 267,
   "type": [
     "bug",

@@ -16,7 +16,7 @@
   "slug": "wingull",
   "name": "Wingull",
   "ThumbnailAltText": "Wingull",
-  "ThumbnailImage": "/pokedex-server/images/278.png",
+  "ThumbnailImage": "/images/278.png",
   "id": 278,
   "type": [
     "water",

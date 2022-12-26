@@ -19,7 +19,7 @@
   "slug": "sigilyph",
   "name": "Sigilyph",
   "ThumbnailAltText": "Sigilyph",
-  "ThumbnailImage": "/pokedex-server/images/561.png",
+  "ThumbnailImage": "/images/561.png",
   "id": 561,
   "type": [
     "psychic",

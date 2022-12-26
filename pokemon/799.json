@@ -18,7 +18,7 @@
   "slug": "guzzlord",
   "name": "Guzzlord",
   "ThumbnailAltText": "Guzzlord",
-  "ThumbnailImage": "/pokedex-server/images/799.png",
+  "ThumbnailImage": "/images/799.png",
   "id": 799,
   "type": [
     "dark",

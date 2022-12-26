@@ -15,7 +15,7 @@
   "slug": "dubwool",
   "name": "Dubwool",
   "ThumbnailAltText": "Dubwool",
-  "ThumbnailImage": "/pokedex-server/images/832.png",
+  "ThumbnailImage": "/images/832.png",
   "id": 832,
   "type": [
     "normal"

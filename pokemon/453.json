@@ -17,7 +17,7 @@
   "slug": "croagunk",
   "name": "Croagunk",
   "ThumbnailAltText": "Croagunk",
-  "ThumbnailImage": "/pokedex-server/images/453.png",
+  "ThumbnailImage": "/images/453.png",
   "id": 453,
   "type": [
     "poison",

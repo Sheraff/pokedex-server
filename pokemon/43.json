@@ -17,7 +17,7 @@
   "slug": "oddish",
   "name": "Oddish",
   "ThumbnailAltText": "Oddish",
-  "ThumbnailImage": "/pokedex-server/images/43.png",
+  "ThumbnailImage": "/images/43.png",
   "id": 43,
   "type": [
     "grass",

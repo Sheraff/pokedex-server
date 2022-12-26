@@ -19,7 +19,7 @@
   "slug": "cutiefly",
   "name": "Cutiefly",
   "ThumbnailAltText": "Cutiefly",
-  "ThumbnailImage": "/pokedex-server/images/742.png",
+  "ThumbnailImage": "/images/742.png",
   "id": 742,
   "type": [
     "bug",

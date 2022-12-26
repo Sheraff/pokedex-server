@@ -18,7 +18,7 @@
   "slug": "rowlet",
   "name": "Rowlet",
   "ThumbnailAltText": "Rowlet",
-  "ThumbnailImage": "/pokedex-server/images/722.png",
+  "ThumbnailImage": "/images/722.png",
   "id": 722,
   "type": [
     "grass",

@@ -16,7 +16,7 @@
   "slug": "cyndaquil",
   "name": "Cyndaquil",
   "ThumbnailAltText": "Cyndaquil",
-  "ThumbnailImage": "/pokedex-server/images/155.png",
+  "ThumbnailImage": "/images/155.png",
   "id": 155,
   "type": [
     "fire"

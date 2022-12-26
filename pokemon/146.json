@@ -16,7 +16,7 @@
   "slug": "moltres",
   "name": "Moltres",
   "ThumbnailAltText": "Moltres",
-  "ThumbnailImage": "/pokedex-server/images/146.png",
+  "ThumbnailImage": "/images/146.png",
   "id": 146,
   "type": [
     "fire",

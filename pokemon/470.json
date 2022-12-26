@@ -18,7 +18,7 @@
   "slug": "leafeon",
   "name": "Leafeon",
   "ThumbnailAltText": "Leafeon",
-  "ThumbnailImage": "/pokedex-server/images/470.png",
+  "ThumbnailImage": "/images/470.png",
   "id": 470,
   "type": [
     "grass"

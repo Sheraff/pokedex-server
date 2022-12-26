@@ -15,7 +15,7 @@
   "slug": "basculegion",
   "name": "Basculegion",
   "ThumbnailAltText": "Basculegion",
-  "ThumbnailImage": "/pokedex-server/images/902.png",
+  "ThumbnailImage": "/images/902.png",
   "id": 902,
   "type": [
     "water",

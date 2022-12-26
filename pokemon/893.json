@@ -20,7 +20,7 @@
   "slug": "zarude",
   "name": "Zarude",
   "ThumbnailAltText": "Zarude",
-  "ThumbnailImage": "/pokedex-server/images/893.png",
+  "ThumbnailImage": "/images/893.png",
   "id": 893,
   "type": [
     "dark",

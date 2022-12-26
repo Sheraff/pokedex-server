@@ -16,7 +16,7 @@
   "slug": "shellder",
   "name": "Shellder",
   "ThumbnailAltText": "Shellder",
-  "ThumbnailImage": "/pokedex-server/images/90.png",
+  "ThumbnailImage": "/images/90.png",
   "id": 90,
   "type": [
     "water"

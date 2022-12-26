@@ -16,7 +16,7 @@
   "slug": "tapu-fini",
   "name": "Tapu Fini",
   "ThumbnailAltText": "Tapu Fini",
-  "ThumbnailImage": "/pokedex-server/images/788.png",
+  "ThumbnailImage": "/images/788.png",
   "id": 788,
   "type": [
     "water",

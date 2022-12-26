@@ -19,7 +19,7 @@
   "slug": "seedot",
   "name": "Seedot",
   "ThumbnailAltText": "Seedot",
-  "ThumbnailImage": "/pokedex-server/images/273.png",
+  "ThumbnailImage": "/images/273.png",
   "id": 273,
   "type": [
     "grass"

@@ -19,7 +19,7 @@
   "slug": "slowpoke",
   "name": "Slowpoke",
   "ThumbnailAltText": "Slowpoke",
-  "ThumbnailImage": "/pokedex-server/images/79.png",
+  "ThumbnailImage": "/images/79.png",
   "id": 79,
   "type": [
     "water",

@@ -16,7 +16,7 @@
   "slug": "cobalion",
   "name": "Cobalion",
   "ThumbnailAltText": "Cobalion",
-  "ThumbnailImage": "/pokedex-server/images/638.png",
+  "ThumbnailImage": "/images/638.png",
   "id": 638,
   "type": [
     "steel",

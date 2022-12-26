@@ -18,7 +18,7 @@
   "slug": "kabutops",
   "name": "Kabutops",
   "ThumbnailAltText": "Kabutops",
-  "ThumbnailImage": "/pokedex-server/images/141.png",
+  "ThumbnailImage": "/images/141.png",
   "id": 141,
   "type": [
     "rock",

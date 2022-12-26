@@ -17,7 +17,7 @@
   "slug": "venusaur",
   "name": "Venusaur",
   "ThumbnailAltText": "Venusaur",
-  "ThumbnailImage": "/pokedex-server/images/3.png",
+  "ThumbnailImage": "/images/3.png",
   "id": 3,
   "type": [
     "grass",

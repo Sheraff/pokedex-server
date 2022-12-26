@@ -20,7 +20,7 @@
   "slug": "golem",
   "name": "Golem",
   "ThumbnailAltText": "Golem",
-  "ThumbnailImage": "/pokedex-server/images/76.png",
+  "ThumbnailImage": "/images/76.png",
   "id": 76,
   "type": [
     "rock",

@@ -15,7 +15,7 @@
   "slug": "eevee",
   "name": "Eevee",
   "ThumbnailAltText": "Eevee",
-  "ThumbnailImage": "/pokedex-server/images/133.png",
+  "ThumbnailImage": "/images/133.png",
   "id": 133,
   "type": [
     "normal"

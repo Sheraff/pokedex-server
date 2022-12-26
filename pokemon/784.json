@@ -19,7 +19,7 @@
   "slug": "kommo-o",
   "name": "Kommo-o",
   "ThumbnailAltText": "Kommo-o",
-  "ThumbnailImage": "/pokedex-server/images/784.png",
+  "ThumbnailImage": "/images/784.png",
   "id": 784,
   "type": [
     "dragon",

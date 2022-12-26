@@ -18,7 +18,7 @@
   "slug": "bellossom",
   "name": "Bellossom",
   "ThumbnailAltText": "Bellossom",
-  "ThumbnailImage": "/pokedex-server/images/182.png",
+  "ThumbnailImage": "/images/182.png",
   "id": 182,
   "type": [
     "grass"

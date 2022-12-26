@@ -17,7 +17,7 @@
   "slug": "throh",
   "name": "Throh",
   "ThumbnailAltText": "Throh",
-  "ThumbnailImage": "/pokedex-server/images/538.png",
+  "ThumbnailImage": "/images/538.png",
   "id": 538,
   "type": [
     "fighting"

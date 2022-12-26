@@ -17,7 +17,7 @@
   "slug": "tyrogue",
   "name": "Tyrogue",
   "ThumbnailAltText": "Tyrogue",
-  "ThumbnailImage": "/pokedex-server/images/236.png",
+  "ThumbnailImage": "/images/236.png",
   "id": 236,
   "type": [
     "fighting"

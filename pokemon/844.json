@@ -17,7 +17,7 @@
   "slug": "sandaconda",
   "name": "Sandaconda",
   "ThumbnailAltText": "Sandaconda",
-  "ThumbnailImage": "/pokedex-server/images/844.png",
+  "ThumbnailImage": "/images/844.png",
   "id": 844,
   "type": [
     "ground"

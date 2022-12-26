@@ -18,7 +18,7 @@
   "slug": "ariados",
   "name": "Ariados",
   "ThumbnailAltText": "Ariados",
-  "ThumbnailImage": "/pokedex-server/images/168.png",
+  "ThumbnailImage": "/images/168.png",
   "id": 168,
   "type": [
     "bug",

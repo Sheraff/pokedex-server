@@ -15,7 +15,7 @@
   "slug": "lickitung",
   "name": "Lickitung",
   "ThumbnailAltText": "Lickitung",
-  "ThumbnailImage": "/pokedex-server/images/108.png",
+  "ThumbnailImage": "/images/108.png",
   "id": 108,
   "type": [
     "normal"

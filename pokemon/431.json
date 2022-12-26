@@ -15,7 +15,7 @@
   "slug": "glameow",
   "name": "Glameow",
   "ThumbnailAltText": "Glameow",
-  "ThumbnailImage": "/pokedex-server/images/431.png",
+  "ThumbnailImage": "/images/431.png",
   "id": 431,
   "type": [
     "normal"

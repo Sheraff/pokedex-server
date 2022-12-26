@@ -16,7 +16,7 @@
   "slug": "octillery",
   "name": "Octillery",
   "ThumbnailAltText": "Octillery",
-  "ThumbnailImage": "/pokedex-server/images/224.png",
+  "ThumbnailImage": "/images/224.png",
   "id": 224,
   "type": [
     "water"

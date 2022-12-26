@@ -15,7 +15,7 @@
   "slug": "seviper",
   "name": "Seviper",
   "ThumbnailAltText": "Seviper",
-  "ThumbnailImage": "/pokedex-server/images/336.png",
+  "ThumbnailImage": "/images/336.png",
   "id": 336,
   "type": [
     "poison"

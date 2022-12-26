@@ -15,7 +15,7 @@
   "slug": "panpour",
   "name": "Panpour",
   "ThumbnailAltText": "Panpour",
-  "ThumbnailImage": "/pokedex-server/images/515.png",
+  "ThumbnailImage": "/images/515.png",
   "id": 515,
   "type": [
     "water"

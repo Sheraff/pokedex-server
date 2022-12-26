@@ -17,7 +17,7 @@
   "slug": "aggron",
   "name": "Aggron",
   "ThumbnailAltText": "Aggron",
-  "ThumbnailImage": "/pokedex-server/images/306.png",
+  "ThumbnailImage": "/images/306.png",
   "id": 306,
   "type": [
     "steel",

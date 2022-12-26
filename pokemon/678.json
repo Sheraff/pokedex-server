@@ -17,7 +17,7 @@
   "slug": "meowstic",
   "name": "Meowstic",
   "ThumbnailAltText": "Meowstic",
-  "ThumbnailImage": "/pokedex-server/images/678.png",
+  "ThumbnailImage": "/images/678.png",
   "id": 678,
   "type": [
     "psychic"

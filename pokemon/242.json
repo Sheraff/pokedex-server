@@ -15,7 +15,7 @@
   "slug": "blissey",
   "name": "Blissey",
   "ThumbnailAltText": "Blissey",
-  "ThumbnailImage": "/pokedex-server/images/242.png",
+  "ThumbnailImage": "/images/242.png",
   "id": 242,
   "type": [
     "normal"

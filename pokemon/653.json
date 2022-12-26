@@ -16,7 +16,7 @@
   "slug": "fennekin",
   "name": "Fennekin",
   "ThumbnailAltText": "Fennekin",
-  "ThumbnailImage": "/pokedex-server/images/653.png",
+  "ThumbnailImage": "/images/653.png",
   "id": 653,
   "type": [
     "fire"

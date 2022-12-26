@@ -18,7 +18,7 @@
   "slug": "vullaby",
   "name": "Vullaby",
   "ThumbnailAltText": "Vullaby",
-  "ThumbnailImage": "/pokedex-server/images/629.png",
+  "ThumbnailImage": "/images/629.png",
   "id": 629,
   "type": [
     "dark",

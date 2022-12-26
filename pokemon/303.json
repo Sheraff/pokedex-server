@@ -16,7 +16,7 @@
   "slug": "mawile",
   "name": "Mawile",
   "ThumbnailAltText": "Mawile",
-  "ThumbnailImage": "/pokedex-server/images/303.png",
+  "ThumbnailImage": "/images/303.png",
   "id": 303,
   "type": [
     "steel",

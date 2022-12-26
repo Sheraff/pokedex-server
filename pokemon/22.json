@@ -16,7 +16,7 @@
   "slug": "fearow",
   "name": "Fearow",
   "ThumbnailAltText": "Fearow",
-  "ThumbnailImage": "/pokedex-server/images/22.png",
+  "ThumbnailImage": "/images/22.png",
   "id": 22,
   "type": [
     "normal",

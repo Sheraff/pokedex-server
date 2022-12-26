@@ -15,7 +15,7 @@
   "slug": "manaphy",
   "name": "Manaphy",
   "ThumbnailAltText": "Manaphy",
-  "ThumbnailImage": "/pokedex-server/images/490.png",
+  "ThumbnailImage": "/images/490.png",
   "id": 490,
   "type": [
     "water"

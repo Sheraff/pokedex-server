@@ -18,7 +18,7 @@
   "slug": "quilladin",
   "name": "Quilladin",
   "ThumbnailAltText": "Quilladin",
-  "ThumbnailImage": "/pokedex-server/images/651.png",
+  "ThumbnailImage": "/images/651.png",
   "id": 651,
   "type": [
     "grass"

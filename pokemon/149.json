@@ -17,7 +17,7 @@
   "slug": "dragonite",
   "name": "Dragonite",
   "ThumbnailAltText": "Dragonite",
-  "ThumbnailImage": "/pokedex-server/images/149.png",
+  "ThumbnailImage": "/images/149.png",
   "id": 149,
   "type": [
     "dragon",

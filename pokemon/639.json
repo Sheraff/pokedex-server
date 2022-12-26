@@ -20,7 +20,7 @@
   "slug": "terrakion",
   "name": "Terrakion",
   "ThumbnailAltText": "Terrakion",
-  "ThumbnailImage": "/pokedex-server/images/639.png",
+  "ThumbnailImage": "/images/639.png",
   "id": 639,
   "type": [
     "rock",

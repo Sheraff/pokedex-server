@@ -17,7 +17,7 @@
   "slug": "duosion",
   "name": "Duosion",
   "ThumbnailAltText": "Duosion",
-  "ThumbnailImage": "/pokedex-server/images/578.png",
+  "ThumbnailImage": "/images/578.png",
   "id": 578,
   "type": [
     "psychic"

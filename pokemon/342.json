@@ -19,7 +19,7 @@
   "slug": "crawdaunt",
   "name": "Crawdaunt",
   "ThumbnailAltText": "Crawdaunt",
-  "ThumbnailImage": "/pokedex-server/images/342.png",
+  "ThumbnailImage": "/images/342.png",
   "id": 342,
   "type": [
     "water",

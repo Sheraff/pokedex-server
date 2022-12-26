@@ -16,7 +16,7 @@
   "slug": "gabite",
   "name": "Gabite",
   "ThumbnailAltText": "Gabite",
-  "ThumbnailImage": "/pokedex-server/images/444.png",
+  "ThumbnailImage": "/images/444.png",
   "id": 444,
   "type": [
     "dragon",

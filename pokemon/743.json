@@ -19,7 +19,7 @@
   "slug": "ribombee",
   "name": "Ribombee",
   "ThumbnailAltText": "Ribombee",
-  "ThumbnailImage": "/pokedex-server/images/743.png",
+  "ThumbnailImage": "/images/743.png",
   "id": 743,
   "type": [
     "bug",

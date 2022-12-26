@@ -15,7 +15,7 @@
   "slug": "mismagius",
   "name": "Mismagius",
   "ThumbnailAltText": "Mismagius",
-  "ThumbnailImage": "/pokedex-server/images/429.png",
+  "ThumbnailImage": "/images/429.png",
   "id": 429,
   "type": [
     "ghost"

@@ -16,7 +16,7 @@
   "slug": "scorbunny",
   "name": "Scorbunny",
   "ThumbnailAltText": "Scorbunny",
-  "ThumbnailImage": "/pokedex-server/images/813.png",
+  "ThumbnailImage": "/images/813.png",
   "id": 813,
   "type": [
     "fire"

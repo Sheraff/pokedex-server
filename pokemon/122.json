@@ -17,7 +17,7 @@
   "slug": "mr-mime",
   "name": "Mr. Mime",
   "ThumbnailAltText": "Mr. Mime",
-  "ThumbnailImage": "/pokedex-server/images/122.png",
+  "ThumbnailImage": "/images/122.png",
   "id": 122,
   "type": [
     "psychic",

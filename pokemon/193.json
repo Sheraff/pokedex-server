@@ -19,7 +19,7 @@
   "slug": "yanma",
   "name": "Yanma",
   "ThumbnailAltText": "Yanma",
-  "ThumbnailImage": "/pokedex-server/images/193.png",
+  "ThumbnailImage": "/images/193.png",
   "id": 193,
   "type": [
     "bug",

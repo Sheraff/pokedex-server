@@ -17,7 +17,7 @@
   "slug": "farfetchd",
   "name": "Farfetch’d",
   "ThumbnailAltText": "Farfetch’d",
-  "ThumbnailImage": "/pokedex-server/images/83.png",
+  "ThumbnailImage": "/images/83.png",
   "id": 83,
   "type": [
     "normal",

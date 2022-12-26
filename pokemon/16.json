@@ -17,7 +17,7 @@
   "slug": "pidgey",
   "name": "Pidgey",
   "ThumbnailAltText": "Pidgey",
-  "ThumbnailImage": "/pokedex-server/images/16.png",
+  "ThumbnailImage": "/images/16.png",
   "id": 16,
   "type": [
     "normal",

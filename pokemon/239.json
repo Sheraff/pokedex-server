@@ -14,7 +14,7 @@
   "slug": "elekid",
   "name": "Elekid",
   "ThumbnailAltText": "Elekid",
-  "ThumbnailImage": "/pokedex-server/images/239.png",
+  "ThumbnailImage": "/images/239.png",
   "id": 239,
   "type": [
     "electric"

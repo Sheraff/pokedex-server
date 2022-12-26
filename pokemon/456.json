@@ -16,7 +16,7 @@
   "slug": "finneon",
   "name": "Finneon",
   "ThumbnailAltText": "Finneon",
-  "ThumbnailImage": "/pokedex-server/images/456.png",
+  "ThumbnailImage": "/images/456.png",
   "id": 456,
   "type": [
     "water"

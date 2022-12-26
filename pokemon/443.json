@@ -16,7 +16,7 @@
   "slug": "gible",
   "name": "Gible",
   "ThumbnailAltText": "Gible",
-  "ThumbnailImage": "/pokedex-server/images/443.png",
+  "ThumbnailImage": "/images/443.png",
   "id": 443,
   "type": [
     "dragon",

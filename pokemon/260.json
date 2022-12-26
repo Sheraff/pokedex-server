@@ -14,7 +14,7 @@
   "slug": "swampert",
   "name": "Swampert",
   "ThumbnailAltText": "Swampert",
-  "ThumbnailImage": "/pokedex-server/images/260.png",
+  "ThumbnailImage": "/images/260.png",
   "id": 260,
   "type": [
     "water",

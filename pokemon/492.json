@@ -18,7 +18,7 @@
   "slug": "shaymin",
   "name": "Shaymin",
   "ThumbnailAltText": "Shaymin",
-  "ThumbnailImage": "/pokedex-server/images/492.png",
+  "ThumbnailImage": "/images/492.png",
   "id": 492,
   "type": [
     "grass"

@@ -14,7 +14,7 @@
   "slug": "xurkitree",
   "name": "Xurkitree",
   "ThumbnailAltText": "Xurkitree",
-  "ThumbnailImage": "/pokedex-server/images/796.png",
+  "ThumbnailImage": "/images/796.png",
   "id": 796,
   "type": [
     "electric"

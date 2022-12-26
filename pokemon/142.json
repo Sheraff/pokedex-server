@@ -19,7 +19,7 @@
   "slug": "aerodactyl",
   "name": "Aerodactyl",
   "ThumbnailAltText": "Aerodactyl",
-  "ThumbnailImage": "/pokedex-server/images/142.png",
+  "ThumbnailImage": "/images/142.png",
   "id": 142,
   "type": [
     "rock",

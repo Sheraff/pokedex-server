@@ -16,7 +16,7 @@
   "slug": "caterpie",
   "name": "Caterpie",
   "ThumbnailAltText": "Caterpie",
-  "ThumbnailImage": "/pokedex-server/images/10.png",
+  "ThumbnailImage": "/images/10.png",
   "id": 10,
   "type": [
     "bug"

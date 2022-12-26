@@ -17,7 +17,7 @@
   "slug": "tentacool",
   "name": "Tentacool",
   "ThumbnailAltText": "Tentacool",
-  "ThumbnailImage": "/pokedex-server/images/72.png",
+  "ThumbnailImage": "/images/72.png",
   "id": 72,
   "type": [
     "water",

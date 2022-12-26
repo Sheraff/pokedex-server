@@ -16,7 +16,7 @@
   "slug": "registeel",
   "name": "Registeel",
   "ThumbnailAltText": "Registeel",
-  "ThumbnailImage": "/pokedex-server/images/379.png",
+  "ThumbnailImage": "/images/379.png",
   "id": 379,
   "type": [
     "steel"

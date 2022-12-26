@@ -15,7 +15,7 @@
   "slug": "wooper",
   "name": "Wooper",
   "ThumbnailAltText": "Wooper",
-  "ThumbnailImage": "/pokedex-server/images/194.png",
+  "ThumbnailImage": "/images/194.png",
   "id": 194,
   "type": [
     "water",

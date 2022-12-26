@@ -17,7 +17,7 @@
   "slug": "toxicroak",
   "name": "Toxicroak",
   "ThumbnailAltText": "Toxicroak",
-  "ThumbnailImage": "/pokedex-server/images/454.png",
+  "ThumbnailImage": "/images/454.png",
   "id": 454,
   "type": [
     "poison",

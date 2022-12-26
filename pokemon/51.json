@@ -17,7 +17,7 @@
   "slug": "dugtrio",
   "name": "Dugtrio",
   "ThumbnailAltText": "Dugtrio",
-  "ThumbnailImage": "/pokedex-server/images/51.png",
+  "ThumbnailImage": "/images/51.png",
   "id": 51,
   "type": [
     "ground"

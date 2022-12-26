@@ -17,7 +17,7 @@
   "slug": "ivysaur",
   "name": "Ivysaur",
   "ThumbnailAltText": "Ivysaur",
-  "ThumbnailImage": "/pokedex-server/images/2.png",
+  "ThumbnailImage": "/images/2.png",
   "id": 2,
   "type": [
     "grass",

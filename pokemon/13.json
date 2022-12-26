@@ -17,7 +17,7 @@
   "slug": "weedle",
   "name": "Weedle",
   "ThumbnailAltText": "Weedle",
-  "ThumbnailImage": "/pokedex-server/images/13.png",
+  "ThumbnailImage": "/images/13.png",
   "id": 13,
   "type": [
     "bug",

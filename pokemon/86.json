@@ -16,7 +16,7 @@
   "slug": "seel",
   "name": "Seel",
   "ThumbnailAltText": "Seel",
-  "ThumbnailImage": "/pokedex-server/images/86.png",
+  "ThumbnailImage": "/images/86.png",
   "id": 86,
   "type": [
     "water"

@@ -15,7 +15,7 @@
   "slug": "zebstrika",
   "name": "Zebstrika",
   "ThumbnailAltText": "Zebstrika",
-  "ThumbnailImage": "/pokedex-server/images/523.png",
+  "ThumbnailImage": "/images/523.png",
   "id": 523,
   "type": [
     "electric"

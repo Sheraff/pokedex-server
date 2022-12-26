@@ -17,7 +17,7 @@
   "slug": "scraggy",
   "name": "Scraggy",
   "ThumbnailAltText": "Scraggy",
-  "ThumbnailImage": "/pokedex-server/images/559.png",
+  "ThumbnailImage": "/images/559.png",
   "id": 559,
   "type": [
     "dark",

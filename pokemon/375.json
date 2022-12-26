@@ -17,7 +17,7 @@
   "slug": "metang",
   "name": "Metang",
   "ThumbnailAltText": "Metang",
-  "ThumbnailImage": "/pokedex-server/images/375.png",
+  "ThumbnailImage": "/images/375.png",
   "id": 375,
   "type": [
     "steel",

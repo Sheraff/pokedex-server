@@ -15,7 +15,7 @@
   "slug": "wooloo",
   "name": "Wooloo",
   "ThumbnailAltText": "Wooloo",
-  "ThumbnailImage": "/pokedex-server/images/831.png",
+  "ThumbnailImage": "/images/831.png",
   "id": 831,
   "type": [
     "normal"

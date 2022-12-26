@@ -15,7 +15,7 @@
   "slug": "polteageist",
   "name": "Polteageist",
   "ThumbnailAltText": "Polteageist",
-  "ThumbnailImage": "/pokedex-server/images/855.png",
+  "ThumbnailImage": "/images/855.png",
   "id": 855,
   "type": [
     "ghost"

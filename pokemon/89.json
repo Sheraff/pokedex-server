@@ -16,7 +16,7 @@
   "slug": "muk",
   "name": "Muk",
   "ThumbnailAltText": "Muk",
-  "ThumbnailImage": "/pokedex-server/images/89.png",
+  "ThumbnailImage": "/images/89.png",
   "id": 89,
   "type": [
     "poison"

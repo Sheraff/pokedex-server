@@ -17,7 +17,7 @@
   "slug": "slugma",
   "name": "Slugma",
   "ThumbnailAltText": "Slugma",
-  "ThumbnailImage": "/pokedex-server/images/218.png",
+  "ThumbnailImage": "/images/218.png",
   "id": 218,
   "type": [
     "fire"

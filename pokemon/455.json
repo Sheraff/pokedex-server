@@ -18,7 +18,7 @@
   "slug": "carnivine",
   "name": "Carnivine",
   "ThumbnailAltText": "Carnivine",
-  "ThumbnailImage": "/pokedex-server/images/455.png",
+  "ThumbnailImage": "/images/455.png",
   "id": 455,
   "type": [
     "grass"

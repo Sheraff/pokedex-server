@@ -16,7 +16,7 @@
   "slug": "empoleon",
   "name": "Empoleon",
   "ThumbnailAltText": "Empoleon",
-  "ThumbnailImage": "/pokedex-server/images/395.png",
+  "ThumbnailImage": "/images/395.png",
   "id": 395,
   "type": [
     "water",

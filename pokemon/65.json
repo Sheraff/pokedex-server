@@ -17,7 +17,7 @@
   "slug": "alakazam",
   "name": "Alakazam",
   "ThumbnailAltText": "Alakazam",
-  "ThumbnailImage": "/pokedex-server/images/65.png",
+  "ThumbnailImage": "/images/65.png",
   "id": 65,
   "type": [
     "psychic"

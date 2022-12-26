@@ -19,7 +19,7 @@
   "slug": "sudowoodo",
   "name": "Sudowoodo",
   "ThumbnailAltText": "Sudowoodo",
-  "ThumbnailImage": "/pokedex-server/images/185.png",
+  "ThumbnailImage": "/images/185.png",
   "id": 185,
   "type": [
     "rock"

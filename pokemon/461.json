@@ -19,7 +19,7 @@
   "slug": "weavile",
   "name": "Weavile",
   "ThumbnailAltText": "Weavile",
-  "ThumbnailImage": "/pokedex-server/images/461.png",
+  "ThumbnailImage": "/images/461.png",
   "id": 461,
   "type": [
     "dark",

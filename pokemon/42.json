@@ -17,7 +17,7 @@
   "slug": "golbat",
   "name": "Golbat",
   "ThumbnailAltText": "Golbat",
-  "ThumbnailImage": "/pokedex-server/images/42.png",
+  "ThumbnailImage": "/images/42.png",
   "id": 42,
   "type": [
     "poison",

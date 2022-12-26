@@ -19,7 +19,7 @@
   "slug": "ledian",
   "name": "Ledian",
   "ThumbnailAltText": "Ledian",
-  "ThumbnailImage": "/pokedex-server/images/166.png",
+  "ThumbnailImage": "/images/166.png",
   "id": 166,
   "type": [
     "bug",

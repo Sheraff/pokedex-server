@@ -19,7 +19,7 @@
   "slug": "gourgeist",
   "name": "Gourgeist",
   "ThumbnailAltText": "Gourgeist",
-  "ThumbnailImage": "/pokedex-server/images/711.png",
+  "ThumbnailImage": "/images/711.png",
   "id": 711,
   "type": [
     "ghost",

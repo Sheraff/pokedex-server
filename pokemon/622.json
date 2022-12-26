@@ -19,7 +19,7 @@
   "slug": "golett",
   "name": "Golett",
   "ThumbnailAltText": "Golett",
-  "ThumbnailImage": "/pokedex-server/images/622.png",
+  "ThumbnailImage": "/images/622.png",
   "id": 622,
   "type": [
     "ground",

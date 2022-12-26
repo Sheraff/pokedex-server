@@ -16,7 +16,7 @@
   "slug": "remoraid",
   "name": "Remoraid",
   "ThumbnailAltText": "Remoraid",
-  "ThumbnailImage": "/pokedex-server/images/223.png",
+  "ThumbnailImage": "/images/223.png",
   "id": 223,
   "type": [
     "water"

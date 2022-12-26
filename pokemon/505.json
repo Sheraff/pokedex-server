@@ -15,7 +15,7 @@
   "slug": "watchog",
   "name": "Watchog",
   "ThumbnailAltText": "Watchog",
-  "ThumbnailImage": "/pokedex-server/images/505.png",
+  "ThumbnailImage": "/images/505.png",
   "id": 505,
   "type": [
     "normal"

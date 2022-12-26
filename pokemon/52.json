@@ -15,7 +15,7 @@
   "slug": "meowth",
   "name": "Meowth",
   "ThumbnailAltText": "Meowth",
-  "ThumbnailImage": "/pokedex-server/images/52.png",
+  "ThumbnailImage": "/images/52.png",
   "id": 52,
   "type": [
     "normal"

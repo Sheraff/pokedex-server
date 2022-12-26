@@ -18,7 +18,7 @@
   "slug": "skorupi",
   "name": "Skorupi",
   "ThumbnailAltText": "Skorupi",
-  "ThumbnailImage": "/pokedex-server/images/451.png",
+  "ThumbnailImage": "/images/451.png",
   "id": 451,
   "type": [
     "poison",

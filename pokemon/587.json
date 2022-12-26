@@ -15,7 +15,7 @@
   "slug": "emolga",
   "name": "Emolga",
   "ThumbnailAltText": "Emolga",
-  "ThumbnailImage": "/pokedex-server/images/587.png",
+  "ThumbnailImage": "/images/587.png",
   "id": 587,
   "type": [
     "electric",

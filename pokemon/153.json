@@ -18,7 +18,7 @@
   "slug": "bayleef",
   "name": "Bayleef",
   "ThumbnailAltText": "Bayleef",
-  "ThumbnailImage": "/pokedex-server/images/153.png",
+  "ThumbnailImage": "/images/153.png",
   "id": 153,
   "type": [
     "grass"

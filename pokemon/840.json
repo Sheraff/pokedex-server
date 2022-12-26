@@ -20,7 +20,7 @@
   "slug": "applin",
   "name": "Applin",
   "ThumbnailAltText": "Applin",
-  "ThumbnailImage": "/pokedex-server/images/840.png",
+  "ThumbnailImage": "/images/840.png",
   "id": 840,
   "type": [
     "grass",

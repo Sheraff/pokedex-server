@@ -14,7 +14,7 @@
   "slug": "furfrou",
   "name": "Furfrou",
   "ThumbnailAltText": "Furfrou",
-  "ThumbnailImage": "/pokedex-server/images/676.png",
+  "ThumbnailImage": "/images/676.png",
   "id": 676,
   "type": [
     "normal"

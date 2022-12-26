@@ -16,7 +16,7 @@
   "slug": "mantyke",
   "name": "Mantyke",
   "ThumbnailAltText": "Mantyke",
-  "ThumbnailImage": "/pokedex-server/images/458.png",
+  "ThumbnailImage": "/images/458.png",
   "id": 458,
   "type": [
     "water",

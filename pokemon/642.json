@@ -15,7 +15,7 @@
   "slug": "thundurus",
   "name": "Thundurus",
   "ThumbnailAltText": "Thundurus",
-  "ThumbnailImage": "/pokedex-server/images/642.png",
+  "ThumbnailImage": "/images/642.png",
   "id": 642,
   "type": [
     "electric",

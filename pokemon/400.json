@@ -17,7 +17,7 @@
   "slug": "bibarel",
   "name": "Bibarel",
   "ThumbnailAltText": "Bibarel",
-  "ThumbnailImage": "/pokedex-server/images/400.png",
+  "ThumbnailImage": "/images/400.png",
   "id": 400,
   "type": [
     "normal",

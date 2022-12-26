@@ -18,7 +18,7 @@
   "slug": "binacle",
   "name": "Binacle",
   "ThumbnailAltText": "Binacle",
-  "ThumbnailImage": "/pokedex-server/images/688.png",
+  "ThumbnailImage": "/images/688.png",
   "id": 688,
   "type": [
     "rock",

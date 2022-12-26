@@ -19,7 +19,7 @@
   "slug": "mamoswine",
   "name": "Mamoswine",
   "ThumbnailAltText": "Mamoswine",
-  "ThumbnailImage": "/pokedex-server/images/473.png",
+  "ThumbnailImage": "/images/473.png",
   "id": 473,
   "type": [
     "ice",

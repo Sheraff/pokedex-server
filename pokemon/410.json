@@ -16,7 +16,7 @@
   "slug": "shieldon",
   "name": "Shieldon",
   "ThumbnailAltText": "Shieldon",
-  "ThumbnailImage": "/pokedex-server/images/410.png",
+  "ThumbnailImage": "/images/410.png",
   "id": 410,
   "type": [
     "rock",

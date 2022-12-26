@@ -15,7 +15,7 @@
   "slug": "patrat",
   "name": "Patrat",
   "ThumbnailAltText": "Patrat",
-  "ThumbnailImage": "/pokedex-server/images/504.png",
+  "ThumbnailImage": "/images/504.png",
   "id": 504,
   "type": [
     "normal"

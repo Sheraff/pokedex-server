@@ -16,7 +16,7 @@
   "slug": "lanturn",
   "name": "Lanturn",
   "ThumbnailAltText": "Lanturn",
-  "ThumbnailImage": "/pokedex-server/images/171.png",
+  "ThumbnailImage": "/images/171.png",
   "id": 171,
   "type": [
     "water",

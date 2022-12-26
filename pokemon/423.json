@@ -15,7 +15,7 @@
   "slug": "gastrodon",
   "name": "Gastrodon",
   "ThumbnailAltText": "Gastrodon",
-  "ThumbnailImage": "/pokedex-server/images/423.png",
+  "ThumbnailImage": "/images/423.png",
   "id": 423,
   "type": [
     "water",

@@ -14,7 +14,7 @@
   "slug": "silvally",
   "name": "Silvally",
   "ThumbnailAltText": "Silvally",
-  "ThumbnailImage": "/pokedex-server/images/773.png",
+  "ThumbnailImage": "/images/773.png",
   "id": 773,
   "type": [
     "normal"

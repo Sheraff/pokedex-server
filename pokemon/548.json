@@ -19,7 +19,7 @@
   "slug": "petilil",
   "name": "Petilil",
   "ThumbnailAltText": "Petilil",
-  "ThumbnailImage": "/pokedex-server/images/548.png",
+  "ThumbnailImage": "/images/548.png",
   "id": 548,
   "type": [
     "grass"

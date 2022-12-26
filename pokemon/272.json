@@ -17,7 +17,7 @@
   "slug": "ludicolo",
   "name": "Ludicolo",
   "ThumbnailAltText": "Ludicolo",
-  "ThumbnailImage": "/pokedex-server/images/272.png",
+  "ThumbnailImage": "/images/272.png",
   "id": 272,
   "type": [
     "water",

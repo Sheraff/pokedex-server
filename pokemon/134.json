@@ -15,7 +15,7 @@
   "slug": "vaporeon",
   "name": "Vaporeon",
   "ThumbnailAltText": "Vaporeon",
-  "ThumbnailImage": "/pokedex-server/images/134.png",
+  "ThumbnailImage": "/images/134.png",
   "id": 134,
   "type": [
     "water"

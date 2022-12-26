@@ -18,7 +18,7 @@
   "slug": "pansage",
   "name": "Pansage",
   "ThumbnailAltText": "Pansage",
-  "ThumbnailImage": "/pokedex-server/images/511.png",
+  "ThumbnailImage": "/images/511.png",
   "id": 511,
   "type": [
     "grass"

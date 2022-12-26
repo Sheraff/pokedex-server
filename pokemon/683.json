@@ -15,7 +15,7 @@
   "slug": "aromatisse",
   "name": "Aromatisse",
   "ThumbnailAltText": "Aromatisse",
-  "ThumbnailImage": "/pokedex-server/images/683.png",
+  "ThumbnailImage": "/images/683.png",
   "id": 683,
   "type": [
     "fairy"

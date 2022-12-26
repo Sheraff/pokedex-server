@@ -16,7 +16,7 @@
   "slug": "dracovish",
   "name": "Dracovish",
   "ThumbnailAltText": "Dracovish",
-  "ThumbnailImage": "/pokedex-server/images/882.png",
+  "ThumbnailImage": "/images/882.png",
   "id": 882,
   "type": [
     "water",

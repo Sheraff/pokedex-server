@@ -16,7 +16,7 @@
   "slug": "grubbin",
   "name": "Grubbin",
   "ThumbnailAltText": "Grubbin",
-  "ThumbnailImage": "/pokedex-server/images/736.png",
+  "ThumbnailImage": "/images/736.png",
   "id": 736,
   "type": [
     "bug"

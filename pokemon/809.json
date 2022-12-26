@@ -16,7 +16,7 @@
   "slug": "melmetal",
   "name": "Melmetal",
   "ThumbnailAltText": "Melmetal",
-  "ThumbnailImage": "/pokedex-server/images/809.png",
+  "ThumbnailImage": "/images/809.png",
   "id": 809,
   "type": [
     "steel"

@@ -17,7 +17,7 @@
   "slug": "toxapex",
   "name": "Toxapex",
   "ThumbnailAltText": "Toxapex",
-  "ThumbnailImage": "/pokedex-server/images/748.png",
+  "ThumbnailImage": "/images/748.png",
   "id": 748,
   "type": [
     "poison",

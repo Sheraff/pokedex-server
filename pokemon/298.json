@@ -16,7 +16,7 @@
   "slug": "azurill",
   "name": "Azurill",
   "ThumbnailAltText": "Azurill",
-  "ThumbnailImage": "/pokedex-server/images/298.png",
+  "ThumbnailImage": "/images/298.png",
   "id": 298,
   "type": [
     "normal",

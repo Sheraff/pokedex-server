@@ -17,7 +17,7 @@
   "slug": "salazzle",
   "name": "Salazzle",
   "ThumbnailAltText": "Salazzle",
-  "ThumbnailImage": "/pokedex-server/images/758.png",
+  "ThumbnailImage": "/images/758.png",
   "id": 758,
   "type": [
     "poison",

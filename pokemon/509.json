@@ -17,7 +17,7 @@
   "slug": "purrloin",
   "name": "Purrloin",
   "ThumbnailAltText": "Purrloin",
-  "ThumbnailImage": "/pokedex-server/images/509.png",
+  "ThumbnailImage": "/images/509.png",
   "id": 509,
   "type": [
     "dark"

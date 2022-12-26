@@ -16,7 +16,7 @@
   "slug": "chinchou",
   "name": "Chinchou",
   "ThumbnailAltText": "Chinchou",
-  "ThumbnailImage": "/pokedex-server/images/170.png",
+  "ThumbnailImage": "/images/170.png",
   "id": 170,
   "type": [
     "water",

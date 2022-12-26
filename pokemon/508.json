@@ -15,7 +15,7 @@
   "slug": "stoutland",
   "name": "Stoutland",
   "ThumbnailAltText": "Stoutland",
-  "ThumbnailImage": "/pokedex-server/images/508.png",
+  "ThumbnailImage": "/images/508.png",
   "id": 508,
   "type": [
     "normal"

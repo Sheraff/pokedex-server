@@ -17,7 +17,7 @@
   "slug": "cradily",
   "name": "Cradily",
   "ThumbnailAltText": "Cradily",
-  "ThumbnailImage": "/pokedex-server/images/346.png",
+  "ThumbnailImage": "/images/346.png",
   "id": 346,
   "type": [
     "rock",

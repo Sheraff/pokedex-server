@@ -16,7 +16,7 @@
   "slug": "anorith",
   "name": "Anorith",
   "ThumbnailAltText": "Anorith",
-  "ThumbnailImage": "/pokedex-server/images/347.png",
+  "ThumbnailImage": "/images/347.png",
   "id": 347,
   "type": [
     "rock",

@@ -15,7 +15,7 @@
   "slug": "wartortle",
   "name": "Wartortle",
   "ThumbnailAltText": "Wartortle",
-  "ThumbnailImage": "/pokedex-server/images/8.png",
+  "ThumbnailImage": "/images/8.png",
   "id": 8,
   "type": [
     "water"

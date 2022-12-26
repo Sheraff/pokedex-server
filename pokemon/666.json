@@ -19,7 +19,7 @@
   "slug": "vivillon",
   "name": "Vivillon",
   "ThumbnailAltText": "Vivillon",
-  "ThumbnailImage": "/pokedex-server/images/666.png",
+  "ThumbnailImage": "/images/666.png",
   "id": 666,
   "type": [
     "bug",

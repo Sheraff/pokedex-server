@@ -15,7 +15,7 @@
   "slug": "bidoof",
   "name": "Bidoof",
   "ThumbnailAltText": "Bidoof",
-  "ThumbnailImage": "/pokedex-server/images/399.png",
+  "ThumbnailImage": "/images/399.png",
   "id": 399,
   "type": [
     "normal"

@@ -16,7 +16,7 @@
   "slug": "hippopotas",
   "name": "Hippopotas",
   "ThumbnailAltText": "Hippopotas",
-  "ThumbnailImage": "/pokedex-server/images/449.png",
+  "ThumbnailImage": "/images/449.png",
   "id": 449,
   "type": [
     "ground"

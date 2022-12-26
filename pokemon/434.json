@@ -15,7 +15,7 @@
   "slug": "stunky",
   "name": "Stunky",
   "ThumbnailAltText": "Stunky",
-  "ThumbnailImage": "/pokedex-server/images/434.png",
+  "ThumbnailImage": "/images/434.png",
   "id": 434,
   "type": [
     "poison",

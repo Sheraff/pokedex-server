@@ -16,7 +16,7 @@
   "slug": "falinks",
   "name": "Falinks",
   "ThumbnailAltText": "Falinks",
-  "ThumbnailImage": "/pokedex-server/images/870.png",
+  "ThumbnailImage": "/images/870.png",
   "id": 870,
   "type": [
     "fighting"

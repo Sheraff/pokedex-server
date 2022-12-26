@@ -17,7 +17,7 @@
   "slug": "hitmontop",
   "name": "Hitmontop",
   "ThumbnailAltText": "Hitmontop",
-  "ThumbnailImage": "/pokedex-server/images/237.png",
+  "ThumbnailImage": "/images/237.png",
   "id": 237,
   "type": [
     "fighting"

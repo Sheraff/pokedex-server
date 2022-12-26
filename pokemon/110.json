@@ -16,7 +16,7 @@
   "slug": "weezing",
   "name": "Weezing",
   "ThumbnailAltText": "Weezing",
-  "ThumbnailImage": "/pokedex-server/images/110.png",
+  "ThumbnailImage": "/images/110.png",
   "id": 110,
   "type": [
     "poison"

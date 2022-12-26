@@ -14,7 +14,7 @@
   "slug": "komala",
   "name": "Komala",
   "ThumbnailAltText": "Komala",
-  "ThumbnailImage": "/pokedex-server/images/775.png",
+  "ThumbnailImage": "/images/775.png",
   "id": 775,
   "type": [
     "normal"

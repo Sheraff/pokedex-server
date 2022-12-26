@@ -16,7 +16,7 @@
   "slug": "typhlosion",
   "name": "Typhlosion",
   "ThumbnailAltText": "Typhlosion",
-  "ThumbnailImage": "/pokedex-server/images/157.png",
+  "ThumbnailImage": "/images/157.png",
   "id": 157,
   "type": [
     "fire"

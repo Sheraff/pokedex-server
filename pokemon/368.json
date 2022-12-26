@@ -15,7 +15,7 @@
   "slug": "gorebyss",
   "name": "Gorebyss",
   "ThumbnailAltText": "Gorebyss",
-  "ThumbnailImage": "/pokedex-server/images/368.png",
+  "ThumbnailImage": "/images/368.png",
   "id": 368,
   "type": [
     "water"

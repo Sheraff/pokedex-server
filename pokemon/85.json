@@ -17,7 +17,7 @@
   "slug": "dodrio",
   "name": "Dodrio",
   "ThumbnailAltText": "Dodrio",
-  "ThumbnailImage": "/pokedex-server/images/85.png",
+  "ThumbnailImage": "/images/85.png",
   "id": 85,
   "type": [
     "normal",

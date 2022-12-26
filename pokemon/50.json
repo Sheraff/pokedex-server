@@ -17,7 +17,7 @@
   "slug": "diglett",
   "name": "Diglett",
   "ThumbnailAltText": "Diglett",
-  "ThumbnailImage": "/pokedex-server/images/50.png",
+  "ThumbnailImage": "/images/50.png",
   "id": 50,
   "type": [
     "ground"

@@ -20,7 +20,7 @@
   "slug": "celebi",
   "name": "Celebi",
   "ThumbnailAltText": "Celebi",
-  "ThumbnailImage": "/pokedex-server/images/251.png",
+  "ThumbnailImage": "/images/251.png",
   "id": 251,
   "type": [
     "psychic",

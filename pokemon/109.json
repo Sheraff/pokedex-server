@@ -16,7 +16,7 @@
   "slug": "koffing",
   "name": "Koffing",
   "ThumbnailAltText": "Koffing",
-  "ThumbnailImage": "/pokedex-server/images/109.png",
+  "ThumbnailImage": "/images/109.png",
   "id": 109,
   "type": [
     "poison"

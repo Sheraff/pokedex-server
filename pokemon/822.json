@@ -17,7 +17,7 @@
   "slug": "corvisquire",
   "name": "Corvisquire",
   "ThumbnailAltText": "Corvisquire",
-  "ThumbnailImage": "/pokedex-server/images/822.png",
+  "ThumbnailImage": "/images/822.png",
   "id": 822,
   "type": [
     "flying"

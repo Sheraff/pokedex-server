@@ -15,7 +15,7 @@
   "slug": "duskull",
   "name": "Duskull",
   "ThumbnailAltText": "Duskull",
-  "ThumbnailImage": "/pokedex-server/images/355.png",
+  "ThumbnailImage": "/images/355.png",
   "id": 355,
   "type": [
     "ghost"

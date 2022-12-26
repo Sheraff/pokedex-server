@@ -16,7 +16,7 @@
   "slug": "tympole",
   "name": "Tympole",
   "ThumbnailAltText": "Tympole",
-  "ThumbnailImage": "/pokedex-server/images/535.png",
+  "ThumbnailImage": "/images/535.png",
   "id": 535,
   "type": [
     "water"

@@ -17,7 +17,7 @@
   "slug": "gastly",
   "name": "Gastly",
   "ThumbnailAltText": "Gastly",
-  "ThumbnailImage": "/pokedex-server/images/92.png",
+  "ThumbnailImage": "/images/92.png",
   "id": 92,
   "type": [
     "ghost",

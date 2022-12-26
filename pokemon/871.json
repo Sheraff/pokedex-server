@@ -14,7 +14,7 @@
   "slug": "pincurchin",
   "name": "Pincurchin",
   "ThumbnailAltText": "Pincurchin",
-  "ThumbnailImage": "/pokedex-server/images/871.png",
+  "ThumbnailImage": "/images/871.png",
   "id": 871,
   "type": [
     "electric"

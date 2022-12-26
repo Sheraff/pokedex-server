@@ -17,7 +17,7 @@
   "slug": "ponyta",
   "name": "Ponyta",
   "ThumbnailAltText": "Ponyta",
-  "ThumbnailImage": "/pokedex-server/images/77.png",
+  "ThumbnailImage": "/images/77.png",
   "id": 77,
   "type": [
     "fire"

@@ -17,7 +17,7 @@
   "slug": "hattrem",
   "name": "Hattrem",
   "ThumbnailAltText": "Hattrem",
-  "ThumbnailImage": "/pokedex-server/images/857.png",
+  "ThumbnailImage": "/images/857.png",
   "id": 857,
   "type": [
     "psychic"

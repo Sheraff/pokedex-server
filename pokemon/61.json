@@ -16,7 +16,7 @@
   "slug": "poliwhirl",
   "name": "Poliwhirl",
   "ThumbnailAltText": "Poliwhirl",
-  "ThumbnailImage": "/pokedex-server/images/61.png",
+  "ThumbnailImage": "/images/61.png",
   "id": 61,
   "type": [
     "water"

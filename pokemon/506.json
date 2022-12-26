@@ -15,7 +15,7 @@
   "slug": "lillipup",
   "name": "Lillipup",
   "ThumbnailAltText": "Lillipup",
-  "ThumbnailImage": "/pokedex-server/images/506.png",
+  "ThumbnailImage": "/images/506.png",
   "id": 506,
   "type": [
     "normal"

@@ -16,7 +16,7 @@
   "slug": "primarina",
   "name": "Primarina",
   "ThumbnailAltText": "Primarina",
-  "ThumbnailImage": "/pokedex-server/images/730.png",
+  "ThumbnailImage": "/images/730.png",
   "id": 730,
   "type": [
     "water",

@@ -16,7 +16,7 @@
   "slug": "alomomola",
   "name": "Alomomola",
   "ThumbnailAltText": "Alomomola",
-  "ThumbnailImage": "/pokedex-server/images/594.png",
+  "ThumbnailImage": "/images/594.png",
   "id": 594,
   "type": [
     "water"

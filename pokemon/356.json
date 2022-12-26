@@ -15,7 +15,7 @@
   "slug": "dusclops",
   "name": "Dusclops",
   "ThumbnailAltText": "Dusclops",
-  "ThumbnailImage": "/pokedex-server/images/356.png",
+  "ThumbnailImage": "/images/356.png",
   "id": 356,
   "type": [
     "ghost"

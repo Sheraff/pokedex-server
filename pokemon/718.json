@@ -16,7 +16,7 @@
   "slug": "zygarde",
   "name": "Zygarde",
   "ThumbnailAltText": "Zygarde",
-  "ThumbnailImage": "/pokedex-server/images/718.png",
+  "ThumbnailImage": "/images/718.png",
   "id": 718,
   "type": [
     "dragon",

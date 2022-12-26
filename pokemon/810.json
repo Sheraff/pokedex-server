@@ -18,7 +18,7 @@
   "slug": "grookey",
   "name": "Grookey",
   "ThumbnailAltText": "Grookey",
-  "ThumbnailImage": "/pokedex-server/images/810.png",
+  "ThumbnailImage": "/images/810.png",
   "id": 810,
   "type": [
     "grass"

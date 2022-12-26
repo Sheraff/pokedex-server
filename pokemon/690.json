@@ -17,7 +17,7 @@
   "slug": "skrelp",
   "name": "Skrelp",
   "ThumbnailAltText": "Skrelp",
-  "ThumbnailImage": "/pokedex-server/images/690.png",
+  "ThumbnailImage": "/images/690.png",
   "id": 690,
   "type": [
     "poison",

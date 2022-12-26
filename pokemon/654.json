@@ -16,7 +16,7 @@
   "slug": "braixen",
   "name": "Braixen",
   "ThumbnailAltText": "Braixen",
-  "ThumbnailImage": "/pokedex-server/images/654.png",
+  "ThumbnailImage": "/images/654.png",
   "id": 654,
   "type": [
     "fire"

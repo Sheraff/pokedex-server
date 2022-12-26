@@ -17,7 +17,7 @@
   "slug": "makuhita",
   "name": "Makuhita",
   "ThumbnailAltText": "Makuhita",
-  "ThumbnailImage": "/pokedex-server/images/296.png",
+  "ThumbnailImage": "/images/296.png",
   "id": 296,
   "type": [
     "fighting"

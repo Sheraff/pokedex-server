@@ -17,7 +17,7 @@
   "slug": "marshadow",
   "name": "Marshadow",
   "ThumbnailAltText": "Marshadow",
-  "ThumbnailImage": "/pokedex-server/images/802.png",
+  "ThumbnailImage": "/images/802.png",
   "id": 802,
   "type": [
     "fighting",

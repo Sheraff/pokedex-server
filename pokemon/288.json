@@ -14,7 +14,7 @@
   "slug": "vigoroth",
   "name": "Vigoroth",
   "ThumbnailAltText": "Vigoroth",
-  "ThumbnailImage": "/pokedex-server/images/288.png",
+  "ThumbnailImage": "/images/288.png",
   "id": 288,
   "type": [
     "normal"

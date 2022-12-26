@@ -17,7 +17,7 @@
   "slug": "kirlia",
   "name": "Kirlia",
   "ThumbnailAltText": "Kirlia",
-  "ThumbnailImage": "/pokedex-server/images/281.png",
+  "ThumbnailImage": "/images/281.png",
   "id": 281,
   "type": [
     "psychic",

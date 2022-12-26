@@ -18,7 +18,7 @@
   "slug": "spinarak",
   "name": "Spinarak",
   "ThumbnailAltText": "Spinarak",
-  "ThumbnailImage": "/pokedex-server/images/167.png",
+  "ThumbnailImage": "/images/167.png",
   "id": 167,
   "type": [
     "bug",

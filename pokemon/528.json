@@ -19,7 +19,7 @@
   "slug": "swoobat",
   "name": "Swoobat",
   "ThumbnailAltText": "Swoobat",
-  "ThumbnailImage": "/pokedex-server/images/528.png",
+  "ThumbnailImage": "/images/528.png",
   "id": 528,
   "type": [
     "psychic",

@@ -14,7 +14,7 @@
   "slug": "mareep",
   "name": "Mareep",
   "ThumbnailAltText": "Mareep",
-  "ThumbnailImage": "/pokedex-server/images/179.png",
+  "ThumbnailImage": "/images/179.png",
   "id": 179,
   "type": [
     "electric"

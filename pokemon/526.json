@@ -19,7 +19,7 @@
   "slug": "gigalith",
   "name": "Gigalith",
   "ThumbnailAltText": "Gigalith",
-  "ThumbnailImage": "/pokedex-server/images/526.png",
+  "ThumbnailImage": "/images/526.png",
   "id": 526,
   "type": [
     "rock"

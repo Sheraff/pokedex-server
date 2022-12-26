@@ -17,7 +17,7 @@
   "slug": "shelmet",
   "name": "Shelmet",
   "ThumbnailAltText": "Shelmet",
-  "ThumbnailImage": "/pokedex-server/images/616.png",
+  "ThumbnailImage": "/images/616.png",
   "id": 616,
   "type": [
     "bug"

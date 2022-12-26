@@ -16,7 +16,7 @@
   "slug": "dewpider",
   "name": "Dewpider",
   "ThumbnailAltText": "Dewpider",
-  "ThumbnailImage": "/pokedex-server/images/751.png",
+  "ThumbnailImage": "/images/751.png",
   "id": 751,
   "type": [
     "water",

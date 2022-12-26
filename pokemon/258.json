@@ -15,7 +15,7 @@
   "slug": "mudkip",
   "name": "Mudkip",
   "ThumbnailAltText": "Mudkip",
-  "ThumbnailImage": "/pokedex-server/images/258.png",
+  "ThumbnailImage": "/images/258.png",
   "id": 258,
   "type": [
     "water"

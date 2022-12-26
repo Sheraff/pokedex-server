@@ -18,7 +18,7 @@
   "slug": "chespin",
   "name": "Chespin",
   "ThumbnailAltText": "Chespin",
-  "ThumbnailImage": "/pokedex-server/images/650.png",
+  "ThumbnailImage": "/images/650.png",
   "id": 650,
   "type": [
     "grass"

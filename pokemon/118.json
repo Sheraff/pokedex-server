@@ -16,7 +16,7 @@
   "slug": "goldeen",
   "name": "Goldeen",
   "ThumbnailAltText": "Goldeen",
-  "ThumbnailImage": "/pokedex-server/images/118.png",
+  "ThumbnailImage": "/images/118.png",
   "id": 118,
   "type": [
     "water"

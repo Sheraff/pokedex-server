@@ -20,7 +20,7 @@
   "slug": "smoochum",
   "name": "Smoochum",
   "ThumbnailAltText": "Smoochum",
-  "ThumbnailImage": "/pokedex-server/images/238.png",
+  "ThumbnailImage": "/images/238.png",
   "id": 238,
   "type": [
     "ice",

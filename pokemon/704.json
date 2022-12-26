@@ -17,7 +17,7 @@
   "slug": "goomy",
   "name": "Goomy",
   "ThumbnailAltText": "Goomy",
-  "ThumbnailImage": "/pokedex-server/images/704.png",
+  "ThumbnailImage": "/images/704.png",
   "id": 704,
   "type": [
     "dragon"

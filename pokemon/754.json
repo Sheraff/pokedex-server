@@ -18,7 +18,7 @@
   "slug": "lurantis",
   "name": "Lurantis",
   "ThumbnailAltText": "Lurantis",
-  "ThumbnailImage": "/pokedex-server/images/754.png",
+  "ThumbnailImage": "/images/754.png",
   "id": 754,
   "type": [
     "grass"

@@ -16,7 +16,7 @@
   "slug": "armaldo",
   "name": "Armaldo",
   "ThumbnailAltText": "Armaldo",
-  "ThumbnailImage": "/pokedex-server/images/348.png",
+  "ThumbnailImage": "/images/348.png",
   "id": 348,
   "type": [
     "rock",

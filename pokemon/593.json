@@ -18,7 +18,7 @@
   "slug": "jellicent",
   "name": "Jellicent",
   "ThumbnailAltText": "Jellicent",
-  "ThumbnailImage": "/pokedex-server/images/593.png",
+  "ThumbnailImage": "/images/593.png",
   "id": 593,
   "type": [
     "water",

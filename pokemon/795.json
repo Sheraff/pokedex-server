@@ -17,7 +17,7 @@
   "slug": "pheromosa",
   "name": "Pheromosa",
   "ThumbnailAltText": "Pheromosa",
-  "ThumbnailImage": "/pokedex-server/images/795.png",
+  "ThumbnailImage": "/images/795.png",
   "id": 795,
   "type": [
     "bug",

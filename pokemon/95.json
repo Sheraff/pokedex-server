@@ -20,7 +20,7 @@
   "slug": "onix",
   "name": "Onix",
   "ThumbnailAltText": "Onix",
-  "ThumbnailImage": "/pokedex-server/images/95.png",
+  "ThumbnailImage": "/images/95.png",
   "id": 95,
   "type": [
     "rock",

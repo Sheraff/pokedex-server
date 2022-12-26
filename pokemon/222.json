@@ -18,7 +18,7 @@
   "slug": "corsola",
   "name": "Corsola",
   "ThumbnailAltText": "Corsola",
-  "ThumbnailImage": "/pokedex-server/images/222.png",
+  "ThumbnailImage": "/images/222.png",
   "id": 222,
   "type": [
     "water",

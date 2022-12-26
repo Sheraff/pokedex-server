@@ -19,7 +19,7 @@
   "slug": "nosepass",
   "name": "Nosepass",
   "ThumbnailAltText": "Nosepass",
-  "ThumbnailImage": "/pokedex-server/images/299.png",
+  "ThumbnailImage": "/images/299.png",
   "id": 299,
   "type": [
     "rock"

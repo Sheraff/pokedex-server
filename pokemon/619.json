@@ -17,7 +17,7 @@
   "slug": "mienfoo",
   "name": "Mienfoo",
   "ThumbnailAltText": "Mienfoo",
-  "ThumbnailImage": "/pokedex-server/images/619.png",
+  "ThumbnailImage": "/images/619.png",
   "id": 619,
   "type": [
     "fighting"

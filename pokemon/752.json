@@ -16,7 +16,7 @@
   "slug": "araquanid",
   "name": "Araquanid",
   "ThumbnailAltText": "Araquanid",
-  "ThumbnailImage": "/pokedex-server/images/752.png",
+  "ThumbnailImage": "/images/752.png",
   "id": 752,
   "type": [
     "water",

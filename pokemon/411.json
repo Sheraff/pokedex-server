@@ -16,7 +16,7 @@
   "slug": "bastiodon",
   "name": "Bastiodon",
   "ThumbnailAltText": "Bastiodon",
-  "ThumbnailImage": "/pokedex-server/images/411.png",
+  "ThumbnailImage": "/images/411.png",
   "id": 411,
   "type": [
     "rock",

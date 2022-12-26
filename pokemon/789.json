@@ -16,7 +16,7 @@
   "slug": "cosmog",
   "name": "Cosmog",
   "ThumbnailAltText": "Cosmog",
-  "ThumbnailImage": "/pokedex-server/images/789.png",
+  "ThumbnailImage": "/images/789.png",
   "id": 789,
   "type": [
     "psychic"

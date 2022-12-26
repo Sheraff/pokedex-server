@@ -15,7 +15,7 @@
   "slug": "smeargle",
   "name": "Smeargle",
   "ThumbnailAltText": "Smeargle",
-  "ThumbnailImage": "/pokedex-server/images/235.png",
+  "ThumbnailImage": "/images/235.png",
   "id": 235,
   "type": [
     "normal"

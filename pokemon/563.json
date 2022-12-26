@@ -15,7 +15,7 @@
   "slug": "cofagrigus",
   "name": "Cofagrigus",
   "ThumbnailAltText": "Cofagrigus",
-  "ThumbnailImage": "/pokedex-server/images/563.png",
+  "ThumbnailImage": "/images/563.png",
   "id": 563,
   "type": [
     "ghost"

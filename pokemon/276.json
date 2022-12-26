@@ -16,7 +16,7 @@
   "slug": "taillow",
   "name": "Taillow",
   "ThumbnailAltText": "Taillow",
-  "ThumbnailImage": "/pokedex-server/images/276.png",
+  "ThumbnailImage": "/images/276.png",
   "id": 276,
   "type": [
     "normal",

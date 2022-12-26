@@ -16,7 +16,7 @@
   "slug": "phanpy",
   "name": "Phanpy",
   "ThumbnailAltText": "Phanpy",
-  "ThumbnailImage": "/pokedex-server/images/231.png",
+  "ThumbnailImage": "/images/231.png",
   "id": 231,
   "type": [
     "ground"

@@ -20,7 +20,7 @@
   "slug": "orbeetle",
   "name": "Orbeetle",
   "ThumbnailAltText": "Orbeetle",
-  "ThumbnailImage": "/pokedex-server/images/826.png",
+  "ThumbnailImage": "/images/826.png",
   "id": 826,
   "type": [
     "bug",

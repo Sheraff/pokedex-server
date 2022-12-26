@@ -16,7 +16,7 @@
   "slug": "uxie",
   "name": "Uxie",
   "ThumbnailAltText": "Uxie",
-  "ThumbnailImage": "/pokedex-server/images/480.png",
+  "ThumbnailImage": "/images/480.png",
   "id": 480,
   "type": [
     "psychic"

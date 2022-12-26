@@ -16,7 +16,7 @@
   "slug": "wigglytuff",
   "name": "Wigglytuff",
   "ThumbnailAltText": "Wigglytuff",
-  "ThumbnailImage": "/pokedex-server/images/40.png",
+  "ThumbnailImage": "/images/40.png",
   "id": 40,
   "type": [
     "normal",

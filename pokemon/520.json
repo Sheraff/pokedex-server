@@ -17,7 +17,7 @@
   "slug": "tranquill",
   "name": "Tranquill",
   "ThumbnailAltText": "Tranquill",
-  "ThumbnailImage": "/pokedex-server/images/520.png",
+  "ThumbnailImage": "/images/520.png",
   "id": 520,
   "type": [
     "normal",

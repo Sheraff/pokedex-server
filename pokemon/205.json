@@ -14,7 +14,7 @@
   "slug": "forretress",
   "name": "Forretress",
   "ThumbnailAltText": "Forretress",
-  "ThumbnailImage": "/pokedex-server/images/205.png",
+  "ThumbnailImage": "/images/205.png",
   "id": 205,
   "type": [
     "bug",

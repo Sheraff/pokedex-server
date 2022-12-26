@@ -17,7 +17,7 @@
   "slug": "unfezant",
   "name": "Unfezant",
   "ThumbnailAltText": "Unfezant",
-  "ThumbnailImage": "/pokedex-server/images/521.png",
+  "ThumbnailImage": "/images/521.png",
   "id": 521,
   "type": [
     "normal",

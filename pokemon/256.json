@@ -17,7 +17,7 @@
   "slug": "combusken",
   "name": "Combusken",
   "ThumbnailAltText": "Combusken",
-  "ThumbnailImage": "/pokedex-server/images/256.png",
+  "ThumbnailImage": "/images/256.png",
   "id": 256,
   "type": [
     "fire",

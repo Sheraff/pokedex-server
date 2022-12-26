@@ -19,7 +19,7 @@
   "slug": "hakamo-o",
   "name": "Hakamo-o",
   "ThumbnailAltText": "Hakamo-o",
-  "ThumbnailImage": "/pokedex-server/images/783.png",
+  "ThumbnailImage": "/images/783.png",
   "id": 783,
   "type": [
     "dragon",

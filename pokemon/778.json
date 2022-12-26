@@ -15,7 +15,7 @@
   "slug": "mimikyu",
   "name": "Mimikyu",
   "ThumbnailAltText": "Mimikyu",
-  "ThumbnailImage": "/pokedex-server/images/778.png",
+  "ThumbnailImage": "/images/778.png",
   "id": 778,
   "type": [
     "ghost",

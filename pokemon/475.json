@@ -16,7 +16,7 @@
   "slug": "gallade",
   "name": "Gallade",
   "ThumbnailAltText": "Gallade",
-  "ThumbnailImage": "/pokedex-server/images/475.png",
+  "ThumbnailImage": "/images/475.png",
   "id": 475,
   "type": [
     "psychic",

@@ -16,7 +16,7 @@
   "slug": "swellow",
   "name": "Swellow",
   "ThumbnailAltText": "Swellow",
-  "ThumbnailImage": "/pokedex-server/images/277.png",
+  "ThumbnailImage": "/images/277.png",
   "id": 277,
   "type": [
     "normal",

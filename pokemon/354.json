@@ -16,7 +16,7 @@
   "slug": "banette",
   "name": "Banette",
   "ThumbnailAltText": "Banette",
-  "ThumbnailImage": "/pokedex-server/images/354.png",
+  "ThumbnailImage": "/images/354.png",
   "id": 354,
   "type": [
     "ghost"

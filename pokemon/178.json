@@ -19,7 +19,7 @@
   "slug": "xatu",
   "name": "Xatu",
   "ThumbnailAltText": "Xatu",
-  "ThumbnailImage": "/pokedex-server/images/178.png",
+  "ThumbnailImage": "/images/178.png",
   "id": 178,
   "type": [
     "psychic",

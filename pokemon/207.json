@@ -16,7 +16,7 @@
   "slug": "gligar",
   "name": "Gligar",
   "ThumbnailAltText": "Gligar",
-  "ThumbnailImage": "/pokedex-server/images/207.png",
+  "ThumbnailImage": "/images/207.png",
   "id": 207,
   "type": [
     "ground",

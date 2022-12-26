@@ -17,7 +17,7 @@
   "slug": "jirachi",
   "name": "Jirachi",
   "ThumbnailAltText": "Jirachi",
-  "ThumbnailImage": "/pokedex-server/images/385.png",
+  "ThumbnailImage": "/images/385.png",
   "id": 385,
   "type": [
     "steel",

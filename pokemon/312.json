@@ -14,7 +14,7 @@
   "slug": "minun",
   "name": "Minun",
   "ThumbnailAltText": "Minun",
-  "ThumbnailImage": "/pokedex-server/images/312.png",
+  "ThumbnailImage": "/images/312.png",
   "id": 312,
   "type": [
     "electric"

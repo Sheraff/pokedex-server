@@ -17,7 +17,7 @@
   "slug": "salamence",
   "name": "Salamence",
   "ThumbnailAltText": "Salamence",
-  "ThumbnailImage": "/pokedex-server/images/373.png",
+  "ThumbnailImage": "/images/373.png",
   "id": 373,
   "type": [
     "dragon",

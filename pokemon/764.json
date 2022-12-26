@@ -16,7 +16,7 @@
   "slug": "comfey",
   "name": "Comfey",
   "ThumbnailAltText": "Comfey",
-  "ThumbnailImage": "/pokedex-server/images/764.png",
+  "ThumbnailImage": "/images/764.png",
   "id": 764,
   "type": [
     "fairy"

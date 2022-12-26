@@ -18,7 +18,7 @@
   "slug": "sharpedo",
   "name": "Sharpedo",
   "ThumbnailAltText": "Sharpedo",
-  "ThumbnailImage": "/pokedex-server/images/319.png",
+  "ThumbnailImage": "/images/319.png",
   "id": 319,
   "type": [
     "water",

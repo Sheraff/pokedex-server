@@ -17,7 +17,7 @@
   "slug": "crobat",
   "name": "Crobat",
   "ThumbnailAltText": "Crobat",
-  "ThumbnailImage": "/pokedex-server/images/169.png",
+  "ThumbnailImage": "/images/169.png",
   "id": 169,
   "type": [
     "poison",

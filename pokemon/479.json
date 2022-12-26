@@ -16,7 +16,7 @@
   "slug": "rotom",
   "name": "Rotom",
   "ThumbnailAltText": "Rotom",
-  "ThumbnailImage": "/pokedex-server/images/479.png",
+  "ThumbnailImage": "/images/479.png",
   "id": 479,
   "type": [
     "electric",

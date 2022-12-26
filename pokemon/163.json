@@ -17,7 +17,7 @@
   "slug": "hoothoot",
   "name": "Hoothoot",
   "ThumbnailAltText": "Hoothoot",
-  "ThumbnailImage": "/pokedex-server/images/163.png",
+  "ThumbnailImage": "/images/163.png",
   "id": 163,
   "type": [
     "normal",

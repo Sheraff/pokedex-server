@@ -18,7 +18,7 @@
   "slug": "lapras",
   "name": "Lapras",
   "ThumbnailAltText": "Lapras",
-  "ThumbnailImage": "/pokedex-server/images/131.png",
+  "ThumbnailImage": "/images/131.png",
   "id": 131,
   "type": [
     "water",

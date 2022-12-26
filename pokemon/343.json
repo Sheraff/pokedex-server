@@ -19,7 +19,7 @@
   "slug": "baltoy",
   "name": "Baltoy",
   "ThumbnailAltText": "Baltoy",
-  "ThumbnailImage": "/pokedex-server/images/343.png",
+  "ThumbnailImage": "/images/343.png",
   "id": 343,
   "type": [
     "ground",

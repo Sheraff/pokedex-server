@@ -15,7 +15,7 @@
   "slug": "electrode",
   "name": "Electrode",
   "ThumbnailAltText": "Electrode",
-  "ThumbnailImage": "/pokedex-server/images/101.png",
+  "ThumbnailImage": "/images/101.png",
   "id": 101,
   "type": [
     "electric"

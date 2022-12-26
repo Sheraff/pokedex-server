@@ -20,7 +20,7 @@
   "slug": "snover",
   "name": "Snover",
   "ThumbnailAltText": "Snover",
-  "ThumbnailImage": "/pokedex-server/images/459.png",
+  "ThumbnailImage": "/images/459.png",
   "id": 459,
   "type": [
     "grass",

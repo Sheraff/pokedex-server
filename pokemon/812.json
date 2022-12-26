@@ -18,7 +18,7 @@
   "slug": "rillaboom",
   "name": "Rillaboom",
   "ThumbnailAltText": "Rillaboom",
-  "ThumbnailImage": "/pokedex-server/images/812.png",
+  "ThumbnailImage": "/images/812.png",
   "id": 812,
   "type": [
     "grass"

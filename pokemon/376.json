@@ -17,7 +17,7 @@
   "slug": "metagross",
   "name": "Metagross",
   "ThumbnailAltText": "Metagross",
-  "ThumbnailImage": "/pokedex-server/images/376.png",
+  "ThumbnailImage": "/images/376.png",
   "id": 376,
   "type": [
     "steel",

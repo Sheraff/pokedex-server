@@ -15,7 +15,7 @@
   "slug": "charjabug",
   "name": "Charjabug",
   "ThumbnailAltText": "Charjabug",
-  "ThumbnailImage": "/pokedex-server/images/737.png",
+  "ThumbnailImage": "/images/737.png",
   "id": 737,
   "type": [
     "bug",

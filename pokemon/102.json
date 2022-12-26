@@ -20,7 +20,7 @@
   "slug": "exeggcute",
   "name": "Exeggcute",
   "ThumbnailAltText": "Exeggcute",
-  "ThumbnailImage": "/pokedex-server/images/102.png",
+  "ThumbnailImage": "/images/102.png",
   "id": 102,
   "type": [
     "grass",

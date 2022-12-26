@@ -16,7 +16,7 @@
   "slug": "trubbish",
   "name": "Trubbish",
   "ThumbnailAltText": "Trubbish",
-  "ThumbnailImage": "/pokedex-server/images/568.png",
+  "ThumbnailImage": "/images/568.png",
   "id": 568,
   "type": [
     "poison"

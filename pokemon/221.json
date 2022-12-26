@@ -19,7 +19,7 @@
   "slug": "piloswine",
   "name": "Piloswine",
   "ThumbnailAltText": "Piloswine",
-  "ThumbnailImage": "/pokedex-server/images/221.png",
+  "ThumbnailImage": "/images/221.png",
   "id": 221,
   "type": [
     "ice",

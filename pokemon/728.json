@@ -15,7 +15,7 @@
   "slug": "popplio",
   "name": "Popplio",
   "ThumbnailAltText": "Popplio",
-  "ThumbnailImage": "/pokedex-server/images/728.png",
+  "ThumbnailImage": "/images/728.png",
   "id": 728,
   "type": [
     "water"

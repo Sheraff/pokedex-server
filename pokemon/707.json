@@ -15,7 +15,7 @@
   "slug": "klefki",
   "name": "Klefki",
   "ThumbnailAltText": "Klefki",
-  "ThumbnailImage": "/pokedex-server/images/707.png",
+  "ThumbnailImage": "/images/707.png",
   "id": 707,
   "type": [
     "steel",

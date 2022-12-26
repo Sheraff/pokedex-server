@@ -17,7 +17,7 @@
   "slug": "riolu",
   "name": "Riolu",
   "ThumbnailAltText": "Riolu",
-  "ThumbnailImage": "/pokedex-server/images/447.png",
+  "ThumbnailImage": "/images/447.png",
   "id": 447,
   "type": [
     "fighting"

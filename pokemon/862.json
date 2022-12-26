@@ -17,7 +17,7 @@
   "slug": "obstagoon",
   "name": "Obstagoon",
   "ThumbnailAltText": "Obstagoon",
-  "ThumbnailImage": "/pokedex-server/images/862.png",
+  "ThumbnailImage": "/images/862.png",
   "id": 862,
   "type": [
     "dark",

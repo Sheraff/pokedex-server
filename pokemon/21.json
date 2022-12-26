@@ -16,7 +16,7 @@
   "slug": "spearow",
   "name": "Spearow",
   "ThumbnailAltText": "Spearow",
-  "ThumbnailImage": "/pokedex-server/images/21.png",
+  "ThumbnailImage": "/images/21.png",
   "id": 21,
   "type": [
     "normal",

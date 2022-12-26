@@ -16,7 +16,7 @@
   "slug": "cleffa",
   "name": "Cleffa",
   "ThumbnailAltText": "Cleffa",
-  "ThumbnailImage": "/pokedex-server/images/173.png",
+  "ThumbnailImage": "/images/173.png",
   "id": 173,
   "type": [
     "fairy"

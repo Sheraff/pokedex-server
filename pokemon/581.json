@@ -16,7 +16,7 @@
   "slug": "swanna",
   "name": "Swanna",
   "ThumbnailAltText": "Swanna",
-  "ThumbnailImage": "/pokedex-server/images/581.png",
+  "ThumbnailImage": "/images/581.png",
   "id": 581,
   "type": [
     "water",

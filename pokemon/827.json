@@ -17,7 +17,7 @@
   "slug": "nickit",
   "name": "Nickit",
   "ThumbnailAltText": "Nickit",
-  "ThumbnailImage": "/pokedex-server/images/827.png",
+  "ThumbnailImage": "/images/827.png",
   "id": 827,
   "type": [
     "dark"

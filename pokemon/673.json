@@ -18,7 +18,7 @@
   "slug": "gogoat",
   "name": "Gogoat",
   "ThumbnailAltText": "Gogoat",
-  "ThumbnailImage": "/pokedex-server/images/673.png",
+  "ThumbnailImage": "/images/673.png",
   "id": 673,
   "type": [
     "grass"

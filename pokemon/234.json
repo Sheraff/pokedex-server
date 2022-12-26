@@ -15,7 +15,7 @@
   "slug": "stantler",
   "name": "Stantler",
   "ThumbnailAltText": "Stantler",
-  "ThumbnailImage": "/pokedex-server/images/234.png",
+  "ThumbnailImage": "/images/234.png",
   "id": 234,
   "type": [
     "normal"

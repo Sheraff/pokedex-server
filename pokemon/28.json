@@ -16,7 +16,7 @@
   "slug": "sandslash",
   "name": "Sandslash",
   "ThumbnailAltText": "Sandslash",
-  "ThumbnailImage": "/pokedex-server/images/28.png",
+  "ThumbnailImage": "/images/28.png",
   "id": 28,
   "type": [
     "ground"

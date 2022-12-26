@@ -15,7 +15,7 @@
   "slug": "linoone",
   "name": "Linoone",
   "ThumbnailAltText": "Linoone",
-  "ThumbnailImage": "/pokedex-server/images/264.png",
+  "ThumbnailImage": "/images/264.png",
   "id": 264,
   "type": [
     "normal"

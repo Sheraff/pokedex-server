@@ -19,7 +19,7 @@
   "slug": "wormadam",
   "name": "Wormadam",
   "ThumbnailAltText": "Wormadam",
-  "ThumbnailImage": "/pokedex-server/images/413.png",
+  "ThumbnailImage": "/images/413.png",
   "id": 413,
   "type": [
     "bug",

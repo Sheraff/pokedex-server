@@ -16,7 +16,7 @@
   "slug": "dragonair",
   "name": "Dragonair",
   "ThumbnailAltText": "Dragonair",
-  "ThumbnailImage": "/pokedex-server/images/148.png",
+  "ThumbnailImage": "/images/148.png",
   "id": 148,
   "type": [
     "dragon"

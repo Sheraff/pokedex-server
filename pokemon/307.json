@@ -16,7 +16,7 @@
   "slug": "meditite",
   "name": "Meditite",
   "ThumbnailAltText": "Meditite",
-  "ThumbnailImage": "/pokedex-server/images/307.png",
+  "ThumbnailImage": "/images/307.png",
   "id": 307,
   "type": [
     "fighting",

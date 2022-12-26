@@ -17,7 +17,7 @@
   "slug": "mudbray",
   "name": "Mudbray",
   "ThumbnailAltText": "Mudbray",
-  "ThumbnailImage": "/pokedex-server/images/749.png",
+  "ThumbnailImage": "/images/749.png",
   "id": 749,
   "type": [
     "ground"
