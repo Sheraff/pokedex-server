@@ -1,1 +1,26 @@
-{"abilities":["Rain Dish","Swift Swim"],"detailPageURL":"/us/pokedex/ludicolo","weight":121.3,"weakness":["Flying","Bug","Poison"],"number":"272","height":59,"collectibles_slug":"ludicolo","featured":"true","slug":"ludicolo","name":"Ludicolo","ThumbnailAltText":"Ludicolo","ThumbnailImage":"/pokedex-server/images/2.png","id":272,"type":["water","grass"]}
+{
+  "abilities": [
+    "Rain Dish",
+    "Swift Swim"
+  ],
+  "detailPageURL": "/us/pokedex/ludicolo",
+  "weight": 121.3,
+  "weakness": [
+    "Flying",
+    "Bug",
+    "Poison"
+  ],
+  "number": "272",
+  "height": 59,
+  "collectibles_slug": "ludicolo",
+  "featured": "true",
+  "slug": "ludicolo",
+  "name": "Ludicolo",
+  "ThumbnailAltText": "Ludicolo",
+  "ThumbnailImage": "/pokedex-server/images/272.png",
+  "id": 272,
+  "type": [
+    "water",
+    "grass"
+  ]
+}

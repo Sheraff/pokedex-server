@@ -1,1 +1,27 @@
-{"abilities":["Insomnia","Swarm"],"detailPageURL":"/us/pokedex/ariados","weight":73.9,"weakness":["Fire","Psychic","Flying","Rock"],"number":"168","height":43,"collectibles_slug":"ariados","featured":"true","slug":"ariados","name":"Ariados","ThumbnailAltText":"Ariados","ThumbnailImage":"/pokedex-server/images/8.png","id":168,"type":["bug","poison"]}
+{
+  "abilities": [
+    "Insomnia",
+    "Swarm"
+  ],
+  "detailPageURL": "/us/pokedex/ariados",
+  "weight": 73.9,
+  "weakness": [
+    "Fire",
+    "Psychic",
+    "Flying",
+    "Rock"
+  ],
+  "number": "168",
+  "height": 43,
+  "collectibles_slug": "ariados",
+  "featured": "true",
+  "slug": "ariados",
+  "name": "Ariados",
+  "ThumbnailAltText": "Ariados",
+  "ThumbnailImage": "/pokedex-server/images/168.png",
+  "id": 168,
+  "type": [
+    "bug",
+    "poison"
+  ]
+}

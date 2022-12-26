@@ -1,1 +1,25 @@
-{"abilities":["Limber","Reckless"],"detailPageURL":"/us/pokedex/hitmonlee","weight":109.8,"weakness":["Psychic","Flying","Fairy"],"number":"106","height":59,"collectibles_slug":"hitmonlee","featured":"true","slug":"hitmonlee","name":"Hitmonlee","ThumbnailAltText":"Hitmonlee","ThumbnailImage":"/pokedex-server/images/6.png","id":106,"type":["fighting"]}
+{
+  "abilities": [
+    "Limber",
+    "Reckless"
+  ],
+  "detailPageURL": "/us/pokedex/hitmonlee",
+  "weight": 109.8,
+  "weakness": [
+    "Psychic",
+    "Flying",
+    "Fairy"
+  ],
+  "number": "106",
+  "height": 59,
+  "collectibles_slug": "hitmonlee",
+  "featured": "true",
+  "slug": "hitmonlee",
+  "name": "Hitmonlee",
+  "ThumbnailAltText": "Hitmonlee",
+  "ThumbnailImage": "/pokedex-server/images/106.png",
+  "id": 106,
+  "type": [
+    "fighting"
+  ]
+}

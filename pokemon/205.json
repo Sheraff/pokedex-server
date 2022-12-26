@@ -1,1 +1,23 @@
-{"abilities":["Sturdy"],"detailPageURL":"/us/pokedex/forretress","weight":277.3,"weakness":["Fire"],"number":"205","height":47,"collectibles_slug":"forretress","featured":"true","slug":"forretress","name":"Forretress","ThumbnailAltText":"Forretress","ThumbnailImage":"/pokedex-server/images/5.png","id":205,"type":["bug","steel"]}
+{
+  "abilities": [
+    "Sturdy"
+  ],
+  "detailPageURL": "/us/pokedex/forretress",
+  "weight": 277.3,
+  "weakness": [
+    "Fire"
+  ],
+  "number": "205",
+  "height": 47,
+  "collectibles_slug": "forretress",
+  "featured": "true",
+  "slug": "forretress",
+  "name": "Forretress",
+  "ThumbnailAltText": "Forretress",
+  "ThumbnailImage": "/pokedex-server/images/205.png",
+  "id": 205,
+  "type": [
+    "bug",
+    "steel"
+  ]
+}

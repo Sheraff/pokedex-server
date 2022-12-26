@@ -1,1 +1,23 @@
-{"abilities":["Natural Cure","Serene Grace"],"detailPageURL":"/us/pokedex/blissey","weight":103.2,"weakness":["Fighting"],"number":"242","height":59,"collectibles_slug":"blissey","featured":"true","slug":"blissey","name":"Blissey","ThumbnailAltText":"Blissey","ThumbnailImage":"/pokedex-server/images/2.png","id":242,"type":["normal"]}
+{
+  "abilities": [
+    "Natural Cure",
+    "Serene Grace"
+  ],
+  "detailPageURL": "/us/pokedex/blissey",
+  "weight": 103.2,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "242",
+  "height": 59,
+  "collectibles_slug": "blissey",
+  "featured": "true",
+  "slug": "blissey",
+  "name": "Blissey",
+  "ThumbnailAltText": "Blissey",
+  "ThumbnailImage": "/pokedex-server/images/242.png",
+  "id": 242,
+  "type": [
+    "normal"
+  ]
+}

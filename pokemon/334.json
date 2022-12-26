@@ -1,1 +1,26 @@
-{"abilities":["Natural Cure"],"detailPageURL":"/us/pokedex/altaria","weight":45.4,"weakness":["Fairy","Dragon","Ice","Rock"],"number":"334","height":43,"collectibles_slug":"altaria","featured":"true","slug":"altaria","name":"Altaria","ThumbnailAltText":"Altaria","ThumbnailImage":"/pokedex-server/images/4.png","id":334,"type":["dragon","flying"]}
+{
+  "abilities": [
+    "Natural Cure"
+  ],
+  "detailPageURL": "/us/pokedex/altaria",
+  "weight": 45.4,
+  "weakness": [
+    "Fairy",
+    "Dragon",
+    "Ice",
+    "Rock"
+  ],
+  "number": "334",
+  "height": 43,
+  "collectibles_slug": "altaria",
+  "featured": "true",
+  "slug": "altaria",
+  "name": "Altaria",
+  "ThumbnailAltText": "Altaria",
+  "ThumbnailImage": "/pokedex-server/images/334.png",
+  "id": 334,
+  "type": [
+    "dragon",
+    "flying"
+  ]
+}

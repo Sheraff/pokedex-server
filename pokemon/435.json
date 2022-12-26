@@ -1,1 +1,24 @@
-{"abilities":["Aftermath","Stench"],"detailPageURL":"/us/pokedex/skuntank","weight":83.8,"weakness":["Ground"],"number":"435","height":39,"collectibles_slug":"skuntank","featured":"true","slug":"skuntank","name":"Skuntank","ThumbnailAltText":"Skuntank","ThumbnailImage":"/pokedex-server/images/5.png","id":435,"type":["poison","dark"]}
+{
+  "abilities": [
+    "Aftermath",
+    "Stench"
+  ],
+  "detailPageURL": "/us/pokedex/skuntank",
+  "weight": 83.8,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "435",
+  "height": 39,
+  "collectibles_slug": "skuntank",
+  "featured": "true",
+  "slug": "skuntank",
+  "name": "Skuntank",
+  "ThumbnailAltText": "Skuntank",
+  "ThumbnailImage": "/pokedex-server/images/435.png",
+  "id": 435,
+  "type": [
+    "poison",
+    "dark"
+  ]
+}

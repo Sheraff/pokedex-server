@@ -1,1 +1,25 @@
-{"abilities":["Sturdy"],"detailPageURL":"/us/pokedex/shieldon","weight":125.7,"weakness":["Water","Fighting","Ground"],"number":"410","height":20,"collectibles_slug":"shieldon","featured":"true","slug":"shieldon","name":"Shieldon","ThumbnailAltText":"Shieldon","ThumbnailImage":"/pokedex-server/images/0.png","id":410,"type":["rock","steel"]}
+{
+  "abilities": [
+    "Sturdy"
+  ],
+  "detailPageURL": "/us/pokedex/shieldon",
+  "weight": 125.7,
+  "weakness": [
+    "Water",
+    "Fighting",
+    "Ground"
+  ],
+  "number": "410",
+  "height": 20,
+  "collectibles_slug": "shieldon",
+  "featured": "true",
+  "slug": "shieldon",
+  "name": "Shieldon",
+  "ThumbnailAltText": "Shieldon",
+  "ThumbnailImage": "/pokedex-server/images/410.png",
+  "id": 410,
+  "type": [
+    "rock",
+    "steel"
+  ]
+}

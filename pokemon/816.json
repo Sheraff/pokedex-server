@@ -1,1 +1,23 @@
-{"abilities":["Torrent"],"detailPageURL":"/us/pokedex/sobble","weight":8.8,"weakness":["Grass","Electric"],"number":"816","height":12,"collectibles_slug":"sobble","featured":"true","slug":"sobble","name":"Sobble","ThumbnailAltText":"Sobble","ThumbnailImage":"/pokedex-server/images/6.png","id":816,"type":["water"]}
+{
+  "abilities": [
+    "Torrent"
+  ],
+  "detailPageURL": "/us/pokedex/sobble",
+  "weight": 8.8,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "816",
+  "height": 12,
+  "collectibles_slug": "sobble",
+  "featured": "true",
+  "slug": "sobble",
+  "name": "Sobble",
+  "ThumbnailAltText": "Sobble",
+  "ThumbnailImage": "/pokedex-server/images/816.png",
+  "id": 816,
+  "type": [
+    "water"
+  ]
+}

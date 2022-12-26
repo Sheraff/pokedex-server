@@ -1,1 +1,26 @@
-{"abilities":["Beast Boost"],"detailPageURL":"/us/pokedex/buzzwole","weight":735.5,"weakness":["Fire","Psychic","Flying","Fairy"],"number":"794","height":94,"collectibles_slug":"buzzwole","featured":"true","slug":"buzzwole","name":"Buzzwole","ThumbnailAltText":"Buzzwole","ThumbnailImage":"/pokedex-server/images/4.png","id":794,"type":["bug","fighting"]}
+{
+  "abilities": [
+    "Beast Boost"
+  ],
+  "detailPageURL": "/us/pokedex/buzzwole",
+  "weight": 735.5,
+  "weakness": [
+    "Fire",
+    "Psychic",
+    "Flying",
+    "Fairy"
+  ],
+  "number": "794",
+  "height": 94,
+  "collectibles_slug": "buzzwole",
+  "featured": "true",
+  "slug": "buzzwole",
+  "name": "Buzzwole",
+  "ThumbnailAltText": "Buzzwole",
+  "ThumbnailImage": "/pokedex-server/images/794.png",
+  "id": 794,
+  "type": [
+    "bug",
+    "fighting"
+  ]
+}

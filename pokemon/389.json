@@ -1,1 +1,26 @@
-{"abilities":["Overgrow"],"detailPageURL":"/us/pokedex/torterra","weight":683.4,"weakness":["Fire","Flying","Bug","Ice"],"number":"389","height":87,"collectibles_slug":"torterra","featured":"true","slug":"torterra","name":"Torterra","ThumbnailAltText":"Torterra","ThumbnailImage":"/pokedex-server/images/9.png","id":389,"type":["grass","ground"]}
+{
+  "abilities": [
+    "Overgrow"
+  ],
+  "detailPageURL": "/us/pokedex/torterra",
+  "weight": 683.4,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Bug",
+    "Ice"
+  ],
+  "number": "389",
+  "height": 87,
+  "collectibles_slug": "torterra",
+  "featured": "true",
+  "slug": "torterra",
+  "name": "Torterra",
+  "ThumbnailAltText": "Torterra",
+  "ThumbnailImage": "/pokedex-server/images/389.png",
+  "id": 389,
+  "type": [
+    "grass",
+    "ground"
+  ]
+}

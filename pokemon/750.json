@@ -1,1 +1,25 @@
-{"abilities":["Own Tempo","Stamina"],"detailPageURL":"/us/pokedex/mudsdale","weight":2028.3,"weakness":["Water","Grass","Ice"],"number":"750","height":98,"collectibles_slug":"mudsdale","featured":"true","slug":"mudsdale","name":"Mudsdale","ThumbnailAltText":"Mudsdale","ThumbnailImage":"/pokedex-server/images/0.png","id":750,"type":["ground"]}
+{
+  "abilities": [
+    "Own Tempo",
+    "Stamina"
+  ],
+  "detailPageURL": "/us/pokedex/mudsdale",
+  "weight": 2028.3,
+  "weakness": [
+    "Water",
+    "Grass",
+    "Ice"
+  ],
+  "number": "750",
+  "height": 98,
+  "collectibles_slug": "mudsdale",
+  "featured": "true",
+  "slug": "mudsdale",
+  "name": "Mudsdale",
+  "ThumbnailAltText": "Mudsdale",
+  "ThumbnailImage": "/pokedex-server/images/750.png",
+  "id": 750,
+  "type": [
+    "ground"
+  ]
+}

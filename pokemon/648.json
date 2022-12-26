@@ -1,1 +1,24 @@
-{"abilities":["Serene Grace"],"detailPageURL":"/us/pokedex/meloetta","weight":14.3,"weakness":["Dark","Bug"],"number":"648","height":24,"collectibles_slug":"meloetta","featured":"true","slug":"meloetta","name":"Meloetta","ThumbnailAltText":"Meloetta","ThumbnailImage":"/pokedex-server/images/8.png","id":648,"type":["normal","psychic"]}
+{
+  "abilities": [
+    "Serene Grace"
+  ],
+  "detailPageURL": "/us/pokedex/meloetta",
+  "weight": 14.3,
+  "weakness": [
+    "Dark",
+    "Bug"
+  ],
+  "number": "648",
+  "height": 24,
+  "collectibles_slug": "meloetta",
+  "featured": "true",
+  "slug": "meloetta",
+  "name": "Meloetta",
+  "ThumbnailAltText": "Meloetta",
+  "ThumbnailImage": "/pokedex-server/images/648.png",
+  "id": 648,
+  "type": [
+    "normal",
+    "psychic"
+  ]
+}

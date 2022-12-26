@@ -1,1 +1,23 @@
-{"abilities":["Torrent"],"detailPageURL":"/us/pokedex/marshtomp","weight":61.7,"weakness":["Grass"],"number":"259","height":28,"collectibles_slug":"marshtomp","featured":"true","slug":"marshtomp","name":"Marshtomp","ThumbnailAltText":"Marshtomp","ThumbnailImage":"/pokedex-server/images/9.png","id":259,"type":["water","ground"]}
+{
+  "abilities": [
+    "Torrent"
+  ],
+  "detailPageURL": "/us/pokedex/marshtomp",
+  "weight": 61.7,
+  "weakness": [
+    "Grass"
+  ],
+  "number": "259",
+  "height": 28,
+  "collectibles_slug": "marshtomp",
+  "featured": "true",
+  "slug": "marshtomp",
+  "name": "Marshtomp",
+  "ThumbnailAltText": "Marshtomp",
+  "ThumbnailImage": "/pokedex-server/images/259.png",
+  "id": 259,
+  "type": [
+    "water",
+    "ground"
+  ]
+}

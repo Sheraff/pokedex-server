@@ -1,1 +1,24 @@
-{"abilities":["Shed Skin"],"detailPageURL":"/us/pokedex/spewpa","weight":18.5,"weakness":["Fire","Flying","Rock"],"number":"665","height":12,"collectibles_slug":"spewpa","featured":"true","slug":"spewpa","name":"Spewpa","ThumbnailAltText":"Spewpa","ThumbnailImage":"/pokedex-server/images/5.png","id":665,"type":["bug"]}
+{
+  "abilities": [
+    "Shed Skin"
+  ],
+  "detailPageURL": "/us/pokedex/spewpa",
+  "weight": 18.5,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Rock"
+  ],
+  "number": "665",
+  "height": 12,
+  "collectibles_slug": "spewpa",
+  "featured": "true",
+  "slug": "spewpa",
+  "name": "Spewpa",
+  "ThumbnailAltText": "Spewpa",
+  "ThumbnailImage": "/pokedex-server/images/665.png",
+  "id": 665,
+  "type": [
+    "bug"
+  ]
+}

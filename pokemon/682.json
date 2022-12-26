@@ -1,1 +1,23 @@
-{"abilities":["Healer"],"detailPageURL":"/us/pokedex/spritzee","weight":1.1,"weakness":["Steel","Poison"],"number":"682","height":8,"collectibles_slug":"spritzee","featured":"true","slug":"spritzee","name":"Spritzee","ThumbnailAltText":"Spritzee","ThumbnailImage":"/pokedex-server/images/2.png","id":682,"type":["fairy"]}
+{
+  "abilities": [
+    "Healer"
+  ],
+  "detailPageURL": "/us/pokedex/spritzee",
+  "weight": 1.1,
+  "weakness": [
+    "Steel",
+    "Poison"
+  ],
+  "number": "682",
+  "height": 8,
+  "collectibles_slug": "spritzee",
+  "featured": "true",
+  "slug": "spritzee",
+  "name": "Spritzee",
+  "ThumbnailAltText": "Spritzee",
+  "ThumbnailImage": "/pokedex-server/images/682.png",
+  "id": 682,
+  "type": [
+    "fairy"
+  ]
+}

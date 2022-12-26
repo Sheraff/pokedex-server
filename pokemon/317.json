@@ -1,1 +1,24 @@
-{"abilities":["Liquid Ooze","Sticky Hold"],"detailPageURL":"/us/pokedex/swalot","weight":176.4,"weakness":["Psychic","Ground"],"number":"317","height":67,"collectibles_slug":"swalot","featured":"true","slug":"swalot","name":"Swalot","ThumbnailAltText":"Swalot","ThumbnailImage":"/pokedex-server/images/7.png","id":317,"type":["poison"]}
+{
+  "abilities": [
+    "Liquid Ooze",
+    "Sticky Hold"
+  ],
+  "detailPageURL": "/us/pokedex/swalot",
+  "weight": 176.4,
+  "weakness": [
+    "Psychic",
+    "Ground"
+  ],
+  "number": "317",
+  "height": 67,
+  "collectibles_slug": "swalot",
+  "featured": "true",
+  "slug": "swalot",
+  "name": "Swalot",
+  "ThumbnailAltText": "Swalot",
+  "ThumbnailImage": "/pokedex-server/images/317.png",
+  "id": 317,
+  "type": [
+    "poison"
+  ]
+}

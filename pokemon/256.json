@@ -1,1 +1,26 @@
-{"abilities":["Blaze"],"detailPageURL":"/us/pokedex/combusken","weight":43,"weakness":["Water","Psychic","Flying","Ground"],"number":"256","height":35,"collectibles_slug":"combusken","featured":"true","slug":"combusken","name":"Combusken","ThumbnailAltText":"Combusken","ThumbnailImage":"/pokedex-server/images/6.png","id":256,"type":["fire","fighting"]}
+{
+  "abilities": [
+    "Blaze"
+  ],
+  "detailPageURL": "/us/pokedex/combusken",
+  "weight": 43,
+  "weakness": [
+    "Water",
+    "Psychic",
+    "Flying",
+    "Ground"
+  ],
+  "number": "256",
+  "height": 35,
+  "collectibles_slug": "combusken",
+  "featured": "true",
+  "slug": "combusken",
+  "name": "Combusken",
+  "ThumbnailAltText": "Combusken",
+  "ThumbnailImage": "/pokedex-server/images/256.png",
+  "id": 256,
+  "type": [
+    "fire",
+    "fighting"
+  ]
+}

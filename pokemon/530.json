@@ -1,1 +1,27 @@
-{"abilities":["Sand Force","Sand Rush"],"detailPageURL":"/us/pokedex/excadrill","weight":89.1,"weakness":["Fire","Water","Fighting","Ground"],"number":"530","height":28,"collectibles_slug":"excadrill","featured":"true","slug":"excadrill","name":"Excadrill","ThumbnailAltText":"Excadrill","ThumbnailImage":"/pokedex-server/images/0.png","id":530,"type":["ground","steel"]}
+{
+  "abilities": [
+    "Sand Force",
+    "Sand Rush"
+  ],
+  "detailPageURL": "/us/pokedex/excadrill",
+  "weight": 89.1,
+  "weakness": [
+    "Fire",
+    "Water",
+    "Fighting",
+    "Ground"
+  ],
+  "number": "530",
+  "height": 28,
+  "collectibles_slug": "excadrill",
+  "featured": "true",
+  "slug": "excadrill",
+  "name": "Excadrill",
+  "ThumbnailAltText": "Excadrill",
+  "ThumbnailImage": "/pokedex-server/images/530.png",
+  "id": 530,
+  "type": [
+    "ground",
+    "steel"
+  ]
+}

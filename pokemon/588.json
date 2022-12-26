@@ -1,1 +1,25 @@
-{"abilities":["Shed Skin","Swarm"],"detailPageURL":"/us/pokedex/karrablast","weight":13,"weakness":["Fire","Flying","Rock"],"number":"588","height":20,"collectibles_slug":"karrablast","featured":"true","slug":"karrablast","name":"Karrablast","ThumbnailAltText":"Karrablast","ThumbnailImage":"/pokedex-server/images/8.png","id":588,"type":["bug"]}
+{
+  "abilities": [
+    "Shed Skin",
+    "Swarm"
+  ],
+  "detailPageURL": "/us/pokedex/karrablast",
+  "weight": 13,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Rock"
+  ],
+  "number": "588",
+  "height": 20,
+  "collectibles_slug": "karrablast",
+  "featured": "true",
+  "slug": "karrablast",
+  "name": "Karrablast",
+  "ThumbnailAltText": "Karrablast",
+  "ThumbnailImage": "/pokedex-server/images/588.png",
+  "id": 588,
+  "type": [
+    "bug"
+  ]
+}

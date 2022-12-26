@@ -1,1 +1,27 @@
-{"abilities":["Leaf Guard","Oblivious"],"detailPageURL":"/us/pokedex/steenee","weight":18.1,"weakness":["Fire","Flying","Ice","Poison","Bug"],"number":"762","height":28,"collectibles_slug":"steenee","featured":"true","slug":"steenee","name":"Steenee","ThumbnailAltText":"Steenee","ThumbnailImage":"/pokedex-server/images/2.png","id":762,"type":["grass"]}
+{
+  "abilities": [
+    "Leaf Guard",
+    "Oblivious"
+  ],
+  "detailPageURL": "/us/pokedex/steenee",
+  "weight": 18.1,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "762",
+  "height": 28,
+  "collectibles_slug": "steenee",
+  "featured": "true",
+  "slug": "steenee",
+  "name": "Steenee",
+  "ThumbnailAltText": "Steenee",
+  "ThumbnailImage": "/pokedex-server/images/762.png",
+  "id": 762,
+  "type": [
+    "grass"
+  ]
+}

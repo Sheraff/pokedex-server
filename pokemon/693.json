@@ -1,1 +1,23 @@
-{"abilities":["Mega Launcher"],"detailPageURL":"/us/pokedex/clawitzer","weight":77.8,"weakness":["Grass","Electric"],"number":"693","height":51,"collectibles_slug":"clawitzer","featured":"true","slug":"clawitzer","name":"Clawitzer","ThumbnailAltText":"Clawitzer","ThumbnailImage":"/pokedex-server/images/3.png","id":693,"type":["water"]}
+{
+  "abilities": [
+    "Mega Launcher"
+  ],
+  "detailPageURL": "/us/pokedex/clawitzer",
+  "weight": 77.8,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "693",
+  "height": 51,
+  "collectibles_slug": "clawitzer",
+  "featured": "true",
+  "slug": "clawitzer",
+  "name": "Clawitzer",
+  "ThumbnailAltText": "Clawitzer",
+  "ThumbnailImage": "/pokedex-server/images/693.png",
+  "id": 693,
+  "type": [
+    "water"
+  ]
+}

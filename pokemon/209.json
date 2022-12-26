@@ -1,1 +1,24 @@
-{"abilities":["Intimidate","Run Away"],"detailPageURL":"/us/pokedex/snubbull","weight":17.2,"weakness":["Steel","Poison"],"number":"209","height":24,"collectibles_slug":"snubbull","featured":"true","slug":"snubbull","name":"Snubbull","ThumbnailAltText":"Snubbull","ThumbnailImage":"/pokedex-server/images/9.png","id":209,"type":["fairy"]}
+{
+  "abilities": [
+    "Intimidate",
+    "Run Away"
+  ],
+  "detailPageURL": "/us/pokedex/snubbull",
+  "weight": 17.2,
+  "weakness": [
+    "Steel",
+    "Poison"
+  ],
+  "number": "209",
+  "height": 24,
+  "collectibles_slug": "snubbull",
+  "featured": "true",
+  "slug": "snubbull",
+  "name": "Snubbull",
+  "ThumbnailAltText": "Snubbull",
+  "ThumbnailImage": "/pokedex-server/images/209.png",
+  "id": 209,
+  "type": [
+    "fairy"
+  ]
+}

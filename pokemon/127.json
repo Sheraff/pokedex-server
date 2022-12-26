@@ -1,1 +1,25 @@
-{"abilities":["Hyper Cutter","Mold Breaker"],"detailPageURL":"/us/pokedex/pinsir","weight":121.3,"weakness":["Fire","Flying","Rock"],"number":"127","height":59,"collectibles_slug":"pinsir","featured":"true","slug":"pinsir","name":"Pinsir","ThumbnailAltText":"Pinsir","ThumbnailImage":"/pokedex-server/images/7.png","id":127,"type":["bug"]}
+{
+  "abilities": [
+    "Hyper Cutter",
+    "Mold Breaker"
+  ],
+  "detailPageURL": "/us/pokedex/pinsir",
+  "weight": 121.3,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Rock"
+  ],
+  "number": "127",
+  "height": 59,
+  "collectibles_slug": "pinsir",
+  "featured": "true",
+  "slug": "pinsir",
+  "name": "Pinsir",
+  "ThumbnailAltText": "Pinsir",
+  "ThumbnailImage": "/pokedex-server/images/127.png",
+  "id": 127,
+  "type": [
+    "bug"
+  ]
+}

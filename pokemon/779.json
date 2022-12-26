@@ -1,1 +1,28 @@
-{"abilities":["Dazzling","Strong Jaw"],"detailPageURL":"/us/pokedex/bruxish","weight":41.9,"weakness":["Ghost","Dark","Grass","Electric","Bug"],"number":"779","height":35,"collectibles_slug":"bruxish","featured":"true","slug":"bruxish","name":"Bruxish","ThumbnailAltText":"Bruxish","ThumbnailImage":"/pokedex-server/images/9.png","id":779,"type":["water","psychic"]}
+{
+  "abilities": [
+    "Dazzling",
+    "Strong Jaw"
+  ],
+  "detailPageURL": "/us/pokedex/bruxish",
+  "weight": 41.9,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Grass",
+    "Electric",
+    "Bug"
+  ],
+  "number": "779",
+  "height": 35,
+  "collectibles_slug": "bruxish",
+  "featured": "true",
+  "slug": "bruxish",
+  "name": "Bruxish",
+  "ThumbnailAltText": "Bruxish",
+  "ThumbnailImage": "/pokedex-server/images/779.png",
+  "id": 779,
+  "type": [
+    "water",
+    "psychic"
+  ]
+}

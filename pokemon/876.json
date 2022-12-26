@@ -1,1 +1,25 @@
-{"abilities":["Inner Focus","Synchronize"],"detailPageURL":"/us/pokedex/indeedee","weight":61.7,"weakness":["Dark","Bug"],"number":"876","height":35,"collectibles_slug":"indeedee","featured":"true","slug":"indeedee","name":"Indeedee","ThumbnailAltText":"Indeedee","ThumbnailImage":"/pokedex-server/images/6.png","id":876,"type":["psychic","normal"]}
+{
+  "abilities": [
+    "Inner Focus",
+    "Synchronize"
+  ],
+  "detailPageURL": "/us/pokedex/indeedee",
+  "weight": 61.7,
+  "weakness": [
+    "Dark",
+    "Bug"
+  ],
+  "number": "876",
+  "height": 35,
+  "collectibles_slug": "indeedee",
+  "featured": "true",
+  "slug": "indeedee",
+  "name": "Indeedee",
+  "ThumbnailAltText": "Indeedee",
+  "ThumbnailImage": "/pokedex-server/images/876.png",
+  "id": 876,
+  "type": [
+    "psychic",
+    "normal"
+  ]
+}

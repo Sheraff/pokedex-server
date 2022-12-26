@@ -1,1 +1,28 @@
-{"abilities":["Damp","Water Absorb"],"detailPageURL":"/us/pokedex/poliwrath","weight":119,"weakness":["Fairy","Grass","Flying","Psychic","Electric"],"number":"062","height":51,"collectibles_slug":"poliwrath","featured":"true","slug":"poliwrath","name":"Poliwrath","ThumbnailAltText":"Poliwrath","ThumbnailImage":"/pokedex-server/images/2.png","id":62,"type":["water","fighting"]}
+{
+  "abilities": [
+    "Damp",
+    "Water Absorb"
+  ],
+  "detailPageURL": "/us/pokedex/poliwrath",
+  "weight": 119,
+  "weakness": [
+    "Fairy",
+    "Grass",
+    "Flying",
+    "Psychic",
+    "Electric"
+  ],
+  "number": "062",
+  "height": 51,
+  "collectibles_slug": "poliwrath",
+  "featured": "true",
+  "slug": "poliwrath",
+  "name": "Poliwrath",
+  "ThumbnailAltText": "Poliwrath",
+  "ThumbnailImage": "/pokedex-server/images/62.png",
+  "id": 62,
+  "type": [
+    "water",
+    "fighting"
+  ]
+}

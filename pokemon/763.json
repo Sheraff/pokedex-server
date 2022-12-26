@@ -1,1 +1,27 @@
-{"abilities":["Leaf Guard","Queenly Majesty"],"detailPageURL":"/us/pokedex/tsareena","weight":47.2,"weakness":["Fire","Flying","Ice","Poison","Bug"],"number":"763","height":47,"collectibles_slug":"tsareena","featured":"true","slug":"tsareena","name":"Tsareena","ThumbnailAltText":"Tsareena","ThumbnailImage":"/pokedex-server/images/3.png","id":763,"type":["grass"]}
+{
+  "abilities": [
+    "Leaf Guard",
+    "Queenly Majesty"
+  ],
+  "detailPageURL": "/us/pokedex/tsareena",
+  "weight": 47.2,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "763",
+  "height": 47,
+  "collectibles_slug": "tsareena",
+  "featured": "true",
+  "slug": "tsareena",
+  "name": "Tsareena",
+  "ThumbnailAltText": "Tsareena",
+  "ThumbnailImage": "/pokedex-server/images/763.png",
+  "id": 763,
+  "type": [
+    "grass"
+  ]
+}

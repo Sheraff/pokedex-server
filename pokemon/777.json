@@ -1,1 +1,26 @@
-{"abilities":["Iron Barbs","Lightning Rod"],"detailPageURL":"/us/pokedex/togedemaru","weight":7.3,"weakness":["Fire","Fighting","Ground"],"number":"777","height":12,"collectibles_slug":"togedemaru","featured":"true","slug":"togedemaru","name":"Togedemaru","ThumbnailAltText":"Togedemaru","ThumbnailImage":"/pokedex-server/images/7.png","id":777,"type":["electric","steel"]}
+{
+  "abilities": [
+    "Iron Barbs",
+    "Lightning Rod"
+  ],
+  "detailPageURL": "/us/pokedex/togedemaru",
+  "weight": 7.3,
+  "weakness": [
+    "Fire",
+    "Fighting",
+    "Ground"
+  ],
+  "number": "777",
+  "height": 12,
+  "collectibles_slug": "togedemaru",
+  "featured": "true",
+  "slug": "togedemaru",
+  "name": "Togedemaru",
+  "ThumbnailAltText": "Togedemaru",
+  "ThumbnailImage": "/pokedex-server/images/777.png",
+  "id": 777,
+  "type": [
+    "electric",
+    "steel"
+  ]
+}

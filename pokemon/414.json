@@ -1,1 +1,27 @@
-{"abilities":["Swarm"],"detailPageURL":"/us/pokedex/mothim","weight":51.4,"weakness":["Fire","Flying","Electric","Ice","Rock"],"number":"414","height":35,"collectibles_slug":"mothim","featured":"true","slug":"mothim","name":"Mothim","ThumbnailAltText":"Mothim","ThumbnailImage":"/pokedex-server/images/4.png","id":414,"type":["bug","flying"]}
+{
+  "abilities": [
+    "Swarm"
+  ],
+  "detailPageURL": "/us/pokedex/mothim",
+  "weight": 51.4,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "414",
+  "height": 35,
+  "collectibles_slug": "mothim",
+  "featured": "true",
+  "slug": "mothim",
+  "name": "Mothim",
+  "ThumbnailAltText": "Mothim",
+  "ThumbnailImage": "/pokedex-server/images/414.png",
+  "id": 414,
+  "type": [
+    "bug",
+    "flying"
+  ]
+}

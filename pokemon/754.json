@@ -1,1 +1,26 @@
-{"abilities":["Leaf Guard"],"detailPageURL":"/us/pokedex/lurantis","weight":40.8,"weakness":["Fire","Flying","Ice","Poison","Bug"],"number":"754","height":35,"collectibles_slug":"lurantis","featured":"true","slug":"lurantis","name":"Lurantis","ThumbnailAltText":"Lurantis","ThumbnailImage":"/pokedex-server/images/4.png","id":754,"type":["grass"]}
+{
+  "abilities": [
+    "Leaf Guard"
+  ],
+  "detailPageURL": "/us/pokedex/lurantis",
+  "weight": 40.8,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "754",
+  "height": 35,
+  "collectibles_slug": "lurantis",
+  "featured": "true",
+  "slug": "lurantis",
+  "name": "Lurantis",
+  "ThumbnailAltText": "Lurantis",
+  "ThumbnailImage": "/pokedex-server/images/754.png",
+  "id": 754,
+  "type": [
+    "grass"
+  ]
+}

@@ -1,1 +1,23 @@
-{"abilities":["Swift Swim"],"detailPageURL":"/us/pokedex/buizel","weight":65,"weakness":["Grass","Electric"],"number":"418","height":28,"collectibles_slug":"buizel","featured":"true","slug":"buizel","name":"Buizel","ThumbnailAltText":"Buizel","ThumbnailImage":"/pokedex-server/images/8.png","id":418,"type":["water"]}
+{
+  "abilities": [
+    "Swift Swim"
+  ],
+  "detailPageURL": "/us/pokedex/buizel",
+  "weight": 65,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "418",
+  "height": 28,
+  "collectibles_slug": "buizel",
+  "featured": "true",
+  "slug": "buizel",
+  "name": "Buizel",
+  "ThumbnailAltText": "Buizel",
+  "ThumbnailImage": "/pokedex-server/images/418.png",
+  "id": 418,
+  "type": [
+    "water"
+  ]
+}

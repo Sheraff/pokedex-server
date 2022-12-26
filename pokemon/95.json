@@ -1,1 +1,29 @@
-{"abilities":["Rock Head","Sturdy"],"detailPageURL":"/us/pokedex/onix","weight":463,"weakness":["Steel","Fighting","Water","Ice","Grass","Ground"],"number":"095","height":346,"collectibles_slug":"onix","featured":"true","slug":"onix","name":"Onix","ThumbnailAltText":"Onix","ThumbnailImage":"/pokedex-server/images/5.png","id":95,"type":["rock","ground"]}
+{
+  "abilities": [
+    "Rock Head",
+    "Sturdy"
+  ],
+  "detailPageURL": "/us/pokedex/onix",
+  "weight": 463,
+  "weakness": [
+    "Steel",
+    "Fighting",
+    "Water",
+    "Ice",
+    "Grass",
+    "Ground"
+  ],
+  "number": "095",
+  "height": 346,
+  "collectibles_slug": "onix",
+  "featured": "true",
+  "slug": "onix",
+  "name": "Onix",
+  "ThumbnailAltText": "Onix",
+  "ThumbnailImage": "/pokedex-server/images/95.png",
+  "id": 95,
+  "type": [
+    "rock",
+    "ground"
+  ]
+}

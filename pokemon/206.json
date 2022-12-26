@@ -1,1 +1,23 @@
-{"abilities":["Run Away","Serene Grace"],"detailPageURL":"/us/pokedex/dunsparce","weight":30.9,"weakness":["Fighting"],"number":"206","height":59,"collectibles_slug":"dunsparce","featured":"true","slug":"dunsparce","name":"Dunsparce","ThumbnailAltText":"Dunsparce","ThumbnailImage":"/pokedex-server/images/6.png","id":206,"type":["normal"]}
+{
+  "abilities": [
+    "Run Away",
+    "Serene Grace"
+  ],
+  "detailPageURL": "/us/pokedex/dunsparce",
+  "weight": 30.9,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "206",
+  "height": 59,
+  "collectibles_slug": "dunsparce",
+  "featured": "true",
+  "slug": "dunsparce",
+  "name": "Dunsparce",
+  "ThumbnailAltText": "Dunsparce",
+  "ThumbnailImage": "/pokedex-server/images/206.png",
+  "id": 206,
+  "type": [
+    "normal"
+  ]
+}

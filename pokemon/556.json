@@ -1,1 +1,27 @@
-{"abilities":["Chlorophyll","Water Absorb"],"detailPageURL":"/us/pokedex/maractus","weight":61.7,"weakness":["Fire","Flying","Ice","Poison","Bug"],"number":"556","height":39,"collectibles_slug":"maractus","featured":"true","slug":"maractus","name":"Maractus","ThumbnailAltText":"Maractus","ThumbnailImage":"/pokedex-server/images/6.png","id":556,"type":["grass"]}
+{
+  "abilities": [
+    "Chlorophyll",
+    "Water Absorb"
+  ],
+  "detailPageURL": "/us/pokedex/maractus",
+  "weight": 61.7,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "556",
+  "height": 39,
+  "collectibles_slug": "maractus",
+  "featured": "true",
+  "slug": "maractus",
+  "name": "Maractus",
+  "ThumbnailAltText": "Maractus",
+  "ThumbnailImage": "/pokedex-server/images/556.png",
+  "id": 556,
+  "type": [
+    "grass"
+  ]
+}

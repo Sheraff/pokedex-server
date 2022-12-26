@@ -1,1 +1,25 @@
-{"abilities":["Flash Fire"],"detailPageURL":"/us/pokedex/heatran","weight":948,"weakness":["Water","Fighting","Ground"],"number":"485","height":67,"collectibles_slug":"heatran","featured":"true","slug":"heatran","name":"Heatran","ThumbnailAltText":"Heatran","ThumbnailImage":"/pokedex-server/images/5.png","id":485,"type":["fire","steel"]}
+{
+  "abilities": [
+    "Flash Fire"
+  ],
+  "detailPageURL": "/us/pokedex/heatran",
+  "weight": 948,
+  "weakness": [
+    "Water",
+    "Fighting",
+    "Ground"
+  ],
+  "number": "485",
+  "height": 67,
+  "collectibles_slug": "heatran",
+  "featured": "true",
+  "slug": "heatran",
+  "name": "Heatran",
+  "ThumbnailAltText": "Heatran",
+  "ThumbnailImage": "/pokedex-server/images/485.png",
+  "id": 485,
+  "type": [
+    "fire",
+    "steel"
+  ]
+}

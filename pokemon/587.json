@@ -1,1 +1,24 @@
-{"abilities":["Static"],"detailPageURL":"/us/pokedex/emolga","weight":11,"weakness":["Ice","Rock"],"number":"587","height":16,"collectibles_slug":"emolga","featured":"true","slug":"emolga","name":"Emolga","ThumbnailAltText":"Emolga","ThumbnailImage":"/pokedex-server/images/7.png","id":587,"type":["electric","flying"]}
+{
+  "abilities": [
+    "Static"
+  ],
+  "detailPageURL": "/us/pokedex/emolga",
+  "weight": 11,
+  "weakness": [
+    "Ice",
+    "Rock"
+  ],
+  "number": "587",
+  "height": 16,
+  "collectibles_slug": "emolga",
+  "featured": "true",
+  "slug": "emolga",
+  "name": "Emolga",
+  "ThumbnailAltText": "Emolga",
+  "ThumbnailImage": "/pokedex-server/images/587.png",
+  "id": 587,
+  "type": [
+    "electric",
+    "flying"
+  ]
+}

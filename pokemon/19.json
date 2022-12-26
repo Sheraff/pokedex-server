@@ -1,1 +1,23 @@
-{"abilities":["Guts","Run Away"],"detailPageURL":"/us/pokedex/rattata","weight":7.7,"weakness":["Fighting"],"number":"019","height":12,"collectibles_slug":"rattata","featured":"true","slug":"rattata","name":"Rattata","ThumbnailAltText":"Rattata","ThumbnailImage":"/pokedex-server/images/9.png","id":19,"type":["normal"]}
+{
+  "abilities": [
+    "Guts",
+    "Run Away"
+  ],
+  "detailPageURL": "/us/pokedex/rattata",
+  "weight": 7.7,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "019",
+  "height": 12,
+  "collectibles_slug": "rattata",
+  "featured": "true",
+  "slug": "rattata",
+  "name": "Rattata",
+  "ThumbnailAltText": "Rattata",
+  "ThumbnailImage": "/pokedex-server/images/19.png",
+  "id": 19,
+  "type": [
+    "normal"
+  ]
+}

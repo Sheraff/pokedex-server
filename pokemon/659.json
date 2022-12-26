@@ -1,1 +1,23 @@
-{"abilities":["Cheek Pouch","Pickup"],"detailPageURL":"/us/pokedex/bunnelby","weight":11,"weakness":["Fighting"],"number":"659","height":16,"collectibles_slug":"bunnelby","featured":"true","slug":"bunnelby","name":"Bunnelby","ThumbnailAltText":"Bunnelby","ThumbnailImage":"/pokedex-server/images/9.png","id":659,"type":["normal"]}
+{
+  "abilities": [
+    "Cheek Pouch",
+    "Pickup"
+  ],
+  "detailPageURL": "/us/pokedex/bunnelby",
+  "weight": 11,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "659",
+  "height": 16,
+  "collectibles_slug": "bunnelby",
+  "featured": "true",
+  "slug": "bunnelby",
+  "name": "Bunnelby",
+  "ThumbnailAltText": "Bunnelby",
+  "ThumbnailImage": "/pokedex-server/images/659.png",
+  "id": 659,
+  "type": [
+    "normal"
+  ]
+}

@@ -1,1 +1,26 @@
-{"abilities":["Keen Eye","Tangled Feet"],"detailPageURL":"/us/pokedex/pidgey","weight":4,"weakness":["Electric","Ice","Rock"],"number":"016","height":12,"collectibles_slug":"pidgey","featured":"true","slug":"pidgey","name":"Pidgey","ThumbnailAltText":"Pidgey","ThumbnailImage":"/pokedex-server/images/6.png","id":16,"type":["normal","flying"]}
+{
+  "abilities": [
+    "Keen Eye",
+    "Tangled Feet"
+  ],
+  "detailPageURL": "/us/pokedex/pidgey",
+  "weight": 4,
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "016",
+  "height": 12,
+  "collectibles_slug": "pidgey",
+  "featured": "true",
+  "slug": "pidgey",
+  "name": "Pidgey",
+  "ThumbnailAltText": "Pidgey",
+  "ThumbnailImage": "/pokedex-server/images/16.png",
+  "id": 16,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

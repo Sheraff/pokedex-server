@@ -1,1 +1,25 @@
-{"abilities":["Infiltrator","Keen Eye"],"detailPageURL":"/us/pokedex/meowstic","weight":18.7,"weakness":["Ghost","Dark","Bug"],"number":"678","height":24,"collectibles_slug":"meowstic","featured":"true","slug":"meowstic","name":"Meowstic","ThumbnailAltText":"Meowstic","ThumbnailImage":"/pokedex-server/images/8.png","id":678,"type":["psychic"]}
+{
+  "abilities": [
+    "Infiltrator",
+    "Keen Eye"
+  ],
+  "detailPageURL": "/us/pokedex/meowstic",
+  "weight": 18.7,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "number": "678",
+  "height": 24,
+  "collectibles_slug": "meowstic",
+  "featured": "true",
+  "slug": "meowstic",
+  "name": "Meowstic",
+  "ThumbnailAltText": "Meowstic",
+  "ThumbnailImage": "/pokedex-server/images/678.png",
+  "id": 678,
+  "type": [
+    "psychic"
+  ]
+}

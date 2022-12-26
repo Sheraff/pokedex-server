@@ -1,1 +1,22 @@
-{"abilities":["Transistor"],"detailPageURL":"/us/pokedex/regieleki","weight":319.7,"weakness":["Ground"],"number":"894","height":47,"collectibles_slug":"regieleki","featured":"true","slug":"regieleki","name":"Regieleki","ThumbnailAltText":"Regieleki","ThumbnailImage":"/pokedex-server/images/4.png","id":894,"type":["electric"]}
+{
+  "abilities": [
+    "Transistor"
+  ],
+  "detailPageURL": "/us/pokedex/regieleki",
+  "weight": 319.7,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "894",
+  "height": 47,
+  "collectibles_slug": "regieleki",
+  "featured": "true",
+  "slug": "regieleki",
+  "name": "Regieleki",
+  "ThumbnailAltText": "Regieleki",
+  "ThumbnailImage": "/pokedex-server/images/894.png",
+  "id": 894,
+  "type": [
+    "electric"
+  ]
+}

@@ -1,1 +1,28 @@
-{"abilities":["Compound Eyes","Speed Boost"],"detailPageURL":"/us/pokedex/yanma","weight":83.8,"weakness":["Fire","Flying","Electric","Ice","Rock"],"number":"193","height":47,"collectibles_slug":"yanma","featured":"true","slug":"yanma","name":"Yanma","ThumbnailAltText":"Yanma","ThumbnailImage":"/pokedex-server/images/3.png","id":193,"type":["bug","flying"]}
+{
+  "abilities": [
+    "Compound Eyes",
+    "Speed Boost"
+  ],
+  "detailPageURL": "/us/pokedex/yanma",
+  "weight": 83.8,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "193",
+  "height": 47,
+  "collectibles_slug": "yanma",
+  "featured": "true",
+  "slug": "yanma",
+  "name": "Yanma",
+  "ThumbnailAltText": "Yanma",
+  "ThumbnailImage": "/pokedex-server/images/193.png",
+  "id": 193,
+  "type": [
+    "bug",
+    "flying"
+  ]
+}

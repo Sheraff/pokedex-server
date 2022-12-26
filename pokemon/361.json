@@ -1,1 +1,26 @@
-{"abilities":["Ice Body","Inner Focus"],"detailPageURL":"/us/pokedex/snorunt","weight":37,"weakness":["Fire","Steel","Fighting","Rock"],"number":"361","height":28,"collectibles_slug":"snorunt","featured":"true","slug":"snorunt","name":"Snorunt","ThumbnailAltText":"Snorunt","ThumbnailImage":"/pokedex-server/images/1.png","id":361,"type":["ice"]}
+{
+  "abilities": [
+    "Ice Body",
+    "Inner Focus"
+  ],
+  "detailPageURL": "/us/pokedex/snorunt",
+  "weight": 37,
+  "weakness": [
+    "Fire",
+    "Steel",
+    "Fighting",
+    "Rock"
+  ],
+  "number": "361",
+  "height": 28,
+  "collectibles_slug": "snorunt",
+  "featured": "true",
+  "slug": "snorunt",
+  "name": "Snorunt",
+  "ThumbnailAltText": "Snorunt",
+  "ThumbnailImage": "/pokedex-server/images/361.png",
+  "id": 361,
+  "type": [
+    "ice"
+  ]
+}

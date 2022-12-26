@@ -1,1 +1,23 @@
-{"abilities":["Gluttony","Pickup"],"detailPageURL":"/us/pokedex/linoone","weight":71.7,"weakness":["Fighting"],"number":"264","height":20,"collectibles_slug":"linoone","featured":"true","slug":"linoone","name":"Linoone","ThumbnailAltText":"Linoone","ThumbnailImage":"/pokedex-server/images/4.png","id":264,"type":["normal"]}
+{
+  "abilities": [
+    "Gluttony",
+    "Pickup"
+  ],
+  "detailPageURL": "/us/pokedex/linoone",
+  "weight": 71.7,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "264",
+  "height": 20,
+  "collectibles_slug": "linoone",
+  "featured": "true",
+  "slug": "linoone",
+  "name": "Linoone",
+  "ThumbnailAltText": "Linoone",
+  "ThumbnailImage": "/pokedex-server/images/264.png",
+  "id": 264,
+  "type": [
+    "normal"
+  ]
+}

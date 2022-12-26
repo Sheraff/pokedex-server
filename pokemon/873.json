@@ -1,1 +1,26 @@
-{"abilities":["Shield Dust"],"detailPageURL":"/us/pokedex/frosmoth","weight":92.6,"weakness":["Fire","Steel","Flying","Rock"],"number":"873","height":51,"collectibles_slug":"frosmoth","featured":"true","slug":"frosmoth","name":"Frosmoth","ThumbnailAltText":"Frosmoth","ThumbnailImage":"/pokedex-server/images/3.png","id":873,"type":["ice","bug"]}
+{
+  "abilities": [
+    "Shield Dust"
+  ],
+  "detailPageURL": "/us/pokedex/frosmoth",
+  "weight": 92.6,
+  "weakness": [
+    "Fire",
+    "Steel",
+    "Flying",
+    "Rock"
+  ],
+  "number": "873",
+  "height": 51,
+  "collectibles_slug": "frosmoth",
+  "featured": "true",
+  "slug": "frosmoth",
+  "name": "Frosmoth",
+  "ThumbnailAltText": "Frosmoth",
+  "ThumbnailImage": "/pokedex-server/images/873.png",
+  "id": 873,
+  "type": [
+    "ice",
+    "bug"
+  ]
+}

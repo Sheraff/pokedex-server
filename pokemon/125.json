@@ -1,1 +1,22 @@
-{"abilities":["Static"],"detailPageURL":"/us/pokedex/electabuzz","weight":66.1,"weakness":["Ground"],"number":"125","height":43,"collectibles_slug":"electabuzz","featured":"true","slug":"electabuzz","name":"Electabuzz","ThumbnailAltText":"Electabuzz","ThumbnailImage":"/pokedex-server/images/5.png","id":125,"type":["electric"]}
+{
+  "abilities": [
+    "Static"
+  ],
+  "detailPageURL": "/us/pokedex/electabuzz",
+  "weight": 66.1,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "125",
+  "height": 43,
+  "collectibles_slug": "electabuzz",
+  "featured": "true",
+  "slug": "electabuzz",
+  "name": "Electabuzz",
+  "ThumbnailAltText": "Electabuzz",
+  "ThumbnailImage": "/pokedex-server/images/125.png",
+  "id": 125,
+  "type": [
+    "electric"
+  ]
+}

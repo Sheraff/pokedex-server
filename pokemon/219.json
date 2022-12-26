@@ -1,1 +1,27 @@
-{"abilities":["Flame Body","Magma Armor"],"detailPageURL":"/us/pokedex/magcargo","weight":121.3,"weakness":["Water","Ground","Fighting","Rock"],"number":"219","height":31,"collectibles_slug":"magcargo","featured":"true","slug":"magcargo","name":"Magcargo","ThumbnailAltText":"Magcargo","ThumbnailImage":"/pokedex-server/images/9.png","id":219,"type":["fire","rock"]}
+{
+  "abilities": [
+    "Flame Body",
+    "Magma Armor"
+  ],
+  "detailPageURL": "/us/pokedex/magcargo",
+  "weight": 121.3,
+  "weakness": [
+    "Water",
+    "Ground",
+    "Fighting",
+    "Rock"
+  ],
+  "number": "219",
+  "height": 31,
+  "collectibles_slug": "magcargo",
+  "featured": "true",
+  "slug": "magcargo",
+  "name": "Magcargo",
+  "ThumbnailAltText": "Magcargo",
+  "ThumbnailImage": "/pokedex-server/images/219.png",
+  "id": 219,
+  "type": [
+    "fire",
+    "rock"
+  ]
+}

@@ -1,1 +1,24 @@
-{"abilities":["Steadfast"],"detailPageURL":"/us/pokedex/sirfetchd","weight":257.9,"weakness":["Psychic","Flying","Fairy"],"number":"865","height":31,"collectibles_slug":"sirfetchd","featured":"true","slug":"sirfetchd","name":"Sirfetch’d","ThumbnailAltText":"Sirfetch’d","ThumbnailImage":"/pokedex-server/images/5.png","id":865,"type":["fighting"]}
+{
+  "abilities": [
+    "Steadfast"
+  ],
+  "detailPageURL": "/us/pokedex/sirfetchd",
+  "weight": 257.9,
+  "weakness": [
+    "Psychic",
+    "Flying",
+    "Fairy"
+  ],
+  "number": "865",
+  "height": 31,
+  "collectibles_slug": "sirfetchd",
+  "featured": "true",
+  "slug": "sirfetchd",
+  "name": "Sirfetch’d",
+  "ThumbnailAltText": "Sirfetch’d",
+  "ThumbnailImage": "/pokedex-server/images/865.png",
+  "id": 865,
+  "type": [
+    "fighting"
+  ]
+}

@@ -1,1 +1,25 @@
-{"abilities":["Dry Skin","Sand Veil"],"detailPageURL":"/us/pokedex/heliolisk","weight":46.3,"weakness":["Fighting","Ground"],"number":"695","height":39,"collectibles_slug":"heliolisk","featured":"true","slug":"heliolisk","name":"Heliolisk","ThumbnailAltText":"Heliolisk","ThumbnailImage":"/pokedex-server/images/5.png","id":695,"type":["electric","normal"]}
+{
+  "abilities": [
+    "Dry Skin",
+    "Sand Veil"
+  ],
+  "detailPageURL": "/us/pokedex/heliolisk",
+  "weight": 46.3,
+  "weakness": [
+    "Fighting",
+    "Ground"
+  ],
+  "number": "695",
+  "height": 39,
+  "collectibles_slug": "heliolisk",
+  "featured": "true",
+  "slug": "heliolisk",
+  "name": "Heliolisk",
+  "ThumbnailAltText": "Heliolisk",
+  "ThumbnailImage": "/pokedex-server/images/695.png",
+  "id": 695,
+  "type": [
+    "electric",
+    "normal"
+  ]
+}

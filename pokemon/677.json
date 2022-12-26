@@ -1,1 +1,25 @@
-{"abilities":["Infiltrator","Keen Eye"],"detailPageURL":"/us/pokedex/espurr","weight":7.7,"weakness":["Ghost","Dark","Bug"],"number":"677","height":12,"collectibles_slug":"espurr","featured":"true","slug":"espurr","name":"Espurr","ThumbnailAltText":"Espurr","ThumbnailImage":"/pokedex-server/images/7.png","id":677,"type":["psychic"]}
+{
+  "abilities": [
+    "Infiltrator",
+    "Keen Eye"
+  ],
+  "detailPageURL": "/us/pokedex/espurr",
+  "weight": 7.7,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "number": "677",
+  "height": 12,
+  "collectibles_slug": "espurr",
+  "featured": "true",
+  "slug": "espurr",
+  "name": "Espurr",
+  "ThumbnailAltText": "Espurr",
+  "ThumbnailImage": "/pokedex-server/images/677.png",
+  "id": 677,
+  "type": [
+    "psychic"
+  ]
+}

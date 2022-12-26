@@ -1,1 +1,26 @@
-{"abilities":["Compound Eyes"],"detailPageURL":"/us/pokedex/nincada","weight":12.1,"weakness":["Fire","Water","Flying","Ice"],"number":"290","height":20,"collectibles_slug":"nincada","featured":"true","slug":"nincada","name":"Nincada","ThumbnailAltText":"Nincada","ThumbnailImage":"/pokedex-server/images/0.png","id":290,"type":["bug","ground"]}
+{
+  "abilities": [
+    "Compound Eyes"
+  ],
+  "detailPageURL": "/us/pokedex/nincada",
+  "weight": 12.1,
+  "weakness": [
+    "Fire",
+    "Water",
+    "Flying",
+    "Ice"
+  ],
+  "number": "290",
+  "height": 20,
+  "collectibles_slug": "nincada",
+  "featured": "true",
+  "slug": "nincada",
+  "name": "Nincada",
+  "ThumbnailAltText": "Nincada",
+  "ThumbnailImage": "/pokedex-server/images/290.png",
+  "id": 290,
+  "type": [
+    "bug",
+    "ground"
+  ]
+}

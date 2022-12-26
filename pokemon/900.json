@@ -1,1 +1,23 @@
-{"abilities":[],"detailPageURL":"/us/pokedex/kleavor","weight":196.2,"weakness":["Steel","Water","Rock"],"number":"900","height":71,"collectibles_slug":"kleavor","featured":"true","slug":"kleavor","name":"Kleavor","ThumbnailAltText":"Kleavor","ThumbnailImage":"/pokedex-server/images/0.png","id":900,"type":["bug","rock"]}
+{
+  "abilities": [],
+  "detailPageURL": "/us/pokedex/kleavor",
+  "weight": 196.2,
+  "weakness": [
+    "Steel",
+    "Water",
+    "Rock"
+  ],
+  "number": "900",
+  "height": 71,
+  "collectibles_slug": "kleavor",
+  "featured": "true",
+  "slug": "kleavor",
+  "name": "Kleavor",
+  "ThumbnailAltText": "Kleavor",
+  "ThumbnailImage": "/pokedex-server/images/900.png",
+  "id": 900,
+  "type": [
+    "bug",
+    "rock"
+  ]
+}

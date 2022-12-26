@@ -1,1 +1,24 @@
-{"abilities":[],"detailPageURL":"/us/pokedex/ursaluna","weight":639.3,"weakness":["Water","Grass","Ice","Fighting"],"number":"901","height":94,"collectibles_slug":"ursaluna","featured":"true","slug":"ursaluna","name":"Ursaluna","ThumbnailAltText":"Ursaluna","ThumbnailImage":"/pokedex-server/images/1.png","id":901,"type":["ground","normal"]}
+{
+  "abilities": [],
+  "detailPageURL": "/us/pokedex/ursaluna",
+  "weight": 639.3,
+  "weakness": [
+    "Water",
+    "Grass",
+    "Ice",
+    "Fighting"
+  ],
+  "number": "901",
+  "height": 94,
+  "collectibles_slug": "ursaluna",
+  "featured": "true",
+  "slug": "ursaluna",
+  "name": "Ursaluna",
+  "ThumbnailAltText": "Ursaluna",
+  "ThumbnailImage": "/pokedex-server/images/901.png",
+  "id": 901,
+  "type": [
+    "ground",
+    "normal"
+  ]
+}

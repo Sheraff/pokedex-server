@@ -1,1 +1,23 @@
-{"abilities":["Simple","Unaware"],"detailPageURL":"/us/pokedex/bidoof","weight":44.1,"weakness":["Fighting"],"number":"399","height":20,"collectibles_slug":"bidoof","featured":"true","slug":"bidoof","name":"Bidoof","ThumbnailAltText":"Bidoof","ThumbnailImage":"/pokedex-server/images/9.png","id":399,"type":["normal"]}
+{
+  "abilities": [
+    "Simple",
+    "Unaware"
+  ],
+  "detailPageURL": "/us/pokedex/bidoof",
+  "weight": 44.1,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "399",
+  "height": 20,
+  "collectibles_slug": "bidoof",
+  "featured": "true",
+  "slug": "bidoof",
+  "name": "Bidoof",
+  "ThumbnailAltText": "Bidoof",
+  "ThumbnailImage": "/pokedex-server/images/399.png",
+  "id": 399,
+  "type": [
+    "normal"
+  ]
+}

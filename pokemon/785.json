@@ -1,1 +1,24 @@
-{"abilities":["Electric Surge"],"detailPageURL":"/us/pokedex/tapu-koko","weight":45.2,"weakness":["Poison","Ground"],"number":"785","height":71,"collectibles_slug":"tapu-koko","featured":"true","slug":"tapu-koko","name":"Tapu Koko","ThumbnailAltText":"Tapu Koko","ThumbnailImage":"/pokedex-server/images/5.png","id":785,"type":["electric","fairy"]}
+{
+  "abilities": [
+    "Electric Surge"
+  ],
+  "detailPageURL": "/us/pokedex/tapu-koko",
+  "weight": 45.2,
+  "weakness": [
+    "Poison",
+    "Ground"
+  ],
+  "number": "785",
+  "height": 71,
+  "collectibles_slug": "tapu-koko",
+  "featured": "true",
+  "slug": "tapu-koko",
+  "name": "Tapu Koko",
+  "ThumbnailAltText": "Tapu Koko",
+  "ThumbnailImage": "/pokedex-server/images/785.png",
+  "id": 785,
+  "type": [
+    "electric",
+    "fairy"
+  ]
+}

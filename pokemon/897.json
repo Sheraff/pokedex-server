@@ -1,1 +1,23 @@
-{"abilities":["Grim Neigh"],"detailPageURL":"/us/pokedex/spectrier","weight":98.1,"weakness":["Ghost","Dark"],"number":"897","height":79,"collectibles_slug":"spectrier","featured":"true","slug":"spectrier","name":"Spectrier","ThumbnailAltText":"Spectrier","ThumbnailImage":"/pokedex-server/images/7.png","id":897,"type":["ghost"]}
+{
+  "abilities": [
+    "Grim Neigh"
+  ],
+  "detailPageURL": "/us/pokedex/spectrier",
+  "weight": 98.1,
+  "weakness": [
+    "Ghost",
+    "Dark"
+  ],
+  "number": "897",
+  "height": 79,
+  "collectibles_slug": "spectrier",
+  "featured": "true",
+  "slug": "spectrier",
+  "name": "Spectrier",
+  "ThumbnailAltText": "Spectrier",
+  "ThumbnailImage": "/pokedex-server/images/897.png",
+  "id": 897,
+  "type": [
+    "ghost"
+  ]
+}

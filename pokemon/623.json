@@ -1,1 +1,28 @@
-{"abilities":["Iron Fist","Klutz"],"detailPageURL":"/us/pokedex/golurk","weight":727.5,"weakness":["Water","Ghost","Grass","Dark","Ice"],"number":"623","height":110,"collectibles_slug":"golurk","featured":"true","slug":"golurk","name":"Golurk","ThumbnailAltText":"Golurk","ThumbnailImage":"/pokedex-server/images/3.png","id":623,"type":["ground","ghost"]}
+{
+  "abilities": [
+    "Iron Fist",
+    "Klutz"
+  ],
+  "detailPageURL": "/us/pokedex/golurk",
+  "weight": 727.5,
+  "weakness": [
+    "Water",
+    "Ghost",
+    "Grass",
+    "Dark",
+    "Ice"
+  ],
+  "number": "623",
+  "height": 110,
+  "collectibles_slug": "golurk",
+  "featured": "true",
+  "slug": "golurk",
+  "name": "Golurk",
+  "ThumbnailAltText": "Golurk",
+  "ThumbnailImage": "/pokedex-server/images/623.png",
+  "id": 623,
+  "type": [
+    "ground",
+    "ghost"
+  ]
+}

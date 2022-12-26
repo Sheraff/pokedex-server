@@ -1,1 +1,26 @@
-{"abilities":["Frisk","Prankster"],"detailPageURL":"/us/pokedex/impidimp","weight":12.1,"weakness":["Steel","Fairy","Poison"],"number":"859","height":16,"collectibles_slug":"impidimp","featured":"true","slug":"impidimp","name":"Impidimp","ThumbnailAltText":"Impidimp","ThumbnailImage":"/pokedex-server/images/9.png","id":859,"type":["dark","fairy"]}
+{
+  "abilities": [
+    "Frisk",
+    "Prankster"
+  ],
+  "detailPageURL": "/us/pokedex/impidimp",
+  "weight": 12.1,
+  "weakness": [
+    "Steel",
+    "Fairy",
+    "Poison"
+  ],
+  "number": "859",
+  "height": 16,
+  "collectibles_slug": "impidimp",
+  "featured": "true",
+  "slug": "impidimp",
+  "name": "Impidimp",
+  "ThumbnailAltText": "Impidimp",
+  "ThumbnailImage": "/pokedex-server/images/859.png",
+  "id": 859,
+  "type": [
+    "dark",
+    "fairy"
+  ]
+}

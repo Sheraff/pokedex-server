@@ -1,1 +1,24 @@
-{"abilities":["Storm Drain","Swift Swim"],"detailPageURL":"/us/pokedex/finneon","weight":15.4,"weakness":["Grass","Electric"],"number":"456","height":16,"collectibles_slug":"finneon","featured":"true","slug":"finneon","name":"Finneon","ThumbnailAltText":"Finneon","ThumbnailImage":"/pokedex-server/images/6.png","id":456,"type":["water"]}
+{
+  "abilities": [
+    "Storm Drain",
+    "Swift Swim"
+  ],
+  "detailPageURL": "/us/pokedex/finneon",
+  "weight": 15.4,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "456",
+  "height": 16,
+  "collectibles_slug": "finneon",
+  "featured": "true",
+  "slug": "finneon",
+  "name": "Finneon",
+  "ThumbnailAltText": "Finneon",
+  "ThumbnailImage": "/pokedex-server/images/456.png",
+  "id": 456,
+  "type": [
+    "water"
+  ]
+}

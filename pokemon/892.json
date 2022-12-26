@@ -1,1 +1,25 @@
-{"abilities":["Unseen Fist"],"detailPageURL":"/us/pokedex/urshifu","weight":231.5,"weakness":["Fairy","Flying","Fighting"],"number":"892","height":75,"collectibles_slug":"urshifu","featured":"true","slug":"urshifu","name":"Urshifu","ThumbnailAltText":"Urshifu","ThumbnailImage":"/pokedex-server/images/2.png","id":892,"type":["fighting","dark"]}
+{
+  "abilities": [
+    "Unseen Fist"
+  ],
+  "detailPageURL": "/us/pokedex/urshifu",
+  "weight": 231.5,
+  "weakness": [
+    "Fairy",
+    "Flying",
+    "Fighting"
+  ],
+  "number": "892",
+  "height": 75,
+  "collectibles_slug": "urshifu",
+  "featured": "true",
+  "slug": "urshifu",
+  "name": "Urshifu",
+  "ThumbnailAltText": "Urshifu",
+  "ThumbnailImage": "/pokedex-server/images/892.png",
+  "id": 892,
+  "type": [
+    "fighting",
+    "dark"
+  ]
+}

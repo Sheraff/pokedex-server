@@ -1,1 +1,25 @@
-{"abilities":["Dancer"],"detailPageURL":"/us/pokedex/oricorio","weight":7.5,"weakness":["Water","Electric","Rock"],"number":"741","height":24,"collectibles_slug":"oricorio","featured":"true","slug":"oricorio","name":"Oricorio","ThumbnailAltText":"Oricorio","ThumbnailImage":"/pokedex-server/images/1.png","id":741,"type":["fire","flying"]}
+{
+  "abilities": [
+    "Dancer"
+  ],
+  "detailPageURL": "/us/pokedex/oricorio",
+  "weight": 7.5,
+  "weakness": [
+    "Water",
+    "Electric",
+    "Rock"
+  ],
+  "number": "741",
+  "height": 24,
+  "collectibles_slug": "oricorio",
+  "featured": "true",
+  "slug": "oricorio",
+  "name": "Oricorio",
+  "ThumbnailAltText": "Oricorio",
+  "ThumbnailImage": "/pokedex-server/images/741.png",
+  "id": 741,
+  "type": [
+    "fire",
+    "flying"
+  ]
+}

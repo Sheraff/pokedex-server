@@ -1,1 +1,25 @@
-{"abilities":["Forewarn","Synchronize"],"detailPageURL":"/us/pokedex/musharna","weight":133.4,"weakness":["Ghost","Dark","Bug"],"number":"518","height":43,"collectibles_slug":"musharna","featured":"true","slug":"musharna","name":"Musharna","ThumbnailAltText":"Musharna","ThumbnailImage":"/pokedex-server/images/8.png","id":518,"type":["psychic"]}
+{
+  "abilities": [
+    "Forewarn",
+    "Synchronize"
+  ],
+  "detailPageURL": "/us/pokedex/musharna",
+  "weight": 133.4,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "number": "518",
+  "height": 43,
+  "collectibles_slug": "musharna",
+  "featured": "true",
+  "slug": "musharna",
+  "name": "Musharna",
+  "ThumbnailAltText": "Musharna",
+  "ThumbnailImage": "/pokedex-server/images/518.png",
+  "id": 518,
+  "type": [
+    "psychic"
+  ]
+}

@@ -1,1 +1,25 @@
-{"abilities":["Water Bubble"],"detailPageURL":"/us/pokedex/araquanid","weight":180.8,"weakness":["Flying","Electric","Rock"],"number":"752","height":71,"collectibles_slug":"araquanid","featured":"true","slug":"araquanid","name":"Araquanid","ThumbnailAltText":"Araquanid","ThumbnailImage":"/pokedex-server/images/2.png","id":752,"type":["water","bug"]}
+{
+  "abilities": [
+    "Water Bubble"
+  ],
+  "detailPageURL": "/us/pokedex/araquanid",
+  "weight": 180.8,
+  "weakness": [
+    "Flying",
+    "Electric",
+    "Rock"
+  ],
+  "number": "752",
+  "height": 71,
+  "collectibles_slug": "araquanid",
+  "featured": "true",
+  "slug": "araquanid",
+  "name": "Araquanid",
+  "ThumbnailAltText": "Araquanid",
+  "ThumbnailImage": "/pokedex-server/images/752.png",
+  "id": 752,
+  "type": [
+    "water",
+    "bug"
+  ]
+}

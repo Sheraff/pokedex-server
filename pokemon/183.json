@@ -1,1 +1,26 @@
-{"abilities":["Huge Power","Thick Fat"],"detailPageURL":"/us/pokedex/marill","weight":18.7,"weakness":["Grass","Electric","Poison"],"number":"183","height":16,"collectibles_slug":"marill","featured":"true","slug":"marill","name":"Marill","ThumbnailAltText":"Marill","ThumbnailImage":"/pokedex-server/images/3.png","id":183,"type":["water","fairy"]}
+{
+  "abilities": [
+    "Huge Power",
+    "Thick Fat"
+  ],
+  "detailPageURL": "/us/pokedex/marill",
+  "weight": 18.7,
+  "weakness": [
+    "Grass",
+    "Electric",
+    "Poison"
+  ],
+  "number": "183",
+  "height": 16,
+  "collectibles_slug": "marill",
+  "featured": "true",
+  "slug": "marill",
+  "name": "Marill",
+  "ThumbnailAltText": "Marill",
+  "ThumbnailImage": "/pokedex-server/images/183.png",
+  "id": 183,
+  "type": [
+    "water",
+    "fairy"
+  ]
+}

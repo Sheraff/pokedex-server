@@ -1,1 +1,25 @@
-{"abilities":["Anger Point","Vital Spirit"],"detailPageURL":"/us/pokedex/primeape","weight":70.5,"weakness":["Psychic","Flying","Fairy"],"number":"057","height":39,"collectibles_slug":"primeape","featured":"true","slug":"primeape","name":"Primeape","ThumbnailAltText":"Primeape","ThumbnailImage":"/pokedex-server/images/7.png","id":57,"type":["fighting"]}
+{
+  "abilities": [
+    "Anger Point",
+    "Vital Spirit"
+  ],
+  "detailPageURL": "/us/pokedex/primeape",
+  "weight": 70.5,
+  "weakness": [
+    "Psychic",
+    "Flying",
+    "Fairy"
+  ],
+  "number": "057",
+  "height": 39,
+  "collectibles_slug": "primeape",
+  "featured": "true",
+  "slug": "primeape",
+  "name": "Primeape",
+  "ThumbnailAltText": "Primeape",
+  "ThumbnailImage": "/pokedex-server/images/57.png",
+  "id": 57,
+  "type": [
+    "fighting"
+  ]
+}

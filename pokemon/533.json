@@ -1,1 +1,25 @@
-{"abilities":["Guts","Sheer Force"],"detailPageURL":"/us/pokedex/gurdurr","weight":88.2,"weakness":["Psychic","Flying","Fairy"],"number":"533","height":47,"collectibles_slug":"gurdurr","featured":"true","slug":"gurdurr","name":"Gurdurr","ThumbnailAltText":"Gurdurr","ThumbnailImage":"/pokedex-server/images/3.png","id":533,"type":["fighting"]}
+{
+  "abilities": [
+    "Guts",
+    "Sheer Force"
+  ],
+  "detailPageURL": "/us/pokedex/gurdurr",
+  "weight": 88.2,
+  "weakness": [
+    "Psychic",
+    "Flying",
+    "Fairy"
+  ],
+  "number": "533",
+  "height": 47,
+  "collectibles_slug": "gurdurr",
+  "featured": "true",
+  "slug": "gurdurr",
+  "name": "Gurdurr",
+  "ThumbnailAltText": "Gurdurr",
+  "ThumbnailImage": "/pokedex-server/images/533.png",
+  "id": 533,
+  "type": [
+    "fighting"
+  ]
+}

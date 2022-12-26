@@ -1,1 +1,23 @@
-{"abilities":["Klutz","Run Away"],"detailPageURL":"/us/pokedex/buneary","weight":12.1,"weakness":["Fighting"],"number":"427","height":16,"collectibles_slug":"buneary","featured":"true","slug":"buneary","name":"Buneary","ThumbnailAltText":"Buneary","ThumbnailImage":"/pokedex-server/images/7.png","id":427,"type":["normal"]}
+{
+  "abilities": [
+    "Klutz",
+    "Run Away"
+  ],
+  "detailPageURL": "/us/pokedex/buneary",
+  "weight": 12.1,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "427",
+  "height": 16,
+  "collectibles_slug": "buneary",
+  "featured": "true",
+  "slug": "buneary",
+  "name": "Buneary",
+  "ThumbnailAltText": "Buneary",
+  "ThumbnailImage": "/pokedex-server/images/427.png",
+  "id": 427,
+  "type": [
+    "normal"
+  ]
+}

@@ -1,1 +1,24 @@
-{"abilities":["Levitate","Neutralizing Gas"],"detailPageURL":"/us/pokedex/koffing","weight":2.2,"weakness":["Psychic","Ground"],"number":"109","height":24,"collectibles_slug":"koffing","featured":"true","slug":"koffing","name":"Koffing","ThumbnailAltText":"Koffing","ThumbnailImage":"/pokedex-server/images/9.png","id":109,"type":["poison"]}
+{
+  "abilities": [
+    "Levitate",
+    "Neutralizing Gas"
+  ],
+  "detailPageURL": "/us/pokedex/koffing",
+  "weight": 2.2,
+  "weakness": [
+    "Psychic",
+    "Ground"
+  ],
+  "number": "109",
+  "height": 24,
+  "collectibles_slug": "koffing",
+  "featured": "true",
+  "slug": "koffing",
+  "name": "Koffing",
+  "ThumbnailAltText": "Koffing",
+  "ThumbnailImage": "/pokedex-server/images/109.png",
+  "id": 109,
+  "type": [
+    "poison"
+  ]
+}

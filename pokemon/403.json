@@ -1,1 +1,23 @@
-{"abilities":["Intimidate","Rivalry"],"detailPageURL":"/us/pokedex/shinx","weight":20.9,"weakness":["Ground"],"number":"403","height":20,"collectibles_slug":"shinx","featured":"true","slug":"shinx","name":"Shinx","ThumbnailAltText":"Shinx","ThumbnailImage":"/pokedex-server/images/3.png","id":403,"type":["electric"]}
+{
+  "abilities": [
+    "Intimidate",
+    "Rivalry"
+  ],
+  "detailPageURL": "/us/pokedex/shinx",
+  "weight": 20.9,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "403",
+  "height": 20,
+  "collectibles_slug": "shinx",
+  "featured": "true",
+  "slug": "shinx",
+  "name": "Shinx",
+  "ThumbnailAltText": "Shinx",
+  "ThumbnailImage": "/pokedex-server/images/403.png",
+  "id": 403,
+  "type": [
+    "electric"
+  ]
+}

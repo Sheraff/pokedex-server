@@ -1,1 +1,25 @@
-{"abilities":["Huge Power","Thick Fat"],"detailPageURL":"/us/pokedex/azurill","weight":4.4,"weakness":["Steel","Poison"],"number":"298","height":8,"collectibles_slug":"azurill","featured":"true","slug":"azurill","name":"Azurill","ThumbnailAltText":"Azurill","ThumbnailImage":"/pokedex-server/images/8.png","id":298,"type":["normal","fairy"]}
+{
+  "abilities": [
+    "Huge Power",
+    "Thick Fat"
+  ],
+  "detailPageURL": "/us/pokedex/azurill",
+  "weight": 4.4,
+  "weakness": [
+    "Steel",
+    "Poison"
+  ],
+  "number": "298",
+  "height": 8,
+  "collectibles_slug": "azurill",
+  "featured": "true",
+  "slug": "azurill",
+  "name": "Azurill",
+  "ThumbnailAltText": "Azurill",
+  "ThumbnailImage": "/pokedex-server/images/298.png",
+  "id": 298,
+  "type": [
+    "normal",
+    "fairy"
+  ]
+}

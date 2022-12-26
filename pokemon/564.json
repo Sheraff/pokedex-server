@@ -1,1 +1,27 @@
-{"abilities":["Solid Rock","Sturdy"],"detailPageURL":"/us/pokedex/tirtouga","weight":36.4,"weakness":["Grass","Electric","Fighting","Ground"],"number":"564","height":28,"collectibles_slug":"tirtouga","featured":"true","slug":"tirtouga","name":"Tirtouga","ThumbnailAltText":"Tirtouga","ThumbnailImage":"/pokedex-server/images/4.png","id":564,"type":["water","rock"]}
+{
+  "abilities": [
+    "Solid Rock",
+    "Sturdy"
+  ],
+  "detailPageURL": "/us/pokedex/tirtouga",
+  "weight": 36.4,
+  "weakness": [
+    "Grass",
+    "Electric",
+    "Fighting",
+    "Ground"
+  ],
+  "number": "564",
+  "height": 28,
+  "collectibles_slug": "tirtouga",
+  "featured": "true",
+  "slug": "tirtouga",
+  "name": "Tirtouga",
+  "ThumbnailAltText": "Tirtouga",
+  "ThumbnailImage": "/pokedex-server/images/564.png",
+  "id": 564,
+  "type": [
+    "water",
+    "rock"
+  ]
+}

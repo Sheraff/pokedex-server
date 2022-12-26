@@ -1,1 +1,26 @@
-{"abilities":["Overgrow"],"detailPageURL":"/us/pokedex/venusaur","weight":220.5,"weakness":["Fire","Psychic","Flying","Ice"],"number":"003","height":79,"collectibles_slug":"venusaur","featured":"true","slug":"venusaur","name":"Venusaur","ThumbnailAltText":"Venusaur","ThumbnailImage":"/pokedex-server/images/3.png","id":3,"type":["grass","poison"]}
+{
+  "abilities": [
+    "Overgrow"
+  ],
+  "detailPageURL": "/us/pokedex/venusaur",
+  "weight": 220.5,
+  "weakness": [
+    "Fire",
+    "Psychic",
+    "Flying",
+    "Ice"
+  ],
+  "number": "003",
+  "height": 79,
+  "collectibles_slug": "venusaur",
+  "featured": "true",
+  "slug": "venusaur",
+  "name": "Venusaur",
+  "ThumbnailAltText": "Venusaur",
+  "ThumbnailImage": "/pokedex-server/images/3.png",
+  "id": 3,
+  "type": [
+    "grass",
+    "poison"
+  ]
+}

@@ -1,1 +1,23 @@
-{"abilities":["Torrent"],"detailPageURL":"/us/pokedex/prinplup","weight":50.7,"weakness":["Grass","Electric"],"number":"394","height":31,"collectibles_slug":"prinplup","featured":"true","slug":"prinplup","name":"Prinplup","ThumbnailAltText":"Prinplup","ThumbnailImage":"/pokedex-server/images/4.png","id":394,"type":["water"]}
+{
+  "abilities": [
+    "Torrent"
+  ],
+  "detailPageURL": "/us/pokedex/prinplup",
+  "weight": 50.7,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "394",
+  "height": 31,
+  "collectibles_slug": "prinplup",
+  "featured": "true",
+  "slug": "prinplup",
+  "name": "Prinplup",
+  "ThumbnailAltText": "Prinplup",
+  "ThumbnailImage": "/pokedex-server/images/394.png",
+  "id": 394,
+  "type": [
+    "water"
+  ]
+}

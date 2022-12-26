@@ -1,1 +1,24 @@
-{"abilities":["Storm Drain","Swift Swim"],"detailPageURL":"/us/pokedex/lumineon","weight":52.9,"weakness":["Grass","Electric"],"number":"457","height":47,"collectibles_slug":"lumineon","featured":"true","slug":"lumineon","name":"Lumineon","ThumbnailAltText":"Lumineon","ThumbnailImage":"/pokedex-server/images/7.png","id":457,"type":["water"]}
+{
+  "abilities": [
+    "Storm Drain",
+    "Swift Swim"
+  ],
+  "detailPageURL": "/us/pokedex/lumineon",
+  "weight": 52.9,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "457",
+  "height": 47,
+  "collectibles_slug": "lumineon",
+  "featured": "true",
+  "slug": "lumineon",
+  "name": "Lumineon",
+  "ThumbnailAltText": "Lumineon",
+  "ThumbnailImage": "/pokedex-server/images/457.png",
+  "id": 457,
+  "type": [
+    "water"
+  ]
+}

@@ -1,1 +1,26 @@
-{"abilities":["Inner Focus","Keen Eye"],"detailPageURL":"/us/pokedex/farfetchd","weight":33.1,"weakness":["Electric","Ice","Rock"],"number":"083","height":31,"collectibles_slug":"farfetchd","featured":"true","slug":"farfetchd","name":"Farfetch’d","ThumbnailAltText":"Farfetch’d","ThumbnailImage":"/pokedex-server/images/3.png","id":83,"type":["normal","flying"]}
+{
+  "abilities": [
+    "Inner Focus",
+    "Keen Eye"
+  ],
+  "detailPageURL": "/us/pokedex/farfetchd",
+  "weight": 33.1,
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "083",
+  "height": 31,
+  "collectibles_slug": "farfetchd",
+  "featured": "true",
+  "slug": "farfetchd",
+  "name": "Farfetch’d",
+  "ThumbnailAltText": "Farfetch’d",
+  "ThumbnailImage": "/pokedex-server/images/83.png",
+  "id": 83,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

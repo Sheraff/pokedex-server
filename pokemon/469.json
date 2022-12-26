@@ -1,1 +1,28 @@
-{"abilities":["Speed Boost","Tinted Lens"],"detailPageURL":"/us/pokedex/yanmega","weight":113.5,"weakness":["Fire","Flying","Electric","Ice","Rock"],"number":"469","height":75,"collectibles_slug":"yanmega","featured":"true","slug":"yanmega","name":"Yanmega","ThumbnailAltText":"Yanmega","ThumbnailImage":"/pokedex-server/images/9.png","id":469,"type":["bug","flying"]}
+{
+  "abilities": [
+    "Speed Boost",
+    "Tinted Lens"
+  ],
+  "detailPageURL": "/us/pokedex/yanmega",
+  "weight": 113.5,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "469",
+  "height": 75,
+  "collectibles_slug": "yanmega",
+  "featured": "true",
+  "slug": "yanmega",
+  "name": "Yanmega",
+  "ThumbnailAltText": "Yanmega",
+  "ThumbnailImage": "/pokedex-server/images/469.png",
+  "id": 469,
+  "type": [
+    "bug",
+    "flying"
+  ]
+}

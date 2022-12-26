@@ -1,1 +1,23 @@
-{"abilities":["Own Tempo","Tangled Feet"],"detailPageURL":"/us/pokedex/spinda","weight":11,"weakness":["Fighting"],"number":"327","height":43,"collectibles_slug":"spinda","featured":"true","slug":"spinda","name":"Spinda","ThumbnailAltText":"Spinda","ThumbnailImage":"/pokedex-server/images/7.png","id":327,"type":["normal"]}
+{
+  "abilities": [
+    "Own Tempo",
+    "Tangled Feet"
+  ],
+  "detailPageURL": "/us/pokedex/spinda",
+  "weight": 11,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "327",
+  "height": 43,
+  "collectibles_slug": "spinda",
+  "featured": "true",
+  "slug": "spinda",
+  "name": "Spinda",
+  "ThumbnailAltText": "Spinda",
+  "ThumbnailImage": "/pokedex-server/images/327.png",
+  "id": 327,
+  "type": [
+    "normal"
+  ]
+}

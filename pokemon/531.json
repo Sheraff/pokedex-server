@@ -1,1 +1,23 @@
-{"abilities":["Healer","Regenerator"],"detailPageURL":"/us/pokedex/audino","weight":68.3,"weakness":["Fighting"],"number":"531","height":43,"collectibles_slug":"audino","featured":"true","slug":"audino","name":"Audino","ThumbnailAltText":"Audino","ThumbnailImage":"/pokedex-server/images/1.png","id":531,"type":["normal"]}
+{
+  "abilities": [
+    "Healer",
+    "Regenerator"
+  ],
+  "detailPageURL": "/us/pokedex/audino",
+  "weight": 68.3,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "531",
+  "height": 43,
+  "collectibles_slug": "audino",
+  "featured": "true",
+  "slug": "audino",
+  "name": "Audino",
+  "ThumbnailAltText": "Audino",
+  "ThumbnailImage": "/pokedex-server/images/531.png",
+  "id": 531,
+  "type": [
+    "normal"
+  ]
+}

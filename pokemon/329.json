@@ -1,1 +1,25 @@
-{"abilities":["Levitate"],"detailPageURL":"/us/pokedex/vibrava","weight":33.7,"weakness":["Fairy","Ice","Dragon"],"number":"329","height":43,"collectibles_slug":"vibrava","featured":"true","slug":"vibrava","name":"Vibrava","ThumbnailAltText":"Vibrava","ThumbnailImage":"/pokedex-server/images/9.png","id":329,"type":["ground","dragon"]}
+{
+  "abilities": [
+    "Levitate"
+  ],
+  "detailPageURL": "/us/pokedex/vibrava",
+  "weight": 33.7,
+  "weakness": [
+    "Fairy",
+    "Ice",
+    "Dragon"
+  ],
+  "number": "329",
+  "height": 43,
+  "collectibles_slug": "vibrava",
+  "featured": "true",
+  "slug": "vibrava",
+  "name": "Vibrava",
+  "ThumbnailAltText": "Vibrava",
+  "ThumbnailImage": "/pokedex-server/images/329.png",
+  "id": 329,
+  "type": [
+    "ground",
+    "dragon"
+  ]
+}

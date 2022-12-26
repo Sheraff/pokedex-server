@@ -1,1 +1,24 @@
-{"abilities":["Blaze"],"detailPageURL":"/us/pokedex/torracat","weight":55.1,"weakness":["Water","Ground","Rock"],"number":"726","height":28,"collectibles_slug":"torracat","featured":"true","slug":"torracat","name":"Torracat","ThumbnailAltText":"Torracat","ThumbnailImage":"/pokedex-server/images/6.png","id":726,"type":["fire"]}
+{
+  "abilities": [
+    "Blaze"
+  ],
+  "detailPageURL": "/us/pokedex/torracat",
+  "weight": 55.1,
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "number": "726",
+  "height": 28,
+  "collectibles_slug": "torracat",
+  "featured": "true",
+  "slug": "torracat",
+  "name": "Torracat",
+  "ThumbnailAltText": "Torracat",
+  "ThumbnailImage": "/pokedex-server/images/726.png",
+  "id": 726,
+  "type": [
+    "fire"
+  ]
+}

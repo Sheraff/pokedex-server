@@ -1,1 +1,24 @@
-{"abilities":["Pressure"],"detailPageURL":"/us/pokedex/mewtwo","weight":269,"weakness":["Ghost","Dark","Bug"],"number":"150","height":79,"collectibles_slug":"mewtwo","featured":"true","slug":"mewtwo","name":"Mewtwo","ThumbnailAltText":"Mewtwo","ThumbnailImage":"/pokedex-server/images/0.png","id":150,"type":["psychic"]}
+{
+  "abilities": [
+    "Pressure"
+  ],
+  "detailPageURL": "/us/pokedex/mewtwo",
+  "weight": 269,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "number": "150",
+  "height": 79,
+  "collectibles_slug": "mewtwo",
+  "featured": "true",
+  "slug": "mewtwo",
+  "name": "Mewtwo",
+  "ThumbnailAltText": "Mewtwo",
+  "ThumbnailImage": "/pokedex-server/images/150.png",
+  "id": 150,
+  "type": [
+    "psychic"
+  ]
+}

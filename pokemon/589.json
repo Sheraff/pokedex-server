@@ -1,1 +1,24 @@
-{"abilities":["Shell Armor","Swarm"],"detailPageURL":"/us/pokedex/escavalier","weight":72.8,"weakness":["Fire"],"number":"589","height":39,"collectibles_slug":"escavalier","featured":"true","slug":"escavalier","name":"Escavalier","ThumbnailAltText":"Escavalier","ThumbnailImage":"/pokedex-server/images/9.png","id":589,"type":["bug","steel"]}
+{
+  "abilities": [
+    "Shell Armor",
+    "Swarm"
+  ],
+  "detailPageURL": "/us/pokedex/escavalier",
+  "weight": 72.8,
+  "weakness": [
+    "Fire"
+  ],
+  "number": "589",
+  "height": 39,
+  "collectibles_slug": "escavalier",
+  "featured": "true",
+  "slug": "escavalier",
+  "name": "Escavalier",
+  "ThumbnailAltText": "Escavalier",
+  "ThumbnailImage": "/pokedex-server/images/589.png",
+  "id": 589,
+  "type": [
+    "bug",
+    "steel"
+  ]
+}

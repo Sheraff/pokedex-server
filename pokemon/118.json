@@ -1,1 +1,24 @@
-{"abilities":["Swift Swim","Water Veil"],"detailPageURL":"/us/pokedex/goldeen","weight":33.1,"weakness":["Grass","Electric"],"number":"118","height":24,"collectibles_slug":"goldeen","featured":"true","slug":"goldeen","name":"Goldeen","ThumbnailAltText":"Goldeen","ThumbnailImage":"/pokedex-server/images/8.png","id":118,"type":["water"]}
+{
+  "abilities": [
+    "Swift Swim",
+    "Water Veil"
+  ],
+  "detailPageURL": "/us/pokedex/goldeen",
+  "weight": 33.1,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "118",
+  "height": 24,
+  "collectibles_slug": "goldeen",
+  "featured": "true",
+  "slug": "goldeen",
+  "name": "Goldeen",
+  "ThumbnailAltText": "Goldeen",
+  "ThumbnailImage": "/pokedex-server/images/118.png",
+  "id": 118,
+  "type": [
+    "water"
+  ]
+}

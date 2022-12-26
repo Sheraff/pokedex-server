@@ -1,1 +1,25 @@
-{"abilities":["Forewarn","Insomnia"],"detailPageURL":"/us/pokedex/drowzee","weight":71.4,"weakness":["Ghost","Dark","Bug"],"number":"096","height":39,"collectibles_slug":"drowzee","featured":"true","slug":"drowzee","name":"Drowzee","ThumbnailAltText":"Drowzee","ThumbnailImage":"/pokedex-server/images/6.png","id":96,"type":["psychic"]}
+{
+  "abilities": [
+    "Forewarn",
+    "Insomnia"
+  ],
+  "detailPageURL": "/us/pokedex/drowzee",
+  "weight": 71.4,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "number": "096",
+  "height": 39,
+  "collectibles_slug": "drowzee",
+  "featured": "true",
+  "slug": "drowzee",
+  "name": "Drowzee",
+  "ThumbnailAltText": "Drowzee",
+  "ThumbnailImage": "/pokedex-server/images/96.png",
+  "id": 96,
+  "type": [
+    "psychic"
+  ]
+}

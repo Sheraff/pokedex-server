@@ -1,1 +1,25 @@
-{"abilities":["Rattled","Static"],"detailPageURL":"/us/pokedex/toxel","weight":24.3,"weakness":["Psychic","Ground"],"number":"848","height":16,"collectibles_slug":"toxel","featured":"true","slug":"toxel","name":"Toxel","ThumbnailAltText":"Toxel","ThumbnailImage":"/pokedex-server/images/8.png","id":848,"type":["electric","poison"]}
+{
+  "abilities": [
+    "Rattled",
+    "Static"
+  ],
+  "detailPageURL": "/us/pokedex/toxel",
+  "weight": 24.3,
+  "weakness": [
+    "Psychic",
+    "Ground"
+  ],
+  "number": "848",
+  "height": 16,
+  "collectibles_slug": "toxel",
+  "featured": "true",
+  "slug": "toxel",
+  "name": "Toxel",
+  "ThumbnailAltText": "Toxel",
+  "ThumbnailImage": "/pokedex-server/images/848.png",
+  "id": 848,
+  "type": [
+    "electric",
+    "poison"
+  ]
+}

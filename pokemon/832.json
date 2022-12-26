@@ -1,1 +1,23 @@
-{"abilities":["Fluffy","Steadfast"],"detailPageURL":"/us/pokedex/dubwool","weight":94.8,"weakness":["Fighting"],"number":"832","height":51,"collectibles_slug":"dubwool","featured":"true","slug":"dubwool","name":"Dubwool","ThumbnailAltText":"Dubwool","ThumbnailImage":"/pokedex-server/images/2.png","id":832,"type":["normal"]}
+{
+  "abilities": [
+    "Fluffy",
+    "Steadfast"
+  ],
+  "detailPageURL": "/us/pokedex/dubwool",
+  "weight": 94.8,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "832",
+  "height": 51,
+  "collectibles_slug": "dubwool",
+  "featured": "true",
+  "slug": "dubwool",
+  "name": "Dubwool",
+  "ThumbnailAltText": "Dubwool",
+  "ThumbnailImage": "/pokedex-server/images/832.png",
+  "id": 832,
+  "type": [
+    "normal"
+  ]
+}

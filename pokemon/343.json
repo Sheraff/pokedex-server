@@ -1,1 +1,28 @@
-{"abilities":["Levitate"],"detailPageURL":"/us/pokedex/baltoy","weight":47.4,"weakness":["Ghost","Water","Ice","Dark","Grass","Bug"],"number":"343","height":20,"collectibles_slug":"baltoy","featured":"true","slug":"baltoy","name":"Baltoy","ThumbnailAltText":"Baltoy","ThumbnailImage":"/pokedex-server/images/3.png","id":343,"type":["ground","psychic"]}
+{
+  "abilities": [
+    "Levitate"
+  ],
+  "detailPageURL": "/us/pokedex/baltoy",
+  "weight": 47.4,
+  "weakness": [
+    "Ghost",
+    "Water",
+    "Ice",
+    "Dark",
+    "Grass",
+    "Bug"
+  ],
+  "number": "343",
+  "height": 20,
+  "collectibles_slug": "baltoy",
+  "featured": "true",
+  "slug": "baltoy",
+  "name": "Baltoy",
+  "ThumbnailAltText": "Baltoy",
+  "ThumbnailImage": "/pokedex-server/images/343.png",
+  "id": 343,
+  "type": [
+    "ground",
+    "psychic"
+  ]
+}

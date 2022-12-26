@@ -1,1 +1,24 @@
-{"abilities":["Hustle","Serene Grace"],"detailPageURL":"/us/pokedex/togepi","weight":3.3,"weakness":["Steel","Poison"],"number":"175","height":12,"collectibles_slug":"togepi","featured":"true","slug":"togepi","name":"Togepi","ThumbnailAltText":"Togepi","ThumbnailImage":"/pokedex-server/images/5.png","id":175,"type":["fairy"]}
+{
+  "abilities": [
+    "Hustle",
+    "Serene Grace"
+  ],
+  "detailPageURL": "/us/pokedex/togepi",
+  "weight": 3.3,
+  "weakness": [
+    "Steel",
+    "Poison"
+  ],
+  "number": "175",
+  "height": 12,
+  "collectibles_slug": "togepi",
+  "featured": "true",
+  "slug": "togepi",
+  "name": "Togepi",
+  "ThumbnailAltText": "Togepi",
+  "ThumbnailImage": "/pokedex-server/images/175.png",
+  "id": 175,
+  "type": [
+    "fairy"
+  ]
+}

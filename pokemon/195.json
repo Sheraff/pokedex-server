@@ -1,1 +1,24 @@
-{"abilities":["Damp","Water Absorb"],"detailPageURL":"/us/pokedex/quagsire","weight":165.3,"weakness":["Grass"],"number":"195","height":55,"collectibles_slug":"quagsire","featured":"true","slug":"quagsire","name":"Quagsire","ThumbnailAltText":"Quagsire","ThumbnailImage":"/pokedex-server/images/5.png","id":195,"type":["water","ground"]}
+{
+  "abilities": [
+    "Damp",
+    "Water Absorb"
+  ],
+  "detailPageURL": "/us/pokedex/quagsire",
+  "weight": 165.3,
+  "weakness": [
+    "Grass"
+  ],
+  "number": "195",
+  "height": 55,
+  "collectibles_slug": "quagsire",
+  "featured": "true",
+  "slug": "quagsire",
+  "name": "Quagsire",
+  "ThumbnailAltText": "Quagsire",
+  "ThumbnailImage": "/pokedex-server/images/195.png",
+  "id": 195,
+  "type": [
+    "water",
+    "ground"
+  ]
+}

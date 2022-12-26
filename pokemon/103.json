@@ -1,1 +1,29 @@
-{"abilities":["Chlorophyll"],"detailPageURL":"/us/pokedex/exeggutor","weight":264.6,"weakness":["Ghost","Fire","Flying","Ice","Dark","Poison","Bug"],"number":"103","height":79,"collectibles_slug":"exeggutor","featured":"true","slug":"exeggutor","name":"Exeggutor","ThumbnailAltText":"Exeggutor","ThumbnailImage":"/pokedex-server/images/3.png","id":103,"type":["grass","psychic"]}
+{
+  "abilities": [
+    "Chlorophyll"
+  ],
+  "detailPageURL": "/us/pokedex/exeggutor",
+  "weight": 264.6,
+  "weakness": [
+    "Ghost",
+    "Fire",
+    "Flying",
+    "Ice",
+    "Dark",
+    "Poison",
+    "Bug"
+  ],
+  "number": "103",
+  "height": 79,
+  "collectibles_slug": "exeggutor",
+  "featured": "true",
+  "slug": "exeggutor",
+  "name": "Exeggutor",
+  "ThumbnailAltText": "Exeggutor",
+  "ThumbnailImage": "/pokedex-server/images/103.png",
+  "id": 103,
+  "type": [
+    "grass",
+    "psychic"
+  ]
+}

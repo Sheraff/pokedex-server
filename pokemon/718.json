@@ -1,1 +1,25 @@
-{"abilities":["Aura Break"],"detailPageURL":"/us/pokedex/zygarde","weight":672.4,"weakness":["Fairy","Ice","Dragon"],"number":"718","height":197,"collectibles_slug":"zygarde","featured":"true","slug":"zygarde","name":"Zygarde","ThumbnailAltText":"Zygarde","ThumbnailImage":"/pokedex-server/images/8.png","id":718,"type":["dragon","ground"]}
+{
+  "abilities": [
+    "Aura Break"
+  ],
+  "detailPageURL": "/us/pokedex/zygarde",
+  "weight": 672.4,
+  "weakness": [
+    "Fairy",
+    "Ice",
+    "Dragon"
+  ],
+  "number": "718",
+  "height": 197,
+  "collectibles_slug": "zygarde",
+  "featured": "true",
+  "slug": "zygarde",
+  "name": "Zygarde",
+  "ThumbnailAltText": "Zygarde",
+  "ThumbnailImage": "/pokedex-server/images/718.png",
+  "id": 718,
+  "type": [
+    "dragon",
+    "ground"
+  ]
+}

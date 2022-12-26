@@ -1,1 +1,22 @@
-{"abilities":["Static"],"detailPageURL":"/us/pokedex/ampharos","weight":135.6,"weakness":["Ground"],"number":"181","height":55,"collectibles_slug":"ampharos","featured":"true","slug":"ampharos","name":"Ampharos","ThumbnailAltText":"Ampharos","ThumbnailImage":"/pokedex-server/images/1.png","id":181,"type":["electric"]}
+{
+  "abilities": [
+    "Static"
+  ],
+  "detailPageURL": "/us/pokedex/ampharos",
+  "weight": 135.6,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "181",
+  "height": 55,
+  "collectibles_slug": "ampharos",
+  "featured": "true",
+  "slug": "ampharos",
+  "name": "Ampharos",
+  "ThumbnailAltText": "Ampharos",
+  "ThumbnailImage": "/pokedex-server/images/181.png",
+  "id": 181,
+  "type": [
+    "electric"
+  ]
+}

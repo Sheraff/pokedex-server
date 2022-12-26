@@ -1,1 +1,24 @@
-{"abilities":["Shed Skin"],"detailPageURL":"/us/pokedex/metapod","weight":21.8,"weakness":["Fire","Flying","Rock"],"number":"011","height":28,"collectibles_slug":"metapod","featured":"true","slug":"metapod","name":"Metapod","ThumbnailAltText":"Metapod","ThumbnailImage":"/pokedex-server/images/1.png","id":11,"type":["bug"]}
+{
+  "abilities": [
+    "Shed Skin"
+  ],
+  "detailPageURL": "/us/pokedex/metapod",
+  "weight": 21.8,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Rock"
+  ],
+  "number": "011",
+  "height": 28,
+  "collectibles_slug": "metapod",
+  "featured": "true",
+  "slug": "metapod",
+  "name": "Metapod",
+  "ThumbnailAltText": "Metapod",
+  "ThumbnailImage": "/pokedex-server/images/11.png",
+  "id": 11,
+  "type": [
+    "bug"
+  ]
+}

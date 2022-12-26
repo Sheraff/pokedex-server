@@ -1,1 +1,24 @@
-{"abilities":["Battery"],"detailPageURL":"/us/pokedex/charjabug","weight":23.1,"weakness":["Fire","Rock"],"number":"737","height":20,"collectibles_slug":"charjabug","featured":"true","slug":"charjabug","name":"Charjabug","ThumbnailAltText":"Charjabug","ThumbnailImage":"/pokedex-server/images/7.png","id":737,"type":["bug","electric"]}
+{
+  "abilities": [
+    "Battery"
+  ],
+  "detailPageURL": "/us/pokedex/charjabug",
+  "weight": 23.1,
+  "weakness": [
+    "Fire",
+    "Rock"
+  ],
+  "number": "737",
+  "height": 20,
+  "collectibles_slug": "charjabug",
+  "featured": "true",
+  "slug": "charjabug",
+  "name": "Charjabug",
+  "ThumbnailAltText": "Charjabug",
+  "ThumbnailImage": "/pokedex-server/images/737.png",
+  "id": 737,
+  "type": [
+    "bug",
+    "electric"
+  ]
+}

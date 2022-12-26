@@ -1,1 +1,26 @@
-{"abilities":["Teravolt"],"detailPageURL":"/us/pokedex/zekrom","weight":760.6,"weakness":["Fairy","Dragon","Ice","Ground"],"number":"644","height":114,"collectibles_slug":"zekrom","featured":"true","slug":"zekrom","name":"Zekrom","ThumbnailAltText":"Zekrom","ThumbnailImage":"/pokedex-server/images/4.png","id":644,"type":["dragon","electric"]}
+{
+  "abilities": [
+    "Teravolt"
+  ],
+  "detailPageURL": "/us/pokedex/zekrom",
+  "weight": 760.6,
+  "weakness": [
+    "Fairy",
+    "Dragon",
+    "Ice",
+    "Ground"
+  ],
+  "number": "644",
+  "height": 114,
+  "collectibles_slug": "zekrom",
+  "featured": "true",
+  "slug": "zekrom",
+  "name": "Zekrom",
+  "ThumbnailAltText": "Zekrom",
+  "ThumbnailImage": "/pokedex-server/images/644.png",
+  "id": 644,
+  "type": [
+    "dragon",
+    "electric"
+  ]
+}

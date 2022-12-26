@@ -1,1 +1,24 @@
-{"abilities":["Disguise"],"detailPageURL":"/us/pokedex/mimikyu","weight":1.5,"weakness":["Ghost","Steel"],"number":"778","height":8,"collectibles_slug":"mimikyu","featured":"true","slug":"mimikyu","name":"Mimikyu","ThumbnailAltText":"Mimikyu","ThumbnailImage":"/pokedex-server/images/8.png","id":778,"type":["ghost","fairy"]}
+{
+  "abilities": [
+    "Disguise"
+  ],
+  "detailPageURL": "/us/pokedex/mimikyu",
+  "weight": 1.5,
+  "weakness": [
+    "Ghost",
+    "Steel"
+  ],
+  "number": "778",
+  "height": 8,
+  "collectibles_slug": "mimikyu",
+  "featured": "true",
+  "slug": "mimikyu",
+  "name": "Mimikyu",
+  "ThumbnailAltText": "Mimikyu",
+  "ThumbnailImage": "/pokedex-server/images/778.png",
+  "id": 778,
+  "type": [
+    "ghost",
+    "fairy"
+  ]
+}

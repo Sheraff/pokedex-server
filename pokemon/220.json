@@ -1,1 +1,28 @@
-{"abilities":["Oblivious","Snow Cloak"],"detailPageURL":"/us/pokedex/swinub","weight":14.3,"weakness":["Steel","Fire","Grass","Water","Fighting"],"number":"220","height":16,"collectibles_slug":"swinub","featured":"true","slug":"swinub","name":"Swinub","ThumbnailAltText":"Swinub","ThumbnailImage":"/pokedex-server/images/0.png","id":220,"type":["ice","ground"]}
+{
+  "abilities": [
+    "Oblivious",
+    "Snow Cloak"
+  ],
+  "detailPageURL": "/us/pokedex/swinub",
+  "weight": 14.3,
+  "weakness": [
+    "Steel",
+    "Fire",
+    "Grass",
+    "Water",
+    "Fighting"
+  ],
+  "number": "220",
+  "height": 16,
+  "collectibles_slug": "swinub",
+  "featured": "true",
+  "slug": "swinub",
+  "name": "Swinub",
+  "ThumbnailAltText": "Swinub",
+  "ThumbnailImage": "/pokedex-server/images/220.png",
+  "id": 220,
+  "type": [
+    "ice",
+    "ground"
+  ]
+}

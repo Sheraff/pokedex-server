@@ -1,1 +1,25 @@
-{"abilities":["Contrary","Suction Cups"],"detailPageURL":"/us/pokedex/malamar","weight":103.6,"weakness":["Fairy","Bug"],"number":"687","height":59,"collectibles_slug":"malamar","featured":"true","slug":"malamar","name":"Malamar","ThumbnailAltText":"Malamar","ThumbnailImage":"/pokedex-server/images/7.png","id":687,"type":["dark","psychic"]}
+{
+  "abilities": [
+    "Contrary",
+    "Suction Cups"
+  ],
+  "detailPageURL": "/us/pokedex/malamar",
+  "weight": 103.6,
+  "weakness": [
+    "Fairy",
+    "Bug"
+  ],
+  "number": "687",
+  "height": 59,
+  "collectibles_slug": "malamar",
+  "featured": "true",
+  "slug": "malamar",
+  "name": "Malamar",
+  "ThumbnailAltText": "Malamar",
+  "ThumbnailImage": "/pokedex-server/images/687.png",
+  "id": 687,
+  "type": [
+    "dark",
+    "psychic"
+  ]
+}

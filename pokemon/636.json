@@ -1,1 +1,25 @@
-{"abilities":["Flame Body"],"detailPageURL":"/us/pokedex/larvesta","weight":63.5,"weakness":["Water","Flying","Rock"],"number":"636","height":43,"collectibles_slug":"larvesta","featured":"true","slug":"larvesta","name":"Larvesta","ThumbnailAltText":"Larvesta","ThumbnailImage":"/pokedex-server/images/6.png","id":636,"type":["bug","fire"]}
+{
+  "abilities": [
+    "Flame Body"
+  ],
+  "detailPageURL": "/us/pokedex/larvesta",
+  "weight": 63.5,
+  "weakness": [
+    "Water",
+    "Flying",
+    "Rock"
+  ],
+  "number": "636",
+  "height": 43,
+  "collectibles_slug": "larvesta",
+  "featured": "true",
+  "slug": "larvesta",
+  "name": "Larvesta",
+  "ThumbnailAltText": "Larvesta",
+  "ThumbnailImage": "/pokedex-server/images/636.png",
+  "id": 636,
+  "type": [
+    "bug",
+    "fire"
+  ]
+}

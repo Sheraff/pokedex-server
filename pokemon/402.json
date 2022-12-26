@@ -1,1 +1,24 @@
-{"abilities":["Swarm"],"detailPageURL":"/us/pokedex/kricketune","weight":56.2,"weakness":["Fire","Flying","Rock"],"number":"402","height":39,"collectibles_slug":"kricketune","featured":"true","slug":"kricketune","name":"Kricketune","ThumbnailAltText":"Kricketune","ThumbnailImage":"/pokedex-server/images/2.png","id":402,"type":["bug"]}
+{
+  "abilities": [
+    "Swarm"
+  ],
+  "detailPageURL": "/us/pokedex/kricketune",
+  "weight": 56.2,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Rock"
+  ],
+  "number": "402",
+  "height": 39,
+  "collectibles_slug": "kricketune",
+  "featured": "true",
+  "slug": "kricketune",
+  "name": "Kricketune",
+  "ThumbnailAltText": "Kricketune",
+  "ThumbnailImage": "/pokedex-server/images/402.png",
+  "id": 402,
+  "type": [
+    "bug"
+  ]
+}

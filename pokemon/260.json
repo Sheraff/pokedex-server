@@ -1,1 +1,23 @@
-{"abilities":["Torrent"],"detailPageURL":"/us/pokedex/swampert","weight":180.6,"weakness":["Grass"],"number":"260","height":59,"collectibles_slug":"swampert","featured":"true","slug":"swampert","name":"Swampert","ThumbnailAltText":"Swampert","ThumbnailImage":"/pokedex-server/images/0.png","id":260,"type":["water","ground"]}
+{
+  "abilities": [
+    "Torrent"
+  ],
+  "detailPageURL": "/us/pokedex/swampert",
+  "weight": 180.6,
+  "weakness": [
+    "Grass"
+  ],
+  "number": "260",
+  "height": 59,
+  "collectibles_slug": "swampert",
+  "featured": "true",
+  "slug": "swampert",
+  "name": "Swampert",
+  "ThumbnailAltText": "Swampert",
+  "ThumbnailImage": "/pokedex-server/images/260.png",
+  "id": 260,
+  "type": [
+    "water",
+    "ground"
+  ]
+}

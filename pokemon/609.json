@@ -1,1 +1,28 @@
-{"abilities":["Flame Body","Flash Fire"],"detailPageURL":"/us/pokedex/chandelure","weight":75.6,"weakness":["Ghost","Dark","Ground","Water","Rock"],"number":"609","height":39,"collectibles_slug":"chandelure","featured":"true","slug":"chandelure","name":"Chandelure","ThumbnailAltText":"Chandelure","ThumbnailImage":"/pokedex-server/images/9.png","id":609,"type":["ghost","fire"]}
+{
+  "abilities": [
+    "Flame Body",
+    "Flash Fire"
+  ],
+  "detailPageURL": "/us/pokedex/chandelure",
+  "weight": 75.6,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Ground",
+    "Water",
+    "Rock"
+  ],
+  "number": "609",
+  "height": 39,
+  "collectibles_slug": "chandelure",
+  "featured": "true",
+  "slug": "chandelure",
+  "name": "Chandelure",
+  "ThumbnailAltText": "Chandelure",
+  "ThumbnailImage": "/pokedex-server/images/609.png",
+  "id": 609,
+  "type": [
+    "ghost",
+    "fire"
+  ]
+}

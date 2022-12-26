@@ -1,1 +1,23 @@
-{"abilities":["Hydration"],"detailPageURL":"/us/pokedex/manaphy","weight":3.1,"weakness":["Grass","Electric"],"number":"490","height":12,"collectibles_slug":"manaphy","featured":"true","slug":"manaphy","name":"Manaphy","ThumbnailAltText":"Manaphy","ThumbnailImage":"/pokedex-server/images/0.png","id":490,"type":["water"]}
+{
+  "abilities": [
+    "Hydration"
+  ],
+  "detailPageURL": "/us/pokedex/manaphy",
+  "weight": 3.1,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "490",
+  "height": 12,
+  "collectibles_slug": "manaphy",
+  "featured": "true",
+  "slug": "manaphy",
+  "name": "Manaphy",
+  "ThumbnailAltText": "Manaphy",
+  "ThumbnailImage": "/pokedex-server/images/490.png",
+  "id": 490,
+  "type": [
+    "water"
+  ]
+}

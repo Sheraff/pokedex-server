@@ -1,1 +1,25 @@
-{"abilities":["Inner Focus","Synchronize"],"detailPageURL":"/us/pokedex/abra","weight":43,"weakness":["Ghost","Dark","Bug"],"number":"063","height":35,"collectibles_slug":"abra","featured":"true","slug":"abra","name":"Abra","ThumbnailAltText":"Abra","ThumbnailImage":"/pokedex-server/images/3.png","id":63,"type":["psychic"]}
+{
+  "abilities": [
+    "Inner Focus",
+    "Synchronize"
+  ],
+  "detailPageURL": "/us/pokedex/abra",
+  "weight": 43,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "number": "063",
+  "height": 35,
+  "collectibles_slug": "abra",
+  "featured": "true",
+  "slug": "abra",
+  "name": "Abra",
+  "ThumbnailAltText": "Abra",
+  "ThumbnailImage": "/pokedex-server/images/63.png",
+  "id": 63,
+  "type": [
+    "psychic"
+  ]
+}

@@ -1,1 +1,23 @@
-{"abilities":["Oblivious","Own Tempo"],"detailPageURL":"/us/pokedex/lickilicky","weight":308.6,"weakness":["Fighting"],"number":"463","height":67,"collectibles_slug":"lickilicky","featured":"true","slug":"lickilicky","name":"Lickilicky","ThumbnailAltText":"Lickilicky","ThumbnailImage":"/pokedex-server/images/3.png","id":463,"type":["normal"]}
+{
+  "abilities": [
+    "Oblivious",
+    "Own Tempo"
+  ],
+  "detailPageURL": "/us/pokedex/lickilicky",
+  "weight": 308.6,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "463",
+  "height": 67,
+  "collectibles_slug": "lickilicky",
+  "featured": "true",
+  "slug": "lickilicky",
+  "name": "Lickilicky",
+  "ThumbnailAltText": "Lickilicky",
+  "ThumbnailImage": "/pokedex-server/images/463.png",
+  "id": 463,
+  "type": [
+    "normal"
+  ]
+}

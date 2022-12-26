@@ -1,1 +1,29 @@
-{"abilities":["Levitate"],"detailPageURL":"/us/pokedex/lunatone","weight":370.4,"weakness":["Steel","Ghost","Water","Dark","Grass","Bug","Ground"],"number":"337","height":39,"collectibles_slug":"lunatone","featured":"true","slug":"lunatone","name":"Lunatone","ThumbnailAltText":"Lunatone","ThumbnailImage":"/pokedex-server/images/7.png","id":337,"type":["rock","psychic"]}
+{
+  "abilities": [
+    "Levitate"
+  ],
+  "detailPageURL": "/us/pokedex/lunatone",
+  "weight": 370.4,
+  "weakness": [
+    "Steel",
+    "Ghost",
+    "Water",
+    "Dark",
+    "Grass",
+    "Bug",
+    "Ground"
+  ],
+  "number": "337",
+  "height": 39,
+  "collectibles_slug": "lunatone",
+  "featured": "true",
+  "slug": "lunatone",
+  "name": "Lunatone",
+  "ThumbnailAltText": "Lunatone",
+  "ThumbnailImage": "/pokedex-server/images/337.png",
+  "id": 337,
+  "type": [
+    "rock",
+    "psychic"
+  ]
+}

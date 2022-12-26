@@ -1,1 +1,25 @@
-{"abilities":["Guts"],"detailPageURL":"/us/pokedex/swellow","weight":43.7,"weakness":["Electric","Ice","Rock"],"number":"277","height":28,"collectibles_slug":"swellow","featured":"true","slug":"swellow","name":"Swellow","ThumbnailAltText":"Swellow","ThumbnailImage":"/pokedex-server/images/7.png","id":277,"type":["normal","flying"]}
+{
+  "abilities": [
+    "Guts"
+  ],
+  "detailPageURL": "/us/pokedex/swellow",
+  "weight": 43.7,
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "277",
+  "height": 28,
+  "collectibles_slug": "swellow",
+  "featured": "true",
+  "slug": "swellow",
+  "name": "Swellow",
+  "ThumbnailAltText": "Swellow",
+  "ThumbnailImage": "/pokedex-server/images/277.png",
+  "id": 277,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

@@ -1,1 +1,23 @@
-{"abilities":["Torrent"],"detailPageURL":"/us/pokedex/squirtle","weight":19.8,"weakness":["Grass","Electric"],"number":"007","height":20,"collectibles_slug":"squirtle","featured":"true","slug":"squirtle","name":"Squirtle","ThumbnailAltText":"Squirtle","ThumbnailImage":"/pokedex-server/images/7.png","id":7,"type":["water"]}
+{
+  "abilities": [
+    "Torrent"
+  ],
+  "detailPageURL": "/us/pokedex/squirtle",
+  "weight": 19.8,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "007",
+  "height": 20,
+  "collectibles_slug": "squirtle",
+  "featured": "true",
+  "slug": "squirtle",
+  "name": "Squirtle",
+  "ThumbnailAltText": "Squirtle",
+  "ThumbnailImage": "/pokedex-server/images/7.png",
+  "id": 7,
+  "type": [
+    "water"
+  ]
+}

@@ -1,1 +1,27 @@
-{"abilities":["Speed Boost"],"detailPageURL":"/us/pokedex/ninjask","weight":26.5,"weakness":["Fire","Flying","Electric","Ice","Rock"],"number":"291","height":31,"collectibles_slug":"ninjask","featured":"true","slug":"ninjask","name":"Ninjask","ThumbnailAltText":"Ninjask","ThumbnailImage":"/pokedex-server/images/1.png","id":291,"type":["bug","flying"]}
+{
+  "abilities": [
+    "Speed Boost"
+  ],
+  "detailPageURL": "/us/pokedex/ninjask",
+  "weight": 26.5,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "291",
+  "height": 31,
+  "collectibles_slug": "ninjask",
+  "featured": "true",
+  "slug": "ninjask",
+  "name": "Ninjask",
+  "ThumbnailAltText": "Ninjask",
+  "ThumbnailImage": "/pokedex-server/images/291.png",
+  "id": 291,
+  "type": [
+    "bug",
+    "flying"
+  ]
+}

@@ -1,1 +1,26 @@
-{"abilities":["Dark Aura"],"detailPageURL":"/us/pokedex/yveltal","weight":447.5,"weakness":["Fairy","Electric","Ice","Rock"],"number":"717","height":228,"collectibles_slug":"yveltal","featured":"true","slug":"yveltal","name":"Yveltal","ThumbnailAltText":"Yveltal","ThumbnailImage":"/pokedex-server/images/7.png","id":717,"type":["dark","flying"]}
+{
+  "abilities": [
+    "Dark Aura"
+  ],
+  "detailPageURL": "/us/pokedex/yveltal",
+  "weight": 447.5,
+  "weakness": [
+    "Fairy",
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "717",
+  "height": 228,
+  "collectibles_slug": "yveltal",
+  "featured": "true",
+  "slug": "yveltal",
+  "name": "Yveltal",
+  "ThumbnailAltText": "Yveltal",
+  "ThumbnailImage": "/pokedex-server/images/717.png",
+  "id": 717,
+  "type": [
+    "dark",
+    "flying"
+  ]
+}

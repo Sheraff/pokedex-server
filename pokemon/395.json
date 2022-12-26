@@ -1,1 +1,25 @@
-{"abilities":["Torrent"],"detailPageURL":"/us/pokedex/empoleon","weight":186.3,"weakness":["Electric","Fighting","Ground"],"number":"395","height":67,"collectibles_slug":"empoleon","featured":"true","slug":"empoleon","name":"Empoleon","ThumbnailAltText":"Empoleon","ThumbnailImage":"/pokedex-server/images/5.png","id":395,"type":["water","steel"]}
+{
+  "abilities": [
+    "Torrent"
+  ],
+  "detailPageURL": "/us/pokedex/empoleon",
+  "weight": 186.3,
+  "weakness": [
+    "Electric",
+    "Fighting",
+    "Ground"
+  ],
+  "number": "395",
+  "height": 67,
+  "collectibles_slug": "empoleon",
+  "featured": "true",
+  "slug": "empoleon",
+  "name": "Empoleon",
+  "ThumbnailAltText": "Empoleon",
+  "ThumbnailImage": "/pokedex-server/images/395.png",
+  "id": 395,
+  "type": [
+    "water",
+    "steel"
+  ]
+}

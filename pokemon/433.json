@@ -1,1 +1,24 @@
-{"abilities":["Levitate"],"detailPageURL":"/us/pokedex/chingling","weight":1.3,"weakness":["Ghost","Dark","Bug"],"number":"433","height":8,"collectibles_slug":"chingling","featured":"true","slug":"chingling","name":"Chingling","ThumbnailAltText":"Chingling","ThumbnailImage":"/pokedex-server/images/3.png","id":433,"type":["psychic"]}
+{
+  "abilities": [
+    "Levitate"
+  ],
+  "detailPageURL": "/us/pokedex/chingling",
+  "weight": 1.3,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "number": "433",
+  "height": 8,
+  "collectibles_slug": "chingling",
+  "featured": "true",
+  "slug": "chingling",
+  "name": "Chingling",
+  "ThumbnailAltText": "Chingling",
+  "ThumbnailImage": "/pokedex-server/images/433.png",
+  "id": 433,
+  "type": [
+    "psychic"
+  ]
+}

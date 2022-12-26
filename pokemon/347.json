@@ -1,1 +1,25 @@
-{"abilities":["Battle Armor"],"detailPageURL":"/us/pokedex/anorith","weight":27.6,"weakness":["Steel","Water","Rock"],"number":"347","height":28,"collectibles_slug":"anorith","featured":"true","slug":"anorith","name":"Anorith","ThumbnailAltText":"Anorith","ThumbnailImage":"/pokedex-server/images/7.png","id":347,"type":["rock","bug"]}
+{
+  "abilities": [
+    "Battle Armor"
+  ],
+  "detailPageURL": "/us/pokedex/anorith",
+  "weight": 27.6,
+  "weakness": [
+    "Steel",
+    "Water",
+    "Rock"
+  ],
+  "number": "347",
+  "height": 28,
+  "collectibles_slug": "anorith",
+  "featured": "true",
+  "slug": "anorith",
+  "name": "Anorith",
+  "ThumbnailAltText": "Anorith",
+  "ThumbnailImage": "/pokedex-server/images/347.png",
+  "id": 347,
+  "type": [
+    "rock",
+    "bug"
+  ]
+}

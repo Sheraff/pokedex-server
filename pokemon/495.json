@@ -1,1 +1,26 @@
-{"abilities":["Overgrow"],"detailPageURL":"/us/pokedex/snivy","weight":17.9,"weakness":["Fire","Flying","Ice","Poison","Bug"],"number":"495","height":24,"collectibles_slug":"snivy","featured":"true","slug":"snivy","name":"Snivy","ThumbnailAltText":"Snivy","ThumbnailImage":"/pokedex-server/images/5.png","id":495,"type":["grass"]}
+{
+  "abilities": [
+    "Overgrow"
+  ],
+  "detailPageURL": "/us/pokedex/snivy",
+  "weight": 17.9,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "495",
+  "height": 24,
+  "collectibles_slug": "snivy",
+  "featured": "true",
+  "slug": "snivy",
+  "name": "Snivy",
+  "ThumbnailAltText": "Snivy",
+  "ThumbnailImage": "/pokedex-server/images/495.png",
+  "id": 495,
+  "type": [
+    "grass"
+  ]
+}

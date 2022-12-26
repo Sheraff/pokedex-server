@@ -1,1 +1,23 @@
-{"abilities":["Intimidate","Rivalry"],"detailPageURL":"/us/pokedex/luxray","weight":92.6,"weakness":["Ground"],"number":"405","height":55,"collectibles_slug":"luxray","featured":"true","slug":"luxray","name":"Luxray","ThumbnailAltText":"Luxray","ThumbnailImage":"/pokedex-server/images/5.png","id":405,"type":["electric"]}
+{
+  "abilities": [
+    "Intimidate",
+    "Rivalry"
+  ],
+  "detailPageURL": "/us/pokedex/luxray",
+  "weight": 92.6,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "405",
+  "height": 55,
+  "collectibles_slug": "luxray",
+  "featured": "true",
+  "slug": "luxray",
+  "name": "Luxray",
+  "ThumbnailAltText": "Luxray",
+  "ThumbnailImage": "/pokedex-server/images/405.png",
+  "id": 405,
+  "type": [
+    "electric"
+  ]
+}

@@ -1,1 +1,23 @@
-{"abilities":["Pickup","Quick Feet"],"detailPageURL":"/us/pokedex/teddiursa","weight":19.4,"weakness":["Fighting"],"number":"216","height":24,"collectibles_slug":"teddiursa","featured":"true","slug":"teddiursa","name":"Teddiursa","ThumbnailAltText":"Teddiursa","ThumbnailImage":"/pokedex-server/images/6.png","id":216,"type":["normal"]}
+{
+  "abilities": [
+    "Pickup",
+    "Quick Feet"
+  ],
+  "detailPageURL": "/us/pokedex/teddiursa",
+  "weight": 19.4,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "216",
+  "height": 24,
+  "collectibles_slug": "teddiursa",
+  "featured": "true",
+  "slug": "teddiursa",
+  "name": "Teddiursa",
+  "ThumbnailAltText": "Teddiursa",
+  "ThumbnailImage": "/pokedex-server/images/216.png",
+  "id": 216,
+  "type": [
+    "normal"
+  ]
+}

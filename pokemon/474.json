@@ -1,1 +1,23 @@
-{"abilities":["Adaptability","Download"],"detailPageURL":"/us/pokedex/porygon-z","weight":75,"weakness":["Fighting"],"number":"474","height":35,"collectibles_slug":"porygon-z","featured":"true","slug":"porygon-z","name":"Porygon-Z","ThumbnailAltText":"Porygon-Z","ThumbnailImage":"/pokedex-server/images/4.png","id":474,"type":["normal"]}
+{
+  "abilities": [
+    "Adaptability",
+    "Download"
+  ],
+  "detailPageURL": "/us/pokedex/porygon-z",
+  "weight": 75,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "474",
+  "height": 35,
+  "collectibles_slug": "porygon-z",
+  "featured": "true",
+  "slug": "porygon-z",
+  "name": "Porygon-Z",
+  "ThumbnailAltText": "Porygon-Z",
+  "ThumbnailImage": "/pokedex-server/images/474.png",
+  "id": 474,
+  "type": [
+    "normal"
+  ]
+}

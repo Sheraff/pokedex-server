@@ -1,1 +1,23 @@
-{"abilities":["Adaptability","Run Away"],"detailPageURL":"/us/pokedex/eevee","weight":14.3,"weakness":["Fighting"],"number":"133","height":12,"collectibles_slug":"eevee","featured":"true","slug":"eevee","name":"Eevee","ThumbnailAltText":"Eevee","ThumbnailImage":"/pokedex-server/images/3.png","id":133,"type":["normal"]}
+{
+  "abilities": [
+    "Adaptability",
+    "Run Away"
+  ],
+  "detailPageURL": "/us/pokedex/eevee",
+  "weight": 14.3,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "133",
+  "height": 12,
+  "collectibles_slug": "eevee",
+  "featured": "true",
+  "slug": "eevee",
+  "name": "Eevee",
+  "ThumbnailAltText": "Eevee",
+  "ThumbnailImage": "/pokedex-server/images/133.png",
+  "id": 133,
+  "type": [
+    "normal"
+  ]
+}

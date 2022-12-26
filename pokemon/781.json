@@ -1,1 +1,27 @@
-{"abilities":["Steelworker"],"detailPageURL":"/us/pokedex/dhelmise","weight":463,"weakness":["Ghost","Fire","Flying","Dark","Ice"],"number":"781","height":154,"collectibles_slug":"dhelmise","featured":"true","slug":"dhelmise","name":"Dhelmise","ThumbnailAltText":"Dhelmise","ThumbnailImage":"/pokedex-server/images/1.png","id":781,"type":["ghost","grass"]}
+{
+  "abilities": [
+    "Steelworker"
+  ],
+  "detailPageURL": "/us/pokedex/dhelmise",
+  "weight": 463,
+  "weakness": [
+    "Ghost",
+    "Fire",
+    "Flying",
+    "Dark",
+    "Ice"
+  ],
+  "number": "781",
+  "height": 154,
+  "collectibles_slug": "dhelmise",
+  "featured": "true",
+  "slug": "dhelmise",
+  "name": "Dhelmise",
+  "ThumbnailAltText": "Dhelmise",
+  "ThumbnailImage": "/pokedex-server/images/781.png",
+  "id": 781,
+  "type": [
+    "ghost",
+    "grass"
+  ]
+}

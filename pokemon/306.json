@@ -1,1 +1,26 @@
-{"abilities":["Rock Head","Sturdy"],"detailPageURL":"/us/pokedex/aggron","weight":793.7,"weakness":["Water","Fighting","Ground"],"number":"306","height":83,"collectibles_slug":"aggron","featured":"true","slug":"aggron","name":"Aggron","ThumbnailAltText":"Aggron","ThumbnailImage":"/pokedex-server/images/6.png","id":306,"type":["steel","rock"]}
+{
+  "abilities": [
+    "Rock Head",
+    "Sturdy"
+  ],
+  "detailPageURL": "/us/pokedex/aggron",
+  "weight": 793.7,
+  "weakness": [
+    "Water",
+    "Fighting",
+    "Ground"
+  ],
+  "number": "306",
+  "height": 83,
+  "collectibles_slug": "aggron",
+  "featured": "true",
+  "slug": "aggron",
+  "name": "Aggron",
+  "ThumbnailAltText": "Aggron",
+  "ThumbnailImage": "/pokedex-server/images/306.png",
+  "id": 306,
+  "type": [
+    "steel",
+    "rock"
+  ]
+}

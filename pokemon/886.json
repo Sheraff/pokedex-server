@@ -1,1 +1,28 @@
-{"abilities":["Clear Body","Infiltrator"],"detailPageURL":"/us/pokedex/drakloak","weight":24.3,"weakness":["Ghost","Dark","Fairy","Ice","Dragon"],"number":"886","height":55,"collectibles_slug":"drakloak","featured":"true","slug":"drakloak","name":"Drakloak","ThumbnailAltText":"Drakloak","ThumbnailImage":"/pokedex-server/images/6.png","id":886,"type":["dragon","ghost"]}
+{
+  "abilities": [
+    "Clear Body",
+    "Infiltrator"
+  ],
+  "detailPageURL": "/us/pokedex/drakloak",
+  "weight": 24.3,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Fairy",
+    "Ice",
+    "Dragon"
+  ],
+  "number": "886",
+  "height": 55,
+  "collectibles_slug": "drakloak",
+  "featured": "true",
+  "slug": "drakloak",
+  "name": "Drakloak",
+  "ThumbnailAltText": "Drakloak",
+  "ThumbnailImage": "/pokedex-server/images/886.png",
+  "id": 886,
+  "type": [
+    "dragon",
+    "ghost"
+  ]
+}

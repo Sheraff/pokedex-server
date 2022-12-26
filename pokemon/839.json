@@ -1,1 +1,27 @@
-{"abilities":["Flame Body","Steam Engine"],"detailPageURL":"/us/pokedex/coalossal","weight":684.5,"weakness":["Water","Ground","Fighting","Rock"],"number":"839","height":110,"collectibles_slug":"coalossal","featured":"true","slug":"coalossal","name":"Coalossal","ThumbnailAltText":"Coalossal","ThumbnailImage":"/pokedex-server/images/9.png","id":839,"type":["rock","fire"]}
+{
+  "abilities": [
+    "Flame Body",
+    "Steam Engine"
+  ],
+  "detailPageURL": "/us/pokedex/coalossal",
+  "weight": 684.5,
+  "weakness": [
+    "Water",
+    "Ground",
+    "Fighting",
+    "Rock"
+  ],
+  "number": "839",
+  "height": 110,
+  "collectibles_slug": "coalossal",
+  "featured": "true",
+  "slug": "coalossal",
+  "name": "Coalossal",
+  "ThumbnailAltText": "Coalossal",
+  "ThumbnailImage": "/pokedex-server/images/839.png",
+  "id": 839,
+  "type": [
+    "rock",
+    "fire"
+  ]
+}

@@ -1,1 +1,23 @@
-{"abilities":["Torrent"],"detailPageURL":"/us/pokedex/inteleon","weight":99.6,"weakness":["Grass","Electric"],"number":"818","height":75,"collectibles_slug":"inteleon","featured":"true","slug":"inteleon","name":"Inteleon","ThumbnailAltText":"Inteleon","ThumbnailImage":"/pokedex-server/images/8.png","id":818,"type":["water"]}
+{
+  "abilities": [
+    "Torrent"
+  ],
+  "detailPageURL": "/us/pokedex/inteleon",
+  "weight": 99.6,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "818",
+  "height": 75,
+  "collectibles_slug": "inteleon",
+  "featured": "true",
+  "slug": "inteleon",
+  "name": "Inteleon",
+  "ThumbnailAltText": "Inteleon",
+  "ThumbnailImage": "/pokedex-server/images/818.png",
+  "id": 818,
+  "type": [
+    "water"
+  ]
+}

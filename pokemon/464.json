@@ -1,1 +1,29 @@
-{"abilities":["Lightning Rod","Solid Rock"],"detailPageURL":"/us/pokedex/rhyperior","weight":623.5,"weakness":["Steel","Ice","Water","Fighting","Grass","Ground"],"number":"464","height":94,"collectibles_slug":"rhyperior","featured":"true","slug":"rhyperior","name":"Rhyperior","ThumbnailAltText":"Rhyperior","ThumbnailImage":"/pokedex-server/images/4.png","id":464,"type":["ground","rock"]}
+{
+  "abilities": [
+    "Lightning Rod",
+    "Solid Rock"
+  ],
+  "detailPageURL": "/us/pokedex/rhyperior",
+  "weight": 623.5,
+  "weakness": [
+    "Steel",
+    "Ice",
+    "Water",
+    "Fighting",
+    "Grass",
+    "Ground"
+  ],
+  "number": "464",
+  "height": 94,
+  "collectibles_slug": "rhyperior",
+  "featured": "true",
+  "slug": "rhyperior",
+  "name": "Rhyperior",
+  "ThumbnailAltText": "Rhyperior",
+  "ThumbnailImage": "/pokedex-server/images/464.png",
+  "id": 464,
+  "type": [
+    "ground",
+    "rock"
+  ]
+}

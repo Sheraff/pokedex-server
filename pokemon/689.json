@@ -1,1 +1,27 @@
-{"abilities":["Sniper","Tough Claws"],"detailPageURL":"/us/pokedex/barbaracle","weight":211.6,"weakness":["Grass","Electric","Fighting","Ground"],"number":"689","height":51,"collectibles_slug":"barbaracle","featured":"true","slug":"barbaracle","name":"Barbaracle","ThumbnailAltText":"Barbaracle","ThumbnailImage":"/pokedex-server/images/9.png","id":689,"type":["rock","water"]}
+{
+  "abilities": [
+    "Sniper",
+    "Tough Claws"
+  ],
+  "detailPageURL": "/us/pokedex/barbaracle",
+  "weight": 211.6,
+  "weakness": [
+    "Grass",
+    "Electric",
+    "Fighting",
+    "Ground"
+  ],
+  "number": "689",
+  "height": 51,
+  "collectibles_slug": "barbaracle",
+  "featured": "true",
+  "slug": "barbaracle",
+  "name": "Barbaracle",
+  "ThumbnailAltText": "Barbaracle",
+  "ThumbnailImage": "/pokedex-server/images/689.png",
+  "id": 689,
+  "type": [
+    "rock",
+    "water"
+  ]
+}

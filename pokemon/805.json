@@ -1,1 +1,25 @@
-{"abilities":["Beast Boost"],"detailPageURL":"/us/pokedex/stakataka","weight":1807.8,"weakness":["Water","Fighting","Ground"],"number":"805","height":217,"collectibles_slug":"stakataka","featured":"true","slug":"stakataka","name":"Stakataka","ThumbnailAltText":"Stakataka","ThumbnailImage":"/pokedex-server/images/5.png","id":805,"type":["rock","steel"]}
+{
+  "abilities": [
+    "Beast Boost"
+  ],
+  "detailPageURL": "/us/pokedex/stakataka",
+  "weight": 1807.8,
+  "weakness": [
+    "Water",
+    "Fighting",
+    "Ground"
+  ],
+  "number": "805",
+  "height": 217,
+  "collectibles_slug": "stakataka",
+  "featured": "true",
+  "slug": "stakataka",
+  "name": "Stakataka",
+  "ThumbnailAltText": "Stakataka",
+  "ThumbnailImage": "/pokedex-server/images/805.png",
+  "id": 805,
+  "type": [
+    "rock",
+    "steel"
+  ]
+}

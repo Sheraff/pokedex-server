@@ -1,1 +1,27 @@
-{"abilities":["Fluffy","Klutz"],"detailPageURL":"/us/pokedex/bewear","weight":297.6,"weakness":["Psychic","Flying","Fairy","Fighting"],"number":"760","height":83,"collectibles_slug":"bewear","featured":"true","slug":"bewear","name":"Bewear","ThumbnailAltText":"Bewear","ThumbnailImage":"/pokedex-server/images/0.png","id":760,"type":["normal","fighting"]}
+{
+  "abilities": [
+    "Fluffy",
+    "Klutz"
+  ],
+  "detailPageURL": "/us/pokedex/bewear",
+  "weight": 297.6,
+  "weakness": [
+    "Psychic",
+    "Flying",
+    "Fairy",
+    "Fighting"
+  ],
+  "number": "760",
+  "height": 83,
+  "collectibles_slug": "bewear",
+  "featured": "true",
+  "slug": "bewear",
+  "name": "Bewear",
+  "ThumbnailAltText": "Bewear",
+  "ThumbnailImage": "/pokedex-server/images/760.png",
+  "id": 760,
+  "type": [
+    "normal",
+    "fighting"
+  ]
+}

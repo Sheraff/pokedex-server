@@ -1,1 +1,25 @@
-{"abilities":["Natural Cure"],"detailPageURL":"/us/pokedex/swablu","weight":2.6,"weakness":["Electric","Ice","Rock"],"number":"333","height":16,"collectibles_slug":"swablu","featured":"true","slug":"swablu","name":"Swablu","ThumbnailAltText":"Swablu","ThumbnailImage":"/pokedex-server/images/3.png","id":333,"type":["normal","flying"]}
+{
+  "abilities": [
+    "Natural Cure"
+  ],
+  "detailPageURL": "/us/pokedex/swablu",
+  "weight": 2.6,
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "333",
+  "height": 16,
+  "collectibles_slug": "swablu",
+  "featured": "true",
+  "slug": "swablu",
+  "name": "Swablu",
+  "ThumbnailAltText": "Swablu",
+  "ThumbnailImage": "/pokedex-server/images/333.png",
+  "id": 333,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

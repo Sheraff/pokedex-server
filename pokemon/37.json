@@ -1,1 +1,24 @@
-{"abilities":["Flash Fire"],"detailPageURL":"/us/pokedex/vulpix","weight":21.8,"weakness":["Water","Ground","Rock"],"number":"037","height":24,"collectibles_slug":"vulpix","featured":"true","slug":"vulpix","name":"Vulpix","ThumbnailAltText":"Vulpix","ThumbnailImage":"/pokedex-server/images/7.png","id":37,"type":["fire"]}
+{
+  "abilities": [
+    "Flash Fire"
+  ],
+  "detailPageURL": "/us/pokedex/vulpix",
+  "weight": 21.8,
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "number": "037",
+  "height": 24,
+  "collectibles_slug": "vulpix",
+  "featured": "true",
+  "slug": "vulpix",
+  "name": "Vulpix",
+  "ThumbnailAltText": "Vulpix",
+  "ThumbnailImage": "/pokedex-server/images/37.png",
+  "id": 37,
+  "type": [
+    "fire"
+  ]
+}

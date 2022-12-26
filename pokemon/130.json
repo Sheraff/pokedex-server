@@ -1,1 +1,24 @@
-{"abilities":["Intimidate"],"detailPageURL":"/us/pokedex/gyarados","weight":518.1,"weakness":["Electric","Rock"],"number":"130","height":256,"collectibles_slug":"gyarados","featured":"true","slug":"gyarados","name":"Gyarados","ThumbnailAltText":"Gyarados","ThumbnailImage":"/pokedex-server/images/0.png","id":130,"type":["water","flying"]}
+{
+  "abilities": [
+    "Intimidate"
+  ],
+  "detailPageURL": "/us/pokedex/gyarados",
+  "weight": 518.1,
+  "weakness": [
+    "Electric",
+    "Rock"
+  ],
+  "number": "130",
+  "height": 256,
+  "collectibles_slug": "gyarados",
+  "featured": "true",
+  "slug": "gyarados",
+  "name": "Gyarados",
+  "ThumbnailAltText": "Gyarados",
+  "ThumbnailImage": "/pokedex-server/images/130.png",
+  "id": 130,
+  "type": [
+    "water",
+    "flying"
+  ]
+}

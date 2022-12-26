@@ -1,1 +1,27 @@
-{"abilities":["Sturdy","Weak Armor"],"detailPageURL":"/us/pokedex/boldore","weight":224.9,"weakness":["Water","Steel","Grass","Fighting","Ground"],"number":"525","height":35,"collectibles_slug":"boldore","featured":"true","slug":"boldore","name":"Boldore","ThumbnailAltText":"Boldore","ThumbnailImage":"/pokedex-server/images/5.png","id":525,"type":["rock"]}
+{
+  "abilities": [
+    "Sturdy",
+    "Weak Armor"
+  ],
+  "detailPageURL": "/us/pokedex/boldore",
+  "weight": 224.9,
+  "weakness": [
+    "Water",
+    "Steel",
+    "Grass",
+    "Fighting",
+    "Ground"
+  ],
+  "number": "525",
+  "height": 35,
+  "collectibles_slug": "boldore",
+  "featured": "true",
+  "slug": "boldore",
+  "name": "Boldore",
+  "ThumbnailAltText": "Boldore",
+  "ThumbnailImage": "/pokedex-server/images/525.png",
+  "id": 525,
+  "type": [
+    "rock"
+  ]
+}

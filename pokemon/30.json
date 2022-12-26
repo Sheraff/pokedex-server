@@ -1,1 +1,24 @@
-{"abilities":["Poison Point","Rivalry"],"detailPageURL":"/us/pokedex/nidorina","weight":44.1,"weakness":["Psychic","Ground"],"number":"030","height":31,"collectibles_slug":"nidorina","featured":"true","slug":"nidorina","name":"Nidorina","ThumbnailAltText":"Nidorina","ThumbnailImage":"/pokedex-server/images/0.png","id":30,"type":["poison"]}
+{
+  "abilities": [
+    "Poison Point",
+    "Rivalry"
+  ],
+  "detailPageURL": "/us/pokedex/nidorina",
+  "weight": 44.1,
+  "weakness": [
+    "Psychic",
+    "Ground"
+  ],
+  "number": "030",
+  "height": 31,
+  "collectibles_slug": "nidorina",
+  "featured": "true",
+  "slug": "nidorina",
+  "name": "Nidorina",
+  "ThumbnailAltText": "Nidorina",
+  "ThumbnailImage": "/pokedex-server/images/30.png",
+  "id": 30,
+  "type": [
+    "poison"
+  ]
+}

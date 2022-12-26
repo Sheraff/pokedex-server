@@ -1,1 +1,26 @@
-{"abilities":["Shell Armor","Sturdy"],"detailPageURL":"/us/pokedex/dwebble","weight":32,"weakness":["Steel","Water","Rock"],"number":"557","height":12,"collectibles_slug":"dwebble","featured":"true","slug":"dwebble","name":"Dwebble","ThumbnailAltText":"Dwebble","ThumbnailImage":"/pokedex-server/images/7.png","id":557,"type":["bug","rock"]}
+{
+  "abilities": [
+    "Shell Armor",
+    "Sturdy"
+  ],
+  "detailPageURL": "/us/pokedex/dwebble",
+  "weight": 32,
+  "weakness": [
+    "Steel",
+    "Water",
+    "Rock"
+  ],
+  "number": "557",
+  "height": 12,
+  "collectibles_slug": "dwebble",
+  "featured": "true",
+  "slug": "dwebble",
+  "name": "Dwebble",
+  "ThumbnailAltText": "Dwebble",
+  "ThumbnailImage": "/pokedex-server/images/557.png",
+  "id": 557,
+  "type": [
+    "bug",
+    "rock"
+  ]
+}

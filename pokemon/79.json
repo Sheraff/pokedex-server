@@ -1,1 +1,28 @@
-{"abilities":["Oblivious","Own Tempo"],"detailPageURL":"/us/pokedex/slowpoke","weight":79.4,"weakness":["Ghost","Dark","Grass","Electric","Bug"],"number":"079","height":47,"collectibles_slug":"slowpoke","featured":"true","slug":"slowpoke","name":"Slowpoke","ThumbnailAltText":"Slowpoke","ThumbnailImage":"/pokedex-server/images/9.png","id":79,"type":["water","psychic"]}
+{
+  "abilities": [
+    "Oblivious",
+    "Own Tempo"
+  ],
+  "detailPageURL": "/us/pokedex/slowpoke",
+  "weight": 79.4,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Grass",
+    "Electric",
+    "Bug"
+  ],
+  "number": "079",
+  "height": 47,
+  "collectibles_slug": "slowpoke",
+  "featured": "true",
+  "slug": "slowpoke",
+  "name": "Slowpoke",
+  "ThumbnailAltText": "Slowpoke",
+  "ThumbnailImage": "/pokedex-server/images/79.png",
+  "id": 79,
+  "type": [
+    "water",
+    "psychic"
+  ]
+}

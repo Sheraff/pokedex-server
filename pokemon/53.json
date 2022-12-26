@@ -1,1 +1,23 @@
-{"abilities":["Limber","Technician"],"detailPageURL":"/us/pokedex/persian","weight":70.5,"weakness":["Fighting"],"number":"053","height":39,"collectibles_slug":"persian","featured":"true","slug":"persian","name":"Persian","ThumbnailAltText":"Persian","ThumbnailImage":"/pokedex-server/images/3.png","id":53,"type":["normal"]}
+{
+  "abilities": [
+    "Limber",
+    "Technician"
+  ],
+  "detailPageURL": "/us/pokedex/persian",
+  "weight": 70.5,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "053",
+  "height": 39,
+  "collectibles_slug": "persian",
+  "featured": "true",
+  "slug": "persian",
+  "name": "Persian",
+  "ThumbnailAltText": "Persian",
+  "ThumbnailImage": "/pokedex-server/images/53.png",
+  "id": 53,
+  "type": [
+    "normal"
+  ]
+}

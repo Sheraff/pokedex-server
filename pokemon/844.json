@@ -1,1 +1,25 @@
-{"abilities":["Sand Spit","Shed Skin"],"detailPageURL":"/us/pokedex/sandaconda","weight":144.4,"weakness":["Water","Grass","Ice"],"number":"844","height":150,"collectibles_slug":"sandaconda","featured":"true","slug":"sandaconda","name":"Sandaconda","ThumbnailAltText":"Sandaconda","ThumbnailImage":"/pokedex-server/images/4.png","id":844,"type":["ground"]}
+{
+  "abilities": [
+    "Sand Spit",
+    "Shed Skin"
+  ],
+  "detailPageURL": "/us/pokedex/sandaconda",
+  "weight": 144.4,
+  "weakness": [
+    "Water",
+    "Grass",
+    "Ice"
+  ],
+  "number": "844",
+  "height": 150,
+  "collectibles_slug": "sandaconda",
+  "featured": "true",
+  "slug": "sandaconda",
+  "name": "Sandaconda",
+  "ThumbnailAltText": "Sandaconda",
+  "ThumbnailImage": "/pokedex-server/images/844.png",
+  "id": 844,
+  "type": [
+    "ground"
+  ]
+}

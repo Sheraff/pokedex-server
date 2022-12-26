@@ -1,1 +1,22 @@
-{"abilities":["Multitype"],"detailPageURL":"/us/pokedex/arceus","weight":705.5,"weakness":["Fighting"],"number":"493","height":126,"collectibles_slug":"arceus","featured":"true","slug":"arceus","name":"Arceus","ThumbnailAltText":"Arceus","ThumbnailImage":"/pokedex-server/images/3.png","id":493,"type":["normal"]}
+{
+  "abilities": [
+    "Multitype"
+  ],
+  "detailPageURL": "/us/pokedex/arceus",
+  "weight": 705.5,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "493",
+  "height": 126,
+  "collectibles_slug": "arceus",
+  "featured": "true",
+  "slug": "arceus",
+  "name": "Arceus",
+  "ThumbnailAltText": "Arceus",
+  "ThumbnailImage": "/pokedex-server/images/493.png",
+  "id": 493,
+  "type": [
+    "normal"
+  ]
+}

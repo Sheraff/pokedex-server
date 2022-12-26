@@ -1,1 +1,23 @@
-{"abilities":["Intrepid Sword"],"detailPageURL":"/us/pokedex/zacian","weight":242.5,"weakness":["Steel","Poison"],"number":"888","height":110,"collectibles_slug":"zacian","featured":"true","slug":"zacian","name":"Zacian","ThumbnailAltText":"Zacian","ThumbnailImage":"/pokedex-server/images/8.png","id":888,"type":["fairy"]}
+{
+  "abilities": [
+    "Intrepid Sword"
+  ],
+  "detailPageURL": "/us/pokedex/zacian",
+  "weight": 242.5,
+  "weakness": [
+    "Steel",
+    "Poison"
+  ],
+  "number": "888",
+  "height": 110,
+  "collectibles_slug": "zacian",
+  "featured": "true",
+  "slug": "zacian",
+  "name": "Zacian",
+  "ThumbnailAltText": "Zacian",
+  "ThumbnailImage": "/pokedex-server/images/888.png",
+  "id": 888,
+  "type": [
+    "fairy"
+  ]
+}

@@ -1,1 +1,23 @@
-{"abilities":["Hydration"],"detailPageURL":"/us/pokedex/phione","weight":6.8,"weakness":["Grass","Electric"],"number":"489","height":16,"collectibles_slug":"phione","featured":"true","slug":"phione","name":"Phione","ThumbnailAltText":"Phione","ThumbnailImage":"/pokedex-server/images/9.png","id":489,"type":["water"]}
+{
+  "abilities": [
+    "Hydration"
+  ],
+  "detailPageURL": "/us/pokedex/phione",
+  "weight": 6.8,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "489",
+  "height": 16,
+  "collectibles_slug": "phione",
+  "featured": "true",
+  "slug": "phione",
+  "name": "Phione",
+  "ThumbnailAltText": "Phione",
+  "ThumbnailImage": "/pokedex-server/images/489.png",
+  "id": 489,
+  "type": [
+    "water"
+  ]
+}

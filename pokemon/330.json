@@ -1,1 +1,25 @@
-{"abilities":["Levitate"],"detailPageURL":"/us/pokedex/flygon","weight":180.8,"weakness":["Fairy","Ice","Dragon"],"number":"330","height":79,"collectibles_slug":"flygon","featured":"true","slug":"flygon","name":"Flygon","ThumbnailAltText":"Flygon","ThumbnailImage":"/pokedex-server/images/0.png","id":330,"type":["ground","dragon"]}
+{
+  "abilities": [
+    "Levitate"
+  ],
+  "detailPageURL": "/us/pokedex/flygon",
+  "weight": 180.8,
+  "weakness": [
+    "Fairy",
+    "Ice",
+    "Dragon"
+  ],
+  "number": "330",
+  "height": 79,
+  "collectibles_slug": "flygon",
+  "featured": "true",
+  "slug": "flygon",
+  "name": "Flygon",
+  "ThumbnailAltText": "Flygon",
+  "ThumbnailImage": "/pokedex-server/images/330.png",
+  "id": 330,
+  "type": [
+    "ground",
+    "dragon"
+  ]
+}

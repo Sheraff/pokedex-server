@@ -1,1 +1,24 @@
-{"abilities":["Hustle"],"detailPageURL":"/us/pokedex/darumaka","weight":82.7,"weakness":["Water","Ground","Rock"],"number":"554","height":24,"collectibles_slug":"darumaka","featured":"true","slug":"darumaka","name":"Darumaka","ThumbnailAltText":"Darumaka","ThumbnailImage":"/pokedex-server/images/4.png","id":554,"type":["fire"]}
+{
+  "abilities": [
+    "Hustle"
+  ],
+  "detailPageURL": "/us/pokedex/darumaka",
+  "weight": 82.7,
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "number": "554",
+  "height": 24,
+  "collectibles_slug": "darumaka",
+  "featured": "true",
+  "slug": "darumaka",
+  "name": "Darumaka",
+  "ThumbnailAltText": "Darumaka",
+  "ThumbnailImage": "/pokedex-server/images/554.png",
+  "id": 554,
+  "type": [
+    "fire"
+  ]
+}

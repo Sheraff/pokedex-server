@@ -1,1 +1,29 @@
-{"abilities":["Dry Skin","Effect Spore"],"detailPageURL":"/us/pokedex/parasect","weight":65,"weakness":["Fire","Flying","Ice","Poison","Rock","Bug"],"number":"047","height":39,"collectibles_slug":"parasect","featured":"true","slug":"parasect","name":"Parasect","ThumbnailAltText":"Parasect","ThumbnailImage":"/pokedex-server/images/7.png","id":47,"type":["bug","grass"]}
+{
+  "abilities": [
+    "Dry Skin",
+    "Effect Spore"
+  ],
+  "detailPageURL": "/us/pokedex/parasect",
+  "weight": 65,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Rock",
+    "Bug"
+  ],
+  "number": "047",
+  "height": 39,
+  "collectibles_slug": "parasect",
+  "featured": "true",
+  "slug": "parasect",
+  "name": "Parasect",
+  "ThumbnailAltText": "Parasect",
+  "ThumbnailImage": "/pokedex-server/images/47.png",
+  "id": 47,
+  "type": [
+    "bug",
+    "grass"
+  ]
+}

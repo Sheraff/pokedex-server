@@ -1,1 +1,27 @@
-{"abilities":["Rock Head","Sturdy"],"detailPageURL":"/us/pokedex/sudowoodo","weight":83.8,"weakness":["Water","Steel","Grass","Fighting","Ground"],"number":"185","height":47,"collectibles_slug":"sudowoodo","featured":"true","slug":"sudowoodo","name":"Sudowoodo","ThumbnailAltText":"Sudowoodo","ThumbnailImage":"/pokedex-server/images/5.png","id":185,"type":["rock"]}
+{
+  "abilities": [
+    "Rock Head",
+    "Sturdy"
+  ],
+  "detailPageURL": "/us/pokedex/sudowoodo",
+  "weight": 83.8,
+  "weakness": [
+    "Water",
+    "Steel",
+    "Grass",
+    "Fighting",
+    "Ground"
+  ],
+  "number": "185",
+  "height": 47,
+  "collectibles_slug": "sudowoodo",
+  "featured": "true",
+  "slug": "sudowoodo",
+  "name": "Sudowoodo",
+  "ThumbnailAltText": "Sudowoodo",
+  "ThumbnailImage": "/pokedex-server/images/185.png",
+  "id": 185,
+  "type": [
+    "rock"
+  ]
+}

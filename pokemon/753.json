@@ -1,1 +1,26 @@
-{"abilities":["Leaf Guard"],"detailPageURL":"/us/pokedex/fomantis","weight":3.3,"weakness":["Fire","Flying","Ice","Poison","Bug"],"number":"753","height":12,"collectibles_slug":"fomantis","featured":"true","slug":"fomantis","name":"Fomantis","ThumbnailAltText":"Fomantis","ThumbnailImage":"/pokedex-server/images/3.png","id":753,"type":["grass"]}
+{
+  "abilities": [
+    "Leaf Guard"
+  ],
+  "detailPageURL": "/us/pokedex/fomantis",
+  "weight": 3.3,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "753",
+  "height": 12,
+  "collectibles_slug": "fomantis",
+  "featured": "true",
+  "slug": "fomantis",
+  "name": "Fomantis",
+  "ThumbnailAltText": "Fomantis",
+  "ThumbnailImage": "/pokedex-server/images/753.png",
+  "id": 753,
+  "type": [
+    "grass"
+  ]
+}

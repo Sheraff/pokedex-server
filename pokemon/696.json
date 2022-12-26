@@ -1,1 +1,28 @@
-{"abilities":["Strong Jaw"],"detailPageURL":"/us/pokedex/tyrunt","weight":57.3,"weakness":["Steel","Fighting","Dragon","Ice","Fairy","Ground"],"number":"696","height":31,"collectibles_slug":"tyrunt","featured":"true","slug":"tyrunt","name":"Tyrunt","ThumbnailAltText":"Tyrunt","ThumbnailImage":"/pokedex-server/images/6.png","id":696,"type":["rock","dragon"]}
+{
+  "abilities": [
+    "Strong Jaw"
+  ],
+  "detailPageURL": "/us/pokedex/tyrunt",
+  "weight": 57.3,
+  "weakness": [
+    "Steel",
+    "Fighting",
+    "Dragon",
+    "Ice",
+    "Fairy",
+    "Ground"
+  ],
+  "number": "696",
+  "height": 31,
+  "collectibles_slug": "tyrunt",
+  "featured": "true",
+  "slug": "tyrunt",
+  "name": "Tyrunt",
+  "ThumbnailAltText": "Tyrunt",
+  "ThumbnailImage": "/pokedex-server/images/696.png",
+  "id": 696,
+  "type": [
+    "rock",
+    "dragon"
+  ]
+}

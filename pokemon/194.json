@@ -1,1 +1,24 @@
-{"abilities":["Damp","Water Absorb"],"detailPageURL":"/us/pokedex/wooper","weight":18.7,"weakness":["Grass"],"number":"194","height":16,"collectibles_slug":"wooper","featured":"true","slug":"wooper","name":"Wooper","ThumbnailAltText":"Wooper","ThumbnailImage":"/pokedex-server/images/4.png","id":194,"type":["water","ground"]}
+{
+  "abilities": [
+    "Damp",
+    "Water Absorb"
+  ],
+  "detailPageURL": "/us/pokedex/wooper",
+  "weight": 18.7,
+  "weakness": [
+    "Grass"
+  ],
+  "number": "194",
+  "height": 16,
+  "collectibles_slug": "wooper",
+  "featured": "true",
+  "slug": "wooper",
+  "name": "Wooper",
+  "ThumbnailAltText": "Wooper",
+  "ThumbnailImage": "/pokedex-server/images/194.png",
+  "id": 194,
+  "type": [
+    "water",
+    "ground"
+  ]
+}

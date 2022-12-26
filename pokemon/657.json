@@ -1,1 +1,23 @@
-{"abilities":["Torrent"],"detailPageURL":"/us/pokedex/frogadier","weight":24,"weakness":["Grass","Electric"],"number":"657","height":24,"collectibles_slug":"frogadier","featured":"true","slug":"frogadier","name":"Frogadier","ThumbnailAltText":"Frogadier","ThumbnailImage":"/pokedex-server/images/7.png","id":657,"type":["water"]}
+{
+  "abilities": [
+    "Torrent"
+  ],
+  "detailPageURL": "/us/pokedex/frogadier",
+  "weight": 24,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "657",
+  "height": 24,
+  "collectibles_slug": "frogadier",
+  "featured": "true",
+  "slug": "frogadier",
+  "name": "Frogadier",
+  "ThumbnailAltText": "Frogadier",
+  "ThumbnailImage": "/pokedex-server/images/657.png",
+  "id": 657,
+  "type": [
+    "water"
+  ]
+}

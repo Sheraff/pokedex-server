@@ -1,1 +1,24 @@
-{"abilities":["Shell Armor","Strong Jaw"],"detailPageURL":"/us/pokedex/chewtle","weight":18.7,"weakness":["Grass","Electric"],"number":"833","height":12,"collectibles_slug":"chewtle","featured":"true","slug":"chewtle","name":"Chewtle","ThumbnailAltText":"Chewtle","ThumbnailImage":"/pokedex-server/images/3.png","id":833,"type":["water"]}
+{
+  "abilities": [
+    "Shell Armor",
+    "Strong Jaw"
+  ],
+  "detailPageURL": "/us/pokedex/chewtle",
+  "weight": 18.7,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "833",
+  "height": 12,
+  "collectibles_slug": "chewtle",
+  "featured": "true",
+  "slug": "chewtle",
+  "name": "Chewtle",
+  "ThumbnailAltText": "Chewtle",
+  "ThumbnailImage": "/pokedex-server/images/833.png",
+  "id": 833,
+  "type": [
+    "water"
+  ]
+}

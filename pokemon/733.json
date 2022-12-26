@@ -1,1 +1,26 @@
-{"abilities":["Keen Eye","Skill Link"],"detailPageURL":"/us/pokedex/toucannon","weight":57.3,"weakness":["Electric","Ice","Rock"],"number":"733","height":43,"collectibles_slug":"toucannon","featured":"true","slug":"toucannon","name":"Toucannon","ThumbnailAltText":"Toucannon","ThumbnailImage":"/pokedex-server/images/3.png","id":733,"type":["normal","flying"]}
+{
+  "abilities": [
+    "Keen Eye",
+    "Skill Link"
+  ],
+  "detailPageURL": "/us/pokedex/toucannon",
+  "weight": 57.3,
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "733",
+  "height": 43,
+  "collectibles_slug": "toucannon",
+  "featured": "true",
+  "slug": "toucannon",
+  "name": "Toucannon",
+  "ThumbnailAltText": "Toucannon",
+  "ThumbnailImage": "/pokedex-server/images/733.png",
+  "id": 733,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

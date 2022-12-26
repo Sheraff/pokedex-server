@@ -1,1 +1,26 @@
-{"abilities":["Keen Eye","Tangled Feet"],"detailPageURL":"/us/pokedex/pidgeotto","weight":66.1,"weakness":["Electric","Ice","Rock"],"number":"017","height":43,"collectibles_slug":"pidgeotto","featured":"true","slug":"pidgeotto","name":"Pidgeotto","ThumbnailAltText":"Pidgeotto","ThumbnailImage":"/pokedex-server/images/7.png","id":17,"type":["normal","flying"]}
+{
+  "abilities": [
+    "Keen Eye",
+    "Tangled Feet"
+  ],
+  "detailPageURL": "/us/pokedex/pidgeotto",
+  "weight": 66.1,
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "017",
+  "height": 43,
+  "collectibles_slug": "pidgeotto",
+  "featured": "true",
+  "slug": "pidgeotto",
+  "name": "Pidgeotto",
+  "ThumbnailAltText": "Pidgeotto",
+  "ThumbnailImage": "/pokedex-server/images/17.png",
+  "id": 17,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

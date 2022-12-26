@@ -1,1 +1,22 @@
-{"abilities":["Static"],"detailPageURL":"/us/pokedex/pichu","weight":4.4,"weakness":["Ground"],"number":"172","height":12,"collectibles_slug":"pichu","featured":"true","slug":"pichu","name":"Pichu","ThumbnailAltText":"Pichu","ThumbnailImage":"/pokedex-server/images/2.png","id":172,"type":["electric"]}
+{
+  "abilities": [
+    "Static"
+  ],
+  "detailPageURL": "/us/pokedex/pichu",
+  "weight": 4.4,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "172",
+  "height": 12,
+  "collectibles_slug": "pichu",
+  "featured": "true",
+  "slug": "pichu",
+  "name": "Pichu",
+  "ThumbnailAltText": "Pichu",
+  "ThumbnailImage": "/pokedex-server/images/172.png",
+  "id": 172,
+  "type": [
+    "electric"
+  ]
+}

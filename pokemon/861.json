@@ -1,1 +1,26 @@
-{"abilities":["Frisk","Prankster"],"detailPageURL":"/us/pokedex/grimmsnarl","weight":134.5,"weakness":["Steel","Fairy","Poison"],"number":"861","height":59,"collectibles_slug":"grimmsnarl","featured":"true","slug":"grimmsnarl","name":"Grimmsnarl","ThumbnailAltText":"Grimmsnarl","ThumbnailImage":"/pokedex-server/images/1.png","id":861,"type":["dark","fairy"]}
+{
+  "abilities": [
+    "Frisk",
+    "Prankster"
+  ],
+  "detailPageURL": "/us/pokedex/grimmsnarl",
+  "weight": 134.5,
+  "weakness": [
+    "Steel",
+    "Fairy",
+    "Poison"
+  ],
+  "number": "861",
+  "height": 59,
+  "collectibles_slug": "grimmsnarl",
+  "featured": "true",
+  "slug": "grimmsnarl",
+  "name": "Grimmsnarl",
+  "ThumbnailAltText": "Grimmsnarl",
+  "ThumbnailImage": "/pokedex-server/images/861.png",
+  "id": 861,
+  "type": [
+    "dark",
+    "fairy"
+  ]
+}

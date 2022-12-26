@@ -1,1 +1,23 @@
-{"abilities":["Weak Armor"],"detailPageURL":"/us/pokedex/polteageist","weight":0.9,"weakness":["Ghost","Dark"],"number":"855","height":8,"collectibles_slug":"polteageist","featured":"true","slug":"polteageist","name":"Polteageist","ThumbnailAltText":"Polteageist","ThumbnailImage":"/pokedex-server/images/5.png","id":855,"type":["ghost"]}
+{
+  "abilities": [
+    "Weak Armor"
+  ],
+  "detailPageURL": "/us/pokedex/polteageist",
+  "weight": 0.9,
+  "weakness": [
+    "Ghost",
+    "Dark"
+  ],
+  "number": "855",
+  "height": 8,
+  "collectibles_slug": "polteageist",
+  "featured": "true",
+  "slug": "polteageist",
+  "name": "Polteageist",
+  "ThumbnailAltText": "Polteageist",
+  "ThumbnailImage": "/pokedex-server/images/855.png",
+  "id": 855,
+  "type": [
+    "ghost"
+  ]
+}

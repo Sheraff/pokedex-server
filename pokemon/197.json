@@ -1,1 +1,24 @@
-{"abilities":["Synchronize"],"detailPageURL":"/us/pokedex/umbreon","weight":59.5,"weakness":["Fairy","Bug","Fighting"],"number":"197","height":39,"collectibles_slug":"umbreon","featured":"true","slug":"umbreon","name":"Umbreon","ThumbnailAltText":"Umbreon","ThumbnailImage":"/pokedex-server/images/7.png","id":197,"type":["dark"]}
+{
+  "abilities": [
+    "Synchronize"
+  ],
+  "detailPageURL": "/us/pokedex/umbreon",
+  "weight": 59.5,
+  "weakness": [
+    "Fairy",
+    "Bug",
+    "Fighting"
+  ],
+  "number": "197",
+  "height": 39,
+  "collectibles_slug": "umbreon",
+  "featured": "true",
+  "slug": "umbreon",
+  "name": "Umbreon",
+  "ThumbnailAltText": "Umbreon",
+  "ThumbnailImage": "/pokedex-server/images/197.png",
+  "id": 197,
+  "type": [
+    "dark"
+  ]
+}

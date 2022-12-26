@@ -1,1 +1,25 @@
-{"abilities":["Own Tempo","Thick Fat"],"detailPageURL":"/us/pokedex/grumpig","weight":157.6,"weakness":["Ghost","Dark","Bug"],"number":"326","height":35,"collectibles_slug":"grumpig","featured":"true","slug":"grumpig","name":"Grumpig","ThumbnailAltText":"Grumpig","ThumbnailImage":"/pokedex-server/images/6.png","id":326,"type":["psychic"]}
+{
+  "abilities": [
+    "Own Tempo",
+    "Thick Fat"
+  ],
+  "detailPageURL": "/us/pokedex/grumpig",
+  "weight": 157.6,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "number": "326",
+  "height": 35,
+  "collectibles_slug": "grumpig",
+  "featured": "true",
+  "slug": "grumpig",
+  "name": "Grumpig",
+  "ThumbnailAltText": "Grumpig",
+  "ThumbnailImage": "/pokedex-server/images/326.png",
+  "id": 326,
+  "type": [
+    "psychic"
+  ]
+}

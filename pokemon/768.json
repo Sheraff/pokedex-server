@@ -1,1 +1,25 @@
-{"abilities":["Emergency Exit"],"detailPageURL":"/us/pokedex/golisopod","weight":238.1,"weakness":["Flying","Electric","Rock"],"number":"768","height":79,"collectibles_slug":"golisopod","featured":"true","slug":"golisopod","name":"Golisopod","ThumbnailAltText":"Golisopod","ThumbnailImage":"/pokedex-server/images/8.png","id":768,"type":["bug","water"]}
+{
+  "abilities": [
+    "Emergency Exit"
+  ],
+  "detailPageURL": "/us/pokedex/golisopod",
+  "weight": 238.1,
+  "weakness": [
+    "Flying",
+    "Electric",
+    "Rock"
+  ],
+  "number": "768",
+  "height": 79,
+  "collectibles_slug": "golisopod",
+  "featured": "true",
+  "slug": "golisopod",
+  "name": "Golisopod",
+  "ThumbnailAltText": "Golisopod",
+  "ThumbnailImage": "/pokedex-server/images/768.png",
+  "id": 768,
+  "type": [
+    "bug",
+    "water"
+  ]
+}

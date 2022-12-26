@@ -1,1 +1,25 @@
-{"abilities":["Arena Trap","Sand Veil"],"detailPageURL":"/us/pokedex/diglett","weight":1.8,"weakness":["Water","Grass","Ice"],"number":"050","height":8,"collectibles_slug":"diglett","featured":"true","slug":"diglett","name":"Diglett","ThumbnailAltText":"Diglett","ThumbnailImage":"/pokedex-server/images/0.png","id":50,"type":["ground"]}
+{
+  "abilities": [
+    "Arena Trap",
+    "Sand Veil"
+  ],
+  "detailPageURL": "/us/pokedex/diglett",
+  "weight": 1.8,
+  "weakness": [
+    "Water",
+    "Grass",
+    "Ice"
+  ],
+  "number": "050",
+  "height": 8,
+  "collectibles_slug": "diglett",
+  "featured": "true",
+  "slug": "diglett",
+  "name": "Diglett",
+  "ThumbnailAltText": "Diglett",
+  "ThumbnailImage": "/pokedex-server/images/50.png",
+  "id": 50,
+  "type": [
+    "ground"
+  ]
+}

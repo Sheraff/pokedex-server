@@ -1,1 +1,26 @@
-{"abilities":["Ice Body","Inner Focus"],"detailPageURL":"/us/pokedex/glalie","weight":565.5,"weakness":["Fire","Steel","Fighting","Rock"],"number":"362","height":59,"collectibles_slug":"glalie","featured":"true","slug":"glalie","name":"Glalie","ThumbnailAltText":"Glalie","ThumbnailImage":"/pokedex-server/images/2.png","id":362,"type":["ice"]}
+{
+  "abilities": [
+    "Ice Body",
+    "Inner Focus"
+  ],
+  "detailPageURL": "/us/pokedex/glalie",
+  "weight": 565.5,
+  "weakness": [
+    "Fire",
+    "Steel",
+    "Fighting",
+    "Rock"
+  ],
+  "number": "362",
+  "height": 59,
+  "collectibles_slug": "glalie",
+  "featured": "true",
+  "slug": "glalie",
+  "name": "Glalie",
+  "ThumbnailAltText": "Glalie",
+  "ThumbnailImage": "/pokedex-server/images/362.png",
+  "id": 362,
+  "type": [
+    "ice"
+  ]
+}

@@ -1,1 +1,22 @@
-{"abilities":["Strong Jaw"],"detailPageURL":"/us/pokedex/boltund","weight":75,"weakness":["Ground"],"number":"836","height":39,"collectibles_slug":"boltund","featured":"true","slug":"boltund","name":"Boltund","ThumbnailAltText":"Boltund","ThumbnailImage":"/pokedex-server/images/6.png","id":836,"type":["electric"]}
+{
+  "abilities": [
+    "Strong Jaw"
+  ],
+  "detailPageURL": "/us/pokedex/boltund",
+  "weight": 75,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "836",
+  "height": 39,
+  "collectibles_slug": "boltund",
+  "featured": "true",
+  "slug": "boltund",
+  "name": "Boltund",
+  "ThumbnailAltText": "Boltund",
+  "ThumbnailImage": "/pokedex-server/images/836.png",
+  "id": 836,
+  "type": [
+    "electric"
+  ]
+}

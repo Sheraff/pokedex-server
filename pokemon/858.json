@@ -1,1 +1,26 @@
-{"abilities":["Anticipation","Healer"],"detailPageURL":"/us/pokedex/hatterene","weight":11.2,"weakness":["Ghost","Steel","Poison"],"number":"858","height":83,"collectibles_slug":"hatterene","featured":"true","slug":"hatterene","name":"Hatterene","ThumbnailAltText":"Hatterene","ThumbnailImage":"/pokedex-server/images/8.png","id":858,"type":["psychic","fairy"]}
+{
+  "abilities": [
+    "Anticipation",
+    "Healer"
+  ],
+  "detailPageURL": "/us/pokedex/hatterene",
+  "weight": 11.2,
+  "weakness": [
+    "Ghost",
+    "Steel",
+    "Poison"
+  ],
+  "number": "858",
+  "height": 83,
+  "collectibles_slug": "hatterene",
+  "featured": "true",
+  "slug": "hatterene",
+  "name": "Hatterene",
+  "ThumbnailAltText": "Hatterene",
+  "ThumbnailImage": "/pokedex-server/images/858.png",
+  "id": 858,
+  "type": [
+    "psychic",
+    "fairy"
+  ]
+}

@@ -1,1 +1,26 @@
-{"abilities":["Anticipation","Dry Skin"],"detailPageURL":"/us/pokedex/toxicroak","weight":97.9,"weakness":["Psychic","Flying","Ground"],"number":"454","height":51,"collectibles_slug":"toxicroak","featured":"true","slug":"toxicroak","name":"Toxicroak","ThumbnailAltText":"Toxicroak","ThumbnailImage":"/pokedex-server/images/4.png","id":454,"type":["poison","fighting"]}
+{
+  "abilities": [
+    "Anticipation",
+    "Dry Skin"
+  ],
+  "detailPageURL": "/us/pokedex/toxicroak",
+  "weight": 97.9,
+  "weakness": [
+    "Psychic",
+    "Flying",
+    "Ground"
+  ],
+  "number": "454",
+  "height": 51,
+  "collectibles_slug": "toxicroak",
+  "featured": "true",
+  "slug": "toxicroak",
+  "name": "Toxicroak",
+  "ThumbnailAltText": "Toxicroak",
+  "ThumbnailImage": "/pokedex-server/images/454.png",
+  "id": 454,
+  "type": [
+    "poison",
+    "fighting"
+  ]
+}

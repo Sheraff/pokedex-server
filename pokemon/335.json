@@ -1,1 +1,22 @@
-{"abilities":["Immunity"],"detailPageURL":"/us/pokedex/zangoose","weight":88.8,"weakness":["Fighting"],"number":"335","height":51,"collectibles_slug":"zangoose","featured":"true","slug":"zangoose","name":"Zangoose","ThumbnailAltText":"Zangoose","ThumbnailImage":"/pokedex-server/images/5.png","id":335,"type":["normal"]}
+{
+  "abilities": [
+    "Immunity"
+  ],
+  "detailPageURL": "/us/pokedex/zangoose",
+  "weight": 88.8,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "335",
+  "height": 51,
+  "collectibles_slug": "zangoose",
+  "featured": "true",
+  "slug": "zangoose",
+  "name": "Zangoose",
+  "ThumbnailAltText": "Zangoose",
+  "ThumbnailImage": "/pokedex-server/images/335.png",
+  "id": 335,
+  "type": [
+    "normal"
+  ]
+}

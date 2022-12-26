@@ -1,1 +1,24 @@
-{"abilities":["Shell Armor","Skill Link"],"detailPageURL":"/us/pokedex/shellder","weight":8.8,"weakness":["Grass","Electric"],"number":"090","height":12,"collectibles_slug":"shellder","featured":"true","slug":"shellder","name":"Shellder","ThumbnailAltText":"Shellder","ThumbnailImage":"/pokedex-server/images/0.png","id":90,"type":["water"]}
+{
+  "abilities": [
+    "Shell Armor",
+    "Skill Link"
+  ],
+  "detailPageURL": "/us/pokedex/shellder",
+  "weight": 8.8,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "090",
+  "height": 12,
+  "collectibles_slug": "shellder",
+  "featured": "true",
+  "slug": "shellder",
+  "name": "Shellder",
+  "ThumbnailAltText": "Shellder",
+  "ThumbnailImage": "/pokedex-server/images/90.png",
+  "id": 90,
+  "type": [
+    "water"
+  ]
+}

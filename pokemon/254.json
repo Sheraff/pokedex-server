@@ -1,1 +1,26 @@
-{"abilities":["Overgrow"],"detailPageURL":"/us/pokedex/sceptile","weight":115.1,"weakness":["Fire","Flying","Ice","Poison","Bug"],"number":"254","height":67,"collectibles_slug":"sceptile","featured":"true","slug":"sceptile","name":"Sceptile","ThumbnailAltText":"Sceptile","ThumbnailImage":"/pokedex-server/images/4.png","id":254,"type":["grass"]}
+{
+  "abilities": [
+    "Overgrow"
+  ],
+  "detailPageURL": "/us/pokedex/sceptile",
+  "weight": 115.1,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "254",
+  "height": 67,
+  "collectibles_slug": "sceptile",
+  "featured": "true",
+  "slug": "sceptile",
+  "name": "Sceptile",
+  "ThumbnailAltText": "Sceptile",
+  "ThumbnailImage": "/pokedex-server/images/254.png",
+  "id": 254,
+  "type": [
+    "grass"
+  ]
+}

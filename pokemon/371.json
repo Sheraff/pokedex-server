@@ -1,1 +1,24 @@
-{"abilities":["Rock Head"],"detailPageURL":"/us/pokedex/bagon","weight":92.8,"weakness":["Fairy","Ice","Dragon"],"number":"371","height":24,"collectibles_slug":"bagon","featured":"true","slug":"bagon","name":"Bagon","ThumbnailAltText":"Bagon","ThumbnailImage":"/pokedex-server/images/1.png","id":371,"type":["dragon"]}
+{
+  "abilities": [
+    "Rock Head"
+  ],
+  "detailPageURL": "/us/pokedex/bagon",
+  "weight": 92.8,
+  "weakness": [
+    "Fairy",
+    "Ice",
+    "Dragon"
+  ],
+  "number": "371",
+  "height": 24,
+  "collectibles_slug": "bagon",
+  "featured": "true",
+  "slug": "bagon",
+  "name": "Bagon",
+  "ThumbnailAltText": "Bagon",
+  "ThumbnailImage": "/pokedex-server/images/371.png",
+  "id": 371,
+  "type": [
+    "dragon"
+  ]
+}

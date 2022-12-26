@@ -1,1 +1,22 @@
-{"abilities":["Battle Armor"],"detailPageURL":"/us/pokedex/type-null","weight":265.7,"weakness":["Fighting"],"number":"772","height":75,"collectibles_slug":"type-null","featured":"true","slug":"type-null","name":"Type: Null","ThumbnailAltText":"Type: Null","ThumbnailImage":"/pokedex-server/images/2.png","id":772,"type":["normal"]}
+{
+  "abilities": [
+    "Battle Armor"
+  ],
+  "detailPageURL": "/us/pokedex/type-null",
+  "weight": 265.7,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "772",
+  "height": 75,
+  "collectibles_slug": "type-null",
+  "featured": "true",
+  "slug": "type-null",
+  "name": "Type: Null",
+  "ThumbnailAltText": "Type: Null",
+  "ThumbnailImage": "/pokedex-server/images/772.png",
+  "id": 772,
+  "type": [
+    "normal"
+  ]
+}

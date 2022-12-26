@@ -1,1 +1,24 @@
-{"abilities":["Blaze"],"detailPageURL":"/us/pokedex/braixen","weight":32,"weakness":["Water","Ground","Rock"],"number":"654","height":39,"collectibles_slug":"braixen","featured":"true","slug":"braixen","name":"Braixen","ThumbnailAltText":"Braixen","ThumbnailImage":"/pokedex-server/images/4.png","id":654,"type":["fire"]}
+{
+  "abilities": [
+    "Blaze"
+  ],
+  "detailPageURL": "/us/pokedex/braixen",
+  "weight": 32,
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "number": "654",
+  "height": 39,
+  "collectibles_slug": "braixen",
+  "featured": "true",
+  "slug": "braixen",
+  "name": "Braixen",
+  "ThumbnailAltText": "Braixen",
+  "ThumbnailImage": "/pokedex-server/images/654.png",
+  "id": 654,
+  "type": [
+    "fire"
+  ]
+}

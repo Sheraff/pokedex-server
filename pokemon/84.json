@@ -1,1 +1,26 @@
-{"abilities":["Early Bird","Run Away"],"detailPageURL":"/us/pokedex/doduo","weight":86.4,"weakness":["Electric","Ice","Rock"],"number":"084","height":55,"collectibles_slug":"doduo","featured":"true","slug":"doduo","name":"Doduo","ThumbnailAltText":"Doduo","ThumbnailImage":"/pokedex-server/images/4.png","id":84,"type":["normal","flying"]}
+{
+  "abilities": [
+    "Early Bird",
+    "Run Away"
+  ],
+  "detailPageURL": "/us/pokedex/doduo",
+  "weight": 86.4,
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "084",
+  "height": 55,
+  "collectibles_slug": "doduo",
+  "featured": "true",
+  "slug": "doduo",
+  "name": "Doduo",
+  "ThumbnailAltText": "Doduo",
+  "ThumbnailImage": "/pokedex-server/images/84.png",
+  "id": 84,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

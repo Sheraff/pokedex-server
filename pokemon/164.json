@@ -1,1 +1,26 @@
-{"abilities":["Insomnia","Keen Eye"],"detailPageURL":"/us/pokedex/noctowl","weight":89.9,"weakness":["Electric","Ice","Rock"],"number":"164","height":63,"collectibles_slug":"noctowl","featured":"true","slug":"noctowl","name":"Noctowl","ThumbnailAltText":"Noctowl","ThumbnailImage":"/pokedex-server/images/4.png","id":164,"type":["normal","flying"]}
+{
+  "abilities": [
+    "Insomnia",
+    "Keen Eye"
+  ],
+  "detailPageURL": "/us/pokedex/noctowl",
+  "weight": 89.9,
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "164",
+  "height": 63,
+  "collectibles_slug": "noctowl",
+  "featured": "true",
+  "slug": "noctowl",
+  "name": "Noctowl",
+  "ThumbnailAltText": "Noctowl",
+  "ThumbnailImage": "/pokedex-server/images/164.png",
+  "id": 164,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

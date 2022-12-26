@@ -1,1 +1,26 @@
-{"abilities":["Cursed Body"],"detailPageURL":"/us/pokedex/gengar","weight":89.3,"weakness":["Ghost","Dark","Psychic","Ground"],"number":"094","height":59,"collectibles_slug":"gengar","featured":"true","slug":"gengar","name":"Gengar","ThumbnailAltText":"Gengar","ThumbnailImage":"/pokedex-server/images/4.png","id":94,"type":["ghost","poison"]}
+{
+  "abilities": [
+    "Cursed Body"
+  ],
+  "detailPageURL": "/us/pokedex/gengar",
+  "weight": 89.3,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Psychic",
+    "Ground"
+  ],
+  "number": "094",
+  "height": 59,
+  "collectibles_slug": "gengar",
+  "featured": "true",
+  "slug": "gengar",
+  "name": "Gengar",
+  "ThumbnailAltText": "Gengar",
+  "ThumbnailImage": "/pokedex-server/images/94.png",
+  "id": 94,
+  "type": [
+    "ghost",
+    "poison"
+  ]
+}

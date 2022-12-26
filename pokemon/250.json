@@ -1,1 +1,25 @@
-{"abilities":["Pressure"],"detailPageURL":"/us/pokedex/ho-oh","weight":438.7,"weakness":["Water","Electric","Rock"],"number":"250","height":150,"collectibles_slug":"ho-oh","featured":"true","slug":"ho-oh","name":"Ho-Oh","ThumbnailAltText":"Ho-Oh","ThumbnailImage":"/pokedex-server/images/0.png","id":250,"type":["fire","flying"]}
+{
+  "abilities": [
+    "Pressure"
+  ],
+  "detailPageURL": "/us/pokedex/ho-oh",
+  "weight": 438.7,
+  "weakness": [
+    "Water",
+    "Electric",
+    "Rock"
+  ],
+  "number": "250",
+  "height": 150,
+  "collectibles_slug": "ho-oh",
+  "featured": "true",
+  "slug": "ho-oh",
+  "name": "Ho-Oh",
+  "ThumbnailAltText": "Ho-Oh",
+  "ThumbnailImage": "/pokedex-server/images/250.png",
+  "id": 250,
+  "type": [
+    "fire",
+    "flying"
+  ]
+}

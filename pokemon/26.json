@@ -1,1 +1,22 @@
-{"abilities":["Static"],"detailPageURL":"/us/pokedex/raichu","weight":66.1,"weakness":["Ground"],"number":"026","height":31,"collectibles_slug":"raichu","featured":"true","slug":"raichu","name":"Raichu","ThumbnailAltText":"Raichu","ThumbnailImage":"/pokedex-server/images/6.png","id":26,"type":["electric"]}
+{
+  "abilities": [
+    "Static"
+  ],
+  "detailPageURL": "/us/pokedex/raichu",
+  "weight": 66.1,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "026",
+  "height": 31,
+  "collectibles_slug": "raichu",
+  "featured": "true",
+  "slug": "raichu",
+  "name": "Raichu",
+  "ThumbnailAltText": "Raichu",
+  "ThumbnailImage": "/pokedex-server/images/26.png",
+  "id": 26,
+  "type": [
+    "electric"
+  ]
+}

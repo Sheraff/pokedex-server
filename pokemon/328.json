@@ -1,1 +1,25 @@
-{"abilities":["Arena Trap","Hyper Cutter"],"detailPageURL":"/us/pokedex/trapinch","weight":33.1,"weakness":["Water","Grass","Ice"],"number":"328","height":28,"collectibles_slug":"trapinch","featured":"true","slug":"trapinch","name":"Trapinch","ThumbnailAltText":"Trapinch","ThumbnailImage":"/pokedex-server/images/8.png","id":328,"type":["ground"]}
+{
+  "abilities": [
+    "Arena Trap",
+    "Hyper Cutter"
+  ],
+  "detailPageURL": "/us/pokedex/trapinch",
+  "weight": 33.1,
+  "weakness": [
+    "Water",
+    "Grass",
+    "Ice"
+  ],
+  "number": "328",
+  "height": 28,
+  "collectibles_slug": "trapinch",
+  "featured": "true",
+  "slug": "trapinch",
+  "name": "Trapinch",
+  "ThumbnailAltText": "Trapinch",
+  "ThumbnailImage": "/pokedex-server/images/328.png",
+  "id": 328,
+  "type": [
+    "ground"
+  ]
+}

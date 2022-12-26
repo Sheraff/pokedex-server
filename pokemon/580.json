@@ -1,1 +1,25 @@
-{"abilities":["Big Pecks","Keen Eye"],"detailPageURL":"/us/pokedex/ducklett","weight":12.1,"weakness":["Electric","Rock"],"number":"580","height":20,"collectibles_slug":"ducklett","featured":"true","slug":"ducklett","name":"Ducklett","ThumbnailAltText":"Ducklett","ThumbnailImage":"/pokedex-server/images/0.png","id":580,"type":["water","flying"]}
+{
+  "abilities": [
+    "Big Pecks",
+    "Keen Eye"
+  ],
+  "detailPageURL": "/us/pokedex/ducklett",
+  "weight": 12.1,
+  "weakness": [
+    "Electric",
+    "Rock"
+  ],
+  "number": "580",
+  "height": 20,
+  "collectibles_slug": "ducklett",
+  "featured": "true",
+  "slug": "ducklett",
+  "name": "Ducklett",
+  "ThumbnailAltText": "Ducklett",
+  "ThumbnailImage": "/pokedex-server/images/580.png",
+  "id": 580,
+  "type": [
+    "water",
+    "flying"
+  ]
+}

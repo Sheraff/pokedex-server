@@ -1,1 +1,25 @@
-{"abilities":["Drizzle","Keen Eye"],"detailPageURL":"/us/pokedex/pelipper","weight":61.7,"weakness":["Electric","Rock"],"number":"279","height":47,"collectibles_slug":"pelipper","featured":"true","slug":"pelipper","name":"Pelipper","ThumbnailAltText":"Pelipper","ThumbnailImage":"/pokedex-server/images/9.png","id":279,"type":["water","flying"]}
+{
+  "abilities": [
+    "Drizzle",
+    "Keen Eye"
+  ],
+  "detailPageURL": "/us/pokedex/pelipper",
+  "weight": 61.7,
+  "weakness": [
+    "Electric",
+    "Rock"
+  ],
+  "number": "279",
+  "height": 47,
+  "collectibles_slug": "pelipper",
+  "featured": "true",
+  "slug": "pelipper",
+  "name": "Pelipper",
+  "ThumbnailAltText": "Pelipper",
+  "ThumbnailImage": "/pokedex-server/images/279.png",
+  "id": 279,
+  "type": [
+    "water",
+    "flying"
+  ]
+}

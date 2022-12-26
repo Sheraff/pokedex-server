@@ -1,1 +1,25 @@
-{"abilities":["Anticipation","Healer"],"detailPageURL":"/us/pokedex/hattrem","weight":10.6,"weakness":["Ghost","Dark","Bug"],"number":"857","height":24,"collectibles_slug":"hattrem","featured":"true","slug":"hattrem","name":"Hattrem","ThumbnailAltText":"Hattrem","ThumbnailImage":"/pokedex-server/images/7.png","id":857,"type":["psychic"]}
+{
+  "abilities": [
+    "Anticipation",
+    "Healer"
+  ],
+  "detailPageURL": "/us/pokedex/hattrem",
+  "weight": 10.6,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "number": "857",
+  "height": 24,
+  "collectibles_slug": "hattrem",
+  "featured": "true",
+  "slug": "hattrem",
+  "name": "Hattrem",
+  "ThumbnailAltText": "Hattrem",
+  "ThumbnailImage": "/pokedex-server/images/857.png",
+  "id": 857,
+  "type": [
+    "psychic"
+  ]
+}

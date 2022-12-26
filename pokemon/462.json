@@ -1,1 +1,26 @@
-{"abilities":["Magnet Pull","Sturdy"],"detailPageURL":"/us/pokedex/magnezone","weight":396.8,"weakness":["Fire","Fighting","Ground"],"number":"462","height":47,"collectibles_slug":"magnezone","featured":"true","slug":"magnezone","name":"Magnezone","ThumbnailAltText":"Magnezone","ThumbnailImage":"/pokedex-server/images/2.png","id":462,"type":["electric","steel"]}
+{
+  "abilities": [
+    "Magnet Pull",
+    "Sturdy"
+  ],
+  "detailPageURL": "/us/pokedex/magnezone",
+  "weight": 396.8,
+  "weakness": [
+    "Fire",
+    "Fighting",
+    "Ground"
+  ],
+  "number": "462",
+  "height": 47,
+  "collectibles_slug": "magnezone",
+  "featured": "true",
+  "slug": "magnezone",
+  "name": "Magnezone",
+  "ThumbnailAltText": "Magnezone",
+  "ThumbnailImage": "/pokedex-server/images/462.png",
+  "id": 462,
+  "type": [
+    "electric",
+    "steel"
+  ]
+}

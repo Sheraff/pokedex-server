@@ -1,1 +1,25 @@
-{"abilities":["Sand Force","Sand Rush"],"detailPageURL":"/us/pokedex/drilbur","weight":18.7,"weakness":["Water","Grass","Ice"],"number":"529","height":12,"collectibles_slug":"drilbur","featured":"true","slug":"drilbur","name":"Drilbur","ThumbnailAltText":"Drilbur","ThumbnailImage":"/pokedex-server/images/9.png","id":529,"type":["ground"]}
+{
+  "abilities": [
+    "Sand Force",
+    "Sand Rush"
+  ],
+  "detailPageURL": "/us/pokedex/drilbur",
+  "weight": 18.7,
+  "weakness": [
+    "Water",
+    "Grass",
+    "Ice"
+  ],
+  "number": "529",
+  "height": 12,
+  "collectibles_slug": "drilbur",
+  "featured": "true",
+  "slug": "drilbur",
+  "name": "Drilbur",
+  "ThumbnailAltText": "Drilbur",
+  "ThumbnailImage": "/pokedex-server/images/529.png",
+  "id": 529,
+  "type": [
+    "ground"
+  ]
+}

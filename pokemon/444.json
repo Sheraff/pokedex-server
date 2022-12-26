@@ -1,1 +1,25 @@
-{"abilities":["Sand Veil"],"detailPageURL":"/us/pokedex/gabite","weight":123.5,"weakness":["Fairy","Ice","Dragon"],"number":"444","height":55,"collectibles_slug":"gabite","featured":"true","slug":"gabite","name":"Gabite","ThumbnailAltText":"Gabite","ThumbnailImage":"/pokedex-server/images/4.png","id":444,"type":["dragon","ground"]}
+{
+  "abilities": [
+    "Sand Veil"
+  ],
+  "detailPageURL": "/us/pokedex/gabite",
+  "weight": 123.5,
+  "weakness": [
+    "Fairy",
+    "Ice",
+    "Dragon"
+  ],
+  "number": "444",
+  "height": 55,
+  "collectibles_slug": "gabite",
+  "featured": "true",
+  "slug": "gabite",
+  "name": "Gabite",
+  "ThumbnailAltText": "Gabite",
+  "ThumbnailImage": "/pokedex-server/images/444.png",
+  "id": 444,
+  "type": [
+    "dragon",
+    "ground"
+  ]
+}

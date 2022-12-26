@@ -1,1 +1,26 @@
-{"abilities":["Gluttony"],"detailPageURL":"/us/pokedex/simisage","weight":67.2,"weakness":["Fire","Flying","Ice","Poison","Bug"],"number":"512","height":43,"collectibles_slug":"simisage","featured":"true","slug":"simisage","name":"Simisage","ThumbnailAltText":"Simisage","ThumbnailImage":"/pokedex-server/images/2.png","id":512,"type":["grass"]}
+{
+  "abilities": [
+    "Gluttony"
+  ],
+  "detailPageURL": "/us/pokedex/simisage",
+  "weight": 67.2,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "512",
+  "height": 43,
+  "collectibles_slug": "simisage",
+  "featured": "true",
+  "slug": "simisage",
+  "name": "Simisage",
+  "ThumbnailAltText": "Simisage",
+  "ThumbnailImage": "/pokedex-server/images/512.png",
+  "id": 512,
+  "type": [
+    "grass"
+  ]
+}

@@ -1,1 +1,26 @@
-{"abilities":["Slush Rush","Snow Cloak"],"detailPageURL":"/us/pokedex/beartic","weight":573.2,"weakness":["Fire","Steel","Fighting","Rock"],"number":"614","height":102,"collectibles_slug":"beartic","featured":"true","slug":"beartic","name":"Beartic","ThumbnailAltText":"Beartic","ThumbnailImage":"/pokedex-server/images/4.png","id":614,"type":["ice"]}
+{
+  "abilities": [
+    "Slush Rush",
+    "Snow Cloak"
+  ],
+  "detailPageURL": "/us/pokedex/beartic",
+  "weight": 573.2,
+  "weakness": [
+    "Fire",
+    "Steel",
+    "Fighting",
+    "Rock"
+  ],
+  "number": "614",
+  "height": 102,
+  "collectibles_slug": "beartic",
+  "featured": "true",
+  "slug": "beartic",
+  "name": "Beartic",
+  "ThumbnailAltText": "Beartic",
+  "ThumbnailImage": "/pokedex-server/images/614.png",
+  "id": 614,
+  "type": [
+    "ice"
+  ]
+}

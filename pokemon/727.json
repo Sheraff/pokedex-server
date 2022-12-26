@@ -1,1 +1,26 @@
-{"abilities":["Blaze"],"detailPageURL":"/us/pokedex/incineroar","weight":183,"weakness":["Water","Ground","Fighting","Rock"],"number":"727","height":71,"collectibles_slug":"incineroar","featured":"true","slug":"incineroar","name":"Incineroar","ThumbnailAltText":"Incineroar","ThumbnailImage":"/pokedex-server/images/7.png","id":727,"type":["fire","dark"]}
+{
+  "abilities": [
+    "Blaze"
+  ],
+  "detailPageURL": "/us/pokedex/incineroar",
+  "weight": 183,
+  "weakness": [
+    "Water",
+    "Ground",
+    "Fighting",
+    "Rock"
+  ],
+  "number": "727",
+  "height": 71,
+  "collectibles_slug": "incineroar",
+  "featured": "true",
+  "slug": "incineroar",
+  "name": "Incineroar",
+  "ThumbnailAltText": "Incineroar",
+  "ThumbnailImage": "/pokedex-server/images/727.png",
+  "id": 727,
+  "type": [
+    "fire",
+    "dark"
+  ]
+}

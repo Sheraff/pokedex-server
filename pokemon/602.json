@@ -1,1 +1,22 @@
-{"abilities":["Levitate"],"detailPageURL":"/us/pokedex/tynamo","weight":0.7,"weakness":["Ground"],"number":"602","height":8,"collectibles_slug":"tynamo","featured":"true","slug":"tynamo","name":"Tynamo","ThumbnailAltText":"Tynamo","ThumbnailImage":"/pokedex-server/images/2.png","id":602,"type":["electric"]}
+{
+  "abilities": [
+    "Levitate"
+  ],
+  "detailPageURL": "/us/pokedex/tynamo",
+  "weight": 0.7,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "602",
+  "height": 8,
+  "collectibles_slug": "tynamo",
+  "featured": "true",
+  "slug": "tynamo",
+  "name": "Tynamo",
+  "ThumbnailAltText": "Tynamo",
+  "ThumbnailImage": "/pokedex-server/images/602.png",
+  "id": 602,
+  "type": [
+    "electric"
+  ]
+}

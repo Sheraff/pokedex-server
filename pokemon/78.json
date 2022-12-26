@@ -1,1 +1,25 @@
-{"abilities":["Flash Fire","Run Away"],"detailPageURL":"/us/pokedex/rapidash","weight":209.4,"weakness":["Water","Ground","Rock"],"number":"078","height":67,"collectibles_slug":"rapidash","featured":"true","slug":"rapidash","name":"Rapidash","ThumbnailAltText":"Rapidash","ThumbnailImage":"/pokedex-server/images/8.png","id":78,"type":["fire"]}
+{
+  "abilities": [
+    "Flash Fire",
+    "Run Away"
+  ],
+  "detailPageURL": "/us/pokedex/rapidash",
+  "weight": 209.4,
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "number": "078",
+  "height": 67,
+  "collectibles_slug": "rapidash",
+  "featured": "true",
+  "slug": "rapidash",
+  "name": "Rapidash",
+  "ThumbnailAltText": "Rapidash",
+  "ThumbnailImage": "/pokedex-server/images/78.png",
+  "id": 78,
+  "type": [
+    "fire"
+  ]
+}

@@ -1,1 +1,25 @@
-{"abilities":["Intimidate"],"detailPageURL":"/us/pokedex/staraptor","weight":54.9,"weakness":["Electric","Ice","Rock"],"number":"398","height":47,"collectibles_slug":"staraptor","featured":"true","slug":"staraptor","name":"Staraptor","ThumbnailAltText":"Staraptor","ThumbnailImage":"/pokedex-server/images/8.png","id":398,"type":["normal","flying"]}
+{
+  "abilities": [
+    "Intimidate"
+  ],
+  "detailPageURL": "/us/pokedex/staraptor",
+  "weight": 54.9,
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "398",
+  "height": 47,
+  "collectibles_slug": "staraptor",
+  "featured": "true",
+  "slug": "staraptor",
+  "name": "Staraptor",
+  "ThumbnailAltText": "Staraptor",
+  "ThumbnailImage": "/pokedex-server/images/398.png",
+  "id": 398,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

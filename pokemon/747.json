@@ -1,1 +1,26 @@
-{"abilities":["Limber","Merciless"],"detailPageURL":"/us/pokedex/mareanie","weight":17.6,"weakness":["Psychic","Electric","Ground"],"number":"747","height":16,"collectibles_slug":"mareanie","featured":"true","slug":"mareanie","name":"Mareanie","ThumbnailAltText":"Mareanie","ThumbnailImage":"/pokedex-server/images/7.png","id":747,"type":["poison","water"]}
+{
+  "abilities": [
+    "Limber",
+    "Merciless"
+  ],
+  "detailPageURL": "/us/pokedex/mareanie",
+  "weight": 17.6,
+  "weakness": [
+    "Psychic",
+    "Electric",
+    "Ground"
+  ],
+  "number": "747",
+  "height": 16,
+  "collectibles_slug": "mareanie",
+  "featured": "true",
+  "slug": "mareanie",
+  "name": "Mareanie",
+  "ThumbnailAltText": "Mareanie",
+  "ThumbnailImage": "/pokedex-server/images/747.png",
+  "id": 747,
+  "type": [
+    "poison",
+    "water"
+  ]
+}

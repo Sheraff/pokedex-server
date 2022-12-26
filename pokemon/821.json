@@ -1,1 +1,25 @@
-{"abilities":["Keen Eye","Unnerve"],"detailPageURL":"/us/pokedex/rookidee","weight":4,"weakness":["Electric","Ice","Rock"],"number":"821","height":8,"collectibles_slug":"rookidee","featured":"true","slug":"rookidee","name":"Rookidee","ThumbnailAltText":"Rookidee","ThumbnailImage":"/pokedex-server/images/1.png","id":821,"type":["flying"]}
+{
+  "abilities": [
+    "Keen Eye",
+    "Unnerve"
+  ],
+  "detailPageURL": "/us/pokedex/rookidee",
+  "weight": 4,
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "821",
+  "height": 8,
+  "collectibles_slug": "rookidee",
+  "featured": "true",
+  "slug": "rookidee",
+  "name": "Rookidee",
+  "ThumbnailAltText": "Rookidee",
+  "ThumbnailImage": "/pokedex-server/images/821.png",
+  "id": 821,
+  "type": [
+    "flying"
+  ]
+}

@@ -1,1 +1,27 @@
-{"abilities":["Frisk","Infiltrator"],"detailPageURL":"/us/pokedex/noivern","weight":187.4,"weakness":["Fairy","Rock","Ice","Dragon"],"number":"715","height":59,"collectibles_slug":"noivern","featured":"true","slug":"noivern","name":"Noivern","ThumbnailAltText":"Noivern","ThumbnailImage":"/pokedex-server/images/5.png","id":715,"type":["flying","dragon"]}
+{
+  "abilities": [
+    "Frisk",
+    "Infiltrator"
+  ],
+  "detailPageURL": "/us/pokedex/noivern",
+  "weight": 187.4,
+  "weakness": [
+    "Fairy",
+    "Rock",
+    "Ice",
+    "Dragon"
+  ],
+  "number": "715",
+  "height": 59,
+  "collectibles_slug": "noivern",
+  "featured": "true",
+  "slug": "noivern",
+  "name": "Noivern",
+  "ThumbnailAltText": "Noivern",
+  "ThumbnailImage": "/pokedex-server/images/715.png",
+  "id": 715,
+  "type": [
+    "flying",
+    "dragon"
+  ]
+}

@@ -1,1 +1,25 @@
-{"abilities":["Competitive","Frisk"],"detailPageURL":"/us/pokedex/gothorita","weight":39.7,"weakness":["Ghost","Dark","Bug"],"number":"575","height":28,"collectibles_slug":"gothorita","featured":"true","slug":"gothorita","name":"Gothorita","ThumbnailAltText":"Gothorita","ThumbnailImage":"/pokedex-server/images/5.png","id":575,"type":["psychic"]}
+{
+  "abilities": [
+    "Competitive",
+    "Frisk"
+  ],
+  "detailPageURL": "/us/pokedex/gothorita",
+  "weight": 39.7,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "number": "575",
+  "height": 28,
+  "collectibles_slug": "gothorita",
+  "featured": "true",
+  "slug": "gothorita",
+  "name": "Gothorita",
+  "ThumbnailAltText": "Gothorita",
+  "ThumbnailImage": "/pokedex-server/images/575.png",
+  "id": 575,
+  "type": [
+    "psychic"
+  ]
+}

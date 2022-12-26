@@ -1,1 +1,27 @@
-{"abilities":["Overgrow"],"detailPageURL":"/us/pokedex/rowlet","weight":3.3,"weakness":["Fire","Flying","Ice","Poison","Rock"],"number":"722","height":12,"collectibles_slug":"rowlet","featured":"true","slug":"rowlet","name":"Rowlet","ThumbnailAltText":"Rowlet","ThumbnailImage":"/pokedex-server/images/2.png","id":722,"type":["grass","flying"]}
+{
+  "abilities": [
+    "Overgrow"
+  ],
+  "detailPageURL": "/us/pokedex/rowlet",
+  "weight": 3.3,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Rock"
+  ],
+  "number": "722",
+  "height": 12,
+  "collectibles_slug": "rowlet",
+  "featured": "true",
+  "slug": "rowlet",
+  "name": "Rowlet",
+  "ThumbnailAltText": "Rowlet",
+  "ThumbnailImage": "/pokedex-server/images/722.png",
+  "id": 722,
+  "type": [
+    "grass",
+    "flying"
+  ]
+}

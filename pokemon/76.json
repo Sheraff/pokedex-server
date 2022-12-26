@@ -1,1 +1,29 @@
-{"abilities":["Rock Head","Sturdy"],"detailPageURL":"/us/pokedex/golem","weight":661.4,"weakness":["Steel","Fighting","Water","Ice","Grass","Ground"],"number":"076","height":55,"collectibles_slug":"golem","featured":"true","slug":"golem","name":"Golem","ThumbnailAltText":"Golem","ThumbnailImage":"/pokedex-server/images/6.png","id":76,"type":["rock","ground"]}
+{
+  "abilities": [
+    "Rock Head",
+    "Sturdy"
+  ],
+  "detailPageURL": "/us/pokedex/golem",
+  "weight": 661.4,
+  "weakness": [
+    "Steel",
+    "Fighting",
+    "Water",
+    "Ice",
+    "Grass",
+    "Ground"
+  ],
+  "number": "076",
+  "height": 55,
+  "collectibles_slug": "golem",
+  "featured": "true",
+  "slug": "golem",
+  "name": "Golem",
+  "ThumbnailAltText": "Golem",
+  "ThumbnailImage": "/pokedex-server/images/76.png",
+  "id": 76,
+  "type": [
+    "rock",
+    "ground"
+  ]
+}

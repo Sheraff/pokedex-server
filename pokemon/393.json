@@ -1,1 +1,23 @@
-{"abilities":["Torrent"],"detailPageURL":"/us/pokedex/piplup","weight":11.5,"weakness":["Grass","Electric"],"number":"393","height":16,"collectibles_slug":"piplup","featured":"true","slug":"piplup","name":"Piplup","ThumbnailAltText":"Piplup","ThumbnailImage":"/pokedex-server/images/3.png","id":393,"type":["water"]}
+{
+  "abilities": [
+    "Torrent"
+  ],
+  "detailPageURL": "/us/pokedex/piplup",
+  "weight": 11.5,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "393",
+  "height": 16,
+  "collectibles_slug": "piplup",
+  "featured": "true",
+  "slug": "piplup",
+  "name": "Piplup",
+  "ThumbnailAltText": "Piplup",
+  "ThumbnailImage": "/pokedex-server/images/393.png",
+  "id": 393,
+  "type": [
+    "water"
+  ]
+}

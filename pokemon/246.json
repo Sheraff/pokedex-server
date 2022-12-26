@@ -1,1 +1,28 @@
-{"abilities":["Guts"],"detailPageURL":"/us/pokedex/larvitar","weight":158.7,"weakness":["Steel","Fighting","Water","Ice","Grass","Ground"],"number":"246","height":24,"collectibles_slug":"larvitar","featured":"true","slug":"larvitar","name":"Larvitar","ThumbnailAltText":"Larvitar","ThumbnailImage":"/pokedex-server/images/6.png","id":246,"type":["rock","ground"]}
+{
+  "abilities": [
+    "Guts"
+  ],
+  "detailPageURL": "/us/pokedex/larvitar",
+  "weight": 158.7,
+  "weakness": [
+    "Steel",
+    "Fighting",
+    "Water",
+    "Ice",
+    "Grass",
+    "Ground"
+  ],
+  "number": "246",
+  "height": 24,
+  "collectibles_slug": "larvitar",
+  "featured": "true",
+  "slug": "larvitar",
+  "name": "Larvitar",
+  "ThumbnailAltText": "Larvitar",
+  "ThumbnailImage": "/pokedex-server/images/246.png",
+  "id": 246,
+  "type": [
+    "rock",
+    "ground"
+  ]
+}

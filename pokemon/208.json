@@ -1,1 +1,27 @@
-{"abilities":["Rock Head","Sturdy"],"detailPageURL":"/us/pokedex/steelix","weight":881.8,"weakness":["Fire","Water","Fighting","Ground"],"number":"208","height":362,"collectibles_slug":"steelix","featured":"true","slug":"steelix","name":"Steelix","ThumbnailAltText":"Steelix","ThumbnailImage":"/pokedex-server/images/8.png","id":208,"type":["steel","ground"]}
+{
+  "abilities": [
+    "Rock Head",
+    "Sturdy"
+  ],
+  "detailPageURL": "/us/pokedex/steelix",
+  "weight": 881.8,
+  "weakness": [
+    "Fire",
+    "Water",
+    "Fighting",
+    "Ground"
+  ],
+  "number": "208",
+  "height": 362,
+  "collectibles_slug": "steelix",
+  "featured": "true",
+  "slug": "steelix",
+  "name": "Steelix",
+  "ThumbnailAltText": "Steelix",
+  "ThumbnailImage": "/pokedex-server/images/208.png",
+  "id": 208,
+  "type": [
+    "steel",
+    "ground"
+  ]
+}

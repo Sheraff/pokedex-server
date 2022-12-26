@@ -1,1 +1,26 @@
-{"abilities":["Swarm"],"detailPageURL":"/us/pokedex/beedrill","weight":65,"weakness":["Fire","Psychic","Flying","Rock"],"number":"015","height":39,"collectibles_slug":"beedrill","featured":"true","slug":"beedrill","name":"Beedrill","ThumbnailAltText":"Beedrill","ThumbnailImage":"/pokedex-server/images/5.png","id":15,"type":["bug","poison"]}
+{
+  "abilities": [
+    "Swarm"
+  ],
+  "detailPageURL": "/us/pokedex/beedrill",
+  "weight": 65,
+  "weakness": [
+    "Fire",
+    "Psychic",
+    "Flying",
+    "Rock"
+  ],
+  "number": "015",
+  "height": 39,
+  "collectibles_slug": "beedrill",
+  "featured": "true",
+  "slug": "beedrill",
+  "name": "Beedrill",
+  "ThumbnailAltText": "Beedrill",
+  "ThumbnailImage": "/pokedex-server/images/15.png",
+  "id": 15,
+  "type": [
+    "bug",
+    "poison"
+  ]
+}

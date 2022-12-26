@@ -1,1 +1,25 @@
-{"abilities":["Guts","No Guard"],"detailPageURL":"/us/pokedex/machop","weight":43,"weakness":["Psychic","Flying","Fairy"],"number":"066","height":31,"collectibles_slug":"machop","featured":"true","slug":"machop","name":"Machop","ThumbnailAltText":"Machop","ThumbnailImage":"/pokedex-server/images/6.png","id":66,"type":["fighting"]}
+{
+  "abilities": [
+    "Guts",
+    "No Guard"
+  ],
+  "detailPageURL": "/us/pokedex/machop",
+  "weight": 43,
+  "weakness": [
+    "Psychic",
+    "Flying",
+    "Fairy"
+  ],
+  "number": "066",
+  "height": 31,
+  "collectibles_slug": "machop",
+  "featured": "true",
+  "slug": "machop",
+  "name": "Machop",
+  "ThumbnailAltText": "Machop",
+  "ThumbnailImage": "/pokedex-server/images/66.png",
+  "id": 66,
+  "type": [
+    "fighting"
+  ]
+}

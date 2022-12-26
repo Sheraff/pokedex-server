@@ -1,1 +1,26 @@
-{"abilities":["Natural Cure"],"detailPageURL":"/us/pokedex/shaymin","weight":4.6,"weakness":["Fire","Flying","Ice","Poison","Bug"],"number":"492","height":8,"collectibles_slug":"shaymin","featured":"true","slug":"shaymin","name":"Shaymin","ThumbnailAltText":"Shaymin","ThumbnailImage":"/pokedex-server/images/2.png","id":492,"type":["grass"]}
+{
+  "abilities": [
+    "Natural Cure"
+  ],
+  "detailPageURL": "/us/pokedex/shaymin",
+  "weight": 4.6,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "492",
+  "height": 8,
+  "collectibles_slug": "shaymin",
+  "featured": "true",
+  "slug": "shaymin",
+  "name": "Shaymin",
+  "ThumbnailAltText": "Shaymin",
+  "ThumbnailImage": "/pokedex-server/images/492.png",
+  "id": 492,
+  "type": [
+    "grass"
+  ]
+}

@@ -1,1 +1,26 @@
-{"abilities":["Shed Skin"],"detailPageURL":"/us/pokedex/kakuna","weight":22,"weakness":["Fire","Psychic","Flying","Rock"],"number":"014","height":24,"collectibles_slug":"kakuna","featured":"true","slug":"kakuna","name":"Kakuna","ThumbnailAltText":"Kakuna","ThumbnailImage":"/pokedex-server/images/4.png","id":14,"type":["bug","poison"]}
+{
+  "abilities": [
+    "Shed Skin"
+  ],
+  "detailPageURL": "/us/pokedex/kakuna",
+  "weight": 22,
+  "weakness": [
+    "Fire",
+    "Psychic",
+    "Flying",
+    "Rock"
+  ],
+  "number": "014",
+  "height": 24,
+  "collectibles_slug": "kakuna",
+  "featured": "true",
+  "slug": "kakuna",
+  "name": "Kakuna",
+  "ThumbnailAltText": "Kakuna",
+  "ThumbnailImage": "/pokedex-server/images/14.png",
+  "id": 14,
+  "type": [
+    "bug",
+    "poison"
+  ]
+}

@@ -1,1 +1,24 @@
-{"abilities":["Battle Armor","Sniper"],"detailPageURL":"/us/pokedex/drapion","weight":135.6,"weakness":["Ground"],"number":"452","height":51,"collectibles_slug":"drapion","featured":"true","slug":"drapion","name":"Drapion","ThumbnailAltText":"Drapion","ThumbnailImage":"/pokedex-server/images/2.png","id":452,"type":["poison","dark"]}
+{
+  "abilities": [
+    "Battle Armor",
+    "Sniper"
+  ],
+  "detailPageURL": "/us/pokedex/drapion",
+  "weight": 135.6,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "452",
+  "height": 51,
+  "collectibles_slug": "drapion",
+  "featured": "true",
+  "slug": "drapion",
+  "name": "Drapion",
+  "ThumbnailAltText": "Drapion",
+  "ThumbnailImage": "/pokedex-server/images/452.png",
+  "id": 452,
+  "type": [
+    "poison",
+    "dark"
+  ]
+}

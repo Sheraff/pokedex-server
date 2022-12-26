@@ -1,1 +1,25 @@
-{"abilities":["Oblivious","Simple"],"detailPageURL":"/us/pokedex/numel","weight":52.9,"weakness":["Water","Ground"],"number":"322","height":28,"collectibles_slug":"numel","featured":"true","slug":"numel","name":"Numel","ThumbnailAltText":"Numel","ThumbnailImage":"/pokedex-server/images/2.png","id":322,"type":["fire","ground"]}
+{
+  "abilities": [
+    "Oblivious",
+    "Simple"
+  ],
+  "detailPageURL": "/us/pokedex/numel",
+  "weight": 52.9,
+  "weakness": [
+    "Water",
+    "Ground"
+  ],
+  "number": "322",
+  "height": 28,
+  "collectibles_slug": "numel",
+  "featured": "true",
+  "slug": "numel",
+  "name": "Numel",
+  "ThumbnailAltText": "Numel",
+  "ThumbnailImage": "/pokedex-server/images/322.png",
+  "id": 322,
+  "type": [
+    "fire",
+    "ground"
+  ]
+}

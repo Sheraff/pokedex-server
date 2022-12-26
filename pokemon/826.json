@@ -1,1 +1,29 @@
-{"abilities":["Frisk","Swarm"],"detailPageURL":"/us/pokedex/orbeetle","weight":89.9,"weakness":["Ghost","Fire","Flying","Dark","Rock","Bug"],"number":"826","height":16,"collectibles_slug":"orbeetle","featured":"true","slug":"orbeetle","name":"Orbeetle","ThumbnailAltText":"Orbeetle","ThumbnailImage":"/pokedex-server/images/6.png","id":826,"type":["bug","psychic"]}
+{
+  "abilities": [
+    "Frisk",
+    "Swarm"
+  ],
+  "detailPageURL": "/us/pokedex/orbeetle",
+  "weight": 89.9,
+  "weakness": [
+    "Ghost",
+    "Fire",
+    "Flying",
+    "Dark",
+    "Rock",
+    "Bug"
+  ],
+  "number": "826",
+  "height": 16,
+  "collectibles_slug": "orbeetle",
+  "featured": "true",
+  "slug": "orbeetle",
+  "name": "Orbeetle",
+  "ThumbnailAltText": "Orbeetle",
+  "ThumbnailImage": "/pokedex-server/images/826.png",
+  "id": 826,
+  "type": [
+    "bug",
+    "psychic"
+  ]
+}

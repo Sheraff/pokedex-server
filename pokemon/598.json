@@ -1,1 +1,24 @@
-{"abilities":["Iron Barbs"],"detailPageURL":"/us/pokedex/ferrothorn","weight":242.5,"weakness":["Fire","Fighting"],"number":"598","height":39,"collectibles_slug":"ferrothorn","featured":"true","slug":"ferrothorn","name":"Ferrothorn","ThumbnailAltText":"Ferrothorn","ThumbnailImage":"/pokedex-server/images/8.png","id":598,"type":["grass","steel"]}
+{
+  "abilities": [
+    "Iron Barbs"
+  ],
+  "detailPageURL": "/us/pokedex/ferrothorn",
+  "weight": 242.5,
+  "weakness": [
+    "Fire",
+    "Fighting"
+  ],
+  "number": "598",
+  "height": 39,
+  "collectibles_slug": "ferrothorn",
+  "featured": "true",
+  "slug": "ferrothorn",
+  "name": "Ferrothorn",
+  "ThumbnailAltText": "Ferrothorn",
+  "ThumbnailImage": "/pokedex-server/images/598.png",
+  "id": 598,
+  "type": [
+    "grass",
+    "steel"
+  ]
+}

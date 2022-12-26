@@ -1,1 +1,28 @@
-{"abilities":["Oblivious","Snow Cloak"],"detailPageURL":"/us/pokedex/piloswine","weight":123,"weakness":["Steel","Fire","Grass","Water","Fighting"],"number":"221","height":43,"collectibles_slug":"piloswine","featured":"true","slug":"piloswine","name":"Piloswine","ThumbnailAltText":"Piloswine","ThumbnailImage":"/pokedex-server/images/1.png","id":221,"type":["ice","ground"]}
+{
+  "abilities": [
+    "Oblivious",
+    "Snow Cloak"
+  ],
+  "detailPageURL": "/us/pokedex/piloswine",
+  "weight": 123,
+  "weakness": [
+    "Steel",
+    "Fire",
+    "Grass",
+    "Water",
+    "Fighting"
+  ],
+  "number": "221",
+  "height": 43,
+  "collectibles_slug": "piloswine",
+  "featured": "true",
+  "slug": "piloswine",
+  "name": "Piloswine",
+  "ThumbnailAltText": "Piloswine",
+  "ThumbnailImage": "/pokedex-server/images/221.png",
+  "id": 221,
+  "type": [
+    "ice",
+    "ground"
+  ]
+}

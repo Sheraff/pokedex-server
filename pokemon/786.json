@@ -1,1 +1,25 @@
-{"abilities":["Psychic Surge"],"detailPageURL":"/us/pokedex/tapu-lele","weight":41,"weakness":["Ghost","Steel","Poison"],"number":"786","height":47,"collectibles_slug":"tapu-lele","featured":"true","slug":"tapu-lele","name":"Tapu Lele","ThumbnailAltText":"Tapu Lele","ThumbnailImage":"/pokedex-server/images/6.png","id":786,"type":["psychic","fairy"]}
+{
+  "abilities": [
+    "Psychic Surge"
+  ],
+  "detailPageURL": "/us/pokedex/tapu-lele",
+  "weight": 41,
+  "weakness": [
+    "Ghost",
+    "Steel",
+    "Poison"
+  ],
+  "number": "786",
+  "height": 47,
+  "collectibles_slug": "tapu-lele",
+  "featured": "true",
+  "slug": "tapu-lele",
+  "name": "Tapu Lele",
+  "ThumbnailAltText": "Tapu Lele",
+  "ThumbnailImage": "/pokedex-server/images/786.png",
+  "id": 786,
+  "type": [
+    "psychic",
+    "fairy"
+  ]
+}

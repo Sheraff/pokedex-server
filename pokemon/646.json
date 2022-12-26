@@ -1,1 +1,27 @@
-{"abilities":["Pressure"],"detailPageURL":"/us/pokedex/kyurem","weight":716.5,"weakness":["Steel","Fairy","Rock","Fighting","Dragon"],"number":"646","height":118,"collectibles_slug":"kyurem","featured":"true","slug":"kyurem","name":"Kyurem","ThumbnailAltText":"Kyurem","ThumbnailImage":"/pokedex-server/images/6.png","id":646,"type":["dragon","ice"]}
+{
+  "abilities": [
+    "Pressure"
+  ],
+  "detailPageURL": "/us/pokedex/kyurem",
+  "weight": 716.5,
+  "weakness": [
+    "Steel",
+    "Fairy",
+    "Rock",
+    "Fighting",
+    "Dragon"
+  ],
+  "number": "646",
+  "height": 118,
+  "collectibles_slug": "kyurem",
+  "featured": "true",
+  "slug": "kyurem",
+  "name": "Kyurem",
+  "ThumbnailAltText": "Kyurem",
+  "ThumbnailImage": "/pokedex-server/images/646.png",
+  "id": 646,
+  "type": [
+    "dragon",
+    "ice"
+  ]
+}

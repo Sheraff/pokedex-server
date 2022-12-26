@@ -1,1 +1,26 @@
-{"abilities":["Chlorophyll"],"detailPageURL":"/us/pokedex/gloom","weight":19,"weakness":["Fire","Psychic","Flying","Ice"],"number":"044","height":31,"collectibles_slug":"gloom","featured":"true","slug":"gloom","name":"Gloom","ThumbnailAltText":"Gloom","ThumbnailImage":"/pokedex-server/images/4.png","id":44,"type":["grass","poison"]}
+{
+  "abilities": [
+    "Chlorophyll"
+  ],
+  "detailPageURL": "/us/pokedex/gloom",
+  "weight": 19,
+  "weakness": [
+    "Fire",
+    "Psychic",
+    "Flying",
+    "Ice"
+  ],
+  "number": "044",
+  "height": 31,
+  "collectibles_slug": "gloom",
+  "featured": "true",
+  "slug": "gloom",
+  "name": "Gloom",
+  "ThumbnailAltText": "Gloom",
+  "ThumbnailImage": "/pokedex-server/images/44.png",
+  "id": 44,
+  "type": [
+    "grass",
+    "poison"
+  ]
+}

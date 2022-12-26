@@ -1,1 +1,29 @@
-{"abilities":["Chlorophyll","Sap Sipper"],"detailPageURL":"/us/pokedex/sawsbuck","weight":203.9,"weakness":["Fire","Flying","Fighting","Ice","Poison","Bug"],"number":"586","height":75,"collectibles_slug":"sawsbuck","featured":"true","slug":"sawsbuck","name":"Sawsbuck","ThumbnailAltText":"Sawsbuck","ThumbnailImage":"/pokedex-server/images/6.png","id":586,"type":["normal","grass"]}
+{
+  "abilities": [
+    "Chlorophyll",
+    "Sap Sipper"
+  ],
+  "detailPageURL": "/us/pokedex/sawsbuck",
+  "weight": 203.9,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Fighting",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "586",
+  "height": 75,
+  "collectibles_slug": "sawsbuck",
+  "featured": "true",
+  "slug": "sawsbuck",
+  "name": "Sawsbuck",
+  "ThumbnailAltText": "Sawsbuck",
+  "ThumbnailImage": "/pokedex-server/images/586.png",
+  "id": 586,
+  "type": [
+    "normal",
+    "grass"
+  ]
+}

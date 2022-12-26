@@ -1,1 +1,27 @@
-{"abilities":["Poison Point","Rivalry"],"detailPageURL":"/us/pokedex/nidoqueen","weight":132.3,"weakness":["Water","Psychic","Ice","Ground"],"number":"031","height":51,"collectibles_slug":"nidoqueen","featured":"true","slug":"nidoqueen","name":"Nidoqueen","ThumbnailAltText":"Nidoqueen","ThumbnailImage":"/pokedex-server/images/1.png","id":31,"type":["poison","ground"]}
+{
+  "abilities": [
+    "Poison Point",
+    "Rivalry"
+  ],
+  "detailPageURL": "/us/pokedex/nidoqueen",
+  "weight": 132.3,
+  "weakness": [
+    "Water",
+    "Psychic",
+    "Ice",
+    "Ground"
+  ],
+  "number": "031",
+  "height": 51,
+  "collectibles_slug": "nidoqueen",
+  "featured": "true",
+  "slug": "nidoqueen",
+  "name": "Nidoqueen",
+  "ThumbnailAltText": "Nidoqueen",
+  "ThumbnailImage": "/pokedex-server/images/31.png",
+  "id": 31,
+  "type": [
+    "poison",
+    "ground"
+  ]
+}

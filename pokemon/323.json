@@ -1,1 +1,25 @@
-{"abilities":["Magma Armor","Solid Rock"],"detailPageURL":"/us/pokedex/camerupt","weight":485,"weakness":["Water","Ground"],"number":"323","height":75,"collectibles_slug":"camerupt","featured":"true","slug":"camerupt","name":"Camerupt","ThumbnailAltText":"Camerupt","ThumbnailImage":"/pokedex-server/images/3.png","id":323,"type":["fire","ground"]}
+{
+  "abilities": [
+    "Magma Armor",
+    "Solid Rock"
+  ],
+  "detailPageURL": "/us/pokedex/camerupt",
+  "weight": 485,
+  "weakness": [
+    "Water",
+    "Ground"
+  ],
+  "number": "323",
+  "height": 75,
+  "collectibles_slug": "camerupt",
+  "featured": "true",
+  "slug": "camerupt",
+  "name": "Camerupt",
+  "ThumbnailAltText": "Camerupt",
+  "ThumbnailImage": "/pokedex-server/images/323.png",
+  "id": 323,
+  "type": [
+    "fire",
+    "ground"
+  ]
+}

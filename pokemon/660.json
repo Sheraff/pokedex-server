@@ -1,1 +1,27 @@
-{"abilities":["Cheek Pouch","Pickup"],"detailPageURL":"/us/pokedex/diggersby","weight":93.5,"weakness":["Water","Grass","Fighting","Ice"],"number":"660","height":39,"collectibles_slug":"diggersby","featured":"true","slug":"diggersby","name":"Diggersby","ThumbnailAltText":"Diggersby","ThumbnailImage":"/pokedex-server/images/0.png","id":660,"type":["normal","ground"]}
+{
+  "abilities": [
+    "Cheek Pouch",
+    "Pickup"
+  ],
+  "detailPageURL": "/us/pokedex/diggersby",
+  "weight": 93.5,
+  "weakness": [
+    "Water",
+    "Grass",
+    "Fighting",
+    "Ice"
+  ],
+  "number": "660",
+  "height": 39,
+  "collectibles_slug": "diggersby",
+  "featured": "true",
+  "slug": "diggersby",
+  "name": "Diggersby",
+  "ThumbnailAltText": "Diggersby",
+  "ThumbnailImage": "/pokedex-server/images/660.png",
+  "id": 660,
+  "type": [
+    "normal",
+    "ground"
+  ]
+}

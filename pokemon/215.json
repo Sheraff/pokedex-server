@@ -1,1 +1,29 @@
-{"abilities":["Inner Focus","Keen Eye"],"detailPageURL":"/us/pokedex/sneasel","weight":61.7,"weakness":["Steel","Fire","Fighting","Rock","Fairy","Bug"],"number":"215","height":35,"collectibles_slug":"sneasel","featured":"true","slug":"sneasel","name":"Sneasel","ThumbnailAltText":"Sneasel","ThumbnailImage":"/pokedex-server/images/5.png","id":215,"type":["dark","ice"]}
+{
+  "abilities": [
+    "Inner Focus",
+    "Keen Eye"
+  ],
+  "detailPageURL": "/us/pokedex/sneasel",
+  "weight": 61.7,
+  "weakness": [
+    "Steel",
+    "Fire",
+    "Fighting",
+    "Rock",
+    "Fairy",
+    "Bug"
+  ],
+  "number": "215",
+  "height": 35,
+  "collectibles_slug": "sneasel",
+  "featured": "true",
+  "slug": "sneasel",
+  "name": "Sneasel",
+  "ThumbnailAltText": "Sneasel",
+  "ThumbnailImage": "/pokedex-server/images/215.png",
+  "id": 215,
+  "type": [
+    "dark",
+    "ice"
+  ]
+}

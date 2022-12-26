@@ -1,1 +1,24 @@
-{"abilities":["Levitate"],"detailPageURL":"/us/pokedex/cresselia","weight":188.7,"weakness":["Ghost","Dark","Bug"],"number":"488","height":59,"collectibles_slug":"cresselia","featured":"true","slug":"cresselia","name":"Cresselia","ThumbnailAltText":"Cresselia","ThumbnailImage":"/pokedex-server/images/8.png","id":488,"type":["psychic"]}
+{
+  "abilities": [
+    "Levitate"
+  ],
+  "detailPageURL": "/us/pokedex/cresselia",
+  "weight": 188.7,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "number": "488",
+  "height": 59,
+  "collectibles_slug": "cresselia",
+  "featured": "true",
+  "slug": "cresselia",
+  "name": "Cresselia",
+  "ThumbnailAltText": "Cresselia",
+  "ThumbnailImage": "/pokedex-server/images/488.png",
+  "id": 488,
+  "type": [
+    "psychic"
+  ]
+}

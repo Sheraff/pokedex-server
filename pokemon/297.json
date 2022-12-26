@@ -1,1 +1,25 @@
-{"abilities":["Guts","Thick Fat"],"detailPageURL":"/us/pokedex/hariyama","weight":559.5,"weakness":["Psychic","Flying","Fairy"],"number":"297","height":91,"collectibles_slug":"hariyama","featured":"true","slug":"hariyama","name":"Hariyama","ThumbnailAltText":"Hariyama","ThumbnailImage":"/pokedex-server/images/7.png","id":297,"type":["fighting"]}
+{
+  "abilities": [
+    "Guts",
+    "Thick Fat"
+  ],
+  "detailPageURL": "/us/pokedex/hariyama",
+  "weight": 559.5,
+  "weakness": [
+    "Psychic",
+    "Flying",
+    "Fairy"
+  ],
+  "number": "297",
+  "height": 91,
+  "collectibles_slug": "hariyama",
+  "featured": "true",
+  "slug": "hariyama",
+  "name": "Hariyama",
+  "ThumbnailAltText": "Hariyama",
+  "ThumbnailImage": "/pokedex-server/images/297.png",
+  "id": 297,
+  "type": [
+    "fighting"
+  ]
+}

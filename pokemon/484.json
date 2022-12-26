@@ -1,1 +1,24 @@
-{"abilities":["Pressure"],"detailPageURL":"/us/pokedex/palkia","weight":740.8,"weakness":["Fairy","Dragon"],"number":"484","height":165,"collectibles_slug":"palkia","featured":"true","slug":"palkia","name":"Palkia","ThumbnailAltText":"Palkia","ThumbnailImage":"/pokedex-server/images/4.png","id":484,"type":["water","dragon"]}
+{
+  "abilities": [
+    "Pressure"
+  ],
+  "detailPageURL": "/us/pokedex/palkia",
+  "weight": 740.8,
+  "weakness": [
+    "Fairy",
+    "Dragon"
+  ],
+  "number": "484",
+  "height": 165,
+  "collectibles_slug": "palkia",
+  "featured": "true",
+  "slug": "palkia",
+  "name": "Palkia",
+  "ThumbnailAltText": "Palkia",
+  "ThumbnailImage": "/pokedex-server/images/484.png",
+  "id": 484,
+  "type": [
+    "water",
+    "dragon"
+  ]
+}

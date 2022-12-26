@@ -1,1 +1,25 @@
-{"abilities":["Misty Surge"],"detailPageURL":"/us/pokedex/tapu-fini","weight":46.7,"weakness":["Grass","Electric","Poison"],"number":"788","height":51,"collectibles_slug":"tapu-fini","featured":"true","slug":"tapu-fini","name":"Tapu Fini","ThumbnailAltText":"Tapu Fini","ThumbnailImage":"/pokedex-server/images/8.png","id":788,"type":["water","fairy"]}
+{
+  "abilities": [
+    "Misty Surge"
+  ],
+  "detailPageURL": "/us/pokedex/tapu-fini",
+  "weight": 46.7,
+  "weakness": [
+    "Grass",
+    "Electric",
+    "Poison"
+  ],
+  "number": "788",
+  "height": 51,
+  "collectibles_slug": "tapu-fini",
+  "featured": "true",
+  "slug": "tapu-fini",
+  "name": "Tapu Fini",
+  "ThumbnailAltText": "Tapu Fini",
+  "ThumbnailImage": "/pokedex-server/images/788.png",
+  "id": 788,
+  "type": [
+    "water",
+    "fairy"
+  ]
+}

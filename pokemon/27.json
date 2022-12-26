@@ -1,1 +1,24 @@
-{"abilities":["Sand Veil"],"detailPageURL":"/us/pokedex/sandshrew","weight":26.5,"weakness":["Water","Grass","Ice"],"number":"027","height":24,"collectibles_slug":"sandshrew","featured":"true","slug":"sandshrew","name":"Sandshrew","ThumbnailAltText":"Sandshrew","ThumbnailImage":"/pokedex-server/images/7.png","id":27,"type":["ground"]}
+{
+  "abilities": [
+    "Sand Veil"
+  ],
+  "detailPageURL": "/us/pokedex/sandshrew",
+  "weight": 26.5,
+  "weakness": [
+    "Water",
+    "Grass",
+    "Ice"
+  ],
+  "number": "027",
+  "height": 24,
+  "collectibles_slug": "sandshrew",
+  "featured": "true",
+  "slug": "sandshrew",
+  "name": "Sandshrew",
+  "ThumbnailAltText": "Sandshrew",
+  "ThumbnailImage": "/pokedex-server/images/27.png",
+  "id": 27,
+  "type": [
+    "ground"
+  ]
+}

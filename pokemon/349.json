@@ -1,1 +1,24 @@
-{"abilities":["Oblivious","Swift Swim"],"detailPageURL":"/us/pokedex/feebas","weight":16.3,"weakness":["Grass","Electric"],"number":"349","height":24,"collectibles_slug":"feebas","featured":"true","slug":"feebas","name":"Feebas","ThumbnailAltText":"Feebas","ThumbnailImage":"/pokedex-server/images/9.png","id":349,"type":["water"]}
+{
+  "abilities": [
+    "Oblivious",
+    "Swift Swim"
+  ],
+  "detailPageURL": "/us/pokedex/feebas",
+  "weight": 16.3,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "349",
+  "height": 24,
+  "collectibles_slug": "feebas",
+  "featured": "true",
+  "slug": "feebas",
+  "name": "Feebas",
+  "ThumbnailAltText": "Feebas",
+  "ThumbnailImage": "/pokedex-server/images/349.png",
+  "id": 349,
+  "type": [
+    "water"
+  ]
+}

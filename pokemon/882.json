@@ -1,1 +1,25 @@
-{"abilities":["Strong Jaw","Water Absorb"],"detailPageURL":"/us/pokedex/dracovish","weight":474,"weakness":["Fairy","Dragon"],"number":"882","height":91,"collectibles_slug":"dracovish","featured":"true","slug":"dracovish","name":"Dracovish","ThumbnailAltText":"Dracovish","ThumbnailImage":"/pokedex-server/images/2.png","id":882,"type":["water","dragon"]}
+{
+  "abilities": [
+    "Strong Jaw",
+    "Water Absorb"
+  ],
+  "detailPageURL": "/us/pokedex/dracovish",
+  "weight": 474,
+  "weakness": [
+    "Fairy",
+    "Dragon"
+  ],
+  "number": "882",
+  "height": 91,
+  "collectibles_slug": "dracovish",
+  "featured": "true",
+  "slug": "dracovish",
+  "name": "Dracovish",
+  "ThumbnailAltText": "Dracovish",
+  "ThumbnailImage": "/pokedex-server/images/882.png",
+  "id": 882,
+  "type": [
+    "water",
+    "dragon"
+  ]
+}

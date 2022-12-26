@@ -1,1 +1,25 @@
-{"abilities":["Heavy Metal","Light Metal"],"detailPageURL":"/us/pokedex/duraludon","weight":88.2,"weakness":["Fighting","Ground"],"number":"884","height":71,"collectibles_slug":"duraludon","featured":"true","slug":"duraludon","name":"Duraludon","ThumbnailAltText":"Duraludon","ThumbnailImage":"/pokedex-server/images/4.png","id":884,"type":["steel","dragon"]}
+{
+  "abilities": [
+    "Heavy Metal",
+    "Light Metal"
+  ],
+  "detailPageURL": "/us/pokedex/duraludon",
+  "weight": 88.2,
+  "weakness": [
+    "Fighting",
+    "Ground"
+  ],
+  "number": "884",
+  "height": 71,
+  "collectibles_slug": "duraludon",
+  "featured": "true",
+  "slug": "duraludon",
+  "name": "Duraludon",
+  "ThumbnailAltText": "Duraludon",
+  "ThumbnailImage": "/pokedex-server/images/884.png",
+  "id": 884,
+  "type": [
+    "steel",
+    "dragon"
+  ]
+}

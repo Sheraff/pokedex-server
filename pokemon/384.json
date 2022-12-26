@@ -1,1 +1,26 @@
-{"abilities":["Air Lock"],"detailPageURL":"/us/pokedex/rayquaza","weight":455.3,"weakness":["Fairy","Dragon","Ice","Rock"],"number":"384","height":276,"collectibles_slug":"rayquaza","featured":"true","slug":"rayquaza","name":"Rayquaza","ThumbnailAltText":"Rayquaza","ThumbnailImage":"/pokedex-server/images/4.png","id":384,"type":["dragon","flying"]}
+{
+  "abilities": [
+    "Air Lock"
+  ],
+  "detailPageURL": "/us/pokedex/rayquaza",
+  "weight": 455.3,
+  "weakness": [
+    "Fairy",
+    "Dragon",
+    "Ice",
+    "Rock"
+  ],
+  "number": "384",
+  "height": 276,
+  "collectibles_slug": "rayquaza",
+  "featured": "true",
+  "slug": "rayquaza",
+  "name": "Rayquaza",
+  "ThumbnailAltText": "Rayquaza",
+  "ThumbnailImage": "/pokedex-server/images/384.png",
+  "id": 384,
+  "type": [
+    "dragon",
+    "flying"
+  ]
+}

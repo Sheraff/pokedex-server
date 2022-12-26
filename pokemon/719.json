@@ -1,1 +1,26 @@
-{"abilities":["Clear Body"],"detailPageURL":"/us/pokedex/diancie","weight":19.4,"weakness":["Steel","Water","Grass","Ground"],"number":"719","height":28,"collectibles_slug":"diancie","featured":"true","slug":"diancie","name":"Diancie","ThumbnailAltText":"Diancie","ThumbnailImage":"/pokedex-server/images/9.png","id":719,"type":["rock","fairy"]}
+{
+  "abilities": [
+    "Clear Body"
+  ],
+  "detailPageURL": "/us/pokedex/diancie",
+  "weight": 19.4,
+  "weakness": [
+    "Steel",
+    "Water",
+    "Grass",
+    "Ground"
+  ],
+  "number": "719",
+  "height": 28,
+  "collectibles_slug": "diancie",
+  "featured": "true",
+  "slug": "diancie",
+  "name": "Diancie",
+  "ThumbnailAltText": "Diancie",
+  "ThumbnailImage": "/pokedex-server/images/719.png",
+  "id": 719,
+  "type": [
+    "rock",
+    "fairy"
+  ]
+}

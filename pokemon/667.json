@@ -1,1 +1,27 @@
-{"abilities":["Rivalry","Unnerve"],"detailPageURL":"/us/pokedex/litleo","weight":29.8,"weakness":["Water","Ground","Fighting","Rock"],"number":"667","height":24,"collectibles_slug":"litleo","featured":"true","slug":"litleo","name":"Litleo","ThumbnailAltText":"Litleo","ThumbnailImage":"/pokedex-server/images/7.png","id":667,"type":["fire","normal"]}
+{
+  "abilities": [
+    "Rivalry",
+    "Unnerve"
+  ],
+  "detailPageURL": "/us/pokedex/litleo",
+  "weight": 29.8,
+  "weakness": [
+    "Water",
+    "Ground",
+    "Fighting",
+    "Rock"
+  ],
+  "number": "667",
+  "height": 24,
+  "collectibles_slug": "litleo",
+  "featured": "true",
+  "slug": "litleo",
+  "name": "Litleo",
+  "ThumbnailAltText": "Litleo",
+  "ThumbnailImage": "/pokedex-server/images/667.png",
+  "id": 667,
+  "type": [
+    "fire",
+    "normal"
+  ]
+}

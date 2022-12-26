@@ -1,1 +1,28 @@
-{"abilities":["Frisk","Pickup"],"detailPageURL":"/us/pokedex/pumpkaboo","weight":11,"weakness":["Ghost","Fire","Flying","Dark","Ice"],"number":"710","height":16,"collectibles_slug":"pumpkaboo","featured":"true","slug":"pumpkaboo","name":"Pumpkaboo","ThumbnailAltText":"Pumpkaboo","ThumbnailImage":"/pokedex-server/images/0.png","id":710,"type":["ghost","grass"]}
+{
+  "abilities": [
+    "Frisk",
+    "Pickup"
+  ],
+  "detailPageURL": "/us/pokedex/pumpkaboo",
+  "weight": 11,
+  "weakness": [
+    "Ghost",
+    "Fire",
+    "Flying",
+    "Dark",
+    "Ice"
+  ],
+  "number": "710",
+  "height": 16,
+  "collectibles_slug": "pumpkaboo",
+  "featured": "true",
+  "slug": "pumpkaboo",
+  "name": "Pumpkaboo",
+  "ThumbnailAltText": "Pumpkaboo",
+  "ThumbnailImage": "/pokedex-server/images/710.png",
+  "id": 710,
+  "type": [
+    "ghost",
+    "grass"
+  ]
+}

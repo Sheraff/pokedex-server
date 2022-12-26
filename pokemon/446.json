@@ -1,1 +1,23 @@
-{"abilities":["Pickup","Thick Fat"],"detailPageURL":"/us/pokedex/munchlax","weight":231.5,"weakness":["Fighting"],"number":"446","height":24,"collectibles_slug":"munchlax","featured":"true","slug":"munchlax","name":"Munchlax","ThumbnailAltText":"Munchlax","ThumbnailImage":"/pokedex-server/images/6.png","id":446,"type":["normal"]}
+{
+  "abilities": [
+    "Pickup",
+    "Thick Fat"
+  ],
+  "detailPageURL": "/us/pokedex/munchlax",
+  "weight": 231.5,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "446",
+  "height": 24,
+  "collectibles_slug": "munchlax",
+  "featured": "true",
+  "slug": "munchlax",
+  "name": "Munchlax",
+  "ThumbnailAltText": "Munchlax",
+  "ThumbnailImage": "/pokedex-server/images/446.png",
+  "id": 446,
+  "type": [
+    "normal"
+  ]
+}

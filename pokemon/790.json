@@ -1,1 +1,24 @@
-{"abilities":["Sturdy"],"detailPageURL":"/us/pokedex/cosmoem","weight":2204.4,"weakness":["Ghost","Dark","Bug"],"number":"790","height":4,"collectibles_slug":"cosmoem","featured":"true","slug":"cosmoem","name":"Cosmoem","ThumbnailAltText":"Cosmoem","ThumbnailImage":"/pokedex-server/images/0.png","id":790,"type":["psychic"]}
+{
+  "abilities": [
+    "Sturdy"
+  ],
+  "detailPageURL": "/us/pokedex/cosmoem",
+  "weight": 2204.4,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "number": "790",
+  "height": 4,
+  "collectibles_slug": "cosmoem",
+  "featured": "true",
+  "slug": "cosmoem",
+  "name": "Cosmoem",
+  "ThumbnailAltText": "Cosmoem",
+  "ThumbnailImage": "/pokedex-server/images/790.png",
+  "id": 790,
+  "type": [
+    "psychic"
+  ]
+}

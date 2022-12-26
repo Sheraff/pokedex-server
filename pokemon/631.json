@@ -1,1 +1,25 @@
-{"abilities":["Flash Fire","Gluttony"],"detailPageURL":"/us/pokedex/heatmor","weight":127.9,"weakness":["Water","Ground","Rock"],"number":"631","height":55,"collectibles_slug":"heatmor","featured":"true","slug":"heatmor","name":"Heatmor","ThumbnailAltText":"Heatmor","ThumbnailImage":"/pokedex-server/images/1.png","id":631,"type":["fire"]}
+{
+  "abilities": [
+    "Flash Fire",
+    "Gluttony"
+  ],
+  "detailPageURL": "/us/pokedex/heatmor",
+  "weight": 127.9,
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "number": "631",
+  "height": 55,
+  "collectibles_slug": "heatmor",
+  "featured": "true",
+  "slug": "heatmor",
+  "name": "Heatmor",
+  "ThumbnailAltText": "Heatmor",
+  "ThumbnailImage": "/pokedex-server/images/631.png",
+  "id": 631,
+  "type": [
+    "fire"
+  ]
+}

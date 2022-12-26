@@ -1,1 +1,29 @@
-{"abilities":["Lightning Rod","Rock Head"],"detailPageURL":"/us/pokedex/rhyhorn","weight":253.5,"weakness":["Steel","Ice","Water","Fighting","Grass","Ground"],"number":"111","height":39,"collectibles_slug":"rhyhorn","featured":"true","slug":"rhyhorn","name":"Rhyhorn","ThumbnailAltText":"Rhyhorn","ThumbnailImage":"/pokedex-server/images/1.png","id":111,"type":["ground","rock"]}
+{
+  "abilities": [
+    "Lightning Rod",
+    "Rock Head"
+  ],
+  "detailPageURL": "/us/pokedex/rhyhorn",
+  "weight": 253.5,
+  "weakness": [
+    "Steel",
+    "Ice",
+    "Water",
+    "Fighting",
+    "Grass",
+    "Ground"
+  ],
+  "number": "111",
+  "height": 39,
+  "collectibles_slug": "rhyhorn",
+  "featured": "true",
+  "slug": "rhyhorn",
+  "name": "Rhyhorn",
+  "ThumbnailAltText": "Rhyhorn",
+  "ThumbnailImage": "/pokedex-server/images/111.png",
+  "id": 111,
+  "type": [
+    "ground",
+    "rock"
+  ]
+}

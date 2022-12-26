@@ -1,1 +1,22 @@
-{"abilities":["Cheek Pouch"],"detailPageURL":"/us/pokedex/greedent","weight":13.2,"weakness":["Fighting"],"number":"820","height":24,"collectibles_slug":"greedent","featured":"true","slug":"greedent","name":"Greedent","ThumbnailAltText":"Greedent","ThumbnailImage":"/pokedex-server/images/0.png","id":820,"type":["normal"]}
+{
+  "abilities": [
+    "Cheek Pouch"
+  ],
+  "detailPageURL": "/us/pokedex/greedent",
+  "weight": 13.2,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "820",
+  "height": 24,
+  "collectibles_slug": "greedent",
+  "featured": "true",
+  "slug": "greedent",
+  "name": "Greedent",
+  "ThumbnailAltText": "Greedent",
+  "ThumbnailImage": "/pokedex-server/images/820.png",
+  "id": 820,
+  "type": [
+    "normal"
+  ]
+}

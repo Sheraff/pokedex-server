@@ -1,1 +1,28 @@
-{"abilities":["Klutz","Unaware"],"detailPageURL":"/us/pokedex/swoobat","weight":23.1,"weakness":["Ghost","Dark","Electric","Ice","Rock"],"number":"528","height":35,"collectibles_slug":"swoobat","featured":"true","slug":"swoobat","name":"Swoobat","ThumbnailAltText":"Swoobat","ThumbnailImage":"/pokedex-server/images/8.png","id":528,"type":["psychic","flying"]}
+{
+  "abilities": [
+    "Klutz",
+    "Unaware"
+  ],
+  "detailPageURL": "/us/pokedex/swoobat",
+  "weight": 23.1,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "528",
+  "height": 35,
+  "collectibles_slug": "swoobat",
+  "featured": "true",
+  "slug": "swoobat",
+  "name": "Swoobat",
+  "ThumbnailAltText": "Swoobat",
+  "ThumbnailImage": "/pokedex-server/images/528.png",
+  "id": 528,
+  "type": [
+    "psychic",
+    "flying"
+  ]
+}

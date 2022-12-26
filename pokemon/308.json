@@ -1,1 +1,25 @@
-{"abilities":["Pure Power"],"detailPageURL":"/us/pokedex/medicham","weight":69.4,"weakness":["Ghost","Fairy","Flying"],"number":"308","height":51,"collectibles_slug":"medicham","featured":"true","slug":"medicham","name":"Medicham","ThumbnailAltText":"Medicham","ThumbnailImage":"/pokedex-server/images/8.png","id":308,"type":["fighting","psychic"]}
+{
+  "abilities": [
+    "Pure Power"
+  ],
+  "detailPageURL": "/us/pokedex/medicham",
+  "weight": 69.4,
+  "weakness": [
+    "Ghost",
+    "Fairy",
+    "Flying"
+  ],
+  "number": "308",
+  "height": 51,
+  "collectibles_slug": "medicham",
+  "featured": "true",
+  "slug": "medicham",
+  "name": "Medicham",
+  "ThumbnailAltText": "Medicham",
+  "ThumbnailImage": "/pokedex-server/images/308.png",
+  "id": 308,
+  "type": [
+    "fighting",
+    "psychic"
+  ]
+}

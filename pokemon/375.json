@@ -1,1 +1,26 @@
-{"abilities":["Clear Body"],"detailPageURL":"/us/pokedex/metang","weight":446.4,"weakness":["Ghost","Fire","Dark","Ground"],"number":"375","height":47,"collectibles_slug":"metang","featured":"true","slug":"metang","name":"Metang","ThumbnailAltText":"Metang","ThumbnailImage":"/pokedex-server/images/5.png","id":375,"type":["steel","psychic"]}
+{
+  "abilities": [
+    "Clear Body"
+  ],
+  "detailPageURL": "/us/pokedex/metang",
+  "weight": 446.4,
+  "weakness": [
+    "Ghost",
+    "Fire",
+    "Dark",
+    "Ground"
+  ],
+  "number": "375",
+  "height": 47,
+  "collectibles_slug": "metang",
+  "featured": "true",
+  "slug": "metang",
+  "name": "Metang",
+  "ThumbnailAltText": "Metang",
+  "ThumbnailImage": "/pokedex-server/images/375.png",
+  "id": 375,
+  "type": [
+    "steel",
+    "psychic"
+  ]
+}

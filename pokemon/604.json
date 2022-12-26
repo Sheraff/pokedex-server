@@ -1,1 +1,22 @@
-{"abilities":["Levitate"],"detailPageURL":"/us/pokedex/eelektross","weight":177.5,"weakness":["Ground"],"number":"604","height":83,"collectibles_slug":"eelektross","featured":"true","slug":"eelektross","name":"Eelektross","ThumbnailAltText":"Eelektross","ThumbnailImage":"/pokedex-server/images/4.png","id":604,"type":["electric"]}
+{
+  "abilities": [
+    "Levitate"
+  ],
+  "detailPageURL": "/us/pokedex/eelektross",
+  "weight": 177.5,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "604",
+  "height": 83,
+  "collectibles_slug": "eelektross",
+  "featured": "true",
+  "slug": "eelektross",
+  "name": "Eelektross",
+  "ThumbnailAltText": "Eelektross",
+  "ThumbnailImage": "/pokedex-server/images/604.png",
+  "id": 604,
+  "type": [
+    "electric"
+  ]
+}

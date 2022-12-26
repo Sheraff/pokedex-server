@@ -1,1 +1,25 @@
-{"abilities":["Shell Armor"],"detailPageURL":"/us/pokedex/turtonator","weight":467.4,"weakness":["Ground","Rock","Dragon"],"number":"776","height":79,"collectibles_slug":"turtonator","featured":"true","slug":"turtonator","name":"Turtonator","ThumbnailAltText":"Turtonator","ThumbnailImage":"/pokedex-server/images/6.png","id":776,"type":["fire","dragon"]}
+{
+  "abilities": [
+    "Shell Armor"
+  ],
+  "detailPageURL": "/us/pokedex/turtonator",
+  "weight": 467.4,
+  "weakness": [
+    "Ground",
+    "Rock",
+    "Dragon"
+  ],
+  "number": "776",
+  "height": 79,
+  "collectibles_slug": "turtonator",
+  "featured": "true",
+  "slug": "turtonator",
+  "name": "Turtonator",
+  "ThumbnailAltText": "Turtonator",
+  "ThumbnailImage": "/pokedex-server/images/776.png",
+  "id": 776,
+  "type": [
+    "fire",
+    "dragon"
+  ]
+}

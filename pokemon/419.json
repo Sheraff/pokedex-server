@@ -1,1 +1,23 @@
-{"abilities":["Swift Swim"],"detailPageURL":"/us/pokedex/floatzel","weight":73.9,"weakness":["Grass","Electric"],"number":"419","height":43,"collectibles_slug":"floatzel","featured":"true","slug":"floatzel","name":"Floatzel","ThumbnailAltText":"Floatzel","ThumbnailImage":"/pokedex-server/images/9.png","id":419,"type":["water"]}
+{
+  "abilities": [
+    "Swift Swim"
+  ],
+  "detailPageURL": "/us/pokedex/floatzel",
+  "weight": 73.9,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "419",
+  "height": 43,
+  "collectibles_slug": "floatzel",
+  "featured": "true",
+  "slug": "floatzel",
+  "name": "Floatzel",
+  "ThumbnailAltText": "Floatzel",
+  "ThumbnailImage": "/pokedex-server/images/419.png",
+  "id": 419,
+  "type": [
+    "water"
+  ]
+}

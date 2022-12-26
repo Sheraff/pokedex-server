@@ -1,1 +1,22 @@
-{"abilities":["Truant"],"detailPageURL":"/us/pokedex/slaking","weight":287.7,"weakness":["Fighting"],"number":"289","height":79,"collectibles_slug":"slaking","featured":"true","slug":"slaking","name":"Slaking","ThumbnailAltText":"Slaking","ThumbnailImage":"/pokedex-server/images/9.png","id":289,"type":["normal"]}
+{
+  "abilities": [
+    "Truant"
+  ],
+  "detailPageURL": "/us/pokedex/slaking",
+  "weight": 287.7,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "289",
+  "height": 79,
+  "collectibles_slug": "slaking",
+  "featured": "true",
+  "slug": "slaking",
+  "name": "Slaking",
+  "ThumbnailAltText": "Slaking",
+  "ThumbnailImage": "/pokedex-server/images/289.png",
+  "id": 289,
+  "type": [
+    "normal"
+  ]
+}

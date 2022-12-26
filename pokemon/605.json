@@ -1,1 +1,25 @@
-{"abilities":["Synchronize","Telepathy"],"detailPageURL":"/us/pokedex/elgyem","weight":19.8,"weakness":["Ghost","Dark","Bug"],"number":"605","height":20,"collectibles_slug":"elgyem","featured":"true","slug":"elgyem","name":"Elgyem","ThumbnailAltText":"Elgyem","ThumbnailImage":"/pokedex-server/images/5.png","id":605,"type":["psychic"]}
+{
+  "abilities": [
+    "Synchronize",
+    "Telepathy"
+  ],
+  "detailPageURL": "/us/pokedex/elgyem",
+  "weight": 19.8,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "number": "605",
+  "height": 20,
+  "collectibles_slug": "elgyem",
+  "featured": "true",
+  "slug": "elgyem",
+  "name": "Elgyem",
+  "ThumbnailAltText": "Elgyem",
+  "ThumbnailImage": "/pokedex-server/images/605.png",
+  "id": 605,
+  "type": [
+    "psychic"
+  ]
+}

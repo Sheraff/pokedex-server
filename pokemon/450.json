@@ -1,1 +1,24 @@
-{"abilities":["Sand Stream"],"detailPageURL":"/us/pokedex/hippowdon","weight":661.4,"weakness":["Water","Grass","Ice"],"number":"450","height":79,"collectibles_slug":"hippowdon","featured":"true","slug":"hippowdon","name":"Hippowdon","ThumbnailAltText":"Hippowdon","ThumbnailImage":"/pokedex-server/images/0.png","id":450,"type":["ground"]}
+{
+  "abilities": [
+    "Sand Stream"
+  ],
+  "detailPageURL": "/us/pokedex/hippowdon",
+  "weight": 661.4,
+  "weakness": [
+    "Water",
+    "Grass",
+    "Ice"
+  ],
+  "number": "450",
+  "height": 79,
+  "collectibles_slug": "hippowdon",
+  "featured": "true",
+  "slug": "hippowdon",
+  "name": "Hippowdon",
+  "ThumbnailAltText": "Hippowdon",
+  "ThumbnailImage": "/pokedex-server/images/450.png",
+  "id": 450,
+  "type": [
+    "ground"
+  ]
+}

@@ -1,1 +1,26 @@
-{"abilities":["Synchronize","Trace"],"detailPageURL":"/us/pokedex/kirlia","weight":44.5,"weakness":["Ghost","Steel","Poison"],"number":"281","height":31,"collectibles_slug":"kirlia","featured":"true","slug":"kirlia","name":"Kirlia","ThumbnailAltText":"Kirlia","ThumbnailImage":"/pokedex-server/images/1.png","id":281,"type":["psychic","fairy"]}
+{
+  "abilities": [
+    "Synchronize",
+    "Trace"
+  ],
+  "detailPageURL": "/us/pokedex/kirlia",
+  "weight": 44.5,
+  "weakness": [
+    "Ghost",
+    "Steel",
+    "Poison"
+  ],
+  "number": "281",
+  "height": 31,
+  "collectibles_slug": "kirlia",
+  "featured": "true",
+  "slug": "kirlia",
+  "name": "Kirlia",
+  "ThumbnailAltText": "Kirlia",
+  "ThumbnailImage": "/pokedex-server/images/281.png",
+  "id": 281,
+  "type": [
+    "psychic",
+    "fairy"
+  ]
+}

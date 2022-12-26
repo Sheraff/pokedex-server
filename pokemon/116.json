@@ -1,1 +1,24 @@
-{"abilities":["Sniper","Swift Swim"],"detailPageURL":"/us/pokedex/horsea","weight":17.6,"weakness":["Grass","Electric"],"number":"116","height":16,"collectibles_slug":"horsea","featured":"true","slug":"horsea","name":"Horsea","ThumbnailAltText":"Horsea","ThumbnailImage":"/pokedex-server/images/6.png","id":116,"type":["water"]}
+{
+  "abilities": [
+    "Sniper",
+    "Swift Swim"
+  ],
+  "detailPageURL": "/us/pokedex/horsea",
+  "weight": 17.6,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "116",
+  "height": 16,
+  "collectibles_slug": "horsea",
+  "featured": "true",
+  "slug": "horsea",
+  "name": "Horsea",
+  "ThumbnailAltText": "Horsea",
+  "ThumbnailImage": "/pokedex-server/images/116.png",
+  "id": 116,
+  "type": [
+    "water"
+  ]
+}

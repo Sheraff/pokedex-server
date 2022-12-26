@@ -1,1 +1,29 @@
-{"abilities":["Leaf Guard"],"detailPageURL":"/us/pokedex/zarude","weight":154.3,"weakness":["Fire","Flying","Fighting","Ice","Poison","Fairy","Bug"],"number":"893","height":71,"collectibles_slug":"zarude","featured":"true","slug":"zarude","name":"Zarude","ThumbnailAltText":"Zarude","ThumbnailImage":"/pokedex-server/images/3.png","id":893,"type":["dark","grass"]}
+{
+  "abilities": [
+    "Leaf Guard"
+  ],
+  "detailPageURL": "/us/pokedex/zarude",
+  "weight": 154.3,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Fighting",
+    "Ice",
+    "Poison",
+    "Fairy",
+    "Bug"
+  ],
+  "number": "893",
+  "height": 71,
+  "collectibles_slug": "zarude",
+  "featured": "true",
+  "slug": "zarude",
+  "name": "Zarude",
+  "ThumbnailAltText": "Zarude",
+  "ThumbnailImage": "/pokedex-server/images/893.png",
+  "id": 893,
+  "type": [
+    "dark",
+    "grass"
+  ]
+}

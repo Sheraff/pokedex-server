@@ -1,1 +1,23 @@
-{"abilities":["Water Absorb"],"detailPageURL":"/us/pokedex/vaporeon","weight":63.9,"weakness":["Grass","Electric"],"number":"134","height":39,"collectibles_slug":"vaporeon","featured":"true","slug":"vaporeon","name":"Vaporeon","ThumbnailAltText":"Vaporeon","ThumbnailImage":"/pokedex-server/images/4.png","id":134,"type":["water"]}
+{
+  "abilities": [
+    "Water Absorb"
+  ],
+  "detailPageURL": "/us/pokedex/vaporeon",
+  "weight": 63.9,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "134",
+  "height": 39,
+  "collectibles_slug": "vaporeon",
+  "featured": "true",
+  "slug": "vaporeon",
+  "name": "Vaporeon",
+  "ThumbnailAltText": "Vaporeon",
+  "ThumbnailImage": "/pokedex-server/images/134.png",
+  "id": 134,
+  "type": [
+    "water"
+  ]
+}

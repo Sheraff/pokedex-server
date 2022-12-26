@@ -1,1 +1,26 @@
-{"abilities":["Sap Sipper"],"detailPageURL":"/us/pokedex/gogoat","weight":200.6,"weakness":["Fire","Flying","Ice","Poison","Bug"],"number":"673","height":67,"collectibles_slug":"gogoat","featured":"true","slug":"gogoat","name":"Gogoat","ThumbnailAltText":"Gogoat","ThumbnailImage":"/pokedex-server/images/3.png","id":673,"type":["grass"]}
+{
+  "abilities": [
+    "Sap Sipper"
+  ],
+  "detailPageURL": "/us/pokedex/gogoat",
+  "weight": 200.6,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "673",
+  "height": 67,
+  "collectibles_slug": "gogoat",
+  "featured": "true",
+  "slug": "gogoat",
+  "name": "Gogoat",
+  "ThumbnailAltText": "Gogoat",
+  "ThumbnailImage": "/pokedex-server/images/673.png",
+  "id": 673,
+  "type": [
+    "grass"
+  ]
+}

@@ -1,1 +1,22 @@
-{"abilities":["Volt Absorb"],"detailPageURL":"/us/pokedex/jolteon","weight":54,"weakness":["Ground"],"number":"135","height":31,"collectibles_slug":"jolteon","featured":"true","slug":"jolteon","name":"Jolteon","ThumbnailAltText":"Jolteon","ThumbnailImage":"/pokedex-server/images/5.png","id":135,"type":["electric"]}
+{
+  "abilities": [
+    "Volt Absorb"
+  ],
+  "detailPageURL": "/us/pokedex/jolteon",
+  "weight": 54,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "135",
+  "height": 31,
+  "collectibles_slug": "jolteon",
+  "featured": "true",
+  "slug": "jolteon",
+  "name": "Jolteon",
+  "ThumbnailAltText": "Jolteon",
+  "ThumbnailImage": "/pokedex-server/images/135.png",
+  "id": 135,
+  "type": [
+    "electric"
+  ]
+}

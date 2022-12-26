@@ -1,1 +1,26 @@
-{"abilities":["Clear Body","Liquid Ooze"],"detailPageURL":"/us/pokedex/tentacruel","weight":121.3,"weakness":["Psychic","Electric","Ground"],"number":"073","height":63,"collectibles_slug":"tentacruel","featured":"true","slug":"tentacruel","name":"Tentacruel","ThumbnailAltText":"Tentacruel","ThumbnailImage":"/pokedex-server/images/3.png","id":73,"type":["water","poison"]}
+{
+  "abilities": [
+    "Clear Body",
+    "Liquid Ooze"
+  ],
+  "detailPageURL": "/us/pokedex/tentacruel",
+  "weight": 121.3,
+  "weakness": [
+    "Psychic",
+    "Electric",
+    "Ground"
+  ],
+  "number": "073",
+  "height": 63,
+  "collectibles_slug": "tentacruel",
+  "featured": "true",
+  "slug": "tentacruel",
+  "name": "Tentacruel",
+  "ThumbnailAltText": "Tentacruel",
+  "ThumbnailImage": "/pokedex-server/images/73.png",
+  "id": 73,
+  "type": [
+    "water",
+    "poison"
+  ]
+}

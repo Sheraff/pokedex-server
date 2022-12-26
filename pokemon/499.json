@@ -1,1 +1,26 @@
-{"abilities":["Blaze"],"detailPageURL":"/us/pokedex/pignite","weight":122.4,"weakness":["Water","Psychic","Flying","Ground"],"number":"499","height":39,"collectibles_slug":"pignite","featured":"true","slug":"pignite","name":"Pignite","ThumbnailAltText":"Pignite","ThumbnailImage":"/pokedex-server/images/9.png","id":499,"type":["fire","fighting"]}
+{
+  "abilities": [
+    "Blaze"
+  ],
+  "detailPageURL": "/us/pokedex/pignite",
+  "weight": 122.4,
+  "weakness": [
+    "Water",
+    "Psychic",
+    "Flying",
+    "Ground"
+  ],
+  "number": "499",
+  "height": 39,
+  "collectibles_slug": "pignite",
+  "featured": "true",
+  "slug": "pignite",
+  "name": "Pignite",
+  "ThumbnailAltText": "Pignite",
+  "ThumbnailImage": "/pokedex-server/images/499.png",
+  "id": 499,
+  "type": [
+    "fire",
+    "fighting"
+  ]
+}

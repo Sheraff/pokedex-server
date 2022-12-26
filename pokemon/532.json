@@ -1,1 +1,25 @@
-{"abilities":["Guts","Sheer Force"],"detailPageURL":"/us/pokedex/timburr","weight":27.6,"weakness":["Psychic","Flying","Fairy"],"number":"532","height":24,"collectibles_slug":"timburr","featured":"true","slug":"timburr","name":"Timburr","ThumbnailAltText":"Timburr","ThumbnailImage":"/pokedex-server/images/2.png","id":532,"type":["fighting"]}
+{
+  "abilities": [
+    "Guts",
+    "Sheer Force"
+  ],
+  "detailPageURL": "/us/pokedex/timburr",
+  "weight": 27.6,
+  "weakness": [
+    "Psychic",
+    "Flying",
+    "Fairy"
+  ],
+  "number": "532",
+  "height": 24,
+  "collectibles_slug": "timburr",
+  "featured": "true",
+  "slug": "timburr",
+  "name": "Timburr",
+  "ThumbnailAltText": "Timburr",
+  "ThumbnailImage": "/pokedex-server/images/532.png",
+  "id": 532,
+  "type": [
+    "fighting"
+  ]
+}

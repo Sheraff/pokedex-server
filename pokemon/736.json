@@ -1,1 +1,24 @@
-{"abilities":["Swarm"],"detailPageURL":"/us/pokedex/grubbin","weight":9.7,"weakness":["Fire","Flying","Rock"],"number":"736","height":16,"collectibles_slug":"grubbin","featured":"true","slug":"grubbin","name":"Grubbin","ThumbnailAltText":"Grubbin","ThumbnailImage":"/pokedex-server/images/6.png","id":736,"type":["bug"]}
+{
+  "abilities": [
+    "Swarm"
+  ],
+  "detailPageURL": "/us/pokedex/grubbin",
+  "weight": 9.7,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Rock"
+  ],
+  "number": "736",
+  "height": 16,
+  "collectibles_slug": "grubbin",
+  "featured": "true",
+  "slug": "grubbin",
+  "name": "Grubbin",
+  "ThumbnailAltText": "Grubbin",
+  "ThumbnailImage": "/pokedex-server/images/736.png",
+  "id": 736,
+  "type": [
+    "bug"
+  ]
+}

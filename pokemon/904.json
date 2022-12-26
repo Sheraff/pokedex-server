@@ -1,1 +1,21 @@
-{"abilities":[],"detailPageURL":"/us/pokedex/overqwil","weight":133.4,"weakness":["Ground"],"number":"904","height":98,"collectibles_slug":"overqwil","featured":"true","slug":"overqwil","name":"Overqwil","ThumbnailAltText":"Overqwil","ThumbnailImage":"/pokedex-server/images/4.png","id":904,"type":["dark","poison"]}
+{
+  "abilities": [],
+  "detailPageURL": "/us/pokedex/overqwil",
+  "weight": 133.4,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "904",
+  "height": 98,
+  "collectibles_slug": "overqwil",
+  "featured": "true",
+  "slug": "overqwil",
+  "name": "Overqwil",
+  "ThumbnailAltText": "Overqwil",
+  "ThumbnailImage": "/pokedex-server/images/904.png",
+  "id": 904,
+  "type": [
+    "dark",
+    "poison"
+  ]
+}

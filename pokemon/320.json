@@ -1,1 +1,24 @@
-{"abilities":["Oblivious","Water Veil"],"detailPageURL":"/us/pokedex/wailmer","weight":286.6,"weakness":["Grass","Electric"],"number":"320","height":79,"collectibles_slug":"wailmer","featured":"true","slug":"wailmer","name":"Wailmer","ThumbnailAltText":"Wailmer","ThumbnailImage":"/pokedex-server/images/0.png","id":320,"type":["water"]}
+{
+  "abilities": [
+    "Oblivious",
+    "Water Veil"
+  ],
+  "detailPageURL": "/us/pokedex/wailmer",
+  "weight": 286.6,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "320",
+  "height": 79,
+  "collectibles_slug": "wailmer",
+  "featured": "true",
+  "slug": "wailmer",
+  "name": "Wailmer",
+  "ThumbnailAltText": "Wailmer",
+  "ThumbnailImage": "/pokedex-server/images/320.png",
+  "id": 320,
+  "type": [
+    "water"
+  ]
+}

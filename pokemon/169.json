@@ -1,1 +1,26 @@
-{"abilities":["Inner Focus"],"detailPageURL":"/us/pokedex/crobat","weight":165.3,"weakness":["Psychic","Electric","Ice","Rock"],"number":"169","height":71,"collectibles_slug":"crobat","featured":"true","slug":"crobat","name":"Crobat","ThumbnailAltText":"Crobat","ThumbnailImage":"/pokedex-server/images/9.png","id":169,"type":["poison","flying"]}
+{
+  "abilities": [
+    "Inner Focus"
+  ],
+  "detailPageURL": "/us/pokedex/crobat",
+  "weight": 165.3,
+  "weakness": [
+    "Psychic",
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "169",
+  "height": 71,
+  "collectibles_slug": "crobat",
+  "featured": "true",
+  "slug": "crobat",
+  "name": "Crobat",
+  "ThumbnailAltText": "Crobat",
+  "ThumbnailImage": "/pokedex-server/images/169.png",
+  "id": 169,
+  "type": [
+    "poison",
+    "flying"
+  ]
+}

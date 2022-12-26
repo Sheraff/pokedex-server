@@ -1,1 +1,27 @@
-{"abilities":["Poison Point","Poison Touch"],"detailPageURL":"/us/pokedex/dragalge","weight":179.7,"weakness":["Psychic","Ground","Ice","Dragon"],"number":"691","height":71,"collectibles_slug":"dragalge","featured":"true","slug":"dragalge","name":"Dragalge","ThumbnailAltText":"Dragalge","ThumbnailImage":"/pokedex-server/images/1.png","id":691,"type":["poison","dragon"]}
+{
+  "abilities": [
+    "Poison Point",
+    "Poison Touch"
+  ],
+  "detailPageURL": "/us/pokedex/dragalge",
+  "weight": 179.7,
+  "weakness": [
+    "Psychic",
+    "Ground",
+    "Ice",
+    "Dragon"
+  ],
+  "number": "691",
+  "height": 71,
+  "collectibles_slug": "dragalge",
+  "featured": "true",
+  "slug": "dragalge",
+  "name": "Dragalge",
+  "ThumbnailAltText": "Dragalge",
+  "ThumbnailImage": "/pokedex-server/images/691.png",
+  "id": 691,
+  "type": [
+    "poison",
+    "dragon"
+  ]
+}

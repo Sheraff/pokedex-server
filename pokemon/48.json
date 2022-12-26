@@ -1,1 +1,27 @@
-{"abilities":["Compound Eyes","Tinted Lens"],"detailPageURL":"/us/pokedex/venonat","weight":66.1,"weakness":["Fire","Psychic","Flying","Rock"],"number":"048","height":39,"collectibles_slug":"venonat","featured":"true","slug":"venonat","name":"Venonat","ThumbnailAltText":"Venonat","ThumbnailImage":"/pokedex-server/images/8.png","id":48,"type":["bug","poison"]}
+{
+  "abilities": [
+    "Compound Eyes",
+    "Tinted Lens"
+  ],
+  "detailPageURL": "/us/pokedex/venonat",
+  "weight": 66.1,
+  "weakness": [
+    "Fire",
+    "Psychic",
+    "Flying",
+    "Rock"
+  ],
+  "number": "048",
+  "height": 39,
+  "collectibles_slug": "venonat",
+  "featured": "true",
+  "slug": "venonat",
+  "name": "Venonat",
+  "ThumbnailAltText": "Venonat",
+  "ThumbnailImage": "/pokedex-server/images/48.png",
+  "id": 48,
+  "type": [
+    "bug",
+    "poison"
+  ]
+}

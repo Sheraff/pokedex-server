@@ -1,1 +1,22 @@
-{"abilities":["Comatose"],"detailPageURL":"/us/pokedex/komala","weight":43.9,"weakness":["Fighting"],"number":"775","height":16,"collectibles_slug":"komala","featured":"true","slug":"komala","name":"Komala","ThumbnailAltText":"Komala","ThumbnailImage":"/pokedex-server/images/5.png","id":775,"type":["normal"]}
+{
+  "abilities": [
+    "Comatose"
+  ],
+  "detailPageURL": "/us/pokedex/komala",
+  "weight": 43.9,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "775",
+  "height": 16,
+  "collectibles_slug": "komala",
+  "featured": "true",
+  "slug": "komala",
+  "name": "Komala",
+  "ThumbnailAltText": "Komala",
+  "ThumbnailImage": "/pokedex-server/images/775.png",
+  "id": 775,
+  "type": [
+    "normal"
+  ]
+}

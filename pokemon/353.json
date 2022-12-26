@@ -1,1 +1,24 @@
-{"abilities":["Frisk","Insomnia"],"detailPageURL":"/us/pokedex/shuppet","weight":5.1,"weakness":["Ghost","Dark"],"number":"353","height":24,"collectibles_slug":"shuppet","featured":"true","slug":"shuppet","name":"Shuppet","ThumbnailAltText":"Shuppet","ThumbnailImage":"/pokedex-server/images/3.png","id":353,"type":["ghost"]}
+{
+  "abilities": [
+    "Frisk",
+    "Insomnia"
+  ],
+  "detailPageURL": "/us/pokedex/shuppet",
+  "weight": 5.1,
+  "weakness": [
+    "Ghost",
+    "Dark"
+  ],
+  "number": "353",
+  "height": 24,
+  "collectibles_slug": "shuppet",
+  "featured": "true",
+  "slug": "shuppet",
+  "name": "Shuppet",
+  "ThumbnailAltText": "Shuppet",
+  "ThumbnailImage": "/pokedex-server/images/353.png",
+  "id": 353,
+  "type": [
+    "ghost"
+  ]
+}

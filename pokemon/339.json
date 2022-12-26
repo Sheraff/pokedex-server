@@ -1,1 +1,24 @@
-{"abilities":["Anticipation","Oblivious"],"detailPageURL":"/us/pokedex/barboach","weight":4.2,"weakness":["Grass"],"number":"339","height":16,"collectibles_slug":"barboach","featured":"true","slug":"barboach","name":"Barboach","ThumbnailAltText":"Barboach","ThumbnailImage":"/pokedex-server/images/9.png","id":339,"type":["water","ground"]}
+{
+  "abilities": [
+    "Anticipation",
+    "Oblivious"
+  ],
+  "detailPageURL": "/us/pokedex/barboach",
+  "weight": 4.2,
+  "weakness": [
+    "Grass"
+  ],
+  "number": "339",
+  "height": 16,
+  "collectibles_slug": "barboach",
+  "featured": "true",
+  "slug": "barboach",
+  "name": "Barboach",
+  "ThumbnailAltText": "Barboach",
+  "ThumbnailImage": "/pokedex-server/images/339.png",
+  "id": 339,
+  "type": [
+    "water",
+    "ground"
+  ]
+}

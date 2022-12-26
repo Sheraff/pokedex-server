@@ -1,1 +1,26 @@
-{"abilities":["Frisk","Prankster"],"detailPageURL":"/us/pokedex/morgrem","weight":27.6,"weakness":["Steel","Fairy","Poison"],"number":"860","height":31,"collectibles_slug":"morgrem","featured":"true","slug":"morgrem","name":"Morgrem","ThumbnailAltText":"Morgrem","ThumbnailImage":"/pokedex-server/images/0.png","id":860,"type":["dark","fairy"]}
+{
+  "abilities": [
+    "Frisk",
+    "Prankster"
+  ],
+  "detailPageURL": "/us/pokedex/morgrem",
+  "weight": 27.6,
+  "weakness": [
+    "Steel",
+    "Fairy",
+    "Poison"
+  ],
+  "number": "860",
+  "height": 31,
+  "collectibles_slug": "morgrem",
+  "featured": "true",
+  "slug": "morgrem",
+  "name": "Morgrem",
+  "ThumbnailAltText": "Morgrem",
+  "ThumbnailImage": "/pokedex-server/images/860.png",
+  "id": 860,
+  "type": [
+    "dark",
+    "fairy"
+  ]
+}

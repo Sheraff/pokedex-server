@@ -1,1 +1,26 @@
-{"abilities":["Keen Eye","Tangled Feet"],"detailPageURL":"/us/pokedex/pidgeot","weight":87.1,"weakness":["Electric","Ice","Rock"],"number":"018","height":59,"collectibles_slug":"pidgeot","featured":"true","slug":"pidgeot","name":"Pidgeot","ThumbnailAltText":"Pidgeot","ThumbnailImage":"/pokedex-server/images/8.png","id":18,"type":["normal","flying"]}
+{
+  "abilities": [
+    "Keen Eye",
+    "Tangled Feet"
+  ],
+  "detailPageURL": "/us/pokedex/pidgeot",
+  "weight": 87.1,
+  "weakness": [
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "018",
+  "height": 59,
+  "collectibles_slug": "pidgeot",
+  "featured": "true",
+  "slug": "pidgeot",
+  "name": "Pidgeot",
+  "ThumbnailAltText": "Pidgeot",
+  "ThumbnailImage": "/pokedex-server/images/18.png",
+  "id": 18,
+  "type": [
+    "normal",
+    "flying"
+  ]
+}

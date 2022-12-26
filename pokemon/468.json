@@ -1,1 +1,28 @@
-{"abilities":["Hustle","Serene Grace"],"detailPageURL":"/us/pokedex/togekiss","weight":83.8,"weakness":["Steel","Poison","Electric","Ice","Rock"],"number":"468","height":59,"collectibles_slug":"togekiss","featured":"true","slug":"togekiss","name":"Togekiss","ThumbnailAltText":"Togekiss","ThumbnailImage":"/pokedex-server/images/8.png","id":468,"type":["fairy","flying"]}
+{
+  "abilities": [
+    "Hustle",
+    "Serene Grace"
+  ],
+  "detailPageURL": "/us/pokedex/togekiss",
+  "weight": 83.8,
+  "weakness": [
+    "Steel",
+    "Poison",
+    "Electric",
+    "Ice",
+    "Rock"
+  ],
+  "number": "468",
+  "height": 59,
+  "collectibles_slug": "togekiss",
+  "featured": "true",
+  "slug": "togekiss",
+  "name": "Togekiss",
+  "ThumbnailAltText": "Togekiss",
+  "ThumbnailImage": "/pokedex-server/images/468.png",
+  "id": 468,
+  "type": [
+    "fairy",
+    "flying"
+  ]
+}

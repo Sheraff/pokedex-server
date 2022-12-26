@@ -1,1 +1,24 @@
-{"abilities":["Pressure"],"detailPageURL":"/us/pokedex/entei","weight":436.5,"weakness":["Water","Ground","Rock"],"number":"244","height":83,"collectibles_slug":"entei","featured":"true","slug":"entei","name":"Entei","ThumbnailAltText":"Entei","ThumbnailImage":"/pokedex-server/images/4.png","id":244,"type":["fire"]}
+{
+  "abilities": [
+    "Pressure"
+  ],
+  "detailPageURL": "/us/pokedex/entei",
+  "weight": 436.5,
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "number": "244",
+  "height": 83,
+  "collectibles_slug": "entei",
+  "featured": "true",
+  "slug": "entei",
+  "name": "Entei",
+  "ThumbnailAltText": "Entei",
+  "ThumbnailImage": "/pokedex-server/images/244.png",
+  "id": 244,
+  "type": [
+    "fire"
+  ]
+}

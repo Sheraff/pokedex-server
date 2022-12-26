@@ -1,1 +1,25 @@
-{"abilities":["Sand Veil"],"detailPageURL":"/us/pokedex/garchomp","weight":209.4,"weakness":["Fairy","Ice","Dragon"],"number":"445","height":75,"collectibles_slug":"garchomp","featured":"true","slug":"garchomp","name":"Garchomp","ThumbnailAltText":"Garchomp","ThumbnailImage":"/pokedex-server/images/5.png","id":445,"type":["dragon","ground"]}
+{
+  "abilities": [
+    "Sand Veil"
+  ],
+  "detailPageURL": "/us/pokedex/garchomp",
+  "weight": 209.4,
+  "weakness": [
+    "Fairy",
+    "Ice",
+    "Dragon"
+  ],
+  "number": "445",
+  "height": 75,
+  "collectibles_slug": "garchomp",
+  "featured": "true",
+  "slug": "garchomp",
+  "name": "Garchomp",
+  "ThumbnailAltText": "Garchomp",
+  "ThumbnailImage": "/pokedex-server/images/445.png",
+  "id": 445,
+  "type": [
+    "dragon",
+    "ground"
+  ]
+}

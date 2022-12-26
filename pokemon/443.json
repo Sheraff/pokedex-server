@@ -1,1 +1,25 @@
-{"abilities":["Sand Veil"],"detailPageURL":"/us/pokedex/gible","weight":45.2,"weakness":["Fairy","Ice","Dragon"],"number":"443","height":28,"collectibles_slug":"gible","featured":"true","slug":"gible","name":"Gible","ThumbnailAltText":"Gible","ThumbnailImage":"/pokedex-server/images/3.png","id":443,"type":["dragon","ground"]}
+{
+  "abilities": [
+    "Sand Veil"
+  ],
+  "detailPageURL": "/us/pokedex/gible",
+  "weight": 45.2,
+  "weakness": [
+    "Fairy",
+    "Ice",
+    "Dragon"
+  ],
+  "number": "443",
+  "height": 28,
+  "collectibles_slug": "gible",
+  "featured": "true",
+  "slug": "gible",
+  "name": "Gible",
+  "ThumbnailAltText": "Gible",
+  "ThumbnailImage": "/pokedex-server/images/443.png",
+  "id": 443,
+  "type": [
+    "dragon",
+    "ground"
+  ]
+}

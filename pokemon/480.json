@@ -1,1 +1,24 @@
-{"abilities":["Levitate"],"detailPageURL":"/us/pokedex/uxie","weight":0.7,"weakness":["Ghost","Dark","Bug"],"number":"480","height":12,"collectibles_slug":"uxie","featured":"true","slug":"uxie","name":"Uxie","ThumbnailAltText":"Uxie","ThumbnailImage":"/pokedex-server/images/0.png","id":480,"type":["psychic"]}
+{
+  "abilities": [
+    "Levitate"
+  ],
+  "detailPageURL": "/us/pokedex/uxie",
+  "weight": 0.7,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Bug"
+  ],
+  "number": "480",
+  "height": 12,
+  "collectibles_slug": "uxie",
+  "featured": "true",
+  "slug": "uxie",
+  "name": "Uxie",
+  "ThumbnailAltText": "Uxie",
+  "ThumbnailImage": "/pokedex-server/images/480.png",
+  "id": 480,
+  "type": [
+    "psychic"
+  ]
+}

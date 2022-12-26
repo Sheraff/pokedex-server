@@ -1,1 +1,28 @@
-{"abilities":["Refrigerate"],"detailPageURL":"/us/pokedex/aurorus","weight":496,"weakness":["Steel","Fighting","Water","Rock","Grass","Ground"],"number":"699","height":106,"collectibles_slug":"aurorus","featured":"true","slug":"aurorus","name":"Aurorus","ThumbnailAltText":"Aurorus","ThumbnailImage":"/pokedex-server/images/9.png","id":699,"type":["rock","ice"]}
+{
+  "abilities": [
+    "Refrigerate"
+  ],
+  "detailPageURL": "/us/pokedex/aurorus",
+  "weight": 496,
+  "weakness": [
+    "Steel",
+    "Fighting",
+    "Water",
+    "Rock",
+    "Grass",
+    "Ground"
+  ],
+  "number": "699",
+  "height": 106,
+  "collectibles_slug": "aurorus",
+  "featured": "true",
+  "slug": "aurorus",
+  "name": "Aurorus",
+  "ThumbnailAltText": "Aurorus",
+  "ThumbnailImage": "/pokedex-server/images/699.png",
+  "id": 699,
+  "type": [
+    "rock",
+    "ice"
+  ]
+}

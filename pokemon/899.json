@@ -1,1 +1,22 @@
-{"abilities":[],"detailPageURL":"/us/pokedex/wyrdeer","weight":209.7,"weakness":["Dark","Bug"],"number":"899","height":71,"collectibles_slug":"wyrdeer","featured":"true","slug":"wyrdeer","name":"Wyrdeer","ThumbnailAltText":"Wyrdeer","ThumbnailImage":"/pokedex-server/images/9.png","id":899,"type":["normal","psychic"]}
+{
+  "abilities": [],
+  "detailPageURL": "/us/pokedex/wyrdeer",
+  "weight": 209.7,
+  "weakness": [
+    "Dark",
+    "Bug"
+  ],
+  "number": "899",
+  "height": 71,
+  "collectibles_slug": "wyrdeer",
+  "featured": "true",
+  "slug": "wyrdeer",
+  "name": "Wyrdeer",
+  "ThumbnailAltText": "Wyrdeer",
+  "ThumbnailImage": "/pokedex-server/images/899.png",
+  "id": 899,
+  "type": [
+    "normal",
+    "psychic"
+  ]
+}

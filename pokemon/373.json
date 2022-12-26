@@ -1,1 +1,26 @@
-{"abilities":["Intimidate"],"detailPageURL":"/us/pokedex/salamence","weight":226.2,"weakness":["Fairy","Dragon","Ice","Rock"],"number":"373","height":59,"collectibles_slug":"salamence","featured":"true","slug":"salamence","name":"Salamence","ThumbnailAltText":"Salamence","ThumbnailImage":"/pokedex-server/images/3.png","id":373,"type":["dragon","flying"]}
+{
+  "abilities": [
+    "Intimidate"
+  ],
+  "detailPageURL": "/us/pokedex/salamence",
+  "weight": 226.2,
+  "weakness": [
+    "Fairy",
+    "Dragon",
+    "Ice",
+    "Rock"
+  ],
+  "number": "373",
+  "height": 59,
+  "collectibles_slug": "salamence",
+  "featured": "true",
+  "slug": "salamence",
+  "name": "Salamence",
+  "ThumbnailAltText": "Salamence",
+  "ThumbnailImage": "/pokedex-server/images/373.png",
+  "id": 373,
+  "type": [
+    "dragon",
+    "flying"
+  ]
+}

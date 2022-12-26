@@ -1,1 +1,24 @@
-{"abilities":["Sticky Hold","Storm Drain"],"detailPageURL":"/us/pokedex/gastrodon","weight":65.9,"weakness":["Grass"],"number":"423","height":35,"collectibles_slug":"gastrodon","featured":"true","slug":"gastrodon","name":"Gastrodon","ThumbnailAltText":"Gastrodon","ThumbnailImage":"/pokedex-server/images/3.png","id":423,"type":["water","ground"]}
+{
+  "abilities": [
+    "Sticky Hold",
+    "Storm Drain"
+  ],
+  "detailPageURL": "/us/pokedex/gastrodon",
+  "weight": 65.9,
+  "weakness": [
+    "Grass"
+  ],
+  "number": "423",
+  "height": 35,
+  "collectibles_slug": "gastrodon",
+  "featured": "true",
+  "slug": "gastrodon",
+  "name": "Gastrodon",
+  "ThumbnailAltText": "Gastrodon",
+  "ThumbnailImage": "/pokedex-server/images/423.png",
+  "id": 423,
+  "type": [
+    "water",
+    "ground"
+  ]
+}

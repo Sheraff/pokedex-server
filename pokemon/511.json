@@ -1,1 +1,26 @@
-{"abilities":["Gluttony"],"detailPageURL":"/us/pokedex/pansage","weight":23.1,"weakness":["Fire","Flying","Ice","Poison","Bug"],"number":"511","height":24,"collectibles_slug":"pansage","featured":"true","slug":"pansage","name":"Pansage","ThumbnailAltText":"Pansage","ThumbnailImage":"/pokedex-server/images/1.png","id":511,"type":["grass"]}
+{
+  "abilities": [
+    "Gluttony"
+  ],
+  "detailPageURL": "/us/pokedex/pansage",
+  "weight": 23.1,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "511",
+  "height": 24,
+  "collectibles_slug": "pansage",
+  "featured": "true",
+  "slug": "pansage",
+  "name": "Pansage",
+  "ThumbnailAltText": "Pansage",
+  "ThumbnailImage": "/pokedex-server/images/511.png",
+  "id": 511,
+  "type": [
+    "grass"
+  ]
+}

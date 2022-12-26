@@ -1,1 +1,27 @@
-{"abilities":["Effect Spore","Poison Heal"],"detailPageURL":"/us/pokedex/shroomish","weight":9.9,"weakness":["Fire","Flying","Ice","Poison","Bug"],"number":"285","height":16,"collectibles_slug":"shroomish","featured":"true","slug":"shroomish","name":"Shroomish","ThumbnailAltText":"Shroomish","ThumbnailImage":"/pokedex-server/images/5.png","id":285,"type":["grass"]}
+{
+  "abilities": [
+    "Effect Spore",
+    "Poison Heal"
+  ],
+  "detailPageURL": "/us/pokedex/shroomish",
+  "weight": 9.9,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "285",
+  "height": 16,
+  "collectibles_slug": "shroomish",
+  "featured": "true",
+  "slug": "shroomish",
+  "name": "Shroomish",
+  "ThumbnailAltText": "Shroomish",
+  "ThumbnailImage": "/pokedex-server/images/285.png",
+  "id": 285,
+  "type": [
+    "grass"
+  ]
+}

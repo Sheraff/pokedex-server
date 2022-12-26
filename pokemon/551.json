@@ -1,1 +1,29 @@
-{"abilities":["Intimidate","Moxie"],"detailPageURL":"/us/pokedex/sandile","weight":33.5,"weakness":["Ice","Water","Fighting","Fairy","Grass","Bug"],"number":"551","height":28,"collectibles_slug":"sandile","featured":"true","slug":"sandile","name":"Sandile","ThumbnailAltText":"Sandile","ThumbnailImage":"/pokedex-server/images/1.png","id":551,"type":["ground","dark"]}
+{
+  "abilities": [
+    "Intimidate",
+    "Moxie"
+  ],
+  "detailPageURL": "/us/pokedex/sandile",
+  "weight": 33.5,
+  "weakness": [
+    "Ice",
+    "Water",
+    "Fighting",
+    "Fairy",
+    "Grass",
+    "Bug"
+  ],
+  "number": "551",
+  "height": 28,
+  "collectibles_slug": "sandile",
+  "featured": "true",
+  "slug": "sandile",
+  "name": "Sandile",
+  "ThumbnailAltText": "Sandile",
+  "ThumbnailImage": "/pokedex-server/images/551.png",
+  "id": 551,
+  "type": [
+    "ground",
+    "dark"
+  ]
+}

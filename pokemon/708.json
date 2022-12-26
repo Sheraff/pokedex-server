@@ -1,1 +1,28 @@
-{"abilities":["Frisk","Natural Cure"],"detailPageURL":"/us/pokedex/phantump","weight":15.4,"weakness":["Ghost","Fire","Flying","Dark","Ice"],"number":"708","height":16,"collectibles_slug":"phantump","featured":"true","slug":"phantump","name":"Phantump","ThumbnailAltText":"Phantump","ThumbnailImage":"/pokedex-server/images/8.png","id":708,"type":["ghost","grass"]}
+{
+  "abilities": [
+    "Frisk",
+    "Natural Cure"
+  ],
+  "detailPageURL": "/us/pokedex/phantump",
+  "weight": 15.4,
+  "weakness": [
+    "Ghost",
+    "Fire",
+    "Flying",
+    "Dark",
+    "Ice"
+  ],
+  "number": "708",
+  "height": 16,
+  "collectibles_slug": "phantump",
+  "featured": "true",
+  "slug": "phantump",
+  "name": "Phantump",
+  "ThumbnailAltText": "Phantump",
+  "ThumbnailImage": "/pokedex-server/images/708.png",
+  "id": 708,
+  "type": [
+    "ghost",
+    "grass"
+  ]
+}

@@ -1,1 +1,26 @@
-{"abilities":["Overgrow"],"detailPageURL":"/us/pokedex/ivysaur","weight":28.7,"weakness":["Fire","Psychic","Flying","Ice"],"number":"002","height":39,"collectibles_slug":"ivysaur","featured":"true","slug":"ivysaur","name":"Ivysaur","ThumbnailAltText":"Ivysaur","ThumbnailImage":"/pokedex-server/images/2.png","id":2,"type":["grass","poison"]}
+{
+  "abilities": [
+    "Overgrow"
+  ],
+  "detailPageURL": "/us/pokedex/ivysaur",
+  "weight": 28.7,
+  "weakness": [
+    "Fire",
+    "Psychic",
+    "Flying",
+    "Ice"
+  ],
+  "number": "002",
+  "height": 39,
+  "collectibles_slug": "ivysaur",
+  "featured": "true",
+  "slug": "ivysaur",
+  "name": "Ivysaur",
+  "ThumbnailAltText": "Ivysaur",
+  "ThumbnailImage": "/pokedex-server/images/2.png",
+  "id": 2,
+  "type": [
+    "grass",
+    "poison"
+  ]
+}

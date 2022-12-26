@@ -1,1 +1,24 @@
-{"abilities":["Cloud Nine","Damp"],"detailPageURL":"/us/pokedex/psyduck","weight":43.2,"weakness":["Grass","Electric"],"number":"054","height":31,"collectibles_slug":"psyduck","featured":"true","slug":"psyduck","name":"Psyduck","ThumbnailAltText":"Psyduck","ThumbnailImage":"/pokedex-server/images/4.png","id":54,"type":["water"]}
+{
+  "abilities": [
+    "Cloud Nine",
+    "Damp"
+  ],
+  "detailPageURL": "/us/pokedex/psyduck",
+  "weight": 43.2,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "054",
+  "height": 31,
+  "collectibles_slug": "psyduck",
+  "featured": "true",
+  "slug": "psyduck",
+  "name": "Psyduck",
+  "ThumbnailAltText": "Psyduck",
+  "ThumbnailImage": "/pokedex-server/images/54.png",
+  "id": 54,
+  "type": [
+    "water"
+  ]
+}

@@ -1,1 +1,22 @@
-{"abilities":["Minus"],"detailPageURL":"/us/pokedex/minun","weight":9.3,"weakness":["Ground"],"number":"312","height":16,"collectibles_slug":"minun","featured":"true","slug":"minun","name":"Minun","ThumbnailAltText":"Minun","ThumbnailImage":"/pokedex-server/images/2.png","id":312,"type":["electric"]}
+{
+  "abilities": [
+    "Minus"
+  ],
+  "detailPageURL": "/us/pokedex/minun",
+  "weight": 9.3,
+  "weakness": [
+    "Ground"
+  ],
+  "number": "312",
+  "height": 16,
+  "collectibles_slug": "minun",
+  "featured": "true",
+  "slug": "minun",
+  "name": "Minun",
+  "ThumbnailAltText": "Minun",
+  "ThumbnailImage": "/pokedex-server/images/312.png",
+  "id": 312,
+  "type": [
+    "electric"
+  ]
+}

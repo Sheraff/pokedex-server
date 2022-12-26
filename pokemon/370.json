@@ -1,1 +1,23 @@
-{"abilities":["Swift Swim"],"detailPageURL":"/us/pokedex/luvdisc","weight":19.2,"weakness":["Grass","Electric"],"number":"370","height":24,"collectibles_slug":"luvdisc","featured":"true","slug":"luvdisc","name":"Luvdisc","ThumbnailAltText":"Luvdisc","ThumbnailImage":"/pokedex-server/images/0.png","id":370,"type":["water"]}
+{
+  "abilities": [
+    "Swift Swim"
+  ],
+  "detailPageURL": "/us/pokedex/luvdisc",
+  "weight": 19.2,
+  "weakness": [
+    "Grass",
+    "Electric"
+  ],
+  "number": "370",
+  "height": 24,
+  "collectibles_slug": "luvdisc",
+  "featured": "true",
+  "slug": "luvdisc",
+  "name": "Luvdisc",
+  "ThumbnailAltText": "Luvdisc",
+  "ThumbnailImage": "/pokedex-server/images/370.png",
+  "id": 370,
+  "type": [
+    "water"
+  ]
+}

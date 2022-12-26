@@ -1,1 +1,26 @@
-{"abilities":["Stance Change"],"detailPageURL":"/us/pokedex/aegislash","weight":116.8,"weakness":["Fire","Ghost","Dark","Ground"],"number":"681","height":67,"collectibles_slug":"aegislash","featured":"true","slug":"aegislash","name":"Aegislash","ThumbnailAltText":"Aegislash","ThumbnailImage":"/pokedex-server/images/1.png","id":681,"type":["steel","ghost"]}
+{
+  "abilities": [
+    "Stance Change"
+  ],
+  "detailPageURL": "/us/pokedex/aegislash",
+  "weight": 116.8,
+  "weakness": [
+    "Fire",
+    "Ghost",
+    "Dark",
+    "Ground"
+  ],
+  "number": "681",
+  "height": 67,
+  "collectibles_slug": "aegislash",
+  "featured": "true",
+  "slug": "aegislash",
+  "name": "Aegislash",
+  "ThumbnailAltText": "Aegislash",
+  "ThumbnailImage": "/pokedex-server/images/681.png",
+  "id": 681,
+  "type": [
+    "steel",
+    "ghost"
+  ]
+}

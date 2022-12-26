@@ -1,1 +1,27 @@
-{"abilities":["Rough Skin"],"detailPageURL":"/us/pokedex/carvanha","weight":45.9,"weakness":["Fairy","Grass","Electric","Fighting","Bug"],"number":"318","height":31,"collectibles_slug":"carvanha","featured":"true","slug":"carvanha","name":"Carvanha","ThumbnailAltText":"Carvanha","ThumbnailImage":"/pokedex-server/images/8.png","id":318,"type":["water","dark"]}
+{
+  "abilities": [
+    "Rough Skin"
+  ],
+  "detailPageURL": "/us/pokedex/carvanha",
+  "weight": 45.9,
+  "weakness": [
+    "Fairy",
+    "Grass",
+    "Electric",
+    "Fighting",
+    "Bug"
+  ],
+  "number": "318",
+  "height": 31,
+  "collectibles_slug": "carvanha",
+  "featured": "true",
+  "slug": "carvanha",
+  "name": "Carvanha",
+  "ThumbnailAltText": "Carvanha",
+  "ThumbnailImage": "/pokedex-server/images/318.png",
+  "id": 318,
+  "type": [
+    "water",
+    "dark"
+  ]
+}

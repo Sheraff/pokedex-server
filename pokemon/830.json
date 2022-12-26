@@ -1,1 +1,27 @@
-{"abilities":["Cotton Down","Regenerator"],"detailPageURL":"/us/pokedex/eldegoss","weight":5.5,"weakness":["Fire","Flying","Ice","Poison","Bug"],"number":"830","height":20,"collectibles_slug":"eldegoss","featured":"true","slug":"eldegoss","name":"Eldegoss","ThumbnailAltText":"Eldegoss","ThumbnailImage":"/pokedex-server/images/0.png","id":830,"type":["grass"]}
+{
+  "abilities": [
+    "Cotton Down",
+    "Regenerator"
+  ],
+  "detailPageURL": "/us/pokedex/eldegoss",
+  "weight": 5.5,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "830",
+  "height": 20,
+  "collectibles_slug": "eldegoss",
+  "featured": "true",
+  "slug": "eldegoss",
+  "name": "Eldegoss",
+  "ThumbnailAltText": "Eldegoss",
+  "ThumbnailImage": "/pokedex-server/images/830.png",
+  "id": 830,
+  "type": [
+    "grass"
+  ]
+}

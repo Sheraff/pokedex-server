@@ -1,1 +1,30 @@
-{"abilities":["Chlorophyll","Early Bird"],"detailPageURL":"/us/pokedex/nuzleaf","weight":61.7,"weakness":["Ice","Fire","Flying","Poison","Fighting","Fairy","Bug"],"number":"274","height":39,"collectibles_slug":"nuzleaf","featured":"true","slug":"nuzleaf","name":"Nuzleaf","ThumbnailAltText":"Nuzleaf","ThumbnailImage":"/pokedex-server/images/4.png","id":274,"type":["grass","dark"]}
+{
+  "abilities": [
+    "Chlorophyll",
+    "Early Bird"
+  ],
+  "detailPageURL": "/us/pokedex/nuzleaf",
+  "weight": 61.7,
+  "weakness": [
+    "Ice",
+    "Fire",
+    "Flying",
+    "Poison",
+    "Fighting",
+    "Fairy",
+    "Bug"
+  ],
+  "number": "274",
+  "height": 39,
+  "collectibles_slug": "nuzleaf",
+  "featured": "true",
+  "slug": "nuzleaf",
+  "name": "Nuzleaf",
+  "ThumbnailAltText": "Nuzleaf",
+  "ThumbnailImage": "/pokedex-server/images/274.png",
+  "id": 274,
+  "type": [
+    "grass",
+    "dark"
+  ]
+}

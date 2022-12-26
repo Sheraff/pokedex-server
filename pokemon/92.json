@@ -1,1 +1,26 @@
-{"abilities":["Levitate"],"detailPageURL":"/us/pokedex/gastly","weight":0.2,"weakness":["Ghost","Dark","Psychic","Ground"],"number":"092","height":51,"collectibles_slug":"gastly","featured":"true","slug":"gastly","name":"Gastly","ThumbnailAltText":"Gastly","ThumbnailImage":"/pokedex-server/images/2.png","id":92,"type":["ghost","poison"]}
+{
+  "abilities": [
+    "Levitate"
+  ],
+  "detailPageURL": "/us/pokedex/gastly",
+  "weight": 0.2,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Psychic",
+    "Ground"
+  ],
+  "number": "092",
+  "height": 51,
+  "collectibles_slug": "gastly",
+  "featured": "true",
+  "slug": "gastly",
+  "name": "Gastly",
+  "ThumbnailAltText": "Gastly",
+  "ThumbnailImage": "/pokedex-server/images/92.png",
+  "id": 92,
+  "type": [
+    "ghost",
+    "poison"
+  ]
+}

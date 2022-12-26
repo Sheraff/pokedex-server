@@ -1,1 +1,25 @@
-{"abilities":["Flash Fire","Run Away"],"detailPageURL":"/us/pokedex/ponyta","weight":66.1,"weakness":["Water","Ground","Rock"],"number":"077","height":39,"collectibles_slug":"ponyta","featured":"true","slug":"ponyta","name":"Ponyta","ThumbnailAltText":"Ponyta","ThumbnailImage":"/pokedex-server/images/7.png","id":77,"type":["fire"]}
+{
+  "abilities": [
+    "Flash Fire",
+    "Run Away"
+  ],
+  "detailPageURL": "/us/pokedex/ponyta",
+  "weight": 66.1,
+  "weakness": [
+    "Water",
+    "Ground",
+    "Rock"
+  ],
+  "number": "077",
+  "height": 39,
+  "collectibles_slug": "ponyta",
+  "featured": "true",
+  "slug": "ponyta",
+  "name": "Ponyta",
+  "ThumbnailAltText": "Ponyta",
+  "ThumbnailImage": "/pokedex-server/images/77.png",
+  "id": 77,
+  "type": [
+    "fire"
+  ]
+}

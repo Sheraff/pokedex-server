@@ -1,1 +1,27 @@
-{"abilities":["Shell Armor","Skill Link"],"detailPageURL":"/us/pokedex/cloyster","weight":292.1,"weakness":["Grass","Electric","Fighting","Rock"],"number":"091","height":59,"collectibles_slug":"cloyster","featured":"true","slug":"cloyster","name":"Cloyster","ThumbnailAltText":"Cloyster","ThumbnailImage":"/pokedex-server/images/1.png","id":91,"type":["water","ice"]}
+{
+  "abilities": [
+    "Shell Armor",
+    "Skill Link"
+  ],
+  "detailPageURL": "/us/pokedex/cloyster",
+  "weight": 292.1,
+  "weakness": [
+    "Grass",
+    "Electric",
+    "Fighting",
+    "Rock"
+  ],
+  "number": "091",
+  "height": 59,
+  "collectibles_slug": "cloyster",
+  "featured": "true",
+  "slug": "cloyster",
+  "name": "Cloyster",
+  "ThumbnailAltText": "Cloyster",
+  "ThumbnailImage": "/pokedex-server/images/91.png",
+  "id": 91,
+  "type": [
+    "water",
+    "ice"
+  ]
+}

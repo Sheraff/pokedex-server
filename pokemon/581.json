@@ -1,1 +1,25 @@
-{"abilities":["Big Pecks","Keen Eye"],"detailPageURL":"/us/pokedex/swanna","weight":53.4,"weakness":["Electric","Rock"],"number":"581","height":51,"collectibles_slug":"swanna","featured":"true","slug":"swanna","name":"Swanna","ThumbnailAltText":"Swanna","ThumbnailImage":"/pokedex-server/images/1.png","id":581,"type":["water","flying"]}
+{
+  "abilities": [
+    "Big Pecks",
+    "Keen Eye"
+  ],
+  "detailPageURL": "/us/pokedex/swanna",
+  "weight": 53.4,
+  "weakness": [
+    "Electric",
+    "Rock"
+  ],
+  "number": "581",
+  "height": 51,
+  "collectibles_slug": "swanna",
+  "featured": "true",
+  "slug": "swanna",
+  "name": "Swanna",
+  "ThumbnailAltText": "Swanna",
+  "ThumbnailImage": "/pokedex-server/images/581.png",
+  "id": 581,
+  "type": [
+    "water",
+    "flying"
+  ]
+}

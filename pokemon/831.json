@@ -1,1 +1,23 @@
-{"abilities":["Fluffy","Run Away"],"detailPageURL":"/us/pokedex/wooloo","weight":13.2,"weakness":["Fighting"],"number":"831","height":24,"collectibles_slug":"wooloo","featured":"true","slug":"wooloo","name":"Wooloo","ThumbnailAltText":"Wooloo","ThumbnailImage":"/pokedex-server/images/1.png","id":831,"type":["normal"]}
+{
+  "abilities": [
+    "Fluffy",
+    "Run Away"
+  ],
+  "detailPageURL": "/us/pokedex/wooloo",
+  "weight": 13.2,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "831",
+  "height": 24,
+  "collectibles_slug": "wooloo",
+  "featured": "true",
+  "slug": "wooloo",
+  "name": "Wooloo",
+  "ThumbnailAltText": "Wooloo",
+  "ThumbnailImage": "/pokedex-server/images/831.png",
+  "id": 831,
+  "type": [
+    "normal"
+  ]
+}

@@ -1,1 +1,27 @@
-{"abilities":["Snow Cloak"],"detailPageURL":"/us/pokedex/froslass","weight":58.6,"weakness":["Steel","Ghost","Fire","Dark","Rock"],"number":"478","height":51,"collectibles_slug":"froslass","featured":"true","slug":"froslass","name":"Froslass","ThumbnailAltText":"Froslass","ThumbnailImage":"/pokedex-server/images/8.png","id":478,"type":["ice","ghost"]}
+{
+  "abilities": [
+    "Snow Cloak"
+  ],
+  "detailPageURL": "/us/pokedex/froslass",
+  "weight": 58.6,
+  "weakness": [
+    "Steel",
+    "Ghost",
+    "Fire",
+    "Dark",
+    "Rock"
+  ],
+  "number": "478",
+  "height": 51,
+  "collectibles_slug": "froslass",
+  "featured": "true",
+  "slug": "froslass",
+  "name": "Froslass",
+  "ThumbnailAltText": "Froslass",
+  "ThumbnailImage": "/pokedex-server/images/478.png",
+  "id": 478,
+  "type": [
+    "ice",
+    "ghost"
+  ]
+}

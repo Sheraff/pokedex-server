@@ -1,1 +1,24 @@
-{"abilities":["Prankster"],"detailPageURL":"/us/pokedex/klefki","weight":6.6,"weakness":["Fire","Ground"],"number":"707","height":8,"collectibles_slug":"klefki","featured":"true","slug":"klefki","name":"Klefki","ThumbnailAltText":"Klefki","ThumbnailImage":"/pokedex-server/images/7.png","id":707,"type":["steel","fairy"]}
+{
+  "abilities": [
+    "Prankster"
+  ],
+  "detailPageURL": "/us/pokedex/klefki",
+  "weight": 6.6,
+  "weakness": [
+    "Fire",
+    "Ground"
+  ],
+  "number": "707",
+  "height": 8,
+  "collectibles_slug": "klefki",
+  "featured": "true",
+  "slug": "klefki",
+  "name": "Klefki",
+  "ThumbnailAltText": "Klefki",
+  "ThumbnailImage": "/pokedex-server/images/707.png",
+  "id": 707,
+  "type": [
+    "steel",
+    "fairy"
+  ]
+}

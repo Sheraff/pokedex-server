@@ -1,1 +1,23 @@
-{"abilities":["Stakeout","Strong Jaw"],"detailPageURL":"/us/pokedex/yungoos","weight":13.2,"weakness":["Fighting"],"number":"734","height":16,"collectibles_slug":"yungoos","featured":"true","slug":"yungoos","name":"Yungoos","ThumbnailAltText":"Yungoos","ThumbnailImage":"/pokedex-server/images/4.png","id":734,"type":["normal"]}
+{
+  "abilities": [
+    "Stakeout",
+    "Strong Jaw"
+  ],
+  "detailPageURL": "/us/pokedex/yungoos",
+  "weight": 13.2,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "734",
+  "height": 16,
+  "collectibles_slug": "yungoos",
+  "featured": "true",
+  "slug": "yungoos",
+  "name": "Yungoos",
+  "ThumbnailAltText": "Yungoos",
+  "ThumbnailImage": "/pokedex-server/images/734.png",
+  "id": 734,
+  "type": [
+    "normal"
+  ]
+}

@@ -1,1 +1,24 @@
-{"abilities":["Intimidate","Shed Skin"],"detailPageURL":"/us/pokedex/arbok","weight":143.3,"weakness":["Psychic","Ground"],"number":"024","height":138,"collectibles_slug":"arbok","featured":"true","slug":"arbok","name":"Arbok","ThumbnailAltText":"Arbok","ThumbnailImage":"/pokedex-server/images/4.png","id":24,"type":["poison"]}
+{
+  "abilities": [
+    "Intimidate",
+    "Shed Skin"
+  ],
+  "detailPageURL": "/us/pokedex/arbok",
+  "weight": 143.3,
+  "weakness": [
+    "Psychic",
+    "Ground"
+  ],
+  "number": "024",
+  "height": 138,
+  "collectibles_slug": "arbok",
+  "featured": "true",
+  "slug": "arbok",
+  "name": "Arbok",
+  "ThumbnailAltText": "Arbok",
+  "ThumbnailImage": "/pokedex-server/images/24.png",
+  "id": 24,
+  "type": [
+    "poison"
+  ]
+}

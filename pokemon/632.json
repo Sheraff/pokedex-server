@@ -1,1 +1,24 @@
-{"abilities":["Hustle","Swarm"],"detailPageURL":"/us/pokedex/durant","weight":72.8,"weakness":["Fire"],"number":"632","height":12,"collectibles_slug":"durant","featured":"true","slug":"durant","name":"Durant","ThumbnailAltText":"Durant","ThumbnailImage":"/pokedex-server/images/2.png","id":632,"type":["bug","steel"]}
+{
+  "abilities": [
+    "Hustle",
+    "Swarm"
+  ],
+  "detailPageURL": "/us/pokedex/durant",
+  "weight": 72.8,
+  "weakness": [
+    "Fire"
+  ],
+  "number": "632",
+  "height": 12,
+  "collectibles_slug": "durant",
+  "featured": "true",
+  "slug": "durant",
+  "name": "Durant",
+  "ThumbnailAltText": "Durant",
+  "ThumbnailImage": "/pokedex-server/images/632.png",
+  "id": 632,
+  "type": [
+    "bug",
+    "steel"
+  ]
+}

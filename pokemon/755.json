@@ -1,1 +1,28 @@
-{"abilities":["Effect Spore","Illuminate"],"detailPageURL":"/us/pokedex/morelull","weight":3.3,"weakness":["Steel","Fire","Flying","Ice","Poison"],"number":"755","height":8,"collectibles_slug":"morelull","featured":"true","slug":"morelull","name":"Morelull","ThumbnailAltText":"Morelull","ThumbnailImage":"/pokedex-server/images/5.png","id":755,"type":["grass","fairy"]}
+{
+  "abilities": [
+    "Effect Spore",
+    "Illuminate"
+  ],
+  "detailPageURL": "/us/pokedex/morelull",
+  "weight": 3.3,
+  "weakness": [
+    "Steel",
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison"
+  ],
+  "number": "755",
+  "height": 8,
+  "collectibles_slug": "morelull",
+  "featured": "true",
+  "slug": "morelull",
+  "name": "Morelull",
+  "ThumbnailAltText": "Morelull",
+  "ThumbnailImage": "/pokedex-server/images/755.png",
+  "id": 755,
+  "type": [
+    "grass",
+    "fairy"
+  ]
+}

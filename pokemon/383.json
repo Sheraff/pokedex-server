@@ -1,1 +1,24 @@
-{"abilities":["Drought"],"detailPageURL":"/us/pokedex/groudon","weight":2094.4,"weakness":["Water","Grass","Ice"],"number":"383","height":138,"collectibles_slug":"groudon","featured":"true","slug":"groudon","name":"Groudon","ThumbnailAltText":"Groudon","ThumbnailImage":"/pokedex-server/images/3.png","id":383,"type":["ground"]}
+{
+  "abilities": [
+    "Drought"
+  ],
+  "detailPageURL": "/us/pokedex/groudon",
+  "weight": 2094.4,
+  "weakness": [
+    "Water",
+    "Grass",
+    "Ice"
+  ],
+  "number": "383",
+  "height": 138,
+  "collectibles_slug": "groudon",
+  "featured": "true",
+  "slug": "groudon",
+  "name": "Groudon",
+  "ThumbnailAltText": "Groudon",
+  "ThumbnailImage": "/pokedex-server/images/383.png",
+  "id": 383,
+  "type": [
+    "ground"
+  ]
+}

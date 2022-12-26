@@ -1,1 +1,26 @@
-{"abilities":["Iron Fist","Mold Breaker"],"detailPageURL":"/us/pokedex/pangoro","weight":299.8,"weakness":["Fairy","Flying","Fighting"],"number":"675","height":83,"collectibles_slug":"pangoro","featured":"true","slug":"pangoro","name":"Pangoro","ThumbnailAltText":"Pangoro","ThumbnailImage":"/pokedex-server/images/5.png","id":675,"type":["fighting","dark"]}
+{
+  "abilities": [
+    "Iron Fist",
+    "Mold Breaker"
+  ],
+  "detailPageURL": "/us/pokedex/pangoro",
+  "weight": 299.8,
+  "weakness": [
+    "Fairy",
+    "Flying",
+    "Fighting"
+  ],
+  "number": "675",
+  "height": 83,
+  "collectibles_slug": "pangoro",
+  "featured": "true",
+  "slug": "pangoro",
+  "name": "Pangoro",
+  "ThumbnailAltText": "Pangoro",
+  "ThumbnailImage": "/pokedex-server/images/675.png",
+  "id": 675,
+  "type": [
+    "fighting",
+    "dark"
+  ]
+}

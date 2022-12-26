@@ -1,1 +1,23 @@
-{"abilities":["Sweet Veil"],"detailPageURL":"/us/pokedex/swirlix","weight":7.7,"weakness":["Steel","Poison"],"number":"684","height":16,"collectibles_slug":"swirlix","featured":"true","slug":"swirlix","name":"Swirlix","ThumbnailAltText":"Swirlix","ThumbnailImage":"/pokedex-server/images/4.png","id":684,"type":["fairy"]}
+{
+  "abilities": [
+    "Sweet Veil"
+  ],
+  "detailPageURL": "/us/pokedex/swirlix",
+  "weight": 7.7,
+  "weakness": [
+    "Steel",
+    "Poison"
+  ],
+  "number": "684",
+  "height": 16,
+  "collectibles_slug": "swirlix",
+  "featured": "true",
+  "slug": "swirlix",
+  "name": "Swirlix",
+  "ThumbnailAltText": "Swirlix",
+  "ThumbnailImage": "/pokedex-server/images/684.png",
+  "id": 684,
+  "type": [
+    "fairy"
+  ]
+}

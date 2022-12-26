@@ -1,1 +1,27 @@
-{"abilities":["Blaze"],"detailPageURL":"/us/pokedex/delphox","weight":86,"weakness":["Ghost","Dark","Ground","Water","Rock"],"number":"655","height":59,"collectibles_slug":"delphox","featured":"true","slug":"delphox","name":"Delphox","ThumbnailAltText":"Delphox","ThumbnailImage":"/pokedex-server/images/5.png","id":655,"type":["fire","psychic"]}
+{
+  "abilities": [
+    "Blaze"
+  ],
+  "detailPageURL": "/us/pokedex/delphox",
+  "weight": 86,
+  "weakness": [
+    "Ghost",
+    "Dark",
+    "Ground",
+    "Water",
+    "Rock"
+  ],
+  "number": "655",
+  "height": 59,
+  "collectibles_slug": "delphox",
+  "featured": "true",
+  "slug": "delphox",
+  "name": "Delphox",
+  "ThumbnailAltText": "Delphox",
+  "ThumbnailImage": "/pokedex-server/images/655.png",
+  "id": 655,
+  "type": [
+    "fire",
+    "psychic"
+  ]
+}

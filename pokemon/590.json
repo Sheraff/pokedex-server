@@ -1,1 +1,26 @@
-{"abilities":["Effect Spore"],"detailPageURL":"/us/pokedex/foongus","weight":2.2,"weakness":["Fire","Psychic","Flying","Ice"],"number":"590","height":8,"collectibles_slug":"foongus","featured":"true","slug":"foongus","name":"Foongus","ThumbnailAltText":"Foongus","ThumbnailImage":"/pokedex-server/images/0.png","id":590,"type":["grass","poison"]}
+{
+  "abilities": [
+    "Effect Spore"
+  ],
+  "detailPageURL": "/us/pokedex/foongus",
+  "weight": 2.2,
+  "weakness": [
+    "Fire",
+    "Psychic",
+    "Flying",
+    "Ice"
+  ],
+  "number": "590",
+  "height": 8,
+  "collectibles_slug": "foongus",
+  "featured": "true",
+  "slug": "foongus",
+  "name": "Foongus",
+  "ThumbnailAltText": "Foongus",
+  "ThumbnailImage": "/pokedex-server/images/590.png",
+  "id": 590,
+  "type": [
+    "grass",
+    "poison"
+  ]
+}

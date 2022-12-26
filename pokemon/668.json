@@ -1,1 +1,27 @@
-{"abilities":["Rivalry","Unnerve"],"detailPageURL":"/us/pokedex/pyroar","weight":179.7,"weakness":["Water","Ground","Fighting","Rock"],"number":"668","height":59,"collectibles_slug":"pyroar","featured":"true","slug":"pyroar","name":"Pyroar","ThumbnailAltText":"Pyroar","ThumbnailImage":"/pokedex-server/images/8.png","id":668,"type":["fire","normal"]}
+{
+  "abilities": [
+    "Rivalry",
+    "Unnerve"
+  ],
+  "detailPageURL": "/us/pokedex/pyroar",
+  "weight": 179.7,
+  "weakness": [
+    "Water",
+    "Ground",
+    "Fighting",
+    "Rock"
+  ],
+  "number": "668",
+  "height": 59,
+  "collectibles_slug": "pyroar",
+  "featured": "true",
+  "slug": "pyroar",
+  "name": "Pyroar",
+  "ThumbnailAltText": "Pyroar",
+  "ThumbnailImage": "/pokedex-server/images/668.png",
+  "id": 668,
+  "type": [
+    "fire",
+    "normal"
+  ]
+}

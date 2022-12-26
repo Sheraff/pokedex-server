@@ -1,1 +1,22 @@
-{"abilities":["Color Change"],"detailPageURL":"/us/pokedex/kecleon","weight":48.5,"weakness":["Fighting"],"number":"352","height":39,"collectibles_slug":"kecleon","featured":"true","slug":"kecleon","name":"Kecleon","ThumbnailAltText":"Kecleon","ThumbnailImage":"/pokedex-server/images/2.png","id":352,"type":["normal"]}
+{
+  "abilities": [
+    "Color Change"
+  ],
+  "detailPageURL": "/us/pokedex/kecleon",
+  "weight": 48.5,
+  "weakness": [
+    "Fighting"
+  ],
+  "number": "352",
+  "height": 39,
+  "collectibles_slug": "kecleon",
+  "featured": "true",
+  "slug": "kecleon",
+  "name": "Kecleon",
+  "ThumbnailAltText": "Kecleon",
+  "ThumbnailImage": "/pokedex-server/images/352.png",
+  "id": 352,
+  "type": [
+    "normal"
+  ]
+}

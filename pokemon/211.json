@@ -1,1 +1,26 @@
-{"abilities":["Poison Point","Swift Swim"],"detailPageURL":"/us/pokedex/qwilfish","weight":8.6,"weakness":["Psychic","Electric","Ground"],"number":"211","height":20,"collectibles_slug":"qwilfish","featured":"true","slug":"qwilfish","name":"Qwilfish","ThumbnailAltText":"Qwilfish","ThumbnailImage":"/pokedex-server/images/1.png","id":211,"type":["water","poison"]}
+{
+  "abilities": [
+    "Poison Point",
+    "Swift Swim"
+  ],
+  "detailPageURL": "/us/pokedex/qwilfish",
+  "weight": 8.6,
+  "weakness": [
+    "Psychic",
+    "Electric",
+    "Ground"
+  ],
+  "number": "211",
+  "height": 20,
+  "collectibles_slug": "qwilfish",
+  "featured": "true",
+  "slug": "qwilfish",
+  "name": "Qwilfish",
+  "ThumbnailAltText": "Qwilfish",
+  "ThumbnailImage": "/pokedex-server/images/211.png",
+  "id": 211,
+  "type": [
+    "water",
+    "poison"
+  ]
+}

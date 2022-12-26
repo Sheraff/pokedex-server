@@ -1,1 +1,28 @@
-{"abilities":["Iron Fist","Klutz"],"detailPageURL":"/us/pokedex/golett","weight":202.8,"weakness":["Water","Ghost","Grass","Dark","Ice"],"number":"622","height":39,"collectibles_slug":"golett","featured":"true","slug":"golett","name":"Golett","ThumbnailAltText":"Golett","ThumbnailImage":"/pokedex-server/images/2.png","id":622,"type":["ground","ghost"]}
+{
+  "abilities": [
+    "Iron Fist",
+    "Klutz"
+  ],
+  "detailPageURL": "/us/pokedex/golett",
+  "weight": 202.8,
+  "weakness": [
+    "Water",
+    "Ghost",
+    "Grass",
+    "Dark",
+    "Ice"
+  ],
+  "number": "622",
+  "height": 39,
+  "collectibles_slug": "golett",
+  "featured": "true",
+  "slug": "golett",
+  "name": "Golett",
+  "ThumbnailAltText": "Golett",
+  "ThumbnailImage": "/pokedex-server/images/622.png",
+  "id": 622,
+  "type": [
+    "ground",
+    "ghost"
+  ]
+}

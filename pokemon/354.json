@@ -1,1 +1,24 @@
-{"abilities":["Frisk","Insomnia"],"detailPageURL":"/us/pokedex/banette","weight":27.6,"weakness":["Ghost","Dark"],"number":"354","height":43,"collectibles_slug":"banette","featured":"true","slug":"banette","name":"Banette","ThumbnailAltText":"Banette","ThumbnailImage":"/pokedex-server/images/4.png","id":354,"type":["ghost"]}
+{
+  "abilities": [
+    "Frisk",
+    "Insomnia"
+  ],
+  "detailPageURL": "/us/pokedex/banette",
+  "weight": 27.6,
+  "weakness": [
+    "Ghost",
+    "Dark"
+  ],
+  "number": "354",
+  "height": 43,
+  "collectibles_slug": "banette",
+  "featured": "true",
+  "slug": "banette",
+  "name": "Banette",
+  "ThumbnailAltText": "Banette",
+  "ThumbnailImage": "/pokedex-server/images/354.png",
+  "id": 354,
+  "type": [
+    "ghost"
+  ]
+}

@@ -1,1 +1,27 @@
-{"abilities":["Leaf Guard","Oblivious"],"detailPageURL":"/us/pokedex/bounsweet","weight":7.1,"weakness":["Fire","Flying","Ice","Poison","Bug"],"number":"761","height":12,"collectibles_slug":"bounsweet","featured":"true","slug":"bounsweet","name":"Bounsweet","ThumbnailAltText":"Bounsweet","ThumbnailImage":"/pokedex-server/images/1.png","id":761,"type":["grass"]}
+{
+  "abilities": [
+    "Leaf Guard",
+    "Oblivious"
+  ],
+  "detailPageURL": "/us/pokedex/bounsweet",
+  "weight": 7.1,
+  "weakness": [
+    "Fire",
+    "Flying",
+    "Ice",
+    "Poison",
+    "Bug"
+  ],
+  "number": "761",
+  "height": 12,
+  "collectibles_slug": "bounsweet",
+  "featured": "true",
+  "slug": "bounsweet",
+  "name": "Bounsweet",
+  "ThumbnailAltText": "Bounsweet",
+  "ThumbnailImage": "/pokedex-server/images/761.png",
+  "id": 761,
+  "type": [
+    "grass"
+  ]
+}
