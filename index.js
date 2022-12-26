@@ -14,9 +14,11 @@ const data = JSON.parse(str)
 void async function() {
 	// data.forEach(item => item.ThumbnailImage = `/pokedex-server/images/${item.id}.png`)
 	// writeFile(join(__dirname, 'all.json'), JSON.stringify(data, null, 2), 'utf8')
-	for (const item of data) {
-		await writeFile(join(__dirname, 'pokemon', `${item.id}.json`), JSON.stringify(item, null, 2), 'utf8')
-	}
+	// for (const item of data) {
+	// 	await writeFile(join(__dirname, 'pokemon', `${item.id}.json`), JSON.stringify(item, null, 2), 'utf8')
+	// }
+	// const list = Array.from(new Set(data.map(item => item.id)))
+	// await writeFile(join(__dirname, 'list.json'), JSON.stringify(list, null, 2), 'utf8')
 }()
 
 
